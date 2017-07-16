@@ -1,0 +1,268 @@
+@charset "utf-8";
+
+.ribbon {
+  position: absolute;
+  z-index: 3;
+  overflow: hidden;
+  width: 75px;
+  height: 75px;
+  text-align: right;
+}
+
+.ribbon > span {
+  font-size: .7em;
+  font-weight: bold;
+  color: #FFF !important;
+  text-align: center;
+  line-height: 20px;
+  width: 100px;
+  display: block;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  padding-bottom: 1px;
+}
+
+.ribbon span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  margin-top: -1px;
+}
+
+.ribbon span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  margin-top: -1px;
+}
+
+  .ribbon.bottom-right span:after {
+    margin-top: -0.03rem;
+  }
+
+.ribbon.top-left {
+    /*left: -6px;*/
+    left: -0.33rem;
+    /*left: -0.32vw;
+    top: -0.45vh;*/
+    /*top: -4px;*/
+    top: -0.22rem;
+}
+
+    .ribbon.top-left span {
+        -webkit-transform: rotate( -45deg );
+                transform: rotate( -45deg );
+
+        left: -20px;
+        /*left: -1.45vw;*/
+        /*top: 2.7vh;*/
+        top: 18px;
+    }
+
+.ribbon.top-right {
+    /*right: -5px;*/
+    right: -0.3rem;
+    /*right: -0.32vw;*/
+    /*top: -4px;*/
+    top: -0.2rem;
+    /*top: -0.45vh;*/
+}
+
+    .ribbon.top-right span {
+        -webkit-transform: rotate( 45deg );
+                transform: rotate( 45deg );
+
+        right: -20px;
+        top: 18px;
+    }
+
+.ribbon.bottom-right {
+    /*right: -5px;*/
+    right: -0.34rem;
+    /*right: -0.32vw;*/
+    /*bottom: -6px;*/
+    bottom: -0.38rem;
+    /*bottom: -0.74vh;*/
+}
+
+    .ribbon.bottom-right span {
+        -webkit-transform: rotate( -225deg );
+                transform: rotate( -225deg );
+
+        right: -21px;
+        bottom: 19px;
+    }
+
+.ribbon.bottom-left {
+    /*left: -6px;*/
+    left: -0.41rem;
+    /*left: -0.32vw;*/
+    bottom: -0.37rem;
+    /*bottom: -4px;*/
+    /*bottom: -0.74vh;*/
+}
+
+    .ribbon.bottom-left span {
+        -webkit-transform: rotate( 225deg );
+                transform: rotate( 225deg );
+
+        left: -20px;
+        bottom: 19px;
+    }
+
+/** Ribbon Colors - OverWorld */
+
+.ribbon span.overworld {
+    background: #030D17;
+    background: linear-gradient( #1979A9 0%, #030D17 100% );
+}
+
+    .ribbon span.overworld:before {
+        border-left: 3px solid #030D17;
+        border-top: 3px solid #030D17;
+    }
+
+    .ribbon span.overworld:after {
+        border-right: 3px solid #030D17;
+        border-top: 3px solid #030D17;
+    }
+
+/** Ribbon Colors - UnderWorld */
+
+.ribbon span.underworld {
+    background: #180202;
+    background: linear-gradient( #AA0303 0%, #180202 100% );
+}
+
+    .ribbon span.underworld:before {
+        border-left: 3px solid #180202;
+        border-top: 3px solid #180202;
+    }
+
+    .ribbon span.underworld:after {
+        border-right: 3px solid #180202;
+        border-top: 3px solid #180202;
+    }
+
+/** Ribbon Colors - Mipedian */
+
+.ribbon span.mipedian {
+    background: #221D0C;
+    background: linear-gradient( #B49404 0%, #221D0C 100% );
+}
+
+    .ribbon span.mipedian:before {
+        border-left: 3px solid #221D0C;
+        border-top: 3px solid #221D0C;
+    }
+
+    .ribbon span.mipedian:after {
+        border-right: 3px solid #221D0C;
+        border-top: 3px solid #221D0C;
+    }
+
+/** Ribbon Colors - Danian */
+
+.ribbon span.danian {
+    background: #120E0D;
+    background: linear-gradient( #5F4735 0%, #120E0D 100% );
+}
+
+    .ribbon span.danian:before {
+        border-left: 3px solid #120E0D;
+        border-top: 3px solid #120E0D;
+    }
+
+    .ribbon span.danian:after {
+        border-right: 3px solid #120E0D;
+        border-top: 3px solid #120E0D;
+    }
+
+/** Ribbon Colors - M'arrillian */
+
+.ribbon span.marrillian {
+    background: #090c0c;
+    background: linear-gradient( #15313F 0%, #090c0c 100% );
+}
+
+    .ribbon span.marrillian:before {
+        border-left: 3px solid #090c0c;
+        border-top: 3px solid #090c0c;
+    }
+
+    .ribbon span.marrillian:after {
+        border-right: 3px solid #090c0c;
+        border-top: 3px solid #090c0c;
+    }
+
+.ribbon span.generic {
+    background: #1C1C1C;
+    background: linear-gradient(#757575 0%, #1C1C1C 100%);
+}
+
+    .ribbon span.generic:before {
+        border-left: 3px solid #1C1C1C;
+        border-top: 3px solid #1C1C1C;
+    }
+
+    .ribbon span.generic:after {
+        border-right: 3px solid #1C1C1C;
+        border-top: 3px solid #1C1C1C;
+    }
+
+/** Ribbon Colors - Locations */
+
+.ribbon span.location {
+    background: #03160C;
+    background: linear-gradient( #4F8F38 0%, #03160C 100% );
+}
+
+    .ribbon span.location:before {
+        border-left: 3px solid #03160C;
+        border-top: 3px solid #03160C;
+    }
+
+    .ribbon span.location:after {
+        border-right: 3px solid #03160C;
+        border-top: 3px solid #03160C;
+    }
+
+/** Ribbon Colors - Battlegears */
+
+.ribbon span.battlegear {
+    background: #090c0c;
+    background: linear-gradient( #4C6175 0%, #090c0c 100% );
+}
+
+    .ribbon span.battlegear:before {
+        border-left: 3px solid #0f1012;
+        border-top: 3px solid #0f1012;
+    }
+
+    .ribbon span.battlegear:after {
+        border-right: 3px solid #0f1012;
+        border-top: 3px solid #0f1012;
+    }
+
+/** Ribbon Colors - White */
+
+.ribbon span.whitey {
+    background: #b0b5c2;
+    background: linear-gradient( #eaecf2 0%, #b0b5c2 100% );
+    color: #2f2f2f !important;
+    font-size: .8em;
+}
+
+    .ribbon span.whitey:before {
+        border-left: 3px solid #b0b5c2;
+        border-top: 3px solid #b0b5c2;
+    }
+
+    .ribbon span.whitey:after {
+        border-right: 3px solid #b0b5c2;
+        border-top: 3px solid #b0b5c2;
+    }
