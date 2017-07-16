@@ -2,96 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trivias on Chaotic Online</title>
-    <link>https://chaoticonline.github.io/videos/trivias/</link>
+    <link>/videos/trivias/</link>
     <description>Recent content in Trivias on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://chaoticonline.github.io/videos/trivias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/videos/trivias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legions of Aa&#39;une</title>
-      <link>https://chaoticonline.github.io/videos/trivias/legions-of-aaune/</link>
+      <link>/videos/trivias/legions-of-aaune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/legions-of-aaune/</guid>
+      <guid>/videos/trivias/legions-of-aaune/</guid>
       <description>A small video with the Trivia / Quiz originally present in episode Legiôes de Aa&amp;rsquo;une</description>
     </item>
     
     <item>
       <title>Perithon!</title>
-      <link>https://chaoticonline.github.io/videos/trivias/perithon/</link>
+      <link>/videos/trivias/perithon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/perithon/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/perithon&#34;&gt;Perithon&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/perithon/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/perithon&#34;&gt;Perithon&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Worlds Apart</title>
-      <link>https://chaoticonline.github.io/videos/trivias/worlds-apart/</link>
+      <link>/videos/trivias/worlds-apart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/worlds-apart/</guid>
-      <description>&lt;p&gt;A small video with the Trivia originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/worlds-apart&#34;&gt;Worlds Apart&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/worlds-apart/</guid>
+      <description>&lt;p&gt;A small video with the Trivia originally present in episode &lt;a href=&#34;/videos/season-3/worlds-apart&#34;&gt;Worlds Apart&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kickin&#39; Bot</title>
-      <link>https://chaoticonline.github.io/videos/trivias/kicking-bot/</link>
+      <link>/videos/trivias/kicking-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/kicking-bot/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/kicking-bot&#34;&gt;Kickin&amp;rsquo; Bot&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/kicking-bot/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/kicking-bot&#34;&gt;Kickin&amp;rsquo; Bot&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hotekk&#39;s Challenge&lt;br /&gt;(Part 1)</title>
-      <link>https://chaoticonline.github.io/videos/trivias/hotekks-challenge-part-1/</link>
+      <link>/videos/trivias/hotekks-challenge-part-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/hotekks-challenge-part-1/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/hotekks-challenge-part-1&#34;&gt;Hotekk&amp;rsquo;s Challenge (Part 1)&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/hotekks-challenge-part-1/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/hotekks-challenge-part-1&#34;&gt;Hotekk&amp;rsquo;s Challenge (Part 1)&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Yesterday&#39;s Heroes</title>
-      <link>https://chaoticonline.github.io/videos/trivias/yesterdays-heroes/</link>
+      <link>/videos/trivias/yesterdays-heroes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/yesterdays-heroes/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/yesterdays-heroes&#34;&gt;Yesterday&amp;rsquo;s Heroes&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/yesterdays-heroes/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/yesterdays-heroes&#34;&gt;Yesterday&amp;rsquo;s Heroes&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Losers&#39; Circle</title>
-      <link>https://chaoticonline.github.io/videos/trivias/losers-circle/</link>
+      <link>/videos/trivias/losers-circle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/losers-circle/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/losers-circle&#34;&gt;Losers&amp;rsquo; Circle&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/losers-circle/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/losers-circle&#34;&gt;Losers&amp;rsquo; Circle&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Gigantic Mission</title>
-      <link>https://chaoticonline.github.io/videos/trivias/a-gigantic-mission/</link>
+      <link>/videos/trivias/a-gigantic-mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/videos/trivias/a-gigantic-mission/</guid>
-      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;https://chaoticonline.github.io/videos/season-3/a-gigantic-mission&#34;&gt;A Gigantic Mission&lt;/a&gt;&lt;/p&gt;
+      <guid>/videos/trivias/a-gigantic-mission/</guid>
+      <description>&lt;p&gt;A small video with the Trivia / Quiz originally present in episode &lt;a href=&#34;/videos/season-3/a-gigantic-mission&#34;&gt;A Gigantic Mission&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

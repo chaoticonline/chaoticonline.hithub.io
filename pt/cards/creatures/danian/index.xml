@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danian on Chaotic Online</title>
-    <link>https://chaoticonline.github.io/pt/cards/creatures/danian/</link>
+    <link>/pt/cards/creatures/danian/</link>
     <description>Recent content in Danian on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://chaoticonline.github.io/pt/cards/creatures/danian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pt/cards/creatures/danian/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
