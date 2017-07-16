@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creatures on Chaotic Online</title>
-    <link>/cards/creatures/</link>
+    <link>http://chaoticonline.tk/cards/creatures/</link>
     <description>Recent content in Creatures on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/cards/creatures/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chaoticonline.tk/cards/creatures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Danian</title>
-      <link>/cards/creatures/danian/</link>
+      <link>http://chaoticonline.tk/cards/creatures/danian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cards/creatures/danian/</guid>
+      <guid>http://chaoticonline.tk/cards/creatures/danian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M&#39;arrillian</title>
-      <link>/cards/creatures/marrillian/</link>
+      <link>http://chaoticonline.tk/cards/creatures/marrillian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cards/creatures/marrillian/</guid>
+      <guid>http://chaoticonline.tk/cards/creatures/marrillian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mipedian</title>
-      <link>/cards/creatures/mipedian/</link>
+      <link>http://chaoticonline.tk/cards/creatures/mipedian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cards/creatures/mipedian/</guid>
+      <guid>http://chaoticonline.tk/cards/creatures/mipedian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OverWorld</title>
-      <link>/cards/creatures/overworld/</link>
+      <link>http://chaoticonline.tk/cards/creatures/overworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cards/creatures/overworld/</guid>
+      <guid>http://chaoticonline.tk/cards/creatures/overworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UnderWorld</title>
-      <link>/cards/creatures/underworld/</link>
+      <link>http://chaoticonline.tk/cards/creatures/underworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cards/creatures/underworld/</guid>
+      <guid>http://chaoticonline.tk/cards/creatures/underworld/</guid>
       <description></description>
     </item>
     

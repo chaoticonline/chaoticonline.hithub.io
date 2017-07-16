@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locais on Chaotic Online</title>
-    <link>/pt/cards/locations/</link>
+    <link>http://chaoticonline.tk/pt/cards/locations/</link>
     <description>Recent content in Locais on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/pt/cards/locations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chaoticonline.tk/pt/cards/locations/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

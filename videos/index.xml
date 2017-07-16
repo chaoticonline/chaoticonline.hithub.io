@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaotic Online</title>
-    <link>/videos/</link>
+    <link>http://chaoticonline.tk/videos/</link>
     <description>Recent content on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chaoticonline.tk/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Let&#39;s Get Chaotic</title>
-      <link>/videos/season-1/</link>
+      <link>http://chaoticonline.tk/videos/season-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/videos/season-1/</guid>
+      <guid>http://chaoticonline.tk/videos/season-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M&#39;arrillian Invasion</title>
-      <link>/videos/season-2/</link>
+      <link>http://chaoticonline.tk/videos/season-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/videos/season-2/</guid>
+      <guid>http://chaoticonline.tk/videos/season-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secrets of the Lost City</title>
-      <link>/videos/season-3/</link>
+      <link>http://chaoticonline.tk/videos/season-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/videos/season-3/</guid>
+      <guid>http://chaoticonline.tk/videos/season-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trivias</title>
-      <link>/videos/trivias/</link>
+      <link>http://chaoticonline.tk/videos/trivias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/videos/trivias/</guid>
+      <guid>http://chaoticonline.tk/videos/trivias/</guid>
       <description></description>
     </item>
     
