@@ -395,20 +395,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/aquela-coisa-sobre-bodal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/aquela-coisa-sobre-bodal/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/guerreiros-de-chaor-parte-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -447,6 +433,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/trivias/herois-de-ontem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/"
                 />
   </url>
   
@@ -1388,6 +1388,48 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/creature1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/cards/creatures/overworld/creature1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/cards/creatures/overworld/creature1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/creature2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/cards/creatures/overworld/creature2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/cards/creatures/overworld/creature2/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/creature3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/cards/creatures/overworld/creature3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/cards/creatures/overworld/creature3/"
                 />
   </url>
   

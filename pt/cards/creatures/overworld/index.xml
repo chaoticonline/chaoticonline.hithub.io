@@ -10,5 +10,32 @@
 	<atom:link href="http://chaoticonline.tk/pt/cards/creatures/overworld/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Criatura #1</title>
+      <link>http://chaoticonline.tk/pt/cards/creatures/overworld/creature1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaoticonline.tk/pt/cards/creatures/overworld/creature1/</guid>
+      <description>Em Construção</description>
+    </item>
+    
+    <item>
+      <title>Criatura #2</title>
+      <link>http://chaoticonline.tk/pt/cards/creatures/overworld/creature2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaoticonline.tk/pt/cards/creatures/overworld/creature2/</guid>
+      <description>Em Construção</description>
+    </item>
+    
+    <item>
+      <title>Criatura #3</title>
+      <link>http://chaoticonline.tk/pt/cards/creatures/overworld/creature3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chaoticonline.tk/pt/cards/creatures/overworld/creature3/</guid>
+      <description>Em Construção</description>
+    </item>
+    
   </channel>
 </rss>
