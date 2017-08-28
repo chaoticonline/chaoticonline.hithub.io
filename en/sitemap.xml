@@ -1281,7 +1281,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/mudando-de-lad0/"
+                href="http://chaoticonline.tk/pt/videos/season-1/mudando-de-lado/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1347,6 +1347,46 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/tags/2006/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/2006/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/2006/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/720p/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/720p/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/720p/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/adventure/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/animation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/cards/battlegears/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1387,6 +1427,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://chaoticonline.tk/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/chaotic/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/chaotic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/chaotic/"
                 />
   </url>
   
@@ -1490,6 +1545,56 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/tags/editors-choice/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/editors-choice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/editors-choice/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/english/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/escolha-do-editor/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/escolha-do-editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/escolha-do-editor/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/hd/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/hd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/hd/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/videos/season-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1501,6 +1606,11 @@
                 hreflang="en"
                 href="http://chaoticonline.tk/videos/season-1/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/lets-get-chaotic/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1557,6 +1667,11 @@
                 hreflang="en"
                 href="http://chaoticonline.tk/videos/season-2/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/marrillian-invasion/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1630,6 +1745,16 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/tags/season-finale/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/secrets-of-the-lost-city/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/videos/season-3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1669,6 +1794,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://chaoticonline.tk/videos/trivias/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tags/tv-show/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/tv-show/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/tv-show/"
                 />
   </url>
   

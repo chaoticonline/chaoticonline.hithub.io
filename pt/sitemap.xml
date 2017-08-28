@@ -353,20 +353,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-3/o-desafio-de-hotekk-part-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-3/o-desafio-de-hotekk-part-2/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/trivias/o-desafio-de-hotekk-parte-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -377,6 +363,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/trivias/o-desafio-de-hotekk-parte-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/videos/season-3/o-desafio-de-hotekk-part-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/season-3/o-desafio-de-hotekk-part-2/"
                 />
   </url>
   
@@ -1277,7 +1277,7 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/mudando-de-lad0/</loc>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/mudando-de-lado/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1286,7 +1286,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/mudando-de-lad0/"
+                href="http://chaoticonline.tk/pt/videos/season-1/mudando-de-lado/"
                 />
   </url>
   
@@ -1349,6 +1349,31 @@
   <url>
     <loc>http://chaoticonline.tk/pt/tags/2006/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/2006/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/2006/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/720p/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/720p/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/720p/"
+                />
   </url>
   
   <url>
@@ -1394,6 +1419,16 @@
   <url>
     <loc>http://chaoticonline.tk/pt/tags/chaotic/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/chaotic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/chaotic/"
+                />
   </url>
   
   <url>
@@ -1501,6 +1536,21 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/tags/editors-choice/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/editors-choice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/editors-choice/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/cards/battlegears/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1511,6 +1561,41 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/cards/battlegears/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/escolha-do-editor/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/escolha-do-editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/escolha-do-editor/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/final-de-temporada/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/hd/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/hd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/hd/"
                 />
   </url>
   
@@ -1526,6 +1611,11 @@
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-2/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/invas%C3%A3o-marrillian/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1665,6 +1755,11 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/tags/segredos-da-cidade-perdida/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1738,6 +1833,16 @@
   <url>
     <loc>http://chaoticonline.tk/pt/tags/tv-show/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/tv-show/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/tv-show/"
+                />
   </url>
   
 </urlset>
