@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/trivias/legioes-de-aaune/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/welcome-to-chaotic-part-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/trivias/legioes-de-aaune/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/cards/locations/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,6 +55,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/videos/trivias/legioes-de-aaune/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-1/welcome-to-chaotic-part-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/trivias/legioes-de-aaune/"
                 />
   </url>
   
@@ -175,7 +175,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/worlds-apart/"
+                href="http://chaoticonline.tk/videos/season-1/unexpected/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -199,25 +199,11 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/trivias/mundos-divididos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/worlds-apart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/trivias/mundos-divididos/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/pai-em-apuros/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/worlds-apart/"
+                href="http://chaoticonline.tk/videos/season-1/unexpected/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -231,7 +217,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/worlds-apart/"
+                href="http://chaoticonline.tk/videos/season-1/unexpected/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -255,11 +241,25 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/videos/trivias/mundos-divididos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-1/unexpected/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/trivias/mundos-divididos/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/confronto-no-coliseu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/over-under-rent-asunder/"
+                href="http://chaoticonline.tk/videos/trivias/kicking-bot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -287,7 +287,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/over-under-rent-asunder/"
+                href="http://chaoticonline.tk/videos/trivias/kicking-bot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -301,7 +301,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/over-under-rent-asunder/"
+                href="http://chaoticonline.tk/videos/trivias/kicking-bot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -315,7 +315,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/over-under-rent-asunder/"
+                href="http://chaoticonline.tk/videos/trivias/kicking-bot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -343,7 +343,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
+                href="http://chaoticonline.tk/videos/trivias/hotekks-challenge-part-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -357,7 +357,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
+                href="http://chaoticonline.tk/videos/trivias/hotekks-challenge-part-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -371,7 +371,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
+                href="http://chaoticonline.tk/videos/trivias/hotekks-challenge-part-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -385,7 +385,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/rockwave-and-roll/"
+                href="http://chaoticonline.tk/videos/trivias/hotekks-challenge-part-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -399,7 +399,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
+                href="http://chaoticonline.tk/videos/season-3/yesterdays-heroes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -413,7 +413,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
+                href="http://chaoticonline.tk/videos/season-3/yesterdays-heroes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -423,30 +423,30 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/trivias/herois-de-ontem/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/trivias/herois-de-ontem/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/yesterdays-heroes/"
+                href="http://chaoticonline.tk/videos/season-3/yesterdays-heroes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/videos/trivias/herois-de-ontem/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-3/yesterdays-heroes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/trivias/herois-de-ontem/"
                 />
   </url>
   
@@ -461,20 +461,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-3/circulo-dos-perdedores/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://chaoticonline.tk/pt/videos/trivias/circulo-dos-perdedores/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/trivias/losers-circle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/trivias/circulo-dos-perdedores/"
                 />
   </url>
   
@@ -507,11 +493,25 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/videos/trivias/circulo-dos-perdedores/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/trivias/losers-circle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/trivias/circulo-dos-perdedores/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/mega-disputa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/mega-match/"
+                href="http://chaoticonline.tk/videos/trivias/a-gigantic-mission/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -521,11 +521,25 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/videos/trivias/uma-missao-gigantesca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/trivias/a-gigantic-mission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/trivias/uma-missao-gigantesca/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-1/tudo-esta-em-fluxo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/mega-match/"
+                href="http://chaoticonline.tk/videos/trivias/a-gigantic-mission/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -539,26 +553,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/mega-match/"
+                href="http://chaoticonline.tk/videos/trivias/a-gigantic-mission/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-3/uma-missao-gigantesca/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://chaoticonline.tk/pt/videos/trivias/uma-missao-gigantesca/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/mega-match/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/trivias/uma-missao-gigantesca/"
                 />
   </url>
   
@@ -1755,6 +1755,21 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/tags/secrets-of-the-lost-city/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/secrets-of-the-lost-city/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/secrets-of-the-lost-city/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/tags/segredos-da-cidade-perdida/</loc>
     <priority>0</priority>
   </url>
@@ -1813,6 +1828,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/trivia/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/tags/trivia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/tags/trivia/"
                 />
   </url>
   
