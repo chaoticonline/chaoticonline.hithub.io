@@ -45,12 +45,8 @@
   }
 
 .ribbon.top-left {
-    /*left: -6px;*/
-    left: -0.33rem;
-    /*left: -0.32vw;
-    top: -0.45vh;*/
-    /*top: -4px;*/
-    top: -0.22rem;
+    left: -0.38rem;
+    top: -0.23rem;
 }
 
     .ribbon.top-left span {
@@ -58,18 +54,12 @@
                 transform: rotate( -45deg );
 
         left: -20px;
-        /*left: -1.45vw;*/
-        /*top: 2.7vh;*/
         top: 18px;
     }
 
 .ribbon.top-right {
-    /*right: -5px;*/
     right: -0.3rem;
-    /*right: -0.32vw;*/
-    /*top: -4px;*/
     top: -0.2rem;
-    /*top: -0.45vh;*/
 }
 
     .ribbon.top-right span {
@@ -81,12 +71,8 @@
     }
 
 .ribbon.bottom-right {
-    /*right: -5px;*/
     right: -0.34rem;
-    /*right: -0.32vw;*/
-    /*bottom: -6px;*/
     bottom: -0.38rem;
-    /*bottom: -0.74vh;*/
 }
 
     .ribbon.bottom-right span {
@@ -98,12 +84,8 @@
     }
 
 .ribbon.bottom-left {
-    /*left: -6px;*/
     left: -0.41rem;
-    /*left: -0.32vw;*/
     bottom: -0.37rem;
-    /*bottom: -4px;*/
-    /*bottom: -0.74vh;*/
 }
 
     .ribbon.bottom-left span {
@@ -117,135 +99,135 @@
 /** Ribbon Colors - OverWorld */
 
 .ribbon span.overworld {
-    background: #030D17;
-    background: linear-gradient( #1979A9 0%, #030D17 100% );
+    background: #1979A7;
+    background: linear-gradient( #1979A7 0%, #030D17 100% );
 }
 
     .ribbon span.overworld:before {
-        border-left: 3px solid #030D17;
-        border-top: 3px solid #030D17;
+        border-left: 3px solid #1979A7;
+        border-top: 3px solid #1979A7;
     }
 
     .ribbon span.overworld:after {
-        border-right: 3px solid #030D17;
-        border-top: 3px solid #030D17;
+        border-right: 3px solid #1979A7;
+        border-top: 3px solid #1979A7;
     }
 
 /** Ribbon Colors - UnderWorld */
 
 .ribbon span.underworld {
-    background: #180202;
-    background: linear-gradient( #AA0303 0%, #180202 100% );
+    background: #790202;
+    background: linear-gradient( #DD0404 0%, #180202 100% );
 }
 
     .ribbon span.underworld:before {
-        border-left: 3px solid #180202;
-        border-top: 3px solid #180202;
+        border-left: 3px solid #790202;
+        border-top: 3px solid #790202;
     }
 
     .ribbon span.underworld:after {
-        border-right: 3px solid #180202;
-        border-top: 3px solid #180202;
+        border-right: 3px solid #790202;
+        border-top: 3px solid #790202;
     }
 
 /** Ribbon Colors - Mipedian */
 
 .ribbon span.mipedian {
-    background: #221D0C;
-    background: linear-gradient( #B49404 0%, #221D0C 100% );
+    background: #AA8D05;
+    background: linear-gradient( #AA8D05 0%, #221D0C 100% );
 }
 
     .ribbon span.mipedian:before {
-        border-left: 3px solid #221D0C;
-        border-top: 3px solid #221D0C;
+        border-left: 3px solid #AA8D05;
+        border-top: 3px solid #AA8D05;
     }
 
     .ribbon span.mipedian:after {
-        border-right: 3px solid #221D0C;
-        border-top: 3px solid #221D0C;
+        border-right: 3px solid #AA8D05;
+        border-top: 3px solid #AA8D05;
     }
 
 /** Ribbon Colors - Danian */
 
 .ribbon span.danian {
-    background: #120E0D;
-    background: linear-gradient( #5F4735 0%, #120E0D 100% );
+    background: #2E231A;
+    background: linear-gradient( #6F553F 0%, #120E0D 100% );
 }
 
     .ribbon span.danian:before {
-        border-left: 3px solid #120E0D;
-        border-top: 3px solid #120E0D;
+        border-left: 3px solid #2E231A;
+        border-top: 3px solid #2E231A;
     }
 
     .ribbon span.danian:after {
-        border-right: 3px solid #120E0D;
-        border-top: 3px solid #120E0D;
+        border-right: 3px solid #2E231A;
+        border-top: 3px solid #2E231A;
     }
 
 /** Ribbon Colors - M'arrillian */
 
 .ribbon span.marrillian {
-    background: #090c0c;
-    background: linear-gradient( #15313F 0%, #090c0c 100% );
+    background: #15313F;
+    background: linear-gradient( #265972 0%, #020202 100% );
 }
 
     .ribbon span.marrillian:before {
-        border-left: 3px solid #090c0c;
-        border-top: 3px solid #090c0c;
+        border-left: 3px solid #15313F;
+        border-top: 3px solid #15313F;
     }
 
     .ribbon span.marrillian:after {
-        border-right: 3px solid #090c0c;
-        border-top: 3px solid #090c0c;
+        border-right: 3px solid #15313F;
+        border-top: 3px solid #15313F;
     }
 
 .ribbon span.generic {
-    background: #1C1C1C;
-    background: linear-gradient(#757575 0%, #1C1C1C 100%);
+    background: #030303;
+    background: linear-gradient( #757575 0%, #030303 100% );
 }
 
     .ribbon span.generic:before {
-        border-left: 3px solid #1C1C1C;
-        border-top: 3px solid #1C1C1C;
+        border-left: 3px solid #030303;
+        border-top: 3px solid #030303;
     }
 
     .ribbon span.generic:after {
-        border-right: 3px solid #1C1C1C;
-        border-top: 3px solid #1C1C1C;
+        border-right: 3px solid #030303;
+        border-top: 3px solid #030303;
     }
 
 /** Ribbon Colors - Locations */
 
 .ribbon span.location {
-    background: #03160C;
+    background: #4F8F38;
     background: linear-gradient( #4F8F38 0%, #03160C 100% );
 }
 
     .ribbon span.location:before {
-        border-left: 3px solid #03160C;
-        border-top: 3px solid #03160C;
+        border-left: 3px solid #4F8F38;
+        border-top: 3px solid #4F8F38;
     }
 
     .ribbon span.location:after {
-        border-right: 3px solid #03160C;
-        border-top: 3px solid #03160C;
+        border-right: 3px solid #4F8F38;
+        border-top: 3px solid #4F8F38;
     }
 
 /** Ribbon Colors - Battlegears */
 
 .ribbon span.battlegear {
-    background: #090c0c;
-    background: linear-gradient( #4C6175 0%, #090c0c 100% );
+    background: #59728A;
+    background: linear-gradient( #59728A 0%, #070809 100% );
 }
 
     .ribbon span.battlegear:before {
-        border-left: 3px solid #0f1012;
-        border-top: 3px solid #0f1012;
+        border-left: 3px solid #59728A;
+        border-top: 3px solid #59728A;
     }
 
     .ribbon span.battlegear:after {
-        border-right: 3px solid #0f1012;
-        border-top: 3px solid #0f1012;
+        border-right: 3px solid #59728A;
+        border-top: 3px solid #59728A;
     }
 
 /** Ribbon Colors - White */
