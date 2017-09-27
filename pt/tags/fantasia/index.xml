@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Português Brasileiro on Chaotic Online</title>
-    <link>http://chaoticonline.tk/pt/tags/portugu%C3%AAs-brasileiro/</link>
-    <description>Recent content in Português Brasileiro on Chaotic Online</description>
+    <title>Fantasia on Chaotic Online</title>
+    <link>http://chaoticonline.tk/pt/tags/fantasia/</link>
+    <description>Recent content in Fantasia on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://chaoticonline.tk/pt/tags/portugu%C3%AAs-brasileiro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chaoticonline.tk/pt/tags/fantasia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -42,15 +42,6 @@
     </item>
     
     <item>
-      <title>Fuga do Formigueiro</title>
-      <link>http://chaoticonline.tk/pt/videos/season-1/fuga-do-formigueiro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://chaoticonline.tk/pt/videos/season-1/fuga-do-formigueiro/</guid>
-      <description>Nesse episódio conheceremos mais uma das quatro Tribos de Chaotic, os Danians, uma Tribo formada por insetos dos mais variados tipos que levam a segurança dos seus domínios a sério, principalmente quando se tratando de jogadores de Chaotic.</description>
-    </item>
-    
-    <item>
       <title>Inesperado</title>
       <link>http://chaoticonline.tk/pt/videos/season-1/inesperado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,31 +51,12 @@
     </item>
     
     <item>
-      <title>O problema do Bodal...</title>
-      <link>http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/</guid>
-      <description>Nesse episódio conheceremos Bodal, uma Criatura bastante tagarela, irritante e convencida.
-Veremos, também, a mais improvável de todas as lutas em Chaotic.</description>
-    </item>
-    
-    <item>
       <title>Rota de Colisão</title>
       <link>http://chaoticonline.tk/pt/videos/season-1/rota-de-colisao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://chaoticonline.tk/pt/videos/season-1/rota-de-colisao/</guid>
       <description>Nesse episódio, Kaz enfrenta o Klay numa disputa enquanto Tom tenta obter o scan de uma Criatura lunática cuja vida é pregar peças.</description>
-    </item>
-    
-    <item>
-      <title>Tudo está em Fluxo</title>
-      <link>http://chaoticonline.tk/pt/videos/season-1/tudo-esta-em-fluxo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://chaoticonline.tk/pt/videos/season-1/tudo-esta-em-fluxo/</guid>
-      <description>Nesse episódio conheceremos um pouco mais sobre a Krystella, uma jogadora tão inescrupulosa quanto Klay que faz de tudo para ter sucesso ou para impedir que àqueles que cruzem seu caminho o tenha.</description>
     </item>
     
   </channel>
