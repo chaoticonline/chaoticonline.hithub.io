@@ -17,16 +17,16 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/locations/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/locations/"
+                href="http://chaoticonline.tk/perim/creatures/overworld/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/locations/"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/"
                 />
   </url>
   
@@ -101,20 +101,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/mugics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/cards/mugics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/mugics/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-3/mundos-divididos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -143,6 +129,20 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/trivias/perithon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,20 +153,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/trivias/perithon/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://chaoticonline.tk/pt/cards/battlegears/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/cards/battlegears/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/battlegears/"
                 />
   </url>
   
@@ -199,16 +185,16 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-2/pai-em-apuros/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/unexpected/"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-2/pai-em-apuros/"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/"
                 />
   </url>
   
@@ -255,6 +241,20 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/pt/videos/season-2/um-pai-em-apuros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-1/unexpected/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/season-2/um-pai-em-apuros/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/confronto-no-coliseu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -269,16 +269,16 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/"
+                href="http://chaoticonline.tk/perim/creatures/danians/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/"
                 />
   </url>
   
@@ -335,6 +335,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/trivias/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/marrillians/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/marrillians/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/marrillians/"
                 />
   </url>
   
@@ -433,6 +447,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-1/o-problema-do-bodal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/tribeless/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/tribeless/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/tribeless/"
                 />
   </url>
   
@@ -899,20 +927,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/destino-assustador/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/videos/season-2/when-a-codemaster-calls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/destino-assustador/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/videos/season-2/quando-um-codemaster-chama/</loc>
     <xhtml:link
                 rel="alternate"
@@ -923,6 +937,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-2/quando-um-codemaster-chama/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/um-destino-assustador/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/videos/season-2/when-a-codemaster-calls/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/videos/season-1/um-destino-assustador/"
                 />
   </url>
   
@@ -1053,7 +1081,7 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/24/</loc>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/as-cronicas-do-codemaster-parte-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1062,21 +1090,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/24/"
+                href="http://chaoticonline.tk/pt/videos/season-1/as-cronicas-do-codemaster-parte-1/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/25/</loc>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/as-cronicas-do-codemaster-parte-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/25/"
+                href="http://chaoticonline.tk/videos/season-1/the-codemaster-chronicles-part-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/25/"
+                href="http://chaoticonline.tk/pt/videos/season-1/as-cronicas-do-codemaster-parte-2/"
                 />
   </url>
   
@@ -1085,7 +1113,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/25/"
+                href="http://chaoticonline.tk/videos/season-1/the-codemaster-chronicles-part-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1099,7 +1127,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/26/"
+                href="http://chaoticonline.tk/videos/season-1/the-ultimate-scan/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1109,16 +1137,16 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/videos/season-1/26/</loc>
+    <loc>http://chaoticonline.tk/pt/videos/season-1/o-scan-supremo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/videos/season-1/26/"
+                href="http://chaoticonline.tk/videos/season-1/the-ultimate-scan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/videos/season-1/26/"
+                href="http://chaoticonline.tk/pt/videos/season-1/o-scan-supremo/"
                 />
   </url>
   
@@ -1377,8 +1405,148 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/a-passagem/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/the-passage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/a-passagem/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/abismo-prexxor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/prexxor-chasm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/abismo-prexxor/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/aerodrone/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/aerodrone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/aerodrone/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/agitos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/agitos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/agitos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/andarilho-dos-ventos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/windstrider/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/andarilho-dos-ventos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/anel-de-naarin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/ring-of-naarin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/anel-de-naarin/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/tags/anima%C3%A7%C3%A3o/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/arias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/arias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/arias/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/armadura-de-pedra/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/stone-mail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/armadura-de-pedra/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/arsenal-de-bodal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/bodals-arsenal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/arsenal-de-bodal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/attacks/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/attacks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/attacks/"
+                />
   </url>
   
   <url>
@@ -1387,17 +1555,100 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/</loc>
-    <priority>0</priority>
+    <loc>http://chaoticonline.tk/pt/disclaimer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/"
+                href="http://chaoticonline.tk/disclaimer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/"
+                href="http://chaoticonline.tk/pt/disclaimer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/barath-beyond/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/barath-beyond/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/barath-beyond/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/blazier/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/blazier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/blazier/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/bodal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/bodal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/bodal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/borth-majar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/borth-majar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/borth-majar/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/cacos-de-vlaric/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/vlaric-shard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/cacos-de-vlaric/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/castelo-bodhran/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/castle-bodhran/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/castelo-bodhran/"
                 />
   </url>
   
@@ -1413,6 +1664,48 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/cavalo-esqueleto/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/skeletal-steed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/cavalo-esqueleto/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/caverna-de-cristal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/crystal-cave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/caverna-de-cristal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/chaor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/chaor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/chaor/"
                 />
   </url>
   
@@ -1447,86 +1740,142 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-1/</loc>
+    <loc>http://chaoticonline.tk/cidade-kiru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/overworld/creature-1/"
+                href="http://chaoticonline.tk/kiru-city/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-1/"
+                href="http://chaoticonline.tk/cidade-kiru/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-2/</loc>
+    <loc>http://chaoticonline.tk/cidade-do-submundo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/overworld/creature-2/"
+                href="http://chaoticonline.tk/underworld-city/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-2/"
+                href="http://chaoticonline.tk/cidade-do-submundo/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-3/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/crawsectus/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/overworld/creature-3/"
+                href="http://chaoticonline.tk/perim/creatures/overworld/crawsectus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/overworld/criatura-3/"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/crawsectus/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/</loc>
+    <loc>http://chaoticonline.tk/pt/cyclance/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/"
+                href="http://chaoticonline.tk/cyclance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/"
+                href="http://chaoticonline.tk/pt/cyclance/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/danian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/danian/"
+                href="http://chaoticonline.tk/perim/creatures/danians/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/danian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/danian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/dardemus/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/danian/"
+                href="http://chaoticonline.tk/perim/creatures/underworld/dardemus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/danian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/dardemus/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/desfiladeiro-do-rio-de-pedra/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/rock-river-canyon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/desfiladeiro-do-rio-de-pedra/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/dinamitador/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/pyroblaster/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/dinamitador/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/dractyl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/dractyl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/dractyl/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/droskin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/droskin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/droskin/"
                 />
   </url>
   
@@ -1551,16 +1900,16 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/battlegears/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/battlegears/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/battlegears/"
+                href="http://chaoticonline.tk/perim/battlegears/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/battlegears/"
+                href="http://chaoticonline.tk/pt/perim/battlegears/"
                 />
   </url>
   
@@ -1580,6 +1929,62 @@
   </url>
   
   <url>
+    <loc>http://chaoticonline.tk/escudo-de-agua/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/aquashield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/escudo-de-agua/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/espada-de-khyat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/sword-of-khyat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/espada-de-khyat/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/estrela-da-regiao-dos-rios/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/riverland-star/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/estrela-da-regiao-dos-rios/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/ettala/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/ettala/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/ettala/"
+                />
+  </url>
+  
+  <url>
     <loc>http://chaoticonline.tk/pt/tags/fantasia/</loc>
     <priority>0</priority>
   </url>
@@ -1587,6 +1992,146 @@
   <url>
     <loc>http://chaoticonline.tk/pt/tags/final-de-temporada/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/floresta-da-chuva-eterna/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/everrain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/floresta-da-chuva-eterna/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/floresta-da-vida/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/forest-of-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/floresta-da-vida/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/fonte-dos-esqueletos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/skeletal-springs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/fonte-dos-esqueletos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/frafdo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/frafdo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/frafdo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/galin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/danians/galin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/galin/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/geleiras/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/glacier-plains/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/geleiras/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/gespedan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/gespedan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/gespedan/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/ghuul/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/ghuul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/ghuul/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/growlitzer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/growlitzer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/growlitzer/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/hearring/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/hearring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/hearring/"
+                />
   </url>
   
   <url>
@@ -1601,6 +2146,48 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/tags/hd/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/heptadd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/heptadd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/heptadd/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/ibiaan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/danians/ibiaan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/ibiaan/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/intress/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/intress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/intress/"
                 />
   </url>
   
@@ -1624,120 +2211,555 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/locations/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/junda/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/locations/"
+                href="http://chaoticonline.tk/perim/creatures/danians/junda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/locations/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/junda/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/marrillian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/kannen/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/marrillian/"
+                href="http://chaoticonline.tk/perim/creatures/danians/kannen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/marrillian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/kannen/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/marrillian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/khybon/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/marrillian/"
+                href="http://chaoticonline.tk/perim/creatures/underworld/khybon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/marrillian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/khybon/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/mipedian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/krekk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/mipedian/"
+                href="http://chaoticonline.tk/perim/creatures/underworld/krekk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/mipedian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/krekk/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/mipedian/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/kughar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/mipedian/"
+                href="http://chaoticonline.tk/perim/creatures/underworld/kughar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/mipedian/"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/kughar/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/mugics/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/laarina/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/mugics/"
+                href="http://chaoticonline.tk/perim/creatures/overworld/laarina/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/mugics/"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/laarina/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/</loc>
+    <loc>http://chaoticonline.tk/lago-ken-i-po/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/overworld/"
+                href="http://chaoticonline.tk/lake-ken-i-po/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/overworld/"
+                href="http://chaoticonline.tk/lago-ken-i-po/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/overworld/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/lhad/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/overworld/"
+                href="http://chaoticonline.tk/perim/creatures/danians/lhad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/overworld/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/lhad/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/liquilizador/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/liquilizer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/liquilizador/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/lira-do-mugician/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/mugicians-lyre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/lira-do-mugician/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/locations/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/locations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/locations/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/lord-van-bloot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/lord-van-bloot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/lord-van-bloot/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/marrillians/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/marrillians/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/marrillians/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/magmon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/magmon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/magmon/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/mallash/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/danians/mallash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/mallash/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/malvadine/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/malvadine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/malvadine/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/maxxor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/maxxor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/maxxor/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/mezzmarr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/mezzmarr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/mezzmarr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/miklon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/miklon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/miklon/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/montanha-dos-pilares/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/mount-pillar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/montanha-dos-pilares/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/mugics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/mugics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/mugics/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/najarin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/najarin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/najarin/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/nauthilax/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/nauthilax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/nauthilax/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/odu-bathax/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/danians/odu-bathax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/odu-bathax/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/owis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/owis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/owis/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/oasis-mipedim/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/mipedim-oasis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/oasis-mipedim/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pico-ravanaugh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/ravanaugh-ridge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pico-ravanaugh/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pilar-de-ferro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/iron-pillar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pilar-de-ferro/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/locations/doors-of-the-deepmines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/locations/doors-of-the-deepmines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/locations/doors-of-the-deepmines/"
                 />
   </url>
   
   <url>
     <loc>http://chaoticonline.tk/pt/tags/portugu%C3%AAs-brasileiro/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/prince-mudeenu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/prince-mudeenu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/prince-mudeenu/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/pyrithion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/pyrithion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/pyrithion/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/quadore/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/quadore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/quadore/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/qwun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/qwun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/qwun/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/raimusa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/raimusa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/raimusa/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/regiao-dos-rios/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/riverlands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/regiao-dos-rios/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/ribbian/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/ribbian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/ribbian/"
+                />
   </url>
   
   <url>
@@ -1756,6 +2778,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/videos/season-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/salao-danian/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/danian-hall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/salao-danian/"
                 />
   </url>
   
@@ -1794,30 +2830,100 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/underworld/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/shimmark/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/underworld/"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/shimmark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/underworld/"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/shimmark/"
                 />
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/cards/creatures/underworld/</loc>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/skartalas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaoticonline.tk/cards/creatures/underworld/"
+                href="http://chaoticonline.tk/perim/creatures/danians/skartalas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://chaoticonline.tk/pt/cards/creatures/underworld/"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/skartalas/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/skithia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/skithia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/skithia/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/slurhk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/slurhk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/slurhk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/spyder/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/spyder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/spyder/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/staluk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/staluk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/staluk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/"
                 />
   </url>
   
@@ -1833,6 +2939,174 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/creatures/underworld/takinom/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/creatures/underworld/takinom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/creatures/underworld/takinom/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/tangath-toborn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/tangath-toborn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/tangath-toborn/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tanque-de-lava/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/lava-pond/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/tanque-de-lava/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/tartarek/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/tartarek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/tartarek/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/tharax/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/tharax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/tharax/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/thonder/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/thonder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/thonder/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/tiaane/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/tiaane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/tiaane/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/toadore/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/toadore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/toadore/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/torre-gothos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/gothos-tower/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/torre-gothos/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/torwegg/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/torwegg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/torwegg/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/treco-de-troca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/flux-bauble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/treco-de-troca/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/"
                 />
   </url>
   
@@ -1877,6 +3151,230 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/tags/tv-show/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/tunel-da-tempestade/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/strom-tunnel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/tunel-da-tempestade/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/ulfhedinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/ulfhedinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/ulfhedinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/ulmar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/ulmar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/ulmar/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/tribeless/ursis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/tribeless/ursis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/tribeless/ursis/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/vale-do-medo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/fear-valley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/vale-do-medo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/velreth/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/velreth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/velreth/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/vidav/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/vidav/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/vidav/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/viledriver/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/viledriver/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/viledriver/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/visor-espectral/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/spectral-viewer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/visor-espectral/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/danians/wamma/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/danians/wamma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/danians/wamma/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/xaerv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/xaerv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/xaerv/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/yokkis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/yokkis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/yokkis/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/zalic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/zalic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/zalic/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/underworld/zalvar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/underworld/zalvar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/underworld/zalvar/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/mipedians/zhade/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/mipedians/zhade/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/mipedians/zhade/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/perim/creatures/overworld/orth/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chaoticonline.tk/perim/creatures/overworld/orth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://chaoticonline.tk/pt/perim/creatures/overworld/orth/"
                 />
   </url>
   
