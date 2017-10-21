@@ -40,60 +40,17 @@
   margin-top: -1px;
 }
 
-  .ribbon.bottom-right span:after {
-    margin-top: -0.03rem;
-  }
-
 .ribbon.top-left {
-    left: -0.38rem;
-    top: -0.23rem;
+    left: -0.4rem;
+    top: -0.33rem;
 }
 
     .ribbon.top-left span {
         -webkit-transform: rotate( -45deg );
                 transform: rotate( -45deg );
 
-        left: -20px;
-        top: 18px;
-    }
-
-.ribbon.top-right {
-    right: -0.3rem;
-    top: -0.2rem;
-}
-
-    .ribbon.top-right span {
-        -webkit-transform: rotate( 45deg );
-                transform: rotate( 45deg );
-
-        right: -20px;
-        top: 18px;
-    }
-
-.ribbon.bottom-right {
-    right: -0.34rem;
-    bottom: -0.38rem;
-}
-
-    .ribbon.bottom-right span {
-        -webkit-transform: rotate( -225deg );
-                transform: rotate( -225deg );
-
-        right: -21px;
-        bottom: 19px;
-    }
-
-.ribbon.bottom-left {
-    left: -0.41rem;
-    bottom: -0.37rem;
-}
-
-    .ribbon.bottom-left span {
-        -webkit-transform: rotate( 225deg );
-                transform: rotate( 225deg );
-
-        left: -20px;
-        bottom: 19px;
+        left: -1.25rem;
+        top: 1.15rem;
     }
 
 /** Ribbon Colors - OverWorld */

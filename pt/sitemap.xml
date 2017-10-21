@@ -1521,21 +1521,6 @@
   </url>
   
   <url>
-    <loc>http://chaoticonline.tk/pt/tags/editors-choice/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chaoticonline.tk/tags/editors-choice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://chaoticonline.tk/pt/tags/editors-choice/"
-                />
-  </url>
-  
-  <url>
     <loc>http://chaoticonline.tk/pt/battlegears/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1587,6 +1572,11 @@
                 hreflang="pt"
                 href="http://chaoticonline.tk/pt/tags/hd/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://chaoticonline.tk/pt/tags/invasao-marrillian/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
