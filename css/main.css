@@ -18,11 +18,11 @@ a, a:link, a:visited {
 }
 
 a:hover {
-    color: #B20000;
+    color: #888;
 }
 
 a.important, a.important:link, a.important:visited, a.important:hover {
-    color: #B20000 !important;
+    color: #31708f !important;
 }
 
 blockquote {
@@ -99,6 +99,10 @@ ul.list-dashed > li:before {
       padding: 0 !important;
   }
 
+    .navbar-brand a:hover {
+      color: #2d6682 !important;
+    }
+
   .navbar-toggler {
     margin-top: 0.5rem !important
   }
@@ -130,11 +134,6 @@ ul.list-dashed > li:before {
     }
 
     .breadcrumb-item.active {
-        font-weight: bold;
-    }
-
-    .breadcrumb a:hover {
-        color: #888 !important;
         font-weight: bold;
     }
 
@@ -174,6 +173,24 @@ ul.list-dashed > li:before {
 
     #languages .dropdown-toggle::after {
         margin: -0.1rem -0.2rem 0 0.4rem !important;
+    }
+
+    /**
+     * @internal
+     *
+     * Undoes the `cursor: pointer` above when no link ha sbeen built
+     */
+    #languages .no-link {
+        cursor: not-allowed;
+    }
+
+    /**
+     * @internal
+     *
+     * Make all links the same color
+     */
+    #languages ul li li a {
+        color: #292b2c;
     }
 
 #navigation {
@@ -397,7 +414,7 @@ ul.list-dashed > li:before {
         }
 
         .paginator a:hover {
-            color: #B20000 !important;
+            color: #245269 !important;
         }
 
 /**
@@ -501,20 +518,21 @@ ul.list-dashed > li:before {
   margin-top: 2.5vh;
 }
 
-.page .alert-warning {
+/*.page .alert-warning {
   margin: 3vh 0 -0.3vh 0;
 }
 
   .page .alert-warning span {
       border-bottom: 1px dotted #B20000 !important;
-  }
+  }*/
 
 .page .summary {
     margin-top: 1rem;
 }
 
   .page .summary a {
-      color: #B20000 !important;
+      color: #1b3e50 !important;
+      border-bottom: 1px dotted #1b3e50;
   }
 
 .page .social {
@@ -850,7 +868,7 @@ ul.list-dashed > li:before {
         border: 1px solid rgba( 0, 0, 0, .15 );
         border-radius: .25rem;
         /*color: rgba( 255,255,255, .5 );*/
-        color: #292b2c;
+        color: #888;
         font-size: 1rem;
         margin: .125rem 0 0;
         padding: .5rem 0;

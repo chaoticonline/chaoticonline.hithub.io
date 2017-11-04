@@ -1,3 +1,5 @@
 User-Agent: *
+Allow: .js
+Allow: .css
 
 Sitemap: http://chaoticonline.tk/sitemap.xml
