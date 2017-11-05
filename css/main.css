@@ -53,6 +53,15 @@ blockquote {
             padding: 0 0.5rem;
         }
 
+/**
+ * @internal
+ *
+ * As replacement for the now deprecated 'scrolling' attribute for <iframe>
+ */
+iframe{
+    overflow:hidden;
+}
+
 footer {
   background-color: #F5F5F5;
   bottom: 0;
