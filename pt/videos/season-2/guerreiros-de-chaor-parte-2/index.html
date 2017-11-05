@@ -171,6 +171,11 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 
   (function() {
 
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+        document.getElementById('disqus_thread').innerHTML = 'Comentários via \x3ca href=\x22http:\/\/disqus.com\/?ref_noscript\x22\x3eDisqus\x3c\/a\x3e não estão disponíveis enquanto o site estiver sendo visualizado localmente';
+        return;
+    }
+
     var d = document, s = d.createElement('script');
 
     s.src = 'https://chaotic-online.disqus.com/embed.js';
