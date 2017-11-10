@@ -612,7 +612,7 @@ ul.list-dashed > li:before {
  * Single Page: Creatures
  */
 .page .creatures .card-data {
-    margin-bottom: 1rem;
+    margin-bottom: 2.5rem;
 }
 
 .page .picture {
@@ -638,7 +638,7 @@ ul.list-dashed > li:before {
         bottom: 0px;
         height: 15px;
         position: absolute;
-        right: 24px;
+        right: 0;
         width: 15px;
         z-index: 1;
     }
@@ -739,23 +739,53 @@ ul.list-dashed > li:before {
     background-color: #f6d7df;
 }
 
+.page .creatures.overworld .picture .white-corner-fix, .page .creatures .overworld .header {
+    background-color: #114f98;
+}
+
+.page .creatures .overworld a {
+    color: #114f98;
+}
+
+.page .creatures .overworld p a,
+.page .creatures .overworld dl a,
+.page .creatures .overworld ul a {
+    border-bottom: 1px dotted #114f98
+}
+
+.page .creatures .overworld .box {
+    background-color: #eff5fd;
+}
+
 /**
  * @internal
  *
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (pink-ish)
  */
-.page .creatures .underworld dl.traits, .page .creatures .underworld dl.tv {
-    border-right: 1px solid #f6d7df;
+.page .creatures .overworld dl.traits, .page .creatures .overworld dl.tv {
+    border-right: 1px solid #eff5fd;
 }
 
-    .page .creatures .underworld dt {
-        color: #541424;
-        font-weight: normal;
+    .page .creatures .overworld dt {
+        color: #114f98;
     }
 
-  .page .creatures .underworld dl.traits dd:last-child, .page .creatures .underworld dl.tv dd:last-child {
-      border-bottom: 1px solid #f6d7df;
+  .page .creatures .overworld dl.traits dd:last-child, .page .creatures .overworld dl.tv dd:last-child {
+      border-bottom: 1px solid #eff5fd;
+
+  }
+
+.page .creatures .overworld dl.traits, .page .creatures .overworld dl.tv {
+    border-right: 1px solid #eff5fd;
+}
+
+    .page .creatures .overworld dt {
+        color: #114f98;
+    }
+
+  .page .creatures .overworld dl.traits dd:last-child, .page .creatures .overworld dl.tv dd:last-child {
+      border-bottom: 1px solid #eff5fd;
 
   }
 
@@ -1105,7 +1135,7 @@ span.hr {
      */
     .page .picture:not(.big) img {
         right: 3px;
-        top: 4px;
+        top: 6px;
         width: 99%;
     }
 
