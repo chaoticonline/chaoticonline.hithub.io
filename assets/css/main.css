@@ -27,7 +27,8 @@ a.important, a.important:link, a.important:visited, a.important:hover {
 
 blockquote {
     border: none !important;
-    margin: 0.5rem 0 2rem 0;
+    /*margin: 0.5rem 0 2rem 0;*/
+    margin: 2.5rem 3rem 2rem 0;
 }
 
     blockquote p {
@@ -123,7 +124,7 @@ ul.list-dashed > li:before {
 
 .breadcrumb {
     font-family: "Quicksand";
-    font-size: 0.85rem;
+    font-size: 0.9rem;
 }
 
     .breadcrumb > div {
@@ -310,7 +311,7 @@ ul.list-dashed > li:before {
     }
 
         .listing h3.hidden-sm-up {
-            font-size: 1.1rem
+            font-size: 1.2rem
         }
 
     .listing .card-deck {
@@ -324,7 +325,6 @@ ul.list-dashed > li:before {
          * Overwriting Bootstrap's defaults to alleviate matchHeight.js effect
          */
         .listing .card-block {
-            font-family: 'Roboto', sans-serif;
             font-size: 0.95rem;
             font-weight: 300;
             line-height: 1.5rem;
@@ -385,6 +385,7 @@ ul.list-dashed > li:before {
               .listing .card-deck.section-group .thumbnail.wip {
                   height: 4.5rem;
                   margin-top: -0.1rem;
+                  width: 100.2%;
               }
 
         .listing.cards .video-container {
@@ -437,7 +438,7 @@ ul.list-dashed > li:before {
         margin-left: -2.5rem;
 
         /**
-         * @internaç
+         * @internal
          *
          * This provides a small spacing when the ToC Panel is closed
          */
@@ -463,7 +464,7 @@ ul.list-dashed > li:before {
 
     .page .toc h3 {
         cursor: pointer;
-        font-size: 1.25rem;
+        font-size: 1.75rem;
         margin-left: 2.5rem;
     }
 
@@ -670,7 +671,7 @@ ul.list-dashed > li:before {
         }
 
     .page .picture .caption {
-        background-color: rgba( 0, 0, 0, 0.65 );
+        background-color: rgba( 0, 0, 0, 0.6 );
         border-bottom-left-radius: 0.5rem;
         border-bottom-right-radius: 0.5rem;
         bottom: -1px;
@@ -744,13 +745,13 @@ ul.list-dashed > li:before {
 }
 
 .page .creatures .overworld a {
-    color: #114f98;
+    color: #186fd5;
 }
 
 .page .creatures .overworld p a,
 .page .creatures .overworld dl a,
 .page .creatures .overworld ul a {
-    border-bottom: 1px dotted #114f98
+    border-bottom: 1px dotted #186fd5;
 }
 
 .page .creatures .overworld .box {
@@ -790,7 +791,7 @@ ul.list-dashed > li:before {
   }
 
 .credits dt {
-    font-weight: normal;
+    font-weight: bold;
 }
 
 /**
@@ -1049,25 +1050,6 @@ span.hr {
         border-top: 3px solid #15313F;
     }
 
-/** Ribbon Colors - White (Derivation of Battlegears) */
-
-.ribbon span.whitey {
-    background: #b0b5c2;
-    background: linear-gradient( #eaecf2 0%, #b0b5c2 100% );
-    color: #2f2f2f !important;
-    font-size: .8em;
-}
-
-    .ribbon span.whitey:before {
-        border-left: 3px solid #b0b5c2;
-        border-top: 3px solid #b0b5c2;
-    }
-
-    .ribbon span.whitey:after {
-        border-right: 3px solid #b0b5c2;
-        border-top: 3px solid #b0b5c2;
-    }
-
 /**
  * @internal
  *
@@ -1095,7 +1077,8 @@ span.hr {
     }
 
     .listing .card-block {
-        font-size: 1.15rem;
+        font-size: 1.2rem;
+        line-height: 1.7rem;
     }
 
     .listing .card-deck:not(.section-group) .thumbnail {
