@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-	<sitemap>
-	   	<loc>http://www.chaoticonline.tk/pt/sitemap.xml</loc>
-	   	<loc>http://www.chaoticonline.tk/pt/meta.xml</loc>
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/en/sitemap.xml</loc>
+        <loc>https://www.chaoticonline.tk/en/meta.xml</loc>
+        <loc>https://www.chaoticonline.tk/en/creatures.xml</loc>
+    </sitemap>
 
-	</sitemap>
-
-	<sitemap>
-	   	<loc>http://www.chaoticonline.tk/en/sitemap.xml</loc>
-	   	<loc>http://www.chaoticonline.tk/en/meta.xml</loc>
-
-	</sitemap>
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/pt/sitemap.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/meta.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/creatures.xml</loc>
+    </sitemap>
 
 </sitemapindex>

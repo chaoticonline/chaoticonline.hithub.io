@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Bem-vindo ao Chaotic (Parte 1)]]></video:title>
 			<video:description><![CDATA[No primeiro episódio da série, o protagonista, Tom Majors, recebe seu código de acesso para o Chaotic, um lugar onde, segundo seu melhor amigo, Kaz, é possível se transformar nas Criaturas e jogar de verdade.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/TEnIn</video:player_loc>
 			<video:player_loc>https://openload.co/embed/mR54Cj6_jss</video:player_loc>
 			<video:duration>1170</video:duration>
@@ -23,11 +23,11 @@
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Bem-vindo ao Chaotic (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação da série, após ter inserido seu código de acesso, Tom descobre que todas as fantasias de Kaz eram reais e tem sua primeira luta em Chaotic.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/cttlv</video:player_loc>
 			<video:player_loc>https://openload.co/embed/HTuEhUdjyo8</video:player_loc>
 			<video:duration>1267</video:duration>
@@ -45,11 +45,11 @@
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/inesperado</loc>
+		<loc>https://www.chaoticonline.tk/videos/inesperado</loc>
 		<video:video>
 			<video:title><![CDATA[Inesperado]]></video:title>
 			<video:description><![CDATA[Nesse episódio conhecemos o quarto membro do grupo, Peyton, e sua personalidade… “excêntrica”.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/gnnhm</video:player_loc>
 			<video:player_loc>https://openload.co/embed/0Du-HMAG1Vc</video:player_loc>
 			<video:duration>1299</video:duration>
@@ -67,11 +67,11 @@
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/eternos-rivais</loc>
+		<loc>https://www.chaoticonline.tk/videos/eternos-rivais</loc>
 		<video:video>
 			<video:title><![CDATA[Eternos Rivais]]></video:title>
 			<video:description><![CDATA[A antiga guerra entre o Bem contra o Mal no universo de Chaotic: Outro Mundo contra Submundo.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/fmmkt</video:player_loc>
 			<video:player_loc>https://openload.co/embed/oo3jWD8805s</video:player_loc>
 			<video:duration>1254</video:duration>
@@ -89,11 +89,11 @@
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/rota-de-colisao</loc>
+		<loc>https://www.chaoticonline.tk/videos/rota-de-colisao</loc>
 		<video:video>
 			<video:title><![CDATA[Rota de Colisão]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Kaz enfrenta o Klay numa disputa enquanto Tom tenta obter o scan de uma Criatura lunática cuja vida é pregar peças.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/Voli7</video:player_loc>
 			<video:player_loc>https://openload.co/embed/xZ2yXy4Rrp8</video:player_loc>
 			<video:duration>1206</video:duration>
@@ -111,12 +111,12 @@
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/o-problema-do-bodal</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-problema-do-bodal</loc>
 		<video:video>
 			<video:title><![CDATA[O problema do Bodal...]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Bodal, uma Criatura bastante tagarela, irritante e convencida.
 Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/hH9tA</video:player_loc>
 			<video:player_loc>https://openload.co/embed/TtlnU7URMZk</video:player_loc>
 			<video:duration>1247</video:duration>
@@ -134,11 +134,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/fuga-do-formigueiro</loc>
+		<loc>https://www.chaoticonline.tk/videos/fuga-do-formigueiro</loc>
 		<video:video>
 			<video:title><![CDATA[Fuga do Formigueiro]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos mais uma das quatro Tribos de Chaotic, os Danians, uma Tribo formada por insetos dos mais variados tipos que levam a segurança dos seus domínios a sério, principalmente quando se tratando de jogadores de Chaotic.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/DsO7B</video:player_loc>
 			<video:player_loc>https://openload.co/embed/CJIDkzppIqY</video:player_loc>
 			<video:duration>1244</video:duration>
@@ -156,11 +156,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/tudo-esta-em-fluxo</loc>
+		<loc>https://www.chaoticonline.tk/videos/tudo-esta-em-fluxo</loc>
 		<video:video>
 			<video:title><![CDATA[Tudo está em Fluxo]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos um pouco mais sobre a Krystella, uma jogadora tão inescrupulosa quanto Klay que faz de tudo para ter sucesso ou para impedir que àqueles que cruzem seu caminho o tenha.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/2U4za</video:player_loc>
 			<video:player_loc>https://openload.co/embed/vd1scosQz0k</video:player_loc>
 			<video:duration>1266</video:duration>
@@ -178,11 +178,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Castelo Bodhran: Tudo ou Nada (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos a estória de Reginald Terrington, os problemas no qual se meteu e a tentativa do grupo de amigos de resgatá-lo com uma aposta que poderia significar o fim da carreira em Chaotic de um deles.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/gnc8m</video:player_loc>
 			<video:player_loc>https://openload.co/embed/wWlKnriflak</video:player_loc>
 			<video:duration>1249</video:duration>
@@ -200,11 +200,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Castelo Bodhran: Tudo ou Nada (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, Tom fica cara-a-cara com seu herói mas antes que pudesse tentar resgatar o Reggie, deve não apenas ganhar sua confiança, como travar uma batalha real com outra Tribo.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/LTnoi</video:player_loc>
 			<video:player_loc>https://openload.co/embed/eok0U3_4Wx8</video:player_loc>
 			<video:duration>1299</video:duration>
@@ -222,11 +222,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/lorde-da-traicao</loc>
+		<loc>https://www.chaoticonline.tk/videos/lorde-da-traicao</loc>
 		<video:video>
 			<video:title><![CDATA[Lorde da Traição]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos o traiçoeiro Lord Van Bloot, segundo em comando do Submundo, e como Chaor faz de Kaz seu espião e usa as lutas em Chaotic como estratégia militar contra ele.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/p8Jm3</video:player_loc>
 			<video:player_loc>https://openload.co/embed/AkuH46pdT_Q</video:player_loc>
 			<video:duration>1309</video:duration>
@@ -244,11 +244,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/batalha-dos-sexos</loc>
+		<loc>https://www.chaoticonline.tk/videos/batalha-dos-sexos</loc>
 		<video:video>
 			<video:title><![CDATA[Batalha dos Sexos]]></video:title>
 			<video:description><![CDATA[Nesse espisódio descobriremos (ou não) quem joga Chaotic melhor, os homens ou as mulheres, meninos ou meninas, numa luta entre o Peyton e a Krystella.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/jXI9K</video:player_loc>
 			<video:player_loc>https://openload.co/embed/URrpGt3ZGlA</video:player_loc>
 			<video:duration>1225</video:duration>
@@ -266,11 +266,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/licoes-de-batalha</loc>
+		<loc>https://www.chaoticonline.tk/videos/licoes-de-batalha</loc>
 		<video:video>
 			<video:title><![CDATA[Lições de Batalha]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom descobre sobre o evento principal em Chaotic: As Batalhas com CodeMasters!]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/mplmy</video:player_loc>
 			<video:player_loc>https://openload.co/embed/RkTBp9yYWQc</video:player_loc>
 			<video:duration>1250</video:duration>
@@ -289,11 +289,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/o-nascimento-de-borth-majar</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-nascimento-de-borth-majar</loc>
 		<video:video>
 			<video:title><![CDATA[O Nascimento de Borth-Majar]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos conhecer as origens de uma Criatura incomum, Borth-Majar, e como Kaz lida com a dupla personalidade individualmente coletiva dela (quê? o.O)]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/z05Ep</video:player_loc>
 			<video:player_loc>https://openload.co/embed/x76HsPCN2EU</video:player_loc>
 			<video:duration>1284</video:duration>
@@ -311,11 +311,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/areias-da-mudanca</loc>
+		<loc>https://www.chaoticonline.tk/videos/areias-da-mudanca</loc>
 		<video:video>
 			<video:title><![CDATA[Areias da Mudança]]></video:title>
 			<video:description><![CDATA[Nesse episódio Peyton mostra para o Tom que nem todos os Mipedians são os cruéis e impiedosos como os que ele teve contanto ao resgatar o Reggie.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/ISuvZ</video:player_loc>
 			<video:player_loc>https://openload.co/embed/m7BNZw0qjz8</video:player_loc>
 			<video:duration>1285</video:duration>
@@ -333,11 +333,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/heroi-caido</loc>
+		<loc>https://www.chaoticonline.tk/videos/heroi-caido</loc>
 		<video:video>
 			<video:title><![CDATA[Herói Caído]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um golpe traiçoeiro de Lorde Van Bloot contra Maxxor que poderia destruir o Outro Mundo.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/2UN0a</video:player_loc>
 			<video:player_loc>https://openload.co/embed/qeIS5Pm74rE</video:player_loc>
 			<video:duration>1308</video:duration>
@@ -355,11 +355,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/caca-aos-scans</loc>
+		<loc>https://www.chaoticonline.tk/videos/caca-aos-scans</loc>
 		<video:video>
 			<video:title><![CDATA[Caça aos Scans]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos ver Kaz e Peyton competindo (de novo) pra ver quem é o melhor jogador de Chaotic entre eles.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/Mzk7k</video:player_loc>
 			<video:player_loc>https://openload.co/embed/4CR4WQroLD0</video:player_loc>
 			<video:duration>1330</video:duration>
@@ -377,11 +377,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/pt/allmageddon</loc>
+		<loc>https://www.chaoticonline.tk/videos/pt/allmageddon</loc>
 		<video:video>
 			<video:title><![CDATA[Allmageddon]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos a história de Hoton, uma Criatura que, ao procurar por um antigo poder para proteger tudo e à todos que amava, acabou perdendo tudo.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/BC9cX</video:player_loc>
 			<video:player_loc>https://openload.co/embed/H-BT7Bf2C14</video:player_loc>
 			<video:duration>1238</video:duration>
@@ -399,11 +399,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/um-destino-assustador</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-destino-assustador</loc>
 		<video:video>
 			<video:title><![CDATA[Um Destino Assustador]]></video:title>
 			<video:description><![CDATA[Nos episódios anteriores, Tom finalmente conseguiu um novo scan de sua Criatura favorita, Maxxor, mas ao usá-lo pela primeira vez em batalha ele percebe que alguma coisa está errada.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/Y6vFw</video:player_loc>
 			<video:player_loc>https://openload.co/embed/4T_fkSo7LN0</video:player_loc>
 			<video:duration>1281</video:duration>
@@ -421,11 +421,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/labirinto-da-ameaca</loc>
+		<loc>https://www.chaoticonline.tk/videos/labirinto-da-ameaca</loc>
 		<video:video>
 			<video:title><![CDATA[Labirinto da Ameaça]]></video:title>
 			<video:description><![CDATA[Nesse episódio, continuando a seqüência na qual o Comandante do Outro Mundo, Maxxor, foi emboscado pelo Mugic traiçoeiro de Lord Van Bloot, veremos uma parceria entre Criaturas e humanos para restaurar o Herói Caído antes de que seja tarde demais.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/jX7uK</video:player_loc>
 			<video:player_loc>https://openload.co/embed/wY7d9x4cOiM</video:player_loc>
 			<video:duration>1260</video:duration>
@@ -443,11 +443,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/isolado</loc>
+		<loc>https://www.chaoticonline.tk/videos/isolado</loc>
 		<video:video>
 			<video:title><![CDATA[Isolado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a jornada de Kaz por perigoso trajeto, com um guia incomum, em socorro do recluso Raimusa na Cordilheira de Cristal.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/6anW1</video:player_loc>
 			<video:player_loc>https://openload.co/embed/gBMyJGS7Iko</video:player_loc>
 			<video:duration>1287</video:duration>
@@ -465,11 +465,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/pt/chaotikings</loc>
+		<loc>https://www.chaoticonline.tk/videos/pt/chaotikings</loc>
 		<video:video>
 			<video:title><![CDATA[ChaotiKings]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a iniciação de Kaz no “clubinho” mais famosos de Chaotic… ou não.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/vgByh</video:player_loc>
 			<video:player_loc>https://openload.co/embed/-MqB1bXAW5w</video:player_loc>
 			<video:duration>1340</video:duration>
@@ -487,11 +487,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/stelgar-ataca</loc>
+		<loc>https://www.chaoticonline.tk/videos/stelgar-ataca</loc>
 		<video:video>
 			<video:title><![CDATA[Stelgar Ataca]]></video:title>
 			<video:description><![CDATA[Nesse espisódio conheceremos o Mommark, um cientista louco do Outro Mundo, e uma de suas criações, Stelgar.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/RrJ3R</video:player_loc>
 			<video:player_loc>https://openload.co/embed/McpqqODf17Y</video:player_loc>
 			<video:duration>1353</video:duration>
@@ -509,11 +509,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a primeira parte da mais sensacional de todas as lutas de Chaotic: A Batalha entre Tom Majors e o CodeMaster Crellan!]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/iqwl9</video:player_loc>
 			<video:player_loc>https://openload.co/embed/LWwJob0OA-4</video:player_loc>
 			<video:duration>1313</video:duration>
@@ -532,11 +532,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, o desfecho da épica disputa.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/GyRLb</video:player_loc>
 			<video:player_loc>https://openload.co/embed/eLUecxYYyis</video:player_loc>
 			<video:duration>1290</video:duration>
@@ -555,11 +555,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/o-scan-supremo</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-scan-supremo</loc>
 		<video:video>
 			<video:title><![CDATA[O Scan Supremo]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos conhecer um pouco sobre uma Criatura mística chamada Iparu e suas habilidades fantásticas.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/CLuCc</video:player_loc>
 			<video:player_loc>https://openload.co/embed/Mr0eyUYrPek</video:player_loc>
 			<video:duration>1272</video:duration>
@@ -577,11 +577,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/uma-vitoria-facil</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-vitoria-facil</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Vitória Fácil]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos como as coisas podem dar muito errado ao tentar se aproveitar de um novato, né Peyton? ^_^]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/m5hty</video:player_loc>
 			<video:player_loc>https://openload.co/embed/L_aU4xMdNlc</video:player_loc>
 			<video:duration>1292</video:duration>
@@ -599,11 +599,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/trocas-para-muito-longe</loc>
+		<loc>https://www.chaoticonline.tk/videos/trocas-para-muito-longe</loc>
 		<video:video>
 			<video:title><![CDATA[Trocas para Muito Longe]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Kaz e Peyton tentarem fazer o do Treco de Troca (ou não).]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/ao9o6</video:player_loc>
 			<video:player_loc>https://openload.co/embed/YwsztCoqHBQ</video:player_loc>
 			<video:duration>1295</video:duration>
@@ -621,11 +621,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/crise-em-chaotic</loc>
+		<loc>https://www.chaoticonline.tk/videos/crise-em-chaotic</loc>
 		<video:video>
 			<video:title><![CDATA[Crise em Chaotic]]></video:title>
 			<video:description><![CDATA[Nesse episódio, as Criaturas de Perim invadem a Terra. Rumo ao Chaotic… pelo nosso planeta!]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/Tfwpn</video:player_loc>
 			<video:player_loc>https://openload.co/embed/k-OluwCfnn0</video:player_loc>
 			<video:duration>1295</video:duration>
@@ -644,11 +644,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/a-maldicao-de-kor-bek</loc>
+		<loc>https://www.chaoticonline.tk/videos/a-maldicao-de-kor-bek</loc>
 		<video:video>
 			<video:title><![CDATA[A Maldição de Kor-Bek]]></video:title>
 			<video:description><![CDATA[Nesse episódio, ambientado no arquipélago na qual Peyton e Kaz terminaram no episódio “Troca pra muito Longe”, teremos piratas, tesouros enterrados, maldições e perseguições.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/vTwvh</video:player_loc>
 			<video:player_loc>https://openload.co/embed/canN_SFwPu4</video:player_loc>
 			<video:duration>1294</video:duration>
@@ -666,11 +666,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/guerreiros-de-fogo</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-fogo</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Fogo]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma luta quente, literalmente, na qual ambos os jogadores tentam provar a superioridade tanto de si mesmos como de um dos Quatro Elementos.]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/5hQa4</video:player_loc>
 			<video:player_loc>https://openload.co/embed/J0AhXJVFNQ0</video:player_loc>
 			<video:duration>1278</video:duration>
@@ -688,11 +688,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/missao-no-abismo</loc>
+		<loc>https://www.chaoticonline.tk/videos/missao-no-abismo</loc>
 		<video:video>
 			<video:title><![CDATA[Missão no Absimo]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom finalmente decide finalmente explorar o Abismo Prexxor, em Perim, a partir do scan que ganhou do CodeMaster Crellan até ele perceber que alguma coisa está muito errada]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/2yEUa</video:player_loc>
 			<video:player_loc>https://openload.co/embed/vR9PTuOxkDE</video:player_loc>
 			<video:duration>1277</video:duration>
@@ -710,11 +710,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/treinamento-desastre</loc>
+		<loc>https://www.chaoticonline.tk/videos/treinamento-desastre</loc>
 		<video:video>
 			<video:title><![CDATA[Treinamento-Desastre]]></video:title>
 			<video:description><![CDATA[Nesse episódio, quando Kaz começa a ter problemas em Chaotic, Peyton o ajuda com um&amp;hellip; &amp;ldquo;personal trainer&amp;rdquo;]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/rCuSW</video:player_loc>
 			<video:player_loc>https://openload.co/embed/vq3WGobadtk</video:player_loc>
 			<video:duration>1310</video:duration>
@@ -732,11 +732,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/trocando-cartas</loc>
+		<loc>https://www.chaoticonline.tk/videos/trocando-cartas</loc>
 		<video:video>
 			<video:title><![CDATA[Trocando Cartas]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos uma seqüência de troca de cartas arquitetada pela Sarah para que pudesse ter o scan de um mugic raro. Claro que nossos cavalheiros não a deixariam na mão… não é?]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/hs3jA</video:player_loc>
 			<video:player_loc>https://openload.co/embed/0uxHN3irxhU</video:player_loc>
 			<video:duration>1266</video:duration>
@@ -754,11 +754,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/duelo-duplo-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Duelo Duplo (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Krystella e Klay aprontando (de novo), resultando numa batalha dupla bem interessante valendo o scan de um Equipamento sinistro]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/A8S92</video:player_loc>
 			<video:player_loc>https://openload.co/embed/CuJQG3H0mCk</video:player_loc>
 			<video:duration>1306</video:duration>
@@ -776,11 +776,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/duelo-duplo-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Duelo Duplo (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, não apenas veremos o desfecho da luta em meio aos joguinhos mentais causados pela Krystella e pelo Klay como veremos que… bom… karma is a bitch ¯\_(ツ)_/¯]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/sQEbG</video:player_loc>
 			<video:player_loc>https://openload.co/embed/iDWFdnoKm_g</video:player_loc>
 			<video:duration>1315</video:duration>
@@ -798,11 +798,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/mudando-de-lado</loc>
+		<loc>https://www.chaoticonline.tk/videos/mudando-de-lado</loc>
 		<video:video>
 			<video:title><![CDATA[Mudando de Lado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos uma pequena parte dos ensinamentos mais conhecidos de A Arte da Guerra de Sun Tzu em Chaotic: Conheça seu inimigo!]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/315ES</video:player_loc>
 			<video:player_loc>https://openload.co/embed/HfG-xOvTe1c</video:player_loc>
 			<video:duration>1333</video:duration>
@@ -820,11 +820,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/grande-chance</loc>
+		<loc>https://www.chaoticonline.tk/videos/grande-chance</loc>
 		<video:video>
 			<video:title><![CDATA[Grande Chance]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a jornada de Sarah em busca do scan de um raro e poderoso Danian alado que acaba com ela impedindo uma tentativa de seqüestro de uma Tribo inimiga]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/Lujhi</video:player_loc>
 			<video:player_loc>https://openload.co/embed/hIoux-GpZOw</video:player_loc>
 			<video:duration>1256</video:duration>
@@ -842,11 +842,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/olho-do-redemoinho</loc>
+		<loc>https://www.chaoticonline.tk/videos/olho-do-redemoinho</loc>
 		<video:video>
 			<video:title><![CDATA[Olho do Redemoinho]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom e seus amigos ajudam Najarin e um grupo de Mipedians numa importante missão e que confiança é uma dádiva, não uma direito]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/MKQlk</video:player_loc>
 			<video:player_loc>https://openload.co/embed/wNOQrPyQ5MU</video:player_loc>
 			<video:duration>1237</video:duration>
@@ -864,11 +864,11 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/entre-amigos</loc>
+		<loc>https://www.chaoticonline.tk/videos/entre-amigos</loc>
 		<video:video>
 			<video:title><![CDATA[Entre Amigos (Season Finale)]]></video:title>
 			<video:description><![CDATA[Nesse episódio… o fim! Da temporada, de uma carreira promissora e de uma longa amizade…]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/CLq8c</video:player_loc>
 			<video:player_loc>https://openload.co/embed/C1sUc_2Ta2M</video:player_loc>
 			<video:duration>1332</video:duration>
@@ -886,7 +886,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/um-perigo-raro</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-perigo-raro</loc>
 		<video:video>
 			<video:title><![CDATA[Um Perigo Raro]]></video:title>
 			<video:description><![CDATA[No primeiro episódio da Segunda Temporada veremos o desfecho dos acontecimentos do episódio anterior, com direito a terrorismo e espionagem]]></video:description>
@@ -907,7 +907,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/perigos-da-diplomacia</loc>
+		<loc>https://www.chaoticonline.tk/videos/perigos-da-diplomacia</loc>
 		<video:video>
 			<video:title><![CDATA[Perigos da Diplomacia]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos que é mais fácil pegar formigas com mel do que com vinagre, mas que mel demais pode não ser uma boa idéia também.]]></video:description>
@@ -928,7 +928,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/um-pai-em-apuros</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-pai-em-apuros</loc>
 		<video:video>
 			<video:title><![CDATA[Um Pai em Apuros]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pai tagarela e sabichão caindo na real após um desafio qádruplo]]></video:description>
@@ -949,7 +949,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/confronto-no-coliseu</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-no-coliseu</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto no Coliseu]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pequeno mal-entendido terminar de forma épica no melhor estilo Gigantes de Aço]]></video:description>
@@ -970,7 +970,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock</loc>
+		<loc>https://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock</loc>
 		<video:video>
 			<video:title><![CDATA[Na Onda de Pedra do Rock]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um luta entre Peyton e seu ídolo musical, com direito até a uma sutil homenagem à um dos vocalistas do KISS, Gene Simmons]]></video:description>
@@ -991,7 +991,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse espisódio veremos um esquadrão de elite liderado por Chaor numa ousada invasão à Cidade Kiru rumo ao Arsenal do Outro Mundo]]></video:description>
@@ -1012,7 +1012,7 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:des
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior veremos a invasão de Chaor ao Arsenal do Outro Mundo na Cidade Kiru
@@ -1034,7 +1034,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/mega-disputa</loc>
+		<loc>https://www.chaoticonline.tk/videos/mega-disputa</loc>
 		<video:video>
 			<video:title><![CDATA[Mega Disputa]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a competição interna entre Kaz e Peyton para saber quem é o melhor jogador de Chaotic chegar a outro nível… só que agora sobrou pro Tom]]></video:description>
@@ -1055,7 +1055,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/tempo-esgotado</loc>
+		<loc>https://www.chaoticonline.tk/videos/tempo-esgotado</loc>
 		<video:video>
 			<video:title><![CDATA[Tempo Esgotado]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma cinzenta, silenciosa, “Visão do Futuro” com um pequeno e sutil spoiler do ápice da temporada]]></video:description>
@@ -1076,7 +1076,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/pt/gigantempopolis</loc>
+		<loc>https://www.chaoticonline.tk/videos/pt/gigantempopolis</loc>
 		<video:video>
 			<video:title><![CDATA[Gigantempopolis]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Gigantempopolis, um lugar deserto, cheio de mistérios, tesouro e, claro, maldições, no melhor estilo de O Senhor dos Anéis.]]></video:description>
@@ -1097,7 +1097,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/feras-da-guerra</loc>
+		<loc>https://www.chaoticonline.tk/videos/feras-da-guerra</loc>
 		<video:video>
 			<video:title><![CDATA[Feras da Guerra]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após muito tempo sem aprontar com outros jogadores, Krystella e Klay armam pro Peyton conseguir o scan de um Fera da Guerra, um gigantesco titã Mipedian tão poderoso quando lunático e, aparentemente, incontrolável]]></video:description>
@@ -1118,7 +1118,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/das-profundezas-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Das Profundezas (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma misteriosa Criatura de um passado há muito esquecido passado ressurge novamente com revelações surpreendentes e perturbadoras sobre o futuro de Perim]]></video:description>
@@ -1140,7 +1140,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/das-profundezas-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Das Profundezas (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, traição, lavagem cerebral, golpe militar e o princípio do fim… Que comece a Invasão!]]></video:description>
@@ -1162,7 +1162,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/um-conto-de-dois-toms</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-conto-de-dois-toms</loc>
 		<video:video>
 			<video:title><![CDATA[Um Conto de Dois Toms]]></video:title>
 			<video:description><![CDATA[Nesse episódio uma versão mais descolada do nosso protagonista entra em cena e, graças à um empurrãozinho, acaba em briga, no melhor estilo Chaotic]]></video:description>
@@ -1183,7 +1183,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/combate-a-praga</loc>
+		<loc>https://www.chaoticonline.tk/videos/combate-a-praga</loc>
 		<video:video>
 			<video:title><![CDATA[Combate à Praga]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Garv, o Zelador do Outro Mundo responsável pelo Lago Morn, ajudando Tom (e Smildon) a curar o Abismo Prexxor da Praga ao invés de combatê-la na força bruta]]></video:description>
@@ -1205,7 +1205,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/novata</loc>
+		<loc>https://www.chaoticonline.tk/videos/novata</loc>
 		<video:video>
 			<video:title><![CDATA[Novata]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Shinwan, uma novata obstinada o bastante para ser a primeira em Chaotic a conseguir o scan de um M&amp;rsquo;arrillian]]></video:description>
@@ -1226,7 +1226,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/colocando-o-muge-no-mugic</loc>
+		<loc>https://www.chaoticonline.tk/videos/colocando-o-muge-no-mugic</loc>
 		<video:video>
 			<video:title><![CDATA[Colocando o Muge no Mugic]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma guerra territorial tão rotineira quanto desnecessária (mesmo!) completa com traição, sabotagem e contra-espionagem entre o Outro Mundo e os Mipedians]]></video:description>
@@ -1247,7 +1247,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/pt/mister-e</loc>
+		<loc>https://www.chaoticonline.tk/videos/pt/mister-e</loc>
 		<video:video>
 			<video:title><![CDATA[Mister E]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos mais sobre o poder dos M&amp;rsquo;arrillians e o início de um dos possíveis futuros mostrados em &amp;ldquo;Tempo Esgotado”]]></video:description>
@@ -1268,7 +1268,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/quando-um-codemaster-chama</loc>
+		<loc>https://www.chaoticonline.tk/videos/quando-um-codemaster-chama</loc>
 		<video:video>
 			<video:title><![CDATA[Quando um CodeMaster Chama]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Peyton partir numa jornada em território M&amp;rsquo;arrillian em nome do CodeMaster Hotekk para se tornar seu aprendiz… só que não]]></video:description>
@@ -1289,7 +1289,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/terra-para-kaz</loc>
+		<loc>https://www.chaoticonline.tk/videos/terra-para-kaz</loc>
 		<video:video>
 			<video:title><![CDATA[Terra para Kaz]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a paixão por Chaotic de Kaz se tornar um problema para ele quando este precisa provar ao psicólogo de sua escola que Chaotic é um lugar real O_O]]></video:description>
@@ -1310,7 +1310,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/raznus-retorna</loc>
+		<loc>https://www.chaoticonline.tk/videos/raznus-retorna</loc>
 		<video:video>
 			<video:title><![CDATA[Raznus Retorna]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma escavação problemática leva alguns Mandiblors liderados por Odu-Bathax e Raznus, ex-embaixador Danian pelo Outro Mundo agora assimilado, para dentro do Arsenal do Outro Mundo]]></video:description>
@@ -1331,7 +1331,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/guerreiros-da-eternidade</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-da-eternidade</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros da Eternidade]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Sarah é atacada por um fantasma Mipedian e seus amigos, enquanto procuram por ela, se unem a um grupo de Mipedians que buscam pelo lendário Owayki e seus Guerreiros de Pedra, imunes ao controle mental M&amp;rsquo;arrillian]]></video:description>
@@ -1352,7 +1352,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/submundo-derrotado</loc>
+		<loc>https://www.chaoticonline.tk/videos/submundo-derrotado</loc>
 		<video:video>
 			<video:title><![CDATA[Submundo Derrotado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Chaor e seus leais guerreiros executarem um plano de batalha contra os M&amp;rsquo;arrillians no Pântano de Lama]]></video:description>
@@ -1373,7 +1373,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/ameaca-tripla</loc>
+		<loc>https://www.chaoticonline.tk/videos/ameaca-tripla</loc>
 		<video:video>
 			<video:title><![CDATA[Ameaça Tripla]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a Aliança Tribal superando suas diferenças culturais para que unidos possam talvez ter uma chance contra os M&amp;rsquo;arrillians]]></video:description>
@@ -1394,7 +1394,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/confronto-final-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto Final (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio a batalha continua em diferentes regiões de Perim ao mesmo tempo… e também na própria Aliança Tribal]]></video:description>
@@ -1416,7 +1416,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/confronto-final-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto Final (Parte 2)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, o princípio do fim… a batalha por Perim é agora!]]></video:description>
@@ -1438,7 +1438,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/legioes-de-aaune</loc>
+		<loc>https://www.chaoticonline.tk/videos/legioes-de-aaune</loc>
 		<video:video>
 			<video:title><![CDATA[Legiões de Aa&#39;une (Season Finale)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, a batalha continua com reviravoltas e algumas transformações… e o fim!]]></video:description>
@@ -1460,7 +1460,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/pt/perithon</loc>
+		<loc>https://www.chaoticonline.tk/videos/pt/perithon</loc>
 		<video:video>
 			<video:title><![CDATA[Perithon!]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após uma intensa batalha e uma vitória gloriosa sobre os M&amp;rsquo;arrillians, as Tribos decidem manter a Aliança Tribal rumo à uma próspera Perim e, para celebrar a paz, fazem uma corrida de carros… mas velhos hábitos nunca mudam…]]></video:description>
@@ -1481,7 +1481,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/mundos-divididos</loc>
+		<loc>https://www.chaoticonline.tk/videos/mundos-divididos</loc>
 		<video:video>
 			<video:title><![CDATA[Mundos Divididos]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Jycella, irmã gêmea da Krystella, e veremos que o mau relacionamento entre as duas, até que comum entre humanos, também acontece em Perim, com as irmãs gêmeas Aivenna e Nivenna]]></video:description>
@@ -1502,7 +1502,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/robos-da-pesada</loc>
+		<loc>https://www.chaoticonline.tk/videos/robos-da-pesada</loc>
 		<video:video>
 			<video:title><![CDATA[Robôs da Pesada]]></video:title>
 			<video:description><![CDATA[Nesse episódio o Dr. Frankenstein de Perim resolve implantar parte de seu próprio cérebro nos Gigantroopers, tornando-os inteligentes o bastante para uma tentativa de dominação do Submundo resultando numa batalha no melhor estilo Círculo de Fogo]]></video:description>
@@ -1524,7 +1524,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Tom vence a sétima batalha no Campo Hotekk e, com isso, é desafiado pelo próprio CodeMaster]]></video:description>
@@ -1546,7 +1546,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-2</loc>
 		<video:video>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 2)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após vencer de forma muito inteligente o CodeMaster Hotekk, Tom fica bastante decepcionado com sua recompensa… até ele e seus amigos descobrirem que um Local deserto e não muito interssante na verdade é muito mais do que parece (mesmo!)]]></video:description>
@@ -1567,7 +1567,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/herois-de-ontem</loc>
+		<loc>https://www.chaoticonline.tk/videos/herois-de-ontem</loc>
 		<video:video>
 			<video:title><![CDATA[Heróis de Ontem]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Vlar, um ladrão renegado pela Tribo do Outro Mundo da Perim pré-histórica o qual, possivelmente, é o ancestral do Maxxor]]></video:description>
@@ -1588,7 +1588,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/circulo-dos-perdedores</loc>
+		<loc>https://www.chaoticonline.tk/videos/circulo-dos-perdedores</loc>
 		<video:video>
 			<video:title><![CDATA[Círculo dos Perdedores]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Kaz está tão empolgado com seus novos scans da Perim pré-histórica que decide desafiar cada um dos jogadores que já o derrotou, achando que ninguém seria páreo pra ele&amp;hellip; até que seu arquiinimigo prova o contrário]]></video:description>
@@ -1609,7 +1609,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/uma-missao-gigantesca</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-missao-gigantesca</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Missão Gigantesca]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Vlar guiar Kiru e seus guerreiros pelo Templo da Gigantempopolis pré-histórica, quando os gigantes estavam vivos, na tentativa de dissuadir Kaal a não invadir mais a Cidade Kiru, porém, durante a viagem, o próprio futuro do Outro Mundo foi traçado]]></video:description>
@@ -1630,7 +1630,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/fronteira-da-destruicao</loc>
+		<loc>https://www.chaoticonline.tk/videos/fronteira-da-destruicao</loc>
 		<video:video>
 			<video:title><![CDATA[Fronteira da Destruição]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma vez que o segredo sobre Fronteira Dranakis vazou, vários jogadores viajaram para a Perim pré-histórica, inclusive a “Bonnie e o Clyde” de Chaotic, que não demoraram em conspirar com um velho conhecido, fazendo com que um doloroso acontecido se tornasse, potencialmente, irreversível]]></video:description>
@@ -1651,7 +1651,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/uma-aventura-do-peytonic</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-aventura-do-peytonic</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Aventura do Peytonic]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma aventura bem ao estilo 007 na qual Peyton é desafiado por um falsário mundialmente famoso para uma partida de Chaotic]]></video:description>
@@ -1672,7 +1672,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/elementar</loc>
+		<loc>https://www.chaoticonline.tk/videos/elementar</loc>
 		<video:video>
 			<video:title><![CDATA[Elementar]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos os quatro Servos Elementais da Cidade Perdida e uma batalha em Chaotic com eles todos ao mesmo tempo]]></video:description>
@@ -1694,7 +1694,7 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/videos/filho-da-terra-dos-espiritos</loc>
+		<loc>https://www.chaoticonline.tk/videos/filho-da-terra-dos-espiritos</loc>
 		<video:video>
 			<video:title><![CDATA[Filho da Terra dos Espíritos]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma Criatura aparentemente indestrutível vinda da Terra dos Espíritos, ameaça destruir Perim a não ser que Tangath Toborn o enfrente.]]></video:description>
@@ -1716,12 +1716,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/legioes-de-aaune</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/legioes-de-aaune</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Legiões de Aa&#39;une]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/ma5Qy</video:player_loc>
 			<video:player_loc>https://openload.co/embed/h5WD9_ySPp4</video:player_loc>
 			<video:duration>38</video:duration>
@@ -1739,12 +1739,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/perithon</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/perithon</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Perithon!]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/wV7dz</video:player_loc>
 			<video:player_loc>https://openload.co/embed/mnmSQhDvYPE</video:player_loc>
 			<video:duration>37</video:duration>
@@ -1762,12 +1762,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/mundos-divididos</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/mundos-divididos</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Mundos Divididos]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/qQjCE</video:player_loc>
 			<video:player_loc>https://openload.co/embed/VQKAfOD_V3g</video:player_loc>
 			<video:duration>49</video:duration>
@@ -1785,12 +1785,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/robos-da-pesada</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/robos-da-pesada</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Robôs da Pesada]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/CML6c</video:player_loc>
 			<video:player_loc>https://openload.co/embed/xMAYDm8ssqA</video:player_loc>
 			<video:duration>59</video:duration>
@@ -1808,12 +1808,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/o-desafio-de-hotekk-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/o-desafio-de-hotekk-parte-1</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: O Desafio de Hotekk (Parte 1)]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/g0EDm</video:player_loc>
 			<video:player_loc>https://openload.co/embed/14kJinxiLj0</video:player_loc>
 			<video:duration>52</video:duration>
@@ -1831,12 +1831,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/herois-de-ontem</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/herois-de-ontem</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Heróis de Ontem]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/aqok6</video:player_loc>
 			<video:player_loc>https://openload.co/embed/-aLZ0Xu23i0</video:player_loc>
 			<video:duration>43</video:duration>
@@ -1854,12 +1854,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/circulo-dos-perdedores</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/circulo-dos-perdedores</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Círculo dos Perdedores]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/vzTah</video:player_loc>
 			<video:player_loc>https://openload.co/embed/cnDRaUtXJ_A</video:player_loc>
 			<video:tag>chaotic</video:tag>
@@ -1876,12 +1876,12 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 		</video:video>
 	</url>
 	<url>
-		<loc>http://www.chaoticonline.tk/curiosidades/uma-missao-gigantesca</loc>
+		<loc>https://www.chaoticonline.tk/curiosidades/uma-missao-gigantesca</loc>
 		<video:video>
 			<video:title><![CDATA[Curiosidade: Uma Missão Gigantesca]]></video:title>
 			<video:description><![CDATA[
 ]]></video:description>
-			<video:thumbnail_loc>http://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
 			<video:player_loc>https://vid.me/e/EtmJs</video:player_loc>
 			<video:player_loc>https://openload.co/embed/PEBaz_aoZyc</video:player_loc>
 			<video:tag>chaotic</video:tag>
