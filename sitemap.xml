@@ -6,12 +6,13 @@
         <loc>https://www.chaoticonline.tk/en/sitemap.xml</loc>
         <loc>https://www.chaoticonline.tk/en/meta.xml</loc>
         <loc>https://www.chaoticonline.tk/en/creatures.xml</loc>
+        <loc>https://www.chaoticonline.tk/en/locations.xml</loc>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.tk/pt/sitemap.xml</loc>
         <loc>https://www.chaoticonline.tk/pt/meta.xml</loc>
-        <loc>https://www.chaoticonline.tk/pt/creatures.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/locations.xml</loc>
     </sitemap>
 
 </sitemapindex>
