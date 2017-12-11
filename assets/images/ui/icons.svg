@@ -13,6 +13,21 @@
         <symbol id="chevron-right-symbol" viewBox="0 0 128 160">
             <path fill="#636c72" d="M12.688 0l64 64-64 64h22.625l58.344-58.344L99.313 64l-5.656-5.656L35.313 0H12.688z"/>
         </symbol>
+        <symbol id="angle-double-right-symbol" viewBox="0 0 32 40" class="icon angle-double-right">
+            <polygon points="12.8 29.4 24.6 16 12.8 2.6 15.1 0.6 28.6 16 15.1 31.4 "/><polygon points="3.4 29.4 15.2 16 3.4 2.6 5.7 0.6 19.2 16 5.7 31.4 "/>
+        </symbol>
+        <symbol id="step-backward-symbol" viewBox="0 0 32 32" class="icon step-backward">
+            <path fill="#888" d="M4 28V4h4v11L18 5v10L28 5v22L18 17v10L8 17v11z"/>
+        </symbol>
+        <symbol id="arrow-left-symbol" viewBox="0 0 32 32" class="icon arrow-left">
+            <path fill="#888" d="M18 5v10L28 5v22L18 17v10L7 16z"/>
+        </symbol>
+        <symbol id="arrow-right-symbol" viewBox="0 0 32 32" class="icon arrow-right">
+            <path fill="#888" d="M16 27V17L6 27V5l10 10V5l11 11z"/>
+        </symbol>
+        <symbol id="step-forward-symbol" viewBox="0 0 32 32" class="icon step-forward">
+            <path fill="#888" d="M28 4v24h-4V17L14 27V17L4 27V5l10 10V5l10 10V4z"/>
+        </symbol>
         <symbol id="quote-right-symbol" viewBox="0 0 100 125">
             <path d="M85.217 16.341H63.696c-5.403 0-9.783 4.38-9.783 9.784v21.52c0 5.404 4.38 9.784 9.783 9.784h17.608v1.311c0 6.189-5.047 11.226-11.25 11.226-3.783 0-6.849 3.065-6.849 6.848s3.065 6.848 6.849 6.848C83.81 83.659 95 72.479 95 58.738V26.125c0-5.404-4.38-9.784-9.783-9.784zm-48.914 0h-21.52C9.38 16.341 5 20.721 5 26.125v21.52c0 5.404 4.38 9.784 9.784 9.784h17.607v1.311c0 6.189-5.047 11.226-11.25 11.226-3.782 0-6.848 3.065-6.848 6.848s3.066 6.848 6.848 6.848c13.755 0 24.946-11.18 24.946-24.921V26.125c0-5.404-4.38-9.784-9.784-9.784z"/>
         </symbol>
@@ -31,5 +46,20 @@
     </g>
     <g id="quote-right">
         <use xlink:href="#quote-right-symbol"/>
+    </g>
+    <g id="angle-double-right">
+        <use xlink:href="#angle-double-right-symbol"/>
+    </g>
+    <g id="step-backward">
+        <use xlink:href="#step-backward-symbol"/>
+    </g>
+    <g id="arrow-left">
+        <use xlink:href="#arrow-left-symbol"/>
+    </g>
+    <g id="arrow-right">
+        <use xlink:href="#arrow-right-symbol"/>
+    </g>
+    <g id="step-forward">
+        <use xlink:href="#step-forward-symbol"/>
     </g>
 </svg>
