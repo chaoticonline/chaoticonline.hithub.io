@@ -4,4 +4,9 @@
         <loc>https://www.chaoticonline.tk/glacier-plains</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/geleiras" />
     </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/lake-ken-i-po</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/lago-ken-i-po" />
+    </url>
 </urlset>
