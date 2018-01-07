@@ -6,10 +6,27 @@
     <description>Recent content in Sem Tribo on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Dec 2017 11:01:18 -0200</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.tk/pt/creatures/tribeless/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cromaxx</title>
+      <link>https://www.chaoticonline.tk/pt/cromaxx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/pt/cromaxx/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ursis</title>
+      <link>https://www.chaoticonline.tk/pt/ursis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/pt/ursis/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

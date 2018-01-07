@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drimesse on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/pt/tags/drimesse/</link>
+    <description>Recent content in Drimesse on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/pt/tags/drimesse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Confronto Final (Parte 1)</title>
+      <link>https://www.chaoticonline.tk/videos/confronto-final-parte-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/confronto-final-parte-1/</guid>
+      <description>Nesse episódio a batalha continua em diferentes regiões de Perim ao mesmo tempo… e também na própria Aliança Tribal</description>
+    </item>
+    
+    <item>
+      <title>Feras da Guerra</title>
+      <link>https://www.chaoticonline.tk/videos/feras-da-guerra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/feras-da-guerra/</guid>
+      <description>Nesse episódio, após muito tempo sem aprontar com outros jogadores, Krystella e Klay armam pro Peyton conseguir o scan de um Fera da Guerra, um gigantesco titã Mipedian tão poderoso quando lunático e, aparentemente, incontrolável</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decrescendo on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/pt/tags/decrescendo/</link>
+    <description>Recent content in Decrescendo on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/pt/tags/decrescendo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ameaça Tripla</title>
+      <link>https://www.chaoticonline.tk/videos/ameaca-tripla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/ameaca-tripla/</guid>
+      <description>Nesse episódio veremos a Aliança Tribal superando suas diferenças culturais para que unidos possam talvez ter uma chance contra os M&amp;rsquo;arrillians</description>
+    </item>
+    
+    <item>
+      <title>Stelgar Ataca</title>
+      <link>https://www.chaoticonline.tk/videos/stelgar-ataca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/stelgar-ataca/</guid>
+      <description>Nesse espisódio conheceremos o Mommark, um cientista louco do Outro Mundo, e uma de suas criações, Stelgar.</description>
+    </item>
+    
+  </channel>
+</rss>

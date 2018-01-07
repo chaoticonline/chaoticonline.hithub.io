@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garv on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/garv/</link>
+    <description>Recent content in Garv on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/garv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blight Fight</title>
+      <link>https://www.chaoticonline.tk/videos/blight-fight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/blight-fight/</guid>
+      <description>In this episode we’ll meet Garv, the OverWorld Caretaker in charge of Lake Morn, helping Tom (and Smildon) to heal the Prexxor Chasm from the Blight instead of fighting it by brute-force</description>
+    </item>
+    
+    <item>
+      <title>Elementary</title>
+      <link>https://www.chaoticonline.tk/videos/elementary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/elementary/</guid>
+      <description>In this episode we’ll meet the four Elemental Servants of the Lost City and a battle in Chaotic with them all at once</description>
+    </item>
+    
+  </channel>
+</rss>

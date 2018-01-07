@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyrenox on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/pt/tags/cyrenox/</link>
+    <description>Recent content in Cyrenox on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/pt/tags/cyrenox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Na Onda de Pedra do Rock</title>
+      <link>https://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock/</guid>
+      <description>Nesse episódio veremos um luta entre Peyton e seu ídolo musical, com direito até a uma sutil homenagem à um dos vocalistas do KISS, Gene Simmons</description>
+    </item>
+    
+    <item>
+      <title>Robôs da Pesada</title>
+      <link>https://www.chaoticonline.tk/videos/robos-da-pesada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/robos-da-pesada/</guid>
+      <description>Nesse episódio o Dr. Frankenstein de Perim resolve implantar parte de seu próprio cérebro nos Gigantroopers, tornando-os inteligentes o bastante para uma tentativa de dominação do Submundo resultando numa batalha no melhor estilo Círculo de Fogo</description>
+    </item>
+    
+  </channel>
+</rss>

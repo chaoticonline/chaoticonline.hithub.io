@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danian hall on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/danian-hall/</link>
+    <description>Recent content in Danian hall on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/danian-hall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crash Course</title>
+      <link>https://www.chaoticonline.tk/videos/crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/crash-course/</guid>
+      <description>In this episode, Kaz faces Klay in a dispute while Tom tries to get the scan of a lunatic Creature whose life is playing tricks.</description>
+    </item>
+    
+    <item>
+      <title>The Birth of Borth-Majar</title>
+      <link>https://www.chaoticonline.tk/videos/the-birth-of-borth-majar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/the-birth-of-borth-majar/</guid>
+      <description>In this episode we will know the origins of an unusual creature, Borth-Majar, and how Kaz deals with his collective individually personality (what? O.o)</description>
+    </item>
+    
+  </channel>
+</rss>

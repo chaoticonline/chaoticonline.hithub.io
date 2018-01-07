@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Queen&#39;s gate on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/queens-gate/</link>
+    <description>Recent content in Queen&#39;s gate on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/queens-gate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Peytonic Adventure</title>
+      <link>https://www.chaoticonline.tk/videos/a-peytonic-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/a-peytonic-adventure/</guid>
+      <description>In this episode, an adventure in the 007 style in which Peyton is challenged by a world famous counterfeiter for a Chaotic match</description>
+    </item>
+    
+    <item>
+      <title>The Floundering Father</title>
+      <link>https://www.chaoticonline.tk/videos/the-floundering-father/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/the-floundering-father/</guid>
+      <description>In this episode we’ll see a blabbermouth knows-it-all father getting real after a quadruple challenge</description>
+    </item>
+    
+  </channel>
+</rss>

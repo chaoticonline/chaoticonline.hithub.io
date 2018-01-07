@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grook on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/grook/</link>
+    <description>Recent content in Grook on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/grook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colosseum Showdown</title>
+      <link>https://www.chaoticonline.tk/videos/colosseum-showdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/colosseum-showdown/</guid>
+      <description>In this episode we’ll see a little misunderstanding end up in an epic way in the best Real Steel style</description>
+    </item>
+    
+    <item>
+      <title>Mega Match</title>
+      <link>https://www.chaoticonline.tk/videos/mega-match/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/mega-match/</guid>
+      <description>In this episode we’ll see the internal competition between Kaz and Peyton to see who is the best Chaotic player get to a next level… only now it’s up to Tom</description>
+    </item>
+    
+    <item>
+      <title>Train Wreck</title>
+      <link>https://www.chaoticonline.tk/videos/train-wreck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/train-wreck/</guid>
+      <description>In this episode, when Kaz starts getting trouble in Chaotic, Peyton helps him with a&amp;hellip; &amp;ldquo;personal trainer&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

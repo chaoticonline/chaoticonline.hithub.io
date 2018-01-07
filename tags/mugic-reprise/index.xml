@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mugic reprise on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/mugic-reprise/</link>
+    <description>Recent content in Mugic reprise on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/mugic-reprise/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everything&#39;s in Flux</title>
+      <link>https://www.chaoticonline.tk/videos/everything-is-in-flux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/everything-is-in-flux/</guid>
+      <description>In this episode we’ll know a little more about Krystella, a player as unprincipled as Klay that does everything, no matter what, to succeed or to prevent those who cross her path to succeed themselves.</description>
+    </item>
+    
+    <item>
+      <title>The CodeMaster Chronicles (Part 2)</title>
+      <link>https://www.chaoticonline.tk/videos/the-codemaster-chronicles-part-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/the-codemaster-chronicles-part-2/</guid>
+      <description>In continuation of the previous episode, after having his battle plan ruined because of the mighty Cromaxx, Tom needs to figure out a way to workaround the situation in this epic battle.</description>
+    </item>
+    
+  </channel>
+</rss>

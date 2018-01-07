@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lomma on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/pt/tags/lomma/</link>
+    <description>Recent content in Lomma on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/pt/tags/lomma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combate à Praga</title>
+      <link>https://www.chaoticonline.tk/videos/combate-a-praga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/combate-a-praga/</guid>
+      <description>Nesse episódio conheceremos Garv, o Zelador do Outro Mundo responsável pelo Lago Morn, ajudando Tom (e Smildon) a curar o Abismo Prexxor da Praga ao invés de combatê-la na força bruta</description>
+    </item>
+    
+    <item>
+      <title>Mega Disputa</title>
+      <link>https://www.chaoticonline.tk/videos/mega-disputa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/mega-disputa/</guid>
+      <description>Nesse episódio veremos a competição interna entre Kaz e Peyton para saber quem é o melhor jogador de Chaotic chegar a outro nível… só que agora sobrou pro Tom</description>
+    </item>
+    
+    <item>
+      <title>Um Perigo Raro</title>
+      <link>https://www.chaoticonline.tk/videos/um-perigo-raro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/um-perigo-raro/</guid>
+      <description>No primeiro episódio da Segunda Temporada veremos o desfecho dos acontecimentos do episódio anterior, com direito a terrorismo e espionagem</description>
+    </item>
+    
+  </channel>
+</rss>

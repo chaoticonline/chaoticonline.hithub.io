@@ -6,10 +6,18 @@
     <description>Recent content in M&#39;arrillians on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Dec 2017 11:01:18 -0200</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.tk/pt/creatures/marrillians/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aa&#39;une, Oligarca</title>
+      <link>https://www.chaoticonline.tk/aaune-oligarca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/aaune-oligarca/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

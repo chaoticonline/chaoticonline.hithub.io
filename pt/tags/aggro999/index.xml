@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aggro999 on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/pt/tags/aggro999/</link>
+    <description>Recent content in Aggro999 on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/pt/tags/aggro999/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O problema do Bodal...</title>
+      <link>https://www.chaoticonline.tk/videos/o-problema-do-bodal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/o-problema-do-bodal/</guid>
+      <description>Nesse episódio conheceremos Bodal, uma Criatura bastante tagarela, irritante e convencida.
+Veremos, também, a mais improvável de todas as lutas em Chaotic.</description>
+    </item>
+    
+    <item>
+      <title>Trocando Cartas</title>
+      <link>https://www.chaoticonline.tk/videos/trocando-cartas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/trocando-cartas/</guid>
+      <description>Nesse episódio veremos uma seqüência de troca de cartas arquitetada pela Sarah para que pudesse ter o scan de um mugic raro. Claro que nossos cavalheiros não a deixariam na mão… não é?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crash course on Chaotic Online</title>
+    <link>https://www.chaoticonline.tk/tags/crash-course/</link>
+    <description>Recent content in Crash course on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.tk/tags/crash-course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crash Course</title>
+      <link>https://www.chaoticonline.tk/videos/crash-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/crash-course/</guid>
+      <description>In this episode, Kaz faces Klay in a dispute while Tom tries to get the scan of a lunatic Creature whose life is playing tricks.</description>
+    </item>
+    
+  </channel>
+</rss>
