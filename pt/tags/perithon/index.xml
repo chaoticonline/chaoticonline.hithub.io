@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perithon! on Chaotic Online</title>
+    <title>Perithon on Chaotic Online</title>
     <link>https://www.chaoticonline.tk/pt/tags/perithon/</link>
-    <description>Recent content in Perithon! on Chaotic Online</description>
+    <description>Recent content in Perithon on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -11,12 +11,25 @@
     
     
     <item>
-      <title>Perithon!</title>
-      <link>https://www.chaoticonline.tk/pt/videos/perithon/</link>
+      <title>Maxxor</title>
+      <link>https://www.chaoticonline.tk/pt/maxxor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.tk/pt/videos/perithon/</guid>
-      <description>Nesse episódio, após uma intensa batalha e uma vitória gloriosa sobre os M&amp;rsquo;arrillians, as Tribos decidem manter a Aliança Tribal rumo à uma próspera Perim e, para celebrar a paz, fazem uma corrida de carros… mas velhos hábitos nunca mudam…</description>
+      <guid>https://www.chaoticonline.tk/pt/maxxor/</guid>
+      <description>&lt;p&gt;Maxxor é um Herói do Outro Mundo e comandante da Tribo do Outro Mundo&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Takinom</title>
+      <link>https://www.chaoticonline.tk/pt/takinom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/pt/takinom/</guid>
+      <description>&lt;p&gt;Takinom é um Comandante do Submundo que serve a &lt;a href=&#34;https://www.chaoticonline.tk/pt/chaor&#34;&gt;Chaor&lt;/a&gt; como um de seus Conselheiros, juntamente com &lt;a href=&#34;https://www.chaoticonline.tk/pt/agitos&#34;&gt;Agitos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
