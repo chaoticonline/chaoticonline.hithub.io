@@ -3,16 +3,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://www.chaoticonline.tk/en/sitemap.xml</loc>
-        <loc>https://www.chaoticonline.tk/en/meta.xml</loc>
-        <loc>https://www.chaoticonline.tk/en/creatures.xml</loc>
-        <loc>https://www.chaoticonline.tk/en/locations.xml</loc>
+        <loc>https://www.chaoticonline.tk/meta.xml</loc>
+        <loc>https://www.chaoticonline.tk/attacks.xml</loc>
+        <loc>https://www.chaoticonline.tk/locations.xml</loc>
+        <loc>https://www.chaoticonline.tk/mugics.xml</loc>
+        <loc>https://www.chaoticonline.tk/battlegears.xml</loc>
+        <loc>https://www.chaoticonline.tk/creatures.xml</loc>
     </sitemap>
 
     <sitemap>
-        <loc>https://www.chaoticonline.tk/pt/sitemap.xml</loc>
         <loc>https://www.chaoticonline.tk/pt/meta.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/attacks.xml</loc>
         <loc>https://www.chaoticonline.tk/pt/locations.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/mugics.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/battlegears.xml</loc>
+        <loc>https://www.chaoticonline.tk/pt/creatures.xml</loc>
     </sitemap>
 
 </sitemapindex>
