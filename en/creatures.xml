@@ -1,11 +1,394 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
     <url>
-        <loc>https://www.chaoticonline.tk/maxxor</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/maxxor" />
+        <loc>https://www.chaoticonline.tk/maxxor/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/maxxor/" />
     </url>
+
     <url>
-        <loc>https://www.chaoticonline.tk/takinom</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/takinom" />
+        <loc>https://www.chaoticonline.tk/takinom/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/takinom/" />
     </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/accato/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/accato/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/aggroar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/aggroar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/antidaeon/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/antidaeon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/arctus-heptadds-squire/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/arctus-escudeiro-de-heptadd/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/arias/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/arias/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/blazier/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/blazier/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/bluggon/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/bluggon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/bodal/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/bodal/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/crawsectus/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/crawsectus/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/dractyl/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/dractyl/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ettala/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ettala/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/frafdo/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/frafdo/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/gespedan/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/gespedan/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/heptadd/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/heptadd/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/intress/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/intress/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/laarina/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/laarina/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/mezzmarr/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/mezzmarr/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/najarin/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/najarin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/owis/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/owis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/prantix/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/prantix/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/quadore/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/quadore/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/raimusa/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/raimusa/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/slurhk/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/slurhk/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/staluk/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/staluk/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/tangath-toborn/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/tangath-toborn/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/tartarek/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/tartarek/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/velreth/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/velreth/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ulfhedinn/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ulfhedinn/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/velreth/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/velreth/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/vidav/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/vidav/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/vlar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/vlar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/xaerv/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/xaerv/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/yokkis/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/yokkis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/zalic/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/zalic/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/orth-the-empowerer/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/orth-empoderador/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/agitos/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/agitos/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/barath-beyond/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/barath-beyond/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/borth-majar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/borth-majar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/chaor/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/chaor/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/dardemus/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/dardemus/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ghuul/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ghuul/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/hearring/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/hearring/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/khybon/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/khybon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/krekk/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/krekk/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/kughar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/kughar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/lord-van-bloot/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/lord-van-bloot/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/magmon/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/magmon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/miklon/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/miklon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/nauthilax/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/nauthilax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/pyrithion/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/pyrithion/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/skithia/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/skithia/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/spyder/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/spyder/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/tharax/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/tharax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/toadore/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/toadore/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ulmar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ulmar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/zalvar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/zalvar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/malvadine/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/malvadine/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/prince-mudeenu/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/principe-mudeenu/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/qwun/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/qwun/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ribbian/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ribbian/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/shimmark/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/shimmark/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/tiaane/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/tiaane/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/zhade/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/zhade/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/galin/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/galin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ibiaan/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ibiaan/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/junda/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/junda/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/kannen/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/kannen/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/lhad/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/lhad/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/mallash/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/mallash/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/odu-bathax/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/odu-bathax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/skartalas/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/skartalas/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/wamma/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/wamma/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/aaune-the-oligarch/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/aaune-oligarca/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/cromaxx/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/cromaxx/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/ursis/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/ursis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/raznus-ambassador-to-the-danians/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/raznus-embaixador-pelos-danians/" />
+    </url>
+
 </urlset>
