@@ -1,1817 +1,3423 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Bem-vindo ao Chaotic (Parte 1)]]></video:title>
 			<video:description><![CDATA[No primeiro episódio da série, o protagonista, Tom Majors, recebe seu código de acesso para o Chaotic, um lugar onde, segundo seu melhor amigo, Kaz, é possível se transformar nas Criaturas e jogar de verdade.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://thevid.net/e/cqcwurr1cy0</video:player_loc>
 			<video:player_loc>https://openload.co/embed/hWS3MbMQqNk</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1170</video:duration>
+			<video:publication_date>2016-08-18T08:56:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>bem-vindo ao chaotic (parte 1)</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>geleiras</video:tag>
+			<video:tag>escudo de &amp;aacute;gua</video:tag>
+			<video:tag>fort&amp;iacute;ssimo</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>samuel murakami</video:tag>
+			<video:tag>samshady</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/bem-vindo-ao-chaotic-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Bem-vindo ao Chaotic (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação da série, após ter inserido seu código de acesso, Tom descobre que todas as fantasias de Kaz eram reais e tem sua primeira luta em Chaotic.]]></video:description>
+			<video:player_loc>https://thevid.net/e/1d51elwqmow6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/mRH_laxBFOw</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/HTuEhUdjyo8</video:player_loc>
 			<video:duration>1267</video:duration>
+			<video:publication_date>2016-08-18T09:28:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>bem-vindo ao chaotic (parte 2)</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>geleiras</video:tag>
+			<video:tag>escudo de &amp;aacute;gua</video:tag>
+			<video:tag>fort&amp;iacute;ssimo</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>samuel murakami</video:tag>
+			<video:tag>samshady</video:tag>
+			<video:tag>klay</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/inesperado</loc>
+		<loc>https://www.chaoticonline.tk/videos/inesperado/</loc>
 		<video:video>
 			<video:title><![CDATA[Inesperado]]></video:title>
 			<video:description><![CDATA[Nesse episódio conhecemos o quarto membro do grupo, Peyton, e sua personalidade… “excêntrica”.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://thevid.net/e/wcdzrsticvfczqhclt3</video:player_loc>
 			<video:player_loc>https://openload.co/embed/0CcMRX8mXtU</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1299</video:duration>
+			<video:publication_date>2016-08-18T09:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>geleiras</video:tag>
+			<video:tag>fort&amp;iacute;ssimo</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>cidade do submundo</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>blazier</video:tag>
+			<video:tag>mowercycle</video:tag>
+			<video:tag>chaor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/eternos-rivais</loc>
+		<loc>https://www.chaoticonline.tk/videos/eternos-rivais/</loc>
 		<video:video>
 			<video:title><![CDATA[Eternos Rivais]]></video:title>
 			<video:description><![CDATA[A antiga guerra entre o Bem contra o Mal no universo de Chaotic: Outro Mundo contra Submundo.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://thevid.net/e/edhu6hbbwsqxv</video:player_loc>
 			<video:player_loc>https://openload.co/embed/1AFKUwe8MuU</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1254</video:duration>
+			<video:publication_date>2016-08-18T10:07:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>eternos rivais</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>velreth</video:tag>
+			<video:tag>maglax</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>magmon</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/rota-de-colisao</loc>
+		<loc>https://www.chaoticonline.tk/videos/rota-de-colisao/</loc>
 		<video:video>
 			<video:title><![CDATA[Rota de Colisão]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Kaz enfrenta o Klay numa disputa enquanto Tom tenta obter o scan de uma Criatura lunática cuja vida é pregar peças.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:player_loc>https://thevid.net/e/j2uviyyiovdsqu</video:player_loc>
 			<video:player_loc>https://openload.co/embed/SP7HWxb0lvU</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1206</video:duration>
+			<video:publication_date>2016-08-18T10:34:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>rota de colis&amp;atilde;o</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>staluk</video:tag>
+			<video:tag>viledriver</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/o-problema-do-bodal</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-problema-do-bodal/</loc>
 		<video:video>
 			<video:title><![CDATA[O problema do Bodal...]]></video:title>
-			<video:description><![CDATA[Nesse episódio conheceremos Bodal, uma Criatura bastante tagarela, irritante e convencida.
-Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:description>
+			<video:description><![CDATA[Nesse episódio conheceremos Bodal, uma Criatura bastante tagarela, irritante e convencida. Veremos, também, a mais improvável de todas as lutas em Chaotic.]]></video:description>
+			<video:player_loc>https://thevid.net/e/x5tapiwxlnqd</video:player_loc>
+			<video:player_loc>https://openload.co/embed/EG1jReYhDt4</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/TtlnU7URMZk</video:player_loc>
 			<video:duration>1247</video:duration>
+			<video:publication_date>2016-08-18T10:52:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>o problema do bodal</video:tag>
+			<video:tag>cidade kiru</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>arsenal do bodal</video:tag>
+			<video:tag>spyder</video:tag>
+			<video:tag>aerodrone</video:tag>
+			<video:tag>bodal</video:tag>
+			<video:tag>cyclance</video:tag>
+			<video:tag>tank</video:tag>
+			<video:tag>aggro999</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/fuga-do-formigueiro</loc>
+		<loc>https://www.chaoticonline.tk/videos/fuga-do-formigueiro/</loc>
 		<video:video>
 			<video:title><![CDATA[Fuga do Formigueiro]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos mais uma das quatro Tribos de Chaotic, os Danians, uma Tribo formada por insetos dos mais variados tipos que levam a segurança dos seus domínios a sério, principalmente quando se tratando de jogadores de Chaotic.]]></video:description>
+			<video:player_loc>https://thevid.net/e/butv5xeftycn6jz</video:player_loc>
+			<video:player_loc>https://openload.co/embed/E_B3eSLABbA</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/CJIDkzppIqY</video:player_loc>
 			<video:duration>1244</video:duration>
+			<video:publication_date>2016-08-18T11:16:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>fuga do formigueiro</video:tag>
+			<video:tag>colina dos pilares</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>prot&amp;oacute;tipo da espada de espinhos</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>junda</video:tag>
+			<video:tag>lhad</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/tudo-esta-em-fluxo</loc>
+		<loc>https://www.chaoticonline.tk/videos/tudo-esta-em-fluxo/</loc>
 		<video:video>
 			<video:title><![CDATA[Tudo está em Fluxo]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos um pouco mais sobre a Krystella, uma jogadora tão inescrupulosa quanto Klay que faz de tudo para ter sucesso ou para impedir que àqueles que cruzem seu caminho o tenha.]]></video:description>
+			<video:player_loc>https://thevid.net/e/l6kifeg23lhh1dx1ee</video:player_loc>
+			<video:player_loc>https://openload.co/embed/q-Pab6kt8O8</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/vd1scosQz0k</video:player_loc>
 			<video:duration>1266</video:duration>
+			<video:publication_date>2016-08-18T12:00:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>tudo est&amp;aacute; em fluxo</video:tag>
+			<video:tag>cidade do submundo</video:tag>
+			<video:tag>pilar de ferro</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>xaerv</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>krystella</video:tag>
+			<video:tag>pyrithion</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Castelo Bodhran: Tudo ou Nada (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos a estória de Reginald Terrington, os problemas no qual se meteu e a tentativa do grupo de amigos de resgatá-lo com uma aposta que poderia significar o fim da carreira em Chaotic de um deles.]]></video:description>
+			<video:player_loc>https://thevid.net/e/tyjo5pi5qxivp</video:player_loc>
+			<video:player_loc>https://openload.co/embed/yBFHG-_FwSM</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/wWlKnriflak</video:player_loc>
 			<video:duration>1249</video:duration>
+			<video:publication_date>2016-08-23T10:37:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag></video:tag>
+			<video:tag>floresta da vida</video:tag>
+			<video:tag>dractyl</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>escamas do dractyl</video:tag>
+			<video:tag>reggieone</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/castelo-bodhran-tudo-ou-nada-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Castelo Bodhran: Tudo ou Nada (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, Tom fica cara-a-cara com seu herói mas antes que pudesse tentar resgatar o Reggie, deve não apenas ganhar sua confiança, como travar uma batalha real com outra Tribo.]]></video:description>
+			<video:player_loc>https://thevid.net/e/t5bz2cjkjoxbiv400pskt6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/PLyKqxlDJEo</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/eok0U3_4Wx8</video:player_loc>
-			<video:duration>1299</video:duration>
+			<video:duration>1239</video:duration>
+			<video:publication_date>2016-08-23T10:55:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag></video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>reggione</video:tag>
+			<video:tag>reginald terrington</video:tag>
+			<video:tag>frafdo</video:tag>
+			<video:tag>castelo bodhran</video:tag>
+			<video:tag>brusier33</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o da invers&amp;atilde;o</video:tag>
+			<video:tag>zhade</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/lorde-da-traicao</loc>
+		<loc>https://www.chaoticonline.tk/videos/lorde-da-traicao/</loc>
 		<video:video>
 			<video:title><![CDATA[Lorde da Traição]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos o traiçoeiro Lord Van Bloot, segundo em comando do Submundo, e como Chaor faz de Kaz seu espião e usa as lutas em Chaotic como estratégia militar contra ele.]]></video:description>
+			<video:player_loc>https://thevid.net/e/v3a12ynfe4</video:player_loc>
+			<video:player_loc>https://openload.co/embed/ZK8tsovmYyI</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/AkuH46pdT_Q</video:player_loc>
 			<video:duration>1309</video:duration>
+			<video:publication_date>2016-09-07T11:33:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>lorde da trai&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>cidade do submundo</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>agitos</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>krekk</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/batalha-dos-sexos</loc>
+		<loc>https://www.chaoticonline.tk/videos/batalha-dos-sexos/</loc>
 		<video:video>
 			<video:title><![CDATA[Batalha dos Sexos]]></video:title>
 			<video:description><![CDATA[Nesse espisódio descobriremos (ou não) quem joga Chaotic melhor, os homens ou as mulheres, meninos ou meninas, numa luta entre o Peyton e a Krystella.]]></video:description>
+			<video:player_loc>https://thevid.net/e/r6j52ka0vawwd6dcv16nqwfyt</video:player_loc>
+			<video:player_loc>https://openload.co/embed/UTiBu1Bptho</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/URrpGt3ZGlA</video:player_loc>
 			<video:duration>1225</video:duration>
+			<video:publication_date>2016-09-07T12:13:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>batalha dos sexos</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>krystella</video:tag>
+			<video:tag>kughar</video:tag>
+			<video:tag>quadore</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>takinom</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/licoes-de-batalha</loc>
+		<loc>https://www.chaoticonline.tk/videos/licoes-de-batalha/</loc>
 		<video:video>
 			<video:title><![CDATA[Lições de Batalha]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom descobre sobre o evento principal em Chaotic: As Batalhas com CodeMasters!]]></video:description>
+			<video:player_loc>https://thevid.net/e/nqylhz3fdu3</video:player_loc>
+			<video:player_loc>https://openload.co/embed/b24Od_tfEaw</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/RkTBp9yYWQc</video:player_loc>
 			<video:duration>1250</video:duration>
+			<video:publication_date>2016-09-13T10:21:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>li&amp;ccedil;&amp;otilde;es de batalha</video:tag>
+			<video:tag>dractyl</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/o-nascimento-de-borth-majar</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-nascimento-de-borth-majar/</loc>
 		<video:video>
 			<video:title><![CDATA[O Nascimento de Borth-Majar]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos conhecer as origens de uma Criatura incomum, Borth-Majar, e como Kaz lida com a dupla personalidade individualmente coletiva dela (quê? o.O)]]></video:description>
+			<video:player_loc>https://thevid.net/e/5q1ou01g1y30cua2f2dvoa</video:player_loc>
+			<video:player_loc>https://openload.co/embed/gX0ofuk2nWQ</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/x76HsPCN2EU</video:player_loc>
 			<video:duration>1284</video:duration>
+			<video:publication_date>2016-09-13T10:38:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>o nascimento de borth-majar</video:tag>
+			<video:tag>floresta da chuva eterna</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>borth-majar</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>ibiaan</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/areias-da-mudanca</loc>
+		<loc>https://www.chaoticonline.tk/videos/areias-da-mudanca/</loc>
 		<video:video>
 			<video:title><![CDATA[Areias da Mudança]]></video:title>
 			<video:description><![CDATA[Nesse episódio Peyton mostra para o Tom que nem todos os Mipedians são os cruéis e impiedosos como os que ele teve contanto ao resgatar o Reggie.]]></video:description>
+			<video:player_loc>https://thevid.net/e/6e61oj5ocpqnepotorgur</video:player_loc>
+			<video:player_loc>https://openload.co/embed/GnqsAaIAmVU</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/m7BNZw0qjz8</video:player_loc>
 			<video:duration>1285</video:duration>
+			<video:publication_date>2016-09-13T11:01:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>areias da mudan&amp;ccedil;a</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>qwun</video:tag>
+			<video:tag>ribbian</video:tag>
+			<video:tag>shimmark</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>corredeiras de kha&amp;amp;#39;shiir</video:tag>
+			<video:tag>slurhk</video:tag>
+			<video:tag>tiaane</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/heroi-caido</loc>
+		<loc>https://www.chaoticonline.tk/videos/heroi-caido/</loc>
 		<video:video>
 			<video:title><![CDATA[Herói Caído]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um golpe traiçoeiro de Lorde Van Bloot contra Maxxor que poderia destruir o Outro Mundo.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/c51fstidht1dqzgl</video:player_loc>
 			<video:player_loc>https://openload.co/embed/qeIS5Pm74rE</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1308</video:duration>
+			<video:publication_date>2016-09-22T07:21:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>her&amp;oacute;i ca&amp;iacute;do</video:tag>
+			<video:tag>floresta da vida</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>intress</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>decomposi&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>tom majors</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/caca-aos-scans</loc>
+		<loc>https://www.chaoticonline.tk/videos/caca-aos-scans/</loc>
 		<video:video>
 			<video:title><![CDATA[Caça aos Scans]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos ver Kaz e Peyton competindo (de novo) pra ver quem é o melhor jogador de Chaotic entre eles.]]></video:description>
+			<video:player_loc>https://thevid.net/e/3xzbytb0vb6itoswl16tgj</video:player_loc>
+			<video:player_loc>https://openload.co/embed/Bb8aLaEGAR0</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/4CR4WQroLD0</video:player_loc>
-			<video:duration>1330</video:duration>
+			<video:duration>1210</video:duration>
+			<video:publication_date>2016-09-22T07:39:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>ca&amp;ccedil;a aos scans</video:tag>
+			<video:tag>mallash</video:tag>
+			<video:tag>yokkis</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>cidade do submundo</video:tag>
+			<video:tag>agitos</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/pt/allmageddon</loc>
+		<loc>https://www.chaoticonline.tk/pt/videos/allmageddon/</loc>
 		<video:video>
 			<video:title><![CDATA[Allmageddon]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos a história de Hoton, uma Criatura que, ao procurar por um antigo poder para proteger tudo e à todos que amava, acabou perdendo tudo.]]></video:description>
+			<video:player_loc>https://thevid.net/e/c5jwllonxopx6vlto</video:player_loc>
+			<video:player_loc>https://openload.co/embed/0evPUidS1B8</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/H-BT7Bf2C14</video:player_loc>
 			<video:duration>1238</video:duration>
+			<video:publication_date>2016-09-29T10:06:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>allmageddon</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>drew</video:tag>
+			<video:tag>battleboarder</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>hoton</video:tag>
+			<video:tag>barath beyond</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/um-destino-assustador</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-destino-assustador/</loc>
 		<video:video>
 			<video:title><![CDATA[Um Destino Assustador]]></video:title>
 			<video:description><![CDATA[Nos episódios anteriores, Tom finalmente conseguiu um novo scan de sua Criatura favorita, Maxxor, mas ao usá-lo pela primeira vez em batalha ele percebe que alguma coisa está errada.]]></video:description>
+			<video:player_loc>https://thevid.net/e/rz640bhsguvnzvhoe2e05oq6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/wDDFluOqYMY</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/4T_fkSo7LN0</video:player_loc>
 			<video:duration>1281</video:duration>
+			<video:publication_date>2016-09-29T10:54:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>um destino assustador</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>floresta da vida</video:tag>
+			<video:tag>intress</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>decomposi&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>bodal</video:tag>
+			<video:tag>p&amp;acirc;ntano gloomuck</video:tag>
+			<video:tag>peyton</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/labirinto-da-ameaca</loc>
+		<loc>https://www.chaoticonline.tk/videos/labirinto-da-ameaca/</loc>
 		<video:video>
 			<video:title><![CDATA[Labirinto da Ameaça]]></video:title>
 			<video:description><![CDATA[Nesse episódio, continuando a seqüência na qual o Comandante do Outro Mundo, Maxxor, foi emboscado pelo Mugic traiçoeiro de Lord Van Bloot, veremos uma parceria entre Criaturas e humanos para restaurar o Herói Caído antes de que seja tarde demais.]]></video:description>
+			<video:player_loc>https://thevid.net/e/nevbluwgnncvyory5aemlosgs</video:player_loc>
+			<video:player_loc>https://openload.co/embed/d67BxXva0Xw</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/wY7d9x4cOiM</video:player_loc>
 			<video:duration>1260</video:duration>
+			<video:publication_date>2016-10-11T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>labirinto da amea&amp;ccedil;a</video:tag>
+			<video:tag>floresta da vida</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>intress</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>decomposi&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>cerbie</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonic master</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/isolado</loc>
+		<loc>https://www.chaoticonline.tk/videos/isolado/</loc>
 		<video:video>
 			<video:title><![CDATA[Isolado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a jornada de Kaz por perigoso trajeto, com um guia incomum, em socorro do recluso Raimusa na Cordilheira de Cristal.]]></video:description>
+			<video:player_loc>https://thevid.net/e/d2f2g30gt0taipc6o</video:player_loc>
+			<video:player_loc>https://openload.co/embed/J74b7T5D7Tc</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/gBMyJGS7Iko</video:player_loc>
 			<video:duration>1287</video:duration>
+			<video:publication_date>2016-10-11T10:46:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>isolado</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>bl&amp;uuml;ggon</video:tag>
+			<video:tag>cordilheira de cristal</video:tag>
+			<video:tag>pyrithion</video:tag>
+			<video:tag>lira dos mugicians</video:tag>
+			<video:tag>raimusa</video:tag>
+			<video:tag>cume scimitar</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/pt/chaotikings</loc>
+		<loc>https://www.chaoticonline.tk/pt/videos/chaotikings/</loc>
 		<video:video>
 			<video:title><![CDATA[ChaotiKings]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a iniciação de Kaz no “clubinho” mais famosos de Chaotic… ou não.]]></video:description>
+			<video:player_loc>https://thevid.net/e/qy5ptclrinpjf1</video:player_loc>
+			<video:player_loc>https://openload.co/embed/fOdj9pd5J1E</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/-MqB1bXAW5w</video:player_loc>
 			<video:duration>1340</video:duration>
+			<video:publication_date>2016-10-24T11:34:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>chaotikings</video:tag>
+			<video:tag>mallash</video:tag>
+			<video:tag>solvis</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/stelgar-ataca</loc>
+		<loc>https://www.chaoticonline.tk/videos/stelgar-ataca/</loc>
 		<video:video>
 			<video:title><![CDATA[Stelgar Ataca]]></video:title>
 			<video:description><![CDATA[Nesse espisódio conheceremos o Mommark, um cientista louco do Outro Mundo, e uma de suas criações, Stelgar.]]></video:description>
+			<video:player_loc>https://thevid.net/e/3y5u62u4ydwp</video:player_loc>
+			<video:player_loc>https://openload.co/embed/gEzrX4qeKH8</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/McpqqODf17Y</video:player_loc>
-			<video:duration>1353</video:duration>
+			<video:duration>1342</video:duration>
+			<video:publication_date>2016-10-25T10:57:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>stelgar ataca</video:tag>
+			<video:tag>floresta da chuva eterna</video:tag>
+			<video:tag>klasp</video:tag>
+			<video:tag>ettala</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>floresta pouril</video:tag>
+			<video:tag>castelo mommark</video:tag>
+			<video:tag>stelgar</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a primeira parte da mais sensacional de todas as lutas de Chaotic: A Batalha entre Tom Majors e o CodeMaster Crellan!]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/zucdtn2lp6m6veqddz</video:player_loc>
 			<video:player_loc>https://openload.co/embed/LWwJob0OA-4</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1313</video:duration>
+			<video:publication_date>2016-10-27T11:22:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>as cr&amp;ocirc;nicas do codemaster (parte 1)</video:tag>
+			<video:tag>barath beyond</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>codemaster imthor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/as-cronicas-do-codemaster-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 2)]]></video:title>
-			<video:description><![CDATA[Na continuação do episódio anterior, o desfecho da épica disputa.]]></video:description>
+			<video:description><![CDATA[Na continuação do episódio anterior, após ter seu plano de batalha arruinado pelo poderoso Cromaxx, Tom precisa descobrir um meio de de contornar a situação nesta épica batalha.]]></video:description>
+			<video:player_loc>https://thevid.net/e/k166wxz6rofjxpv2xhat</video:player_loc>
+			<video:player_loc>https://openload.co/embed/-ojQ3iu8-I8</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/eLUecxYYyis</video:player_loc>
 			<video:duration>1290</video:duration>
+			<video:publication_date>2016-10-28T12:58:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>as cr&amp;ocirc;nicas do codemaster (parte 2)</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>codemaster crellan</video:tag>
+			<video:tag>blazier</video:tag>
+			<video:tag>cromaxx</video:tag>
+			<video:tag>abismo prexxor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/o-scan-supremo</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-scan-supremo/</loc>
 		<video:video>
 			<video:title><![CDATA[O Scan Supremo]]></video:title>
 			<video:description><![CDATA[Nesse episódio vamos conhecer um pouco sobre uma Criatura mística chamada Iparu e suas habilidades fantásticas.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/c1ub5p2qi6sln6blh2qhzd</video:player_loc>
 			<video:player_loc>https://openload.co/embed/Mr0eyUYrPek</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1272</video:duration>
+			<video:publication_date>2016-11-01T10:54:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>o scan supremo</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>floresta de iparu</video:tag>
+			<video:tag>rothar</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/uma-vitoria-facil</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-vitoria-facil/</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Vitória Fácil]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos como as coisas podem dar muito errado ao tentar se aproveitar de um novato, né Peyton? ^_^]]></video:description>
+			<video:player_loc>https://thevid.net/e/cja2a44dbocltt</video:player_loc>
+			<video:player_loc>https://openload.co/embed/DFoRZqWz16c</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/L_aU4xMdNlc</video:player_loc>
 			<video:duration>1292</video:duration>
+			<video:publication_date>2016-11-03T10:58:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>uma vit&amp;oacute;ria f&amp;aacute;cil</video:tag>
+			<video:tag>tanque de lava</video:tag>
+			<video:tag>shimmark</video:tag>
+			<video:tag>krekk</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>campo de batalha imthor</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/trocas-para-muito-longe</loc>
+		<loc>https://www.chaoticonline.tk/videos/trocas-para-muito-longe/</loc>
 		<video:video>
 			<video:title><![CDATA[Trocas para Muito Longe]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Kaz e Peyton tentarem fazer o do Treco de Troca (ou não).]]></video:description>
+			<video:player_loc>https://thevid.net/e/i62pq6acoqwd</video:player_loc>
+			<video:player_loc>https://openload.co/embed/PTUzCCMK7gw</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/YwsztCoqHBQ</video:player_loc>
 			<video:duration>1295</video:duration>
+			<video:publication_date>2016-11-07T11:22:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>trocas para muito longe</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>siado</video:tag>
+			<video:tag>pyroblaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>campo de batalha hotekk</video:tag>
+			<video:tag>ozlai</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/crise-em-chaotic</loc>
+		<loc>https://www.chaoticonline.tk/videos/crise-em-chaotic/</loc>
 		<video:video>
 			<video:title><![CDATA[Crise em Chaotic]]></video:title>
 			<video:description><![CDATA[Nesse episódio, as Criaturas de Perim invadem a Terra. Rumo ao Chaotic… pelo nosso planeta!]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/f42zfmzrrtuhhou4o6ygwbe5</video:player_loc>
 			<video:player_loc>https://openload.co/embed/k-OluwCfnn0</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1295</video:duration>
+			<video:publication_date>2016-11-11T11:31:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>crise em chaotic</video:tag>
+			<video:tag>kughar</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>skithia</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>blazier</video:tag>
+			<video:tag>krekk</video:tag>
+			<video:tag>bodal</video:tag>
+			<video:tag>frafdo</video:tag>
+			<video:tag>ozlai</video:tag>
+			<video:tag>barath beyond</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/a-maldicao-de-kor-bek</loc>
+		<loc>https://www.chaoticonline.tk/videos/a-maldicao-de-kor-bek/</loc>
 		<video:video>
 			<video:title><![CDATA[A Maldição de Kor-Bek]]></video:title>
-			<video:description><![CDATA[Nesse episódio, ambientado no arquipélago na qual Peyton e Kaz terminaram no episódio “Troca pra muito Longe”, teremos piratas, tesouros enterrados, maldições e perseguições.]]></video:description>
+			<video:description><![CDATA[Nesse episódio, ambientado em uma das ilhas do arquipélago no qual Peyton e Kaz terminaram no episódio “Troca pra muito Longe”, teremos piratas, tesouros enterrados, maldições e perseguições.]]></video:description>
+			<video:player_loc>https://thevid.net/e/ysdou2amz43</video:player_loc>
+			<video:player_loc>https://openload.co/embed/PFZBKPqBjAU</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/canN_SFwPu4</video:player_loc>
 			<video:duration>1294</video:duration>
+			<video:publication_date>2016-11-14T08:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>a maldi&amp;ccedil;&amp;atilde;o de kor-bek</video:tag>
+			<video:tag>nauthilax</video:tag>
+			<video:tag>antidaeon</video:tag>
+			<video:tag>ilha de kor-bek</video:tag>
+			<video:tag>cavernas kuvian</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o do &amp;ecirc;xtase</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-fogo</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-fogo/</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Fogo]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma luta quente, literalmente, na qual ambos os jogadores tentam provar a superioridade tanto de si mesmos como de um dos Quatro Elementos.]]></video:description>
+			<video:player_loc>https://thevid.net/e/dlbyvgwsqzhk</video:player_loc>
+			<video:player_loc>https://openload.co/embed/7cNAHzdeTII</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/J0AhXJVFNQ0</video:player_loc>
 			<video:duration>1278</video:duration>
+			<video:publication_date>2016-11-14T08:55:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>guerreiros de fogo</video:tag>
+			<video:tag>cidade do submundo</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>hotshot</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/missao-no-abismo</loc>
+		<loc>https://www.chaoticonline.tk/videos/missao-no-abismo/</loc>
 		<video:video>
 			<video:title><![CDATA[Missão no Absimo]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom finalmente decide finalmente explorar o Abismo Prexxor, em Perim, a partir do scan que ganhou do CodeMaster Crellan até ele perceber que alguma coisa está muito errada]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/blpmoxtmcvlcfbdjewp3xggz</video:player_loc>
 			<video:player_loc>https://openload.co/embed/vR9PTuOxkDE</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1277</video:duration>
+			<video:publication_date>2016-11-14T09:13:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>miss&amp;atilde;o no abismo</video:tag>
+			<video:tag>abismo prexxor</video:tag>
+			<video:tag>blazier</video:tag>
+			<video:tag>mowercycle</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/treinamento-desastre</loc>
+		<loc>https://www.chaoticonline.tk/videos/treinamento-desastre/</loc>
 		<video:video>
 			<video:title><![CDATA[Treinamento-Desastre]]></video:title>
 			<video:description><![CDATA[Nesse episódio, quando Kaz começa a ter problemas em Chaotic, Peyton o ajuda com um&amp;hellip; &amp;ldquo;personal trainer&amp;rdquo;]]></video:description>
+			<video:player_loc>https://thevid.net/e/egyacxuc4pkuyk</video:player_loc>
+			<video:player_loc>https://openload.co/embed/40XfVZEz2rM</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/vq3WGobadtk</video:player_loc>
 			<video:duration>1310</video:duration>
+			<video:publication_date>2016-11-14T09:40:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>treinamento-desastre</video:tag>
+			<video:tag>attacat</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>castelo mommark</video:tag>
+			<video:tag>borth-majar</video:tag>
+			<video:tag>triturador de plasma</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/trocando-cartas</loc>
+		<loc>https://www.chaoticonline.tk/videos/trocando-cartas/</loc>
 		<video:video>
 			<video:title><![CDATA[Trocando Cartas]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos uma seqüência de troca de cartas arquitetada pela Sarah para que pudesse ter o scan de um mugic raro. Claro que nossos cavalheiros não a deixariam na mão… não é?]]></video:description>
+			<video:player_loc>https://thevid.net/e/4o1ht2l4uuc0sycgomgmn</video:player_loc>
+			<video:player_loc>https://openload.co/embed/nmTpUM_MfJk</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/0uxHN3irxhU</video:player_loc>
 			<video:duration>1266</video:duration>
+			<video:publication_date>2016-11-14T10:00:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>trocando cartas</video:tag>
+			<video:tag>wamma</video:tag>
+			<video:tag>hisser</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o do mandiblor</video:tag>
+			<video:tag>tartarek</video:tag>
+			<video:tag>velreth</video:tag>
+			<video:tag>tanque de lava</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Duelo Duplo (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Krystella e Klay aprontando (de novo), resultando numa batalha dupla bem interessante valendo o scan de um Equipamento sinistro]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/cclr3vulyja5uxja</video:player_loc>
 			<video:player_loc>https://openload.co/embed/CuJQG3H0mCk</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1306</video:duration>
+			<video:publication_date>2016-11-14T10:24:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>duelo duplo (parte 1)</video:tag>
+			<video:tag>forja do khybon</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>khybon</video:tag>
+			<video:tag>m&amp;aacute;scara de fobia</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>krystella</video:tag>
+			<video:tag>maxxor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/duelo-duplo-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Duelo Duplo (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, não apenas veremos o desfecho da luta em meio aos joguinhos mentais causados pela Krystella e pelo Klay como veremos que… bom… karma is a bitch ¯\_(ツ)_/¯]]></video:description>
+			<video:player_loc>https://thevid.net/e/i1g6dowupcqgli5vlfb4t6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/F8A6-1EwLso</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/iDWFdnoKm_g</video:player_loc>
 			<video:duration>1315</video:duration>
+			<video:publication_date>2016-11-21T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>duelo duplo (parte 2)</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>m&amp;aacute;scara de fobia</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>krystella</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>marquis darini</video:tag>
+			<video:tag>bosque das runas</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/mudando-de-lado</loc>
+		<loc>https://www.chaoticonline.tk/videos/mudando-de-lado/</loc>
 		<video:video>
 			<video:title><![CDATA[Mudando de Lado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos uma pequena parte dos ensinamentos mais conhecidos de A Arte da Guerra de Sun Tzu em Chaotic: Conheça seu inimigo!]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
+			<video:player_loc>https://thevid.net/e/k5x60y144fjb3zrb4donj4d</video:player_loc>
 			<video:player_loc>https://openload.co/embed/HfG-xOvTe1c</video:player_loc>
+			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1333</video:duration>
+			<video:publication_date>2016-11-14T11:41:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>mudando de lado</video:tag>
+			<video:tag>torre gothos</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>izalizard</video:tag>
+			<video:tag>tiaane</video:tag>
+			<video:tag>zhade</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/grande-chance</loc>
+		<loc>https://www.chaoticonline.tk/videos/grande-chance/</loc>
 		<video:video>
 			<video:title><![CDATA[Grande Chance]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a jornada de Sarah em busca do scan de um raro e poderoso Danian alado que acaba com ela impedindo uma tentativa de seqüestro de uma Tribo inimiga]]></video:description>
+			<video:player_loc>https://thevid.net/e/1wvww2mdv0lmnohin0ewj</video:player_loc>
+			<video:player_loc>https://openload.co/embed/xR6IT8GvQpA</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/hIoux-GpZOw</video:player_loc>
 			<video:duration>1256</video:duration>
+			<video:publication_date>2016-11-14T11:41:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>grande chance</video:tag>
+			<video:tag>floresta da chuva eterna</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>cavalo-esqueleto</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>mallash</video:tag>
+			<video:tag>stinger</video:tag>
+			<video:tag>vollash</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/olho-do-redemoinho</loc>
+		<loc>https://www.chaoticonline.tk/videos/olho-do-redemoinho/</loc>
 		<video:video>
 			<video:title><![CDATA[Olho do Redemoinho]]></video:title>
 			<video:description><![CDATA[Nesse episódio Tom e seus amigos ajudam Najarin e um grupo de Mipedians numa importante missão e que confiança é uma dádiva, não uma direito]]></video:description>
+			<video:player_loc>https://thevid.net/e/tw4cdytfmica</video:player_loc>
+			<video:player_loc>https://openload.co/embed/VmlP2dQlLG0</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/wNOQrPyQ5MU</video:player_loc>
 			<video:duration>1237</video:duration>
+			<video:publication_date>2016-12-15T12:57:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>olho do redemoinho</video:tag>
+			<video:tag>lago ken-i-po</video:tag>
+			<video:tag>castelo do najarin</video:tag>
+			<video:tag>najarin</video:tag>
+			<video:tag>katarin</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o da vis&amp;atilde;o do futuro</video:tag>
+			<video:tag>ubliqun</video:tag>
+			<video:tag>ario</video:tag>
+			<video:tag>zalvar</video:tag>
+			<video:tag>krekk</video:tag>
+			<video:tag>sobtjek</video:tag>
+			<video:tag>maglax</video:tag>
+			<video:tag>peyton</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/entre-amigos</loc>
+		<loc>https://www.chaoticonline.tk/videos/entre-amigos/</loc>
 		<video:video>
 			<video:title><![CDATA[Entre Amigos (Season Finale)]]></video:title>
 			<video:description><![CDATA[Nesse episódio… o fim! Da temporada, de uma carreira promissora e de uma longa amizade…]]></video:description>
+			<video:player_loc>https://thevid.net/e/ln3zt40lv14ayj5egatp1y6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/FIBHi7TDhDI</video:player_loc>
 			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/C1sUc_2Ta2M</video:player_loc>
 			<video:duration>1332</video:duration>
+			<video:publication_date>2016-12-19T12:09:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>rumo-ao-chaotic</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>rumo ao chaotic</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>entre amigos</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>campo de batalha imthor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
+			<video:tag>krystella</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/um-perigo-raro</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-perigo-raro/</loc>
 		<video:video>
 			<video:title><![CDATA[Um Perigo Raro]]></video:title>
 			<video:description><![CDATA[No primeiro episódio da Segunda Temporada veremos o desfecho dos acontecimentos do episódio anterior, com direito a terrorismo e espionagem]]></video:description>
+			<video:player_loc>https://thevid.net/e/43hj6zwljxodox</video:player_loc>
 			<video:player_loc>https://openload.co/embed/7BC7Zlhznho</video:player_loc>
 			<video:duration>1380</video:duration>
+			<video:publication_date>2017-01-02T12:03:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>um perigo raro</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>lidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>ulmar</video:tag>
+			<video:tag>dardemus</video:tag>
+			<video:tag>viledriver</video:tag>
+			<video:tag>borth-majar</video:tag>
+			<video:tag>bacia profunda das cataratas de cordac</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>klay</video:tag>
+			<video:tag>klaybourne</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/perigos-da-diplomacia</loc>
+		<loc>https://www.chaoticonline.tk/videos/perigos-da-diplomacia/</loc>
 		<video:video>
 			<video:title><![CDATA[Perigos da Diplomacia]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos que é mais fácil pegar formigas com mel do que com vinagre, mas que mel demais pode não ser uma boa idéia também.]]></video:description>
+			<video:player_loc>https://thevid.net/e/opynu3woupbwveps1</video:player_loc>
 			<video:player_loc>https://openload.co/embed/8C2sl5nNg9k</video:player_loc>
 			<video:duration>1369</video:duration>
+			<video:publication_date>2017-01-06T11:53:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>perigos da diplomacia</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>raznus</video:tag>
+			<video:tag>raznus</video:tag>
+			<video:tag>embaixador danian</video:tag>
+			<video:tag>levitaar</video:tag>
+			<video:tag>krekk</video:tag>
+			<video:tag>illazar</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>anel de na&amp;amp;#39;arin</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o do &amp;ecirc;xtase</video:tag>
+			<video:tag>odu-bathax</video:tag>
+			<video:tag>kolmo</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/um-pai-em-apuros</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-pai-em-apuros/</loc>
 		<video:video>
 			<video:title><![CDATA[Um Pai em Apuros]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pai tagarela e sabichão caindo na real após um desafio qádruplo]]></video:description>
-			<video:player_loc>https://openload.co/embed/NmJrwD6xSoU</video:player_loc>
+			<video:player_loc>https://thevid.net/e/32amo2habtdjk2bt00b</video:player_loc>
+			<video:player_loc>https://openload.co/embed/nFEzKEBIpHA</video:player_loc>
 			<video:duration>1332</video:duration>
+			<video:publication_date>2017-01-09T12:12:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>um pai em apuros</video:tag>
+			<video:tag>campo de batalha oron</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>buzz jr</video:tag>
+			<video:tag>formicidor</video:tag>
+			<video:tag>buzz sr</video:tag>
+			<video:tag>port&amp;otilde;es da rainha</video:tag>
+			<video:tag>aggroar</video:tag>
+			<video:tag>triturador de plasma</video:tag>
+			<video:tag>talism&amp;atilde; do mandiblor</video:tag>
+			<video:tag>khavakk</video:tag>
+			<video:tag>hota</video:tag>
+			<video:tag>ekuud</video:tag>
+			<video:tag>khritlaan</video:tag>
+			<video:tag>bierk</video:tag>
+			<video:tag>ibiaan</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/confronto-no-coliseu</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-no-coliseu/</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto no Coliseu]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pequeno mal-entendido terminar de forma épica no melhor estilo Gigantes de Aço]]></video:description>
-			<video:player_loc>https://openload.co/embed/g3ezhMp8qew</video:player_loc>
+			<video:player_loc>https://thevid.net/e/44kkyo00aub6sguk</video:player_loc>
+			<video:player_loc>https://openload.co/embed/6iAIdeFaAp8</video:player_loc>
 			<video:duration>1369</video:duration>
+			<video:publication_date>2017-01-13T12:43:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>confronto no coliseu</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>orbe de zalvar</video:tag>
+			<video:tag>gigantrooper</video:tag>
+			<video:tag>grook</video:tag>
+			<video:tag>kughar</video:tag>
+			<video:tag>viledriver</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>rothar</video:tag>
+			<video:tag>hammerdoom chantcaller</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock</loc>
+		<loc>https://www.chaoticonline.tk/videos/na-onda-de-pedra-do-rock/</loc>
 		<video:video>
 			<video:title><![CDATA[Na Onda de Pedra do Rock]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um luta entre Peyton e seu ídolo musical, com direito até a uma sutil homenagem à um dos vocalistas do KISS, Gene Simmons]]></video:description>
-			<video:player_loc>https://openload.co/embed/efQkzfk0T50</video:player_loc>
+			<video:player_loc>https://thevid.net/e/vgv5lprolxqcu</video:player_loc>
+			<video:player_loc>https://openload.co/embed/aEDjjtmhW2g</video:player_loc>
 			<video:duration>1368</video:duration>
+			<video:publication_date>2017-01-16T10:51:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>na onda de pedra do rock</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>noisemaker</video:tag>
+			<video:tag>campo de batalha chirrul</video:tag>
+			<video:tag>eddie x</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>maglax</video:tag>
+			<video:tag>dasalin</video:tag>
+			<video:tag>ario</video:tag>
+			<video:tag>b&amp;uuml;ggon</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse espisódio veremos um esquadrão de elite liderado por Chaor numa ousada invasão à Cidade Kiru rumo ao Arsenal do Outro Mundo]]></video:description>
-			<video:player_loc>https://openload.co/embed/ZJJxt5up1N8</video:player_loc>
+			<video:player_loc>https://thevid.net/e/2zhdkmvapf6pzvcmrj</video:player_loc>
+			<video:player_loc>https://openload.co/embed/fTuD4A1ampU</video:player_loc>
 			<video:duration>1417</video:duration>
+			<video:publication_date>2017-01-20T11:07:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>guerreiros de chaor (parte 1)</video:tag>
+			<video:tag>vale do medo</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>ultador</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>swassa</video:tag>
+			<video:tag>dindyon</video:tag>
+			<video:tag>narfall</video:tag>
+			<video:tag>bra&amp;ccedil;os bi&amp;ocirc;nicos a vapor do ulmar</video:tag>
+			<video:tag>alternador de sobrecarga</video:tag>
+			<video:tag>concentradores-rel&amp;acirc;mpago</video:tag>
+			<video:tag>espada de zhahar</video:tag>
+			<video:tag>cyclance</video:tag>
+			<video:tag>cidade kiru</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-de-chaor-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 2)]]></video:title>
-			<video:description><![CDATA[Na continuação do episódio anterior veremos a invasão de Chaor ao Arsenal do Outro Mundo na Cidade Kiru
-In the continuation of the previous episode we’ll see Chaor’s invasion to the Overworld Arsenal in Kiru City]]></video:description>
-			<video:player_loc>https://openload.co/embed/ta1PeG9-bBc</video:player_loc>
+			<video:description><![CDATA[Na continuação do episódio anterior veremos a invasão de Chaor ao Arsenal do Outro Mundo na Cidade Kiru In the continuation of the previous episode we’ll see Chaor’s invasion to the Overworld Arsenal in Kiru City]]></video:description>
+			<video:player_loc>https://thevid.net/e/hkl11o6lxpjm</video:player_loc>
+			<video:player_loc>https://openload.co/embed/OyO6ef07oG4</video:player_loc>
 			<video:duration>1362</video:duration>
+			<video:publication_date>2017-01-23T10:25:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>guerreiros de chaor (parte 2)</video:tag>
+			<video:tag>ultadur</video:tag>
+			<video:tag>swassa</video:tag>
+			<video:tag>narfall</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>espada de zhahar</video:tag>
+			<video:tag>dindyon</video:tag>
+			<video:tag>cidade kiru</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>triturador de plasma</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>passo do terror</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/mega-disputa</loc>
+		<loc>https://www.chaoticonline.tk/videos/mega-disputa/</loc>
 		<video:video>
 			<video:title><![CDATA[Mega Disputa]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a competição interna entre Kaz e Peyton para saber quem é o melhor jogador de Chaotic chegar a outro nível… só que agora sobrou pro Tom]]></video:description>
-			<video:player_loc>https://openload.co/embed/bVCCfsiLUuo</video:player_loc>
-			<video:duration>1396</video:duration>
+			<video:player_loc>https://thevid.net/e/czgenyfegts0ultdff2kb</video:player_loc>
+			<video:player_loc>https://openload.co/embed/IcSoFbLpwUY</video:player_loc>
+			<video:duration>1328</video:duration>
+			<video:publication_date>2017-01-27T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>mega disputa</video:tag>
+			<video:tag>takinom</video:tag>
+			<video:tag>tanque de lava</video:tag>
+			<video:tag>ghatup</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>betadrome</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>biondu</video:tag>
+			<video:tag>bidua</video:tag>
+			<video:tag>rothar</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/tempo-esgotado</loc>
+		<loc>https://www.chaoticonline.tk/videos/tempo-esgotado/</loc>
 		<video:video>
 			<video:title><![CDATA[Tempo Esgotado]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma cinzenta, silenciosa, “Visão do Futuro” com um pequeno e sutil spoiler do ápice da temporada]]></video:description>
-			<video:player_loc>https://openload.co/embed/ziacbEdaUyo</video:player_loc>
+			<video:player_loc>https://thevid.net/e/tefxqns45t4o1lzqu3whr</video:player_loc>
+			<video:player_loc>https://openload.co/embed/avnCCNDPpCE</video:player_loc>
 			<video:duration>1317</video:duration>
+			<video:publication_date>2017-01-27T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>tempo esgotado</video:tag>
+			<video:tag>getterek</video:tag>
+			<video:tag>kelvedran</video:tag>
+			<video:tag>p&amp;acirc;ntano gloomuck</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>fonte do esqueletos</video:tag>
+			<video:tag>monte keervarg</video:tag>
+			<video:tag>rhaden</video:tag>
+			<video:tag>najarin</video:tag>
+			<video:tag>milla&amp;amp;#39;iin</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/pt/gigantempopolis</loc>
+		<loc>https://www.chaoticonline.tk/pt/videos/gigantempopolis/</loc>
 		<video:video>
 			<video:title><![CDATA[Gigantempopolis]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Gigantempopolis, um lugar deserto, cheio de mistérios, tesouro e, claro, maldições, no melhor estilo de O Senhor dos Anéis.]]></video:description>
+			<video:player_loc>https://thevid.net/e/yexczrz2chy</video:player_loc>
 			<video:player_loc>https://openload.co/embed/cJ6HAbf93AY</video:player_loc>
 			<video:duration>1363</video:duration>
+			<video:publication_date>2017-02-03T10:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>gigantempopolis</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majorts</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotickween</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>paytonicmaster</video:tag>
+			<video:tag>blazier</video:tag>
+			<video:tag>mowercycle</video:tag>
+			<video:tag>laarina</video:tag>
+			<video:tag>tempestade krinth</video:tag>
+			<video:tag>composi&amp;ccedil;&amp;atilde;o da concentra&amp;ccedil;&amp;atilde;o</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/feras-da-guerra</loc>
+		<loc>https://www.chaoticonline.tk/videos/feras-da-guerra/</loc>
 		<video:video>
 			<video:title><![CDATA[Feras da Guerra]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após muito tempo sem aprontar com outros jogadores, Krystella e Klay armam pro Peyton conseguir o scan de um Fera da Guerra, um gigantesco titã Mipedian tão poderoso quando lunático e, aparentemente, incontrolável]]></video:description>
-			<video:player_loc>https://openload.co/embed/mqnZtWN1IWU</video:player_loc>
+			<video:player_loc>https://thevid.net/e/jh3n1ti3iubzbz</video:player_loc>
+			<video:player_loc>https://openload.co/embed/ZU-AyX7eVEw</video:player_loc>
 			<video:duration>1339</video:duration>
+			<video:publication_date>2017-02-06T10:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>feras da guerra</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>campo de batalha chirrul</video:tag>
+			<video:tag>barath beyond</video:tag>
+			<video:tag>blazvatan</video:tag>
+			<video:tag>mipedian</video:tag>
+			<video:tag>carnaval da confus&amp;atilde;o</video:tag>
+			<video:tag>strikto</video:tag>
+			<video:tag>lord van bloot</video:tag>
+			<video:tag>torre gothos</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Das Profundezas (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma misteriosa Criatura de um passado há muito esquecido passado ressurge novamente com revelações surpreendentes e perturbadoras sobre o futuro de Perim]]></video:description>
-			<video:player_loc>https://openload.co/embed/8-hrTFEPS2o</video:player_loc>
+			<video:player_loc>https://thevid.net/e/0luqnhjmp2tk</video:player_loc>
+			<video:player_loc>https://openload.co/embed/uWmsk6_Hh8k</video:player_loc>
 			<video:duration>1346</video:duration>
+			<video:publication_date>2017-02-10T11:38:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>das profundezas (parte 1)</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>pilar de gelo</video:tag>
+			<video:tag>khybon</video:tag>
+			<video:tag>jiggorex</video:tag>
+			<video:tag>phelphor</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o do desespero</video:tag>
+			<video:tag>peyton</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/das-profundezas-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Das Profundezas (Parte 2)]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, traição, lavagem cerebral, golpe militar e o princípio do fim… Que comece a Invasão!]]></video:description>
-			<video:player_loc>https://openload.co/embed/3887irSQpro</video:player_loc>
+			<video:player_loc>https://thevid.net/e/4h0skvwla6tp5oibccfc0l6la</video:player_loc>
+			<video:player_loc>https://openload.co/embed/0e7prLcq_UI</video:player_loc>
 			<video:duration>1328</video:duration>
+			<video:publication_date>2017-02-13T10:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>das profundezas (parte 2)</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>pilar de gelo</video:tag>
+			<video:tag>khybon</video:tag>
+			<video:tag>jiggorex</video:tag>
+			<video:tag>phelphor</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/um-conto-de-dois-toms</loc>
+		<loc>https://www.chaoticonline.tk/videos/um-conto-de-dois-toms/</loc>
 		<video:video>
 			<video:title><![CDATA[Um Conto de Dois Toms]]></video:title>
 			<video:description><![CDATA[Nesse episódio uma versão mais descolada do nosso protagonista entra em cena e, graças à um empurrãozinho, acaba em briga, no melhor estilo Chaotic]]></video:description>
-			<video:player_loc>https://openload.co/embed/uRnGwWsMxHI</video:player_loc>
+			<video:player_loc>https://thevid.net/e/sqrqc3flhnzguqz4qndpv</video:player_loc>
+			<video:player_loc>https://openload.co/embed/C6tjo23RNng</video:player_loc>
 			<video:duration>1331</video:duration>
+			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>um conto de dois toms</video:tag>
+			<video:tag>os campos de treinamento</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>velreth</video:tag>
+			<video:tag>manto de gelo</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/combate-a-praga</loc>
+		<loc>https://www.chaoticonline.tk/videos/combate-a-praga/</loc>
 		<video:video>
 			<video:title><![CDATA[Combate à Praga]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Garv, o Zelador do Outro Mundo responsável pelo Lago Morn, ajudando Tom (e Smildon) a curar o Abismo Prexxor da Praga ao invés de combatê-la na força bruta]]></video:description>
-			<video:player_loc>https://openload.co/embed/c1FSYkhM76s</video:player_loc>
+			<video:player_loc>https://thevid.net/e/00vlwqtn0ykcxy0c4su</video:player_loc>
+			<video:player_loc>https://openload.co/embed/vjkTlsoUAsM</video:player_loc>
 			<video:duration>1352</video:duration>
+			<video:publication_date>2017-02-22T09:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>escolha do-editor</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>sem tribo</video:tag>
+			<video:tag>combate &amp;agrave; praga</video:tag>
+			<video:tag>abismo prexxor</video:tag>
+			<video:tag>a doen&amp;ccedil;a</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>gigantrooper</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>sarah lawrence</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/novata</loc>
+		<loc>https://www.chaoticonline.tk/videos/novata/</loc>
 		<video:video>
 			<video:title><![CDATA[Novata]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Shinwan, uma novata obstinada o bastante para ser a primeira em Chaotic a conseguir o scan de um M&amp;rsquo;arrillian]]></video:description>
-			<video:player_loc>https://openload.co/embed/OutQ9Crodg4</video:player_loc>
+			<video:player_loc>https://thevid.net/e/wpsxeaq0wsil</video:player_loc>
+			<video:player_loc>https://openload.co/embed/MN0PXJaX8Kw</video:player_loc>
 			<video:duration>1366</video:duration>
+			<video:publication_date>2017-02-25T13:27:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>novata</video:tag>
+			<video:tag>tanque de lava</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>zapetur</video:tag>
+			<video:tag>milla&amp;amp;#39;iin</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/colocando-o-muge-no-mugic</loc>
+		<loc>https://www.chaoticonline.tk/videos/colocando-o-muge-no-mugic/</loc>
 		<video:video>
 			<video:title><![CDATA[Colocando o Muge no Mugic]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma guerra territorial tão rotineira quanto desnecessária (mesmo!) completa com traição, sabotagem e contra-espionagem entre o Outro Mundo e os Mipedians]]></video:description>
-			<video:player_loc>https://openload.co/embed/qoee7UL-5Uw</video:player_loc>
+			<video:player_loc>https://thevid.net/e/ief32q3rg0laberhrglr6</video:player_loc>
+			<video:player_loc>https://openload.co/embed/mUxdE420z4w</video:player_loc>
 			<video:duration>1411</video:duration>
+			<video:publication_date>2017-02-25T13:37:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>colocando o muge no mugic</video:tag>
+			<video:tag>fronteira partida</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>pr&amp;iacute;ncipe mudeenu</video:tag>
+			<video:tag>xelfe</video:tag>
+			<video:tag>arias</video:tag>
+			<video:tag>attacat</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/pt/mister-e</loc>
+		<loc>https://www.chaoticonline.tk/pt/videos/mister-e/</loc>
 		<video:video>
 			<video:title><![CDATA[Mister E]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos mais sobre o poder dos M&amp;rsquo;arrillians e o início de um dos possíveis futuros mostrados em &amp;ldquo;Tempo Esgotado”]]></video:description>
-			<video:player_loc>https://openload.co/embed/LmEkpii8UR4</video:player_loc>
+			<video:player_loc>https://thevid.net/e/edaxewn3fziex6azy02</video:player_loc>
+			<video:player_loc>https://openload.co/embed/V1fzfpcWnDo</video:player_loc>
 			<video:duration>1315</video:duration>
+			<video:publication_date>2017-02-26T18:56:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>mister e</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>milla&amp;amp;#39;iin</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>corrompido</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>evan</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/quando-um-codemaster-chama</loc>
+		<loc>https://www.chaoticonline.tk/videos/quando-um-codemaster-chama/</loc>
 		<video:video>
 			<video:title><![CDATA[Quando um CodeMaster Chama]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Peyton partir numa jornada em território M&amp;rsquo;arrillian em nome do CodeMaster Hotekk para se tornar seu aprendiz… só que não]]></video:description>
-			<video:player_loc>https://openload.co/embed/wY7O4L98W-c</video:player_loc>
+			<video:player_loc>https://thevid.net/e/4eqnfxbtwtkm6trojq0</video:player_loc>
+			<video:player_loc>https://openload.co/embed/JPQS23X6BXM</video:player_loc>
 			<video:duration>1389</video:duration>
+			<video:publication_date>2017-02-27T09:13:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>quando um codemaster chama</video:tag>
+			<video:tag>ulmar</video:tag>
+			<video:tag>vinta</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>ulmanator</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>rao&amp;amp;#39;pa sahkk</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/terra-para-kaz</loc>
+		<loc>https://www.chaoticonline.tk/videos/terra-para-kaz/</loc>
 		<video:video>
 			<video:title><![CDATA[Terra para Kaz]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a paixão por Chaotic de Kaz se tornar um problema para ele quando este precisa provar ao psicólogo de sua escola que Chaotic é um lugar real O_O]]></video:description>
-			<video:player_loc>https://openload.co/embed/ltR1UdjBhUA</video:player_loc>
+			<video:player_loc>https://thevid.net/e/dkma4amgh5tm42mpbg</video:player_loc>
+			<video:player_loc>https://openload.co/embed/D8D0ZM-NxVk</video:player_loc>
 			<video:duration>1388</video:duration>
+			<video:publication_date>2017-02-27T09:23:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>terra para kaz</video:tag>
+			<video:tag>bierk</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>viledriver</video:tag>
+			<video:tag>correntezas de shyak</video:tag>
+			<video:tag>can&amp;ccedil;&amp;atilde;o de geonova</video:tag>
+			<video:tag>milla&amp;amp;#39;iin</video:tag>
+			<video:tag>carnaval da confus&amp;atilde;o</video:tag>
+			<video:tag>jogos mentais</video:tag>
+			<video:tag>r&amp;eacute;quiem da nega&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>samuel murakami</video:tag>
+			<video:tag>samshady</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/raznus-retorna</loc>
+		<loc>https://www.chaoticonline.tk/videos/raznus-retorna/</loc>
 		<video:video>
 			<video:title><![CDATA[Raznus Retorna]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma escavação problemática leva alguns Mandiblors liderados por Odu-Bathax e Raznus, ex-embaixador Danian pelo Outro Mundo agora assimilado, para dentro do Arsenal do Outro Mundo]]></video:description>
+			<video:player_loc>https://thevid.net/e/mifza04epszz4d</video:player_loc>
 			<video:player_loc>https://openload.co/embed/rYZmV_YM5Aw</video:player_loc>
 			<video:duration>1315</video:duration>
+			<video:publication_date>2017-02-27T09:33:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>raznus retorna</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>olkiex</video:tag>
+			<video:tag>bodal</video:tag>
+			<video:tag>bodal&amp;amp;#39;s arsenal</video:tag>
+			<video:tag>mandiblors</video:tag>
+			<video:tag>odu-bathax</video:tag>
+			<video:tag>raznus</video:tag>
+			<video:tag>assimilado</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/guerreiros-da-eternidade</loc>
+		<loc>https://www.chaoticonline.tk/videos/guerreiros-da-eternidade/</loc>
 		<video:video>
 			<video:title><![CDATA[Guerreiros da Eternidade]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Sarah é atacada por um fantasma Mipedian e seus amigos, enquanto procuram por ela, se unem a um grupo de Mipedians que buscam pelo lendário Owayki e seus Guerreiros de Pedra, imunes ao controle mental M&amp;rsquo;arrillian]]></video:description>
-			<video:player_loc>https://openload.co/embed/EUx0YuqEK9A</video:player_loc>
+			<video:player_loc>https://thevid.net/e/00cj12cdtwy5lc0lmy</video:player_loc>
+			<video:player_loc>https://openload.co/embed/fsvMZKdLvD0</video:player_loc>
 			<video:duration>1317</video:duration>
+			<video:publication_date>2017-02-27T09:50:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>guerreiros eternidade</video:tag>
+			<video:tag>owayki</video:tag>
+			<video:tag>per&amp;iacute;metro do ca&amp;ccedil;ador</video:tag>
+			<video:tag>vinta</video:tag>
+			<video:tag>dakkamal</video:tag>
+			<video:tag>treinador de combate</video:tag>
+			<video:tag>ario</video:tag>
+			<video:tag>sobtjek</video:tag>
+			<video:tag>skkeral</video:tag>
+			<video:tag>o s&amp;aacute;bio</video:tag>
+			<video:tag>guerreiros de owayki</video:tag>
+			<video:tag>ac&amp;oacute;litos de dakkamal</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/submundo-derrotado</loc>
+		<loc>https://www.chaoticonline.tk/videos/submundo-derrotado/</loc>
 		<video:video>
 			<video:title><![CDATA[Submundo Derrotado]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Chaor e seus leais guerreiros executarem um plano de batalha contra os M&amp;rsquo;arrillians no Pântano de Lama]]></video:description>
-			<video:player_loc>https://openload.co/embed/LA-bf6u1HcI</video:player_loc>
+			<video:player_loc>https://thevid.net/e/lkofyro6zcxghdkuvu2</video:player_loc>
+			<video:player_loc>https://openload.co/embed/WilXCe52hsA</video:player_loc>
 			<video:duration>1368</video:duration>
+			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>submundo derrotado</video:tag>
+			<video:tag>milla&amp;amp;#39;iin</video:tag>
+			<video:tag>asadab</video:tag>
+			<video:tag>kraade</video:tag>
+			<video:tag>h&amp;amp;#39;earring</video:tag>
+			<video:tag>corrompido</video:tag>
+			<video:tag>ooloo</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>p&amp;acirc;ntano de murk</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/ameaca-tripla</loc>
+		<loc>https://www.chaoticonline.tk/videos/ameaca-tripla/</loc>
 		<video:video>
 			<video:title><![CDATA[Ameaça Tripla]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a Aliança Tribal superando suas diferenças culturais para que unidos possam talvez ter uma chance contra os M&amp;rsquo;arrillians]]></video:description>
-			<video:player_loc>https://openload.co/embed/4l6D2PA8DyA</video:player_loc>
+			<video:player_loc>https://thevid.net/e/ji6jns1ecpa3</video:player_loc>
+			<video:player_loc>https://openload.co/embed/Cd8W_YqNxns</video:player_loc>
 			<video:duration>1354</video:duration>
+			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>amea&amp;ccedil;a tripla</video:tag>
+			<video:tag>nebres</video:tag>
+			<video:tag>triturador de plasma</video:tag>
+			<video:tag>frafdo</video:tag>
+			<video:tag>tassanil</video:tag>
+			<video:tag>cyclance</video:tag>
+			<video:tag>aimukk</video:tag>
+			<video:tag>dinamitador</video:tag>
+			<video:tag>arias</video:tag>
+			<video:tag>viqtarr</video:tag>
+			<video:tag>bierk</video:tag>
+			<video:tag>faash</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto Final (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio a batalha continua em diferentes regiões de Perim ao mesmo tempo… e também na própria Aliança Tribal]]></video:description>
-			<video:player_loc>https://openload.co/embed/7FZKhJDOfI8</video:player_loc>
+			<video:player_loc>https://thevid.net/e/k534ksf2n0ibhj</video:player_loc>
+			<video:player_loc>https://openload.co/embed/zYgX_NWKrNs</video:player_loc>
 			<video:duration>1394</video:duration>
+			<video:publication_date>2017-02-27T10:29:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>confronto final (parte 1)</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>o&amp;aacute;sis mipedim</video:tag>
+			<video:tag>ario</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>mount pillar</video:tag>
+			<video:tag>tom majors</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/confronto-final-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[Confronto Final (Parte 2)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, o princípio do fim… a batalha por Perim é agora!]]></video:description>
-			<video:player_loc>https://openload.co/embed/V5vdjl79izI</video:player_loc>
+			<video:player_loc>https://thevid.net/e/1rvq4aej614sc</video:player_loc>
+			<video:player_loc>https://openload.co/embed/OAw8orl_5Hk</video:player_loc>
 			<video:duration>1380</video:duration>
+			<video:publication_date>2017-02-23T10:45:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>confronto final (parte 2)</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>o&amp;aacute;sis mipedim</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>cidade kiru</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/legioes-de-aaune</loc>
+		<loc>https://www.chaoticonline.tk/videos/legioes-de-aaune/</loc>
 		<video:video>
 			<video:title><![CDATA[Legiões de Aa&#39;une (Season Finale)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, a batalha continua com reviravoltas e algumas transformações… e o fim!]]></video:description>
-			<video:player_loc>https://openload.co/embed/4sEffcLdWTI</video:player_loc>
-			<video:duration>1286</video:duration>
+			<video:player_loc>https://thevid.net/e/ezgb4fbdbxv6o62</video:player_loc>
+			<video:player_loc>https://openload.co/embed/kXhQ_n1n4-c</video:player_loc>
+			<video:duration>1386</video:duration>
+			<video:publication_date>2017-02-27T10:54:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>invasao-marrillian</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>invas&amp;atilde;o m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>final-de-temporada</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>local</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>legi&amp;otilde;es de aa&amp;amp;#39;une</video:tag>
+			<video:tag>geleiras</video:tag>
+			<video:tag>canh&amp;atilde;o de calor m&amp;amp;#39;arrillian</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>sinfonia do &amp;ecirc;xtase</video:tag>
+			<video:tag>nebres</video:tag>
+			<video:tag>bierk</video:tag>
+			<video:tag>ghatup</video:tag>
+			<video:tag>shimmark</video:tag>
+			<video:tag>frafdo</video:tag>
+			<video:tag>maxxor</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/pt/perithon</loc>
+		<loc>https://www.chaoticonline.tk/pt/videos/perithon/</loc>
 		<video:video>
 			<video:title><![CDATA[Perithon!]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após uma intensa batalha e uma vitória gloriosa sobre os M&amp;rsquo;arrillians, as Tribos decidem manter a Aliança Tribal rumo à uma próspera Perim e, para celebrar a paz, fazem uma corrida de carros… mas velhos hábitos nunca mudam…]]></video:description>
+			<video:player_loc>https://thevid.net/e/bvshvdakkgqfsaojadzfohva</video:player_loc>
 			<video:player_loc>https://openload.co/embed/IWHZcc0A7iU</video:player_loc>
 			<video:duration>1365</video:duration>
+			<video:publication_date>2017-03-13T12:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>perithon!</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>najarin</video:tag>
+			<video:tag>coliseu do submundo</video:tag>
+			<video:tag>marquis darini</video:tag>
+			<video:tag>pr&amp;iacute;ncipe mudeenu</video:tag>
+			<video:tag>agitos</video:tag>
+			<video:tag>chaor</video:tag>
+			<video:tag>intress</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/mundos-divididos</loc>
+		<loc>https://www.chaoticonline.tk/videos/mundos-divididos/</loc>
 		<video:video>
 			<video:title><![CDATA[Mundos Divididos]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Jycella, irmã gêmea da Krystella, e veremos que o mau relacionamento entre as duas, até que comum entre humanos, também acontece em Perim, com as irmãs gêmeas Aivenna e Nivenna]]></video:description>
+			<video:player_loc>https://thevid.net/e/qgsopvngmcgvnqe</video:player_loc>
 			<video:player_loc>https://openload.co/embed/yumgpClwtwo</video:player_loc>
 			<video:duration>1317</video:duration>
+			<video:publication_date>2017-03-13T12:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>mundos divididos</video:tag>
+			<video:tag>pilar de vapor</video:tag>
+			<video:tag>neekwin</video:tag>
+			<video:tag>prel&amp;uacute;dio da domina&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>ustabe</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>jycella</video:tag>
+			<video:tag>sarah lawrence</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/robos-da-pesada</loc>
+		<loc>https://www.chaoticonline.tk/videos/robos-da-pesada/</loc>
 		<video:video>
 			<video:title><![CDATA[Robôs da Pesada]]></video:title>
 			<video:description><![CDATA[Nesse episódio o Dr. Frankenstein de Perim resolve implantar parte de seu próprio cérebro nos Gigantroopers, tornando-os inteligentes o bastante para uma tentativa de dominação do Submundo resultando numa batalha no melhor estilo Círculo de Fogo]]></video:description>
+			<video:player_loc>https://thevid.net/e/11ztdgq212f52ee</video:player_loc>
 			<video:player_loc>https://openload.co/embed/8J5IUM3LpGI</video:player_loc>
 			<video:duration>1322</video:duration>
+			<video:publication_date>2017-03-13T12:51:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>rob&amp;ocirc;s da pesada</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>hiadrom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>na-inna</video:tag>
+			<video:tag>rebelde de rao&amp;amp;#39;pa sahkk</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-1</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-1/</loc>
 		<video:video>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 1)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Tom vence a sétima batalha no Campo Hotekk e, com isso, é desafiado pelo próprio CodeMaster]]></video:description>
-			<video:player_loc>https://openload.co/embed/ljmPddWizT0</video:player_loc>
+			<video:player_loc>https://thevid.net/e/kzpf1xpk4llxdf</video:player_loc>
+			<video:player_loc>https://openload.co/embed/1ZM4q0Ad4go</video:player_loc>
 			<video:duration>1325</video:duration>
+			<video:publication_date>2017-03-22T13:27:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-dod-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>o desafio de hotekk (parte 1)</video:tag>
+			<video:tag>tangath toborn</video:tag>
+			<video:tag>nunk&amp;amp;#39;worn</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>espada de khy&amp;amp;#39;at</video:tag>
+			<video:tag>fragmento kha&amp;amp;#39;rall de &amp;acirc;mbar</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-2</loc>
+		<loc>https://www.chaoticonline.tk/videos/o-desafio-de-hotekk-parte-2/</loc>
 		<video:video>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 2)]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após vencer de forma muito inteligente o CodeMaster Hotekk, Tom fica bastante decepcionado com sua recompensa… até ele e seus amigos descobrirem que um Local deserto e não muito interssante na verdade é muito mais do que parece (mesmo!)]]></video:description>
-			<video:player_loc>https://openload.co/embed/SHS14EZRA2E</video:player_loc>
+			<video:player_loc>https://thevid.net/e/tlsdhjf1ajtb3hx3j</video:player_loc>
+			<video:player_loc>https://openload.co/embed/xDBueUCFvI4</video:player_loc>
 			<video:duration>1307</video:duration>
+			<video:publication_date>2017-03-23T12:41:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>o desafio de hotekk (parte 2)</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>codemaster hotekk</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>protetor of perim</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/herois-de-ontem</loc>
+		<loc>https://www.chaoticonline.tk/videos/herois-de-ontem/</loc>
 		<video:video>
 			<video:title><![CDATA[Heróis de Ontem]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Vlar, um ladrão renegado pela Tribo do Outro Mundo da Perim pré-histórica o qual, possivelmente, é o ancestral do Maxxor]]></video:description>
-			<video:player_loc>https://openload.co/embed/h89eM1c2DIA</video:player_loc>
+			<video:player_loc>https://thevid.net/e/e01etn5qt2m6nrx</video:player_loc>
+			<video:player_loc>https://openload.co/embed/UCc56xSh41M</video:player_loc>
 			<video:duration>1345</video:duration>
+			<video:publication_date>2017-03-24T13:06:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>her&amp;oacute;is de ontem</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kiru</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>lago ken-i-po</video:tag>
+			<video:tag>castelo do najarin</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/circulo-dos-perdedores</loc>
+		<loc>https://www.chaoticonline.tk/videos/circulo-dos-perdedores/</loc>
 		<video:video>
 			<video:title><![CDATA[Círculo dos Perdedores]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Kaz está tão empolgado com seus novos scans da Perim pré-histórica que decide desafiar cada um dos jogadores que já o derrotou, achando que ninguém seria páreo pra ele&amp;hellip; até que seu arquiinimigo prova o contrário]]></video:description>
+			<video:player_loc>https://thevid.net/e/w0pqwf521y</video:player_loc>
 			<video:player_loc>https://openload.co/embed/Is93u8s37Io</video:player_loc>
 			<video:duration>1317</video:duration>
+			<video:publication_date>2017-03-27T22:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>c&amp;iacute;rculo dos perdedores</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>hercu-leon</video:tag>
+			<video:tag>volcarv</video:tag>
+			<video:tag>silchaw</video:tag>
+			<video:tag>dunas escurecidas</video:tag>
+			<video:tag>tridente da trai&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>pyroblaster</video:tag>
+			<video:tag>Rejei&amp;ccedil;&amp;atilde;o dos Elementos</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/uma-missao-gigantesca</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-missao-gigantesca/</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Missão Gigantesca]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Vlar guiar Kiru e seus guerreiros pelo Templo da Gigantempopolis pré-histórica, quando os gigantes estavam vivos, na tentativa de dissuadir Kaal a não invadir mais a Cidade Kiru, porém, durante a viagem, o próprio futuro do Outro Mundo foi traçado]]></video:description>
-			<video:player_loc>https://openload.co/embed/nYoD1nv5Wwo</video:player_loc>
+			<video:player_loc>https://thevid.net/e/0tgziiszf002cky</video:player_loc>
+			<video:player_loc>https://openload.co/embed/MVF19z86l-Y</video:player_loc>
 			<video:duration>1367</video:duration>
+			<video:publication_date>2017-03-28T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>uma miss&amp;atilde;o gigantesca</video:tag>
+			<video:tag>vlar</video:tag>
+			<video:tag>abohon</video:tag>
+			<video:tag>kiru</video:tag>
+			<video:tag>korg</video:tag>
+			<video:tag>neerig</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>floresta da vida</video:tag>
+			<video:tag>ravv</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/fronteira-da-destruicao</loc>
+		<loc>https://www.chaoticonline.tk/videos/fronteira-da-destruicao/</loc>
 		<video:video>
 			<video:title><![CDATA[Fronteira da Destruição]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma vez que o segredo sobre Fronteira Dranakis vazou, vários jogadores viajaram para a Perim pré-histórica, inclusive a “Bonnie e o Clyde” de Chaotic, que não demoraram em conspirar com um velho conhecido, fazendo com que um doloroso acontecido se tornasse, potencialmente, irreversível]]></video:description>
-			<video:player_loc>https://openload.co/embed/iAfSc9YF4Z8</video:player_loc>
+			<video:player_loc>https://thevid.net/e/q1klfsxdgprvc314vw</video:player_loc>
+			<video:player_loc>https://openload.co/embed/xFIwofO4qqQ</video:player_loc>
 			<video:duration>1371</video:duration>
+			<video:publication_date>2017-03-29T17:10:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>fronteira da destrui&amp;ccedil;&amp;atilde;o</video:tag>
+			<video:tag>vilarejo kiru</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>korg</video:tag>
+			<video:tag>klay</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/uma-aventura-do-peytonic</loc>
+		<loc>https://www.chaoticonline.tk/videos/uma-aventura-do-peytonic/</loc>
 		<video:video>
 			<video:title><![CDATA[Uma Aventura do Peytonic]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma aventura bem ao estilo 007 na qual Peyton é desafiado por um falsário mundialmente famoso para uma partida de Chaotic]]></video:description>
-			<video:player_loc>https://openload.co/embed/WbgaQCbMydk</video:player_loc>
+			<video:player_loc>https://thevid.net/e/mto14fgw110coefe</video:player_loc>
+			<video:player_loc>https://openload.co/embed/zlD2zkPFrxg</video:player_loc>
 			<video:duration>1362</video:duration>
+			<video:publication_date>2017-03-30T12:16:41-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>uma aventura do peytonic</video:tag>
+			<video:tag>illiar</video:tag>
+			<video:tag>gareep</video:tag>
+			<video:tag>mowercycle</video:tag>
+			<video:tag>torwegg</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>peyton</video:tag>
+			<video:tag>peytonicmaster</video:tag>
+			<video:tag>kaz</video:tag>
+			<video:tag>kidchaor</video:tag>
+			<video:tag>sarah lawrence</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/elementar</loc>
+		<loc>https://www.chaoticonline.tk/videos/elementar/</loc>
 		<video:video>
 			<video:title><![CDATA[Elementar]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos os quatro Servos Elementais da Cidade Perdida e uma batalha em Chaotic com eles todos ao mesmo tempo]]></video:description>
-			<video:player_loc>https://openload.co/embed/afmvt6--Vjc</video:player_loc>
+			<video:player_loc>https://thevid.net/e/03ifmjuem3v20k3iv2mj5y</video:player_loc>
+			<video:player_loc>https://openload.co/embed/Ql7XwzIaCbU</video:player_loc>
 			<video:duration>1417</video:duration>
+			<video:publication_date>2017-03-31T12:18:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>elementar</video:tag>
+			<video:tag>kaizeph</video:tag>
+			<video:tag>cidade dos elementos</video:tag>
+			<video:tag>nom</video:tag>
+			<video:tag>servo da earth</video:tag>
+			<video:tag>silv</video:tag>
+			<video:tag>servo do air</video:tag>
+			<video:tag>unda</video:tag>
+			<video:tag>serva da water</video:tag>
+			<video:tag>seeryn</video:tag>
+			<video:tag>servo do fire</video:tag>
 		</video:video>
 	</url>
 	<url>
-		<loc>https://www.chaoticonline.tk/videos/filho-da-terra-dos-espiritos</loc>
+		<loc>https://www.chaoticonline.tk/videos/filho-da-terra-dos-espiritos/</loc>
 		<video:video>
 			<video:title><![CDATA[Filho da Terra dos Espíritos]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma Criatura aparentemente indestrutível vinda da Terra dos Espíritos, ameaça destruir Perim a não ser que Tangath Toborn o enfrente.]]></video:description>
-			<video:player_loc>https://openload.co/embed/sMG9VJAvGsQ</video:player_loc>
+			<video:player_loc>https://thevid.net/e/kgbcgola31v3oyx5u</video:player_loc>
+			<video:player_loc>https://openload.co/embed/4A2DVBoLIgU</video:player_loc>
 			<video:duration>1379</video:duration>
+			<video:publication_date>2017-04-01T15:40:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
-			<video:tag>segredos-da-cidade-perdida</video:tag>
-			<video:tag>tv-show</video:tag>
+			<video:tag>segredos da cidade perdida</video:tag>
+			<video:tag>tv show</video:tag>
 			<video:tag>2006</video:tag>
 			<video:tag>escolha-do-editor</video:tag>
-			<video:tag>animação</video:tag>
+			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
 			<video:tag>aventura</video:tag>
 			<video:tag>fantasia</video:tag>
 			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
+			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
 			<video:tag>HD</video:tag>
 			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/legioes-de-aaune</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Legiões de Aa&#39;une]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/h5WD9_ySPp4</video:player_loc>
-			<video:duration>38</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/perithon</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Perithon!]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/mnmSQhDvYPE</video:player_loc>
-			<video:duration>37</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/mundos-divididos</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Mundos Divididos]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/VQKAfOD_V3g</video:player_loc>
-			<video:duration>49</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/robos-da-pesada</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Robôs da Pesada]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/xMAYDm8ssqA</video:player_loc>
-			<video:duration>59</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/o-desafio-de-hotekk-parte-1</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: O Desafio de Hotekk (Parte 1)]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/14kJinxiLj0</video:player_loc>
-			<video:duration>52</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/herois-de-ontem</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Heróis de Ontem]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/-aLZ0Xu23i0</video:player_loc>
-			<video:duration>43</video:duration>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/circulo-dos-perdedores</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Círculo dos Perdedores]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/cnDRaUtXJ_A</video:player_loc>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.tk/curiosidades/uma-missao-gigantesca</loc>
-		<video:video>
-			<video:title><![CDATA[Curiosidade: Uma Missão Gigantesca]]></video:title>
-			<video:description><![CDATA[
-]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.tk/assets/images/videos/trivias.jpg</video:thumbnail_loc>
-			<video:player_loc>https://openload.co/embed/PEBaz_aoZyc</video:player_loc>
-			<video:tag>chaotic</video:tag>
-			<video:tag>trivias</video:tag>
-			<video:tag>tv-show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>animação</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>português-brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
+			<video:tag>criatura</video:tag>
+			<video:tag>equipamento de batalha</video:tag>
+			<video:tag>mugic</video:tag>
+			<video:tag>location</video:tag>
+			<video:tag>outro mundo</video:tag>
+			<video:tag>submundo</video:tag>
+			<video:tag>mipedians</video:tag>
+			<video:tag>danians</video:tag>
+			<video:tag>m&amp;amp;#39;arrillians</video:tag>
+			<video:tag>filho da terra dos esp&amp;iacute;ritos</video:tag>
+			<video:tag>maxxor</video:tag>
+			<video:tag>protetor of perim</video:tag>
+			<video:tag>armadura xerium</video:tag>
+			<video:tag>heptadd</video:tag>
+			<video:tag>coroa de heptad</video:tag>
+			<video:tag>batog</video:tag>
+			<video:tag>tom majors</video:tag>
+			<video:tag>major tom</video:tag>
+			<video:tag>sarah lawrence</video:tag>
+			<video:tag>chaotikween</video:tag>
 		</video:video>
 	</url>
 </urlset>
