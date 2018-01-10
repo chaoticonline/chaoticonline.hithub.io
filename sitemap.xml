@@ -1,23 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+
+    <!-- English -->
 
     <sitemap>
-        <loc>https://www.chaoticonline.tk/meta.xml</loc>
-        <loc>https://www.chaoticonline.tk/attacks.xml</loc>
-        <loc>https://www.chaoticonline.tk/locations.xml</loc>
-        <loc>https://www.chaoticonline.tk/mugics.xml</loc>
-        <loc>https://www.chaoticonline.tk/battlegears.xml</loc>
-        <loc>https://www.chaoticonline.tk/creatures.xml</loc>
+        <loc>https://www.chaoticonline.tk/en/meta.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
     </sitemap>
 
     <sitemap>
+        <loc>https://www.chaoticonline.tk/en/attacks.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/en/locations.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/en/mugics.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/en/battlegears.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://www.chaoticonline.tk/en/creatures.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <!-- Brazilian Portuguese -->
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/meta.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/attacks.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/locations.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/mugics.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/battlegears.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://www.chaoticonline.tk/pt/creatures.xml</loc>
+        <lastmod>2018-01-10T09:17:14-02:00</lastmod>
     </sitemap>
 
 </sitemapindex>
