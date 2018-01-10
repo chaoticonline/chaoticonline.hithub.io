@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hotekks challenge (part 1) on Chaotic Online</title>
+    <title>Hotekk&#39;s challenge (part 1) on Chaotic Online</title>
     <link>https://www.chaoticonline.tk/tags/hotekks-challenge-part-1/</link>
-    <description>Recent content in Hotekks challenge (part 1) on Chaotic Online</description>
+    <description>Recent content in Hotekk&#39;s challenge (part 1) on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -11,14 +11,23 @@
     
     
     <item>
-      <title>Maxxor</title>
-      <link>https://www.chaoticonline.tk/maxxor/</link>
+      <title>Glacier Plains</title>
+      <link>https://www.chaoticonline.tk/glacier-plains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.tk/maxxor/</guid>
-      <description>&lt;p&gt;Maxxor is an OverWorld Hero and ruler of the OverWorld Tribe&lt;/p&gt;
+      <guid>https://www.chaoticonline.tk/glacier-plains/</guid>
+      <description>&lt;p&gt;Glacier Plains is a region on the north-easternmost part of the OverWorld.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hotekk&#39;s Challenge (Part 1)</title>
+      <link>https://www.chaoticonline.tk/videos/hotekks-challenge-part-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.tk/videos/hotekks-challenge-part-1/</guid>
+      <description>In this episode, Tom wins the seventh battle in the Hotekk Drome, and thus is challenged by the CodeMaster himself</description>
     </item>
     
   </channel>
