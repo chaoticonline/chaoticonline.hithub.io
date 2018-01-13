@@ -229,6 +229,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.tk/kerric/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/kerric/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.tk/khybon/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/khybon/" />
     </url>
@@ -261,6 +266,11 @@
     <url>
         <loc>https://www.chaoticonline.tk/nauthilax/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/nauthilax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/phelphor/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/phelphor/" />
     </url>
 
     <url>

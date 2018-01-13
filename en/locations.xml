@@ -34,6 +34,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.tk/city-of-marr/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cidade-de-marr/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.tk/cordac-falls-plungepool/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/bacia-profunda-das-cataratas-de-cordac/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.tk/crystal-cave/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/caverna-de-cristal/" />
     </url>
