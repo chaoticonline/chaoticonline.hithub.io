@@ -5,13 +5,28 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>https://www.chaoticonline.tk/chuva-de-pedra/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/hail-storm/" />
+        <loc>https://www.chaoticonline.ml/agressao-aerea/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/hail-storm/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/parede-de-chamas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/wall-of-flames/" />
+        <loc>https://www.chaoticonline.ml/pt/allmageddon/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/allmageddon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/chuva-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/hail-storm/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/esmagamento-mental/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mind-mash/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/parede-de-chamas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wall-of-flames/" />
     </url>
 
 </urlset>

@@ -1,5 +1,1 @@
-*.bat
-*.php
-src/
-/assets/images/original
 /assets/js/compiled

@@ -5,93 +5,113 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>https://www.chaoticonline.tk/canon-of-casualty/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/canone-do-desastre/" />
+        <loc>https://www.chaoticonline.ml/canon-of-casualty/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/canone-do-desastre/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/diminuendo/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/diminuendo/" />
+        <loc>https://www.chaoticonline.ml/decomposition/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/decomposicao/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/discord-of-disarming/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/discordia-do-desarme/" />
+        <loc>https://www.chaoticonline.ml/diminuendo/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/diminuendo/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/fortissimo/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/pt/fortissimo/" />
+        <loc>https://www.chaoticonline.ml/discord-of-disarming/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/discordia-do-desarme/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/melody-of-malady/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-da-doenca/" />
+        <loc>https://www.chaoticonline.ml/fortissimo/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/fortissimo/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/melody-of-mirage/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/melodia-da-miragem/" />
+        <loc>https://www.chaoticonline.ml/geo-flourish/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/floreio-da-terra/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/notes-of-neverwhere/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/notas-do-desconhecido/" />
+        <loc>https://www.chaoticonline.ml/melody-of-malady/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-da-doenca/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/refrain-of-denial-overworld/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/refrao-da-rejeicao-outro-mundo/" />
+        <loc>https://www.chaoticonline.ml/melody-of-mirage/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/melodia-da-miragem/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-embernova/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-de-embernova/" />
+        <loc>https://www.chaoticonline.ml/notes-of-neverwhere/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/notas-do-desconhecido/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-fury/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-da-furia/" />
+        <loc>https://www.chaoticonline.ml/refrain-of-denial-overworld/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/refrao-da-rejeicao-outro-mundo/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-futuresight/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-da-visao-do-futuro/" />
+        <loc>https://www.chaoticonline.ml/searing-symphony/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/sinfonia-escaldante/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-geonova/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-de-geonova/" />
+        <loc>https://www.chaoticonline.ml/song-of-embernova/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-de-embernova/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-obstruction/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-do-obstaculo/" />
+        <loc>https://www.chaoticonline.ml/song-of-fury/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-da-furia/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-resurgence/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-do-renascimento/" />
+        <loc>https://www.chaoticonline.ml/song-of-futuresight/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-da-visao-do-futuro/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-reversal/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-da-inversao/" />
+        <loc>https://www.chaoticonline.ml/song-of-geonova/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-de-geonova/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-stasis/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-do-extase/" />
+        <loc>https://www.chaoticonline.ml/song-of-obstruction/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-do-obstaculo/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/song-of-translocation/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/cancao-do-deslocamento/" />
+        <loc>https://www.chaoticonline.ml/song-of-resurgence/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-do-renascimento/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/symphonic-shield/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.tk/escudo-sinfonico/" />
+        <loc>https://www.chaoticonline.ml/song-of-reversal/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-da-inversao/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/song-of-stasis/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-do-extase/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/song-of-translocation/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cancao-do-deslocamento/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/symphonic-shield/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/escudo-sinfonico/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/tune-around/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/tom-da-virada/" />
     </url>
 
 </urlset>

@@ -4,169 +4,194 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-	<url>
-		<loc>https://www.chaoticonline.tk/geleiras/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/glacier-plains/" />
-	</url>
-
     <url>
-        <loc>https://www.chaoticonline.tk/lago-ken-i-po/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/lake-ken-i-po/" />
+        <loc>https://www.chaoticonline.ml/arsenal-do-bodal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/bodals-arsenal/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/arsenal-do-bodal/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/bodals-arsenal/" />
+        <loc>https://www.chaoticonline.ml/carnaval-da-confusao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/carnival-of-confusion/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/castelo-bodhran/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/castle-bodhran/" />
+        <loc>https://www.chaoticonline.ml/castelo-bodhran/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/castle-bodhran/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/castelo-dos-pilares/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/castle-pillar/" />
+        <loc>https://www.chaoticonline.ml/castelo-dos-pilares/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/castle-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/cidade-de-marr/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/city-of-marr/" />
+        <loc>https://www.chaoticonline.ml/pt/cidade-de-maar/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/city-of-maar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/bacia-profunda-das-cataratas-de-cordac/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/cordac-falls-plungepool/" />
+        <loc>https://www.chaoticonline.ml/bacia-profunda-das-cataratas-de-cordac/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/cordac-falls-plungepool/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/caverna-de-cristal/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/crystal-cave/" />
+        <loc>https://www.chaoticonline.ml/caverna-de-cristal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/crystal-cave/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/salao-danian/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/danian-hall/" />
+        <loc>https://www.chaoticonline.ml/salao-danian/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/danian-hall/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/portas-das-minas-profundas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/doors-of-the-deepmines/" />
+        <loc>https://www.chaoticonline.ml/portas-das-minas-profundas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/doors-of-the-deepmines/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/floresta-da-chuva-eterna/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/everrain/" />
+        <loc>https://www.chaoticonline.ml/fronteira-dranakis/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dranakis-threshold/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/vale-do-medo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/fear-valley/" />
+        <loc>https://www.chaoticonline.ml/floresta-da-chuva-eterna/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/everrain/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/floresta-da-vida/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/forest-of-life/" />
+        <loc>https://www.chaoticonline.ml/vale-do-medo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fear-valley/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/chamas-congeladas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/frozen-fire/" />
+        <loc>https://www.chaoticonline.ml/floresta-da-vida/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/forest-of-life/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/torre-gothos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/gothos-tower/" />
+        <loc>https://www.chaoticonline.ml/chamas-congeladas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/frozen-fire/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pilar-de-ferro/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/iron-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/gigantempopolis/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gigantempopolis/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/kaizeph-cidade-dos-elementos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/kaizeph-city-of-the-elements/" />
+        <loc>https://www.chaoticonline.ml/geleiras/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/glacier-plains/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/cidade-kiru/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/kiru-city/" />
+        <loc>https://www.chaoticonline.ml/torre-gothos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gothos-tower/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/tanque-de-lava/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/lava-pond/" />
+        <loc>https://www.chaoticonline.ml/pilar-de-ferro/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/iron-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/oasis-mipedim/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/mipedim-oasis/" />
+        <loc>https://www.chaoticonline.ml/kaizeph-cidade-dos-elementos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kaizeph-city-of-the-elements/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/colina-dos-pilares/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/mount-pillar/" />
+        <loc>https://www.chaoticonline.ml/cidade-kiru/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kiru-city/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/castelo-do-najarin/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/najarins-castle/" />
+        <loc>https://www.chaoticonline.ml/vila-kiru/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kiru-village/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/abismo-prexxor/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/prexxor-chasm/" />
+        <loc>https://www.chaoticonline.ml/lago-ken-i-po/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lake-ken-i-po/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pico-ravanaugh/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/ravanaugh-ridge/" />
+        <loc>https://www.chaoticonline.ml/tanque-de-lava/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lava-pond/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/regiao-dos-rios/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/riverlands/" />
+        <loc>https://www.chaoticonline.ml/oasis-mipedim/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mipedim-oasis/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/desfiladeiro-do-rio-de-pedra/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/rock-river-canyon/" />
+        <loc>https://www.chaoticonline.ml/colina-dos-pilares/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/bosque-das-runas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/runic-grove/" />
+        <loc>https://www.chaoticonline.ml/castelo-d-najarin/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/najarins-castle/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/fonte-dos-esqueletos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/skeletal-springs/" />
+        <loc>https://www.chaoticonline.ml/abismo-prexxor/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/prexxor-chasm/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/tunel-da-tempestade/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/storm-tunnel/" />
+        <loc>https://www.chaoticonline.ml/pico-ravanaugh/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ravanaugh-ridge/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/a-passagem-outro-mundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/the-passage-overworld/" />
+        <loc>https://www.chaoticonline.ml/regiao-dos-rios/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/riverlands/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/a-passagem-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/the-passage-underworld/" />
+        <loc>https://www.chaoticonline.ml/desfiladeiro-do-rio-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/rock-river-canyon/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/palacio-distorcido/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/the-twisted-palace/" />
+        <loc>https://www.chaoticonline.ml/bosque-das-runas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/runic-grove/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/cidade-do-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/underworld-city/" />
+        <loc>https://www.chaoticonline.ml/fonte-dos-esqueletos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/skeletal-springs/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/tunel-da-tempestade/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/storm-tunnel/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/a-passagem-outro-mundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-overworld/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/a-passagem-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-underworld/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/palacio-distorcido/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-twisted-palace/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/cidade-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/underworld-city/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/coliseu-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/underworld-colosseum/" />
     </url>
 
 </urlset>

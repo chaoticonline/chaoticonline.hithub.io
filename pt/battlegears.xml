@@ -2,120 +2,136 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-    http://www.w3.org/1999/xhtml
-    http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd">
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/aerodrone/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/aerodrone/" />
+        <loc>https://www.chaoticonline.ml/pt/aerodrone/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/aerodrone/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/escudo-de-agua/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/aquashield/" />
+        <loc>https://www.chaoticonline.ml/escudo-de-agua/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/aquashield/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/cyclance/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/cyclance/" />
+        <loc>https://www.chaoticonline.ml/pt/cyclance/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/cyclance/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/droskin/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/droskin/" />
+        <loc>https://www.chaoticonline.ml/pt/droskin/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/droskin/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/treco-de-troca/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/flux-bauble/" />
+        <loc>https://www.chaoticonline.ml/escamas-do-dractyl/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dractyl-scales/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/growlitzer/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/growlitzer/" />
+        <loc>https://www.chaoticonline.ml/treco-de-troca/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/flux-bauble/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/manto-de-gelo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/ice-cloak/" />
+        <loc>https://www.chaoticonline.ml/pt/growlitzer/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/growlitzer/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/liquilizador/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/liquilizer/" />
+        <loc>https://www.chaoticonline.ml/coroa-do-heptadd/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/heptadds-crown/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/lira-dos-mugicians/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/mugicians-lyre/" />
+        <loc>https://www.chaoticonline.ml/manto-de-gelo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ice-cloak/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/dinamitador/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/pyroblaster/" />
+        <loc>https://www.chaoticonline.ml/liquilizador/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/liquilizer/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/anel-de-naarin/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/ring-of-naarin/" />
+        <loc>https://www.chaoticonline.ml/mowercycle/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pt/mowercycle/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/estrela-da-regiao-dos-rios/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/riverland-star/" />
+        <loc>https://www.chaoticonline.ml/lira-dos-mugicians/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mugicians-lyre/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/cavalo-esqueleto/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/skeletal-steed/" />
+        <loc>https://www.chaoticonline.ml/dinamitador/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pyroblaster/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/visor-espectral/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/spectral-viewer/" />
+        <loc>https://www.chaoticonline.ml/anel-de-naarin/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ring-of-naarin/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/armadura-de-pedra/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/stone-mail/" />
+        <loc>https://www.chaoticonline.ml/estrela-da-regiao-dos-rios/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/riverland-star/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/espada-de-khyat/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/sword-of-khyat/" />
+        <loc>https://www.chaoticonline.ml/cavalo-esqueleto/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/skeletal-steed/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/tempestade-krinth/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/torrent-krinth/" />
+        <loc>https://www.chaoticonline.ml/visor-espectral/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/spectral-viewer/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/torwegg/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/torwegg/" />
+        <loc>https://www.chaoticonline.ml/armadura-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/stone-mail/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/pt/viledriver/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/viledriver/" />
+        <loc>https://www.chaoticonline.ml/espada-de-khyat/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/sword-of-khyat/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/cacos-de-vlaric/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/vlaric-shard/" />
+        <loc>https://www.chaoticonline.ml/braceletes-de-teletransporte/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/telebracers/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/andarilho-dos-ventos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/windstrider/" />
+        <loc>https://www.chaoticonline.ml/tempestade-krinth/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/torrent-krinth/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.tk/armadura-xerium/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.tk/xerium-armor/" />
+        <loc>https://www.chaoticonline.ml/pt/torwegg/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/torwegg/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/viledriver/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/viledriver/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/cacos-de-vlaric/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/vlaric-shard/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/andarilho-dos-ventos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/windstrider/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/armadura-xerium/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/xerium-armor/" />
     </url>
 
 </urlset>
