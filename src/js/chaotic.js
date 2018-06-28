@@ -103,13 +103,21 @@ $( document ).ready( function() {
      * GDPR Consent Buttons Handlers
      */
     $( 'footer.gdpr .accepted' ).on( 'click', function() {
+
         Cookies.set( 'gdpr', '1' );
+
         updateGDPRConsentStatus();
+
+        window.location.reload( false );
     });
 
     $( 'footer.gdpr .declined' ).on( 'click', function() {
+
         Cookies.set( 'gdpr', '0' );
+
         updateGDPRConsentStatus();
+
+        window.location.reload( false );
     });
 
     // Auxiliary Functions

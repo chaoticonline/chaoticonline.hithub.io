@@ -281,11 +281,11 @@ class Search extends Core {
                      * The deferred Chain is rejected and the script flow goes
                      * to $.whenSync().fail()
                      */
-                    if( nodes.length == 0 ) {
+                    if( ! this.isjQuery( nodes ) || nodes.length === 0 ) {
 
-                        this.messages.find( 'p.nothing' ).removeClass( 'hidden' );
+                        this.messages.find( 'p.empty' ).removeClass( 'hidden' );
 
-                        deferred.reject();
+                        return deferred.reject();
                     }
 
                     // Filtering...
@@ -304,11 +304,11 @@ class Search extends Core {
                      * The deferred Chain is rejected and the script flow goes
                      * to $.whenSync().fail()
                      */
-                    if( entries.length == 0 ) {
+                    if( ! this.isjQuery( entries ) || entries.length === 0 ) {
 
                         this.messages.find( 'p.nothing' ).removeClass( 'hidden' );
 
-                        deferred.reject();
+                        return deferred.reject();
                     }
 
                     /**
