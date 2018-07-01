@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rarity on Chaotic Online</title>
-    <link>https://chaoticonline.github.io/rarity/</link>
+    <link>https://www.chaoticonline.ml/rarity/</link>
     <description>Recent content in Rarity on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://chaoticonline.github.io/rarity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.chaoticonline.ml/rarity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Common</title>
-      <link>https://chaoticonline.github.io/rarity/common/</link>
+      <link>https://www.chaoticonline.ml/rarity/common/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/common/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/common/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare</title>
-      <link>https://chaoticonline.github.io/rarity/rare/</link>
+      <link>https://www.chaoticonline.ml/rarity/rare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/rare/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/rare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Super</title>
-      <link>https://chaoticonline.github.io/rarity/super/</link>
+      <link>https://www.chaoticonline.ml/rarity/super/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/super/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/super/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultra</title>
-      <link>https://chaoticonline.github.io/rarity/ultra/</link>
+      <link>https://www.chaoticonline.ml/rarity/ultra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/ultra/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/ultra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncommon</title>
-      <link>https://chaoticonline.github.io/rarity/uncommon/</link>
+      <link>https://www.chaoticonline.ml/rarity/uncommon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/uncommon/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/uncommon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unknown</title>
-      <link>https://chaoticonline.github.io/rarity/unknown/</link>
+      <link>https://www.chaoticonline.ml/rarity/unknown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chaoticonline.github.io/rarity/unknown/</guid>
+      <guid>https://www.chaoticonline.ml/rarity/unknown/</guid>
       <description></description>
     </item>
     
