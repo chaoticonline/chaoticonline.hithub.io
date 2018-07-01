@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creatures on Chaotic Online</title>
-    <link>https://www.chaoticonline.ml/creatures/</link>
+    <link>https://chaoticonline.github.io/creatures/</link>
     <description>Recent content in Creatures on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 27 Jun 2018 18:05:58 -0300</lastBuildDate>
     
-	<atom:link href="https://www.chaoticonline.ml/creatures/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chaoticonline.github.io/creatures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OverWorld</title>
-      <link>https://www.chaoticonline.ml/creatures/overworld/</link>
+      <link>https://chaoticonline.github.io/creatures/overworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/overworld/</guid>
+      <guid>https://chaoticonline.github.io/creatures/overworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UnderWorld</title>
-      <link>https://www.chaoticonline.ml/creatures/underworld/</link>
+      <link>https://chaoticonline.github.io/creatures/underworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/underworld/</guid>
+      <guid>https://chaoticonline.github.io/creatures/underworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mipedians</title>
-      <link>https://www.chaoticonline.ml/creatures/mipedians/</link>
+      <link>https://chaoticonline.github.io/creatures/mipedians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/mipedians/</guid>
+      <guid>https://chaoticonline.github.io/creatures/mipedians/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Danians</title>
-      <link>https://www.chaoticonline.ml/creatures/danians/</link>
+      <link>https://chaoticonline.github.io/creatures/danians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/danians/</guid>
+      <guid>https://chaoticonline.github.io/creatures/danians/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M&#39;arrillians</title>
-      <link>https://www.chaoticonline.ml/creatures/marrillians/</link>
+      <link>https://chaoticonline.github.io/creatures/marrillians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/marrillians/</guid>
+      <guid>https://chaoticonline.github.io/creatures/marrillians/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tribeless</title>
-      <link>https://www.chaoticonline.ml/creatures/tribeless/</link>
+      <link>https://chaoticonline.github.io/creatures/tribeless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/creatures/tribeless/</guid>
+      <guid>https://chaoticonline.github.io/creatures/tribeless/</guid>
       <description></description>
     </item>
     

@@ -107,8 +107,6 @@ $( document ).ready( function() {
         Cookies.set( 'gdpr', '1' );
 
         updateGDPRConsentStatus();
-
-        window.location.reload( false );
     });
 
     $( 'footer.gdpr .declined' ).on( 'click', function() {
@@ -116,8 +114,6 @@ $( document ).ready( function() {
         Cookies.set( 'gdpr', '0' );
 
         updateGDPRConsentStatus();
-
-        window.location.reload( false );
     });
 
     // Auxiliary Functions

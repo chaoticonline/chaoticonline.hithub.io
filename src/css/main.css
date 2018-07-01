@@ -22,7 +22,7 @@
 .icon.angle-double-right {
     background: url( '/assets/images/ui/icons.svg#angle-double-right' ) no-repeat 50% 50%;
     height: 15px;
-    margin: 0.4rem .4rem 0 .6rem;
+    margin: 0.3rem .4rem 0 .6rem;
     width: 15px;
 }
 
@@ -49,6 +49,30 @@
     .icon.step-forward {
         background: url( '/assets/images/ui/icons.svg#step-forward' ) no-repeat 50% 50%;
     }
+
+    /**
+     * @internal
+     *
+     * Icons for the powered by section must be inline and need small
+     * adjustments in their colours, dimensions and spacing
+     */
+    .icon.github, .icon.hugo {
+        display: inline-block;
+        fill: #888;
+        height: 1rem;
+        margin-left: 0.5rem;
+        width: 1rem;
+    }
+
+        /**
+         * @internal
+         *
+         * Additionally, Hugo's massive SVG definition seems to have specific
+         * dimensions that don't go well with the rules above
+         */
+        .icon.hugo {
+            width: 3.5rem;
+        }
 
     /** CSS Sprites - https://www.toptal.com/developers/css/sprite-generator */
 
@@ -494,7 +518,7 @@
     display: -ms-inline-flexbox;
     display: inline-flex;
     height: 11px;
-    margin: 0.75rem 0.5rem 0 0;
+    margin-right: 0.5rem;
     position: relative;
     width: 16px;
 }
@@ -676,7 +700,7 @@
      *   <li><a href=/contact>Contact</a></li>
      * </ul>
      */
-    .stacked > li {
+    .stacked > li:not(.dropdown-divider) {
         display: list-item !important;
         margin-right: 7px;
     }
@@ -779,9 +803,9 @@
         z-index: 1000;
     }
 
-        .nav .flyout-content li {
+        .nav .flyout-content li:not(.dropdown-divider) {
             font-size: .9rem;
-            padding: 0 0.8rem 0 1.2rem;
+            margin: -0.15rem 1.2rem;
             white-space: nowrap;
         }
 
@@ -1011,28 +1035,40 @@ html, body {
     background: #FFF;
     font-family: "Quicksand", sans-serif;
     font-size: 1.05rem;
-    min-height: 100vh;
 }
 
-body {
-    position: relative;
+body, wrapper {
+   min-height:100vh;
 }
+
+    main {
+        margin: 0 5% !important;
+    }
 
 footer {
   background-color: #F5F5F5;
-  bottom: 0;
   color: #888;
   font-size: .8rem;
+  margin-top: 1rem;
   padding: 1rem 0;
-  position: absolute;
   text-align: center;
   width: 100%;
-  z-index: 1000;
 }
 
-    footer.copyright .links a:hover {
-        border-bottom: 1px dotted #888;
-    }
+/** Links */
+
+a, a:link, a:visited {
+    color: #888;
+    text-decoration: none;
+}
+
+a.important, a.important:link, a.important:visited, a.important:hover {
+    color: #31708f !important;
+}
+
+footer.copyright .links a:hover {
+    border-bottom: 1px dotted #888;
+}
 
     /**
      * @internal
@@ -1047,59 +1083,12 @@ footer {
     /**
      * @internal
      *
-     * Reducing Bootstrap Grid System's Row margins
-     */
-    footer.copyright .row {
-        margin: 0 -3rem;
-    }
-
-    /**
-     * @internal
-     *
      * Aligning the SVG icons inside links to the `<span>` tag used for
      * the "Powered by" message
      */
-    footer.copyright .social a {
+    footer.copyright .powered-by a {
         vertical-align: sub;
     }
-
-    /**
-     * @internal
-     *
-     * Making SVG icons inline and adjusting their colours, dimensions and spacing
-     */
-    footer.copyright .social svg {
-        display: inline-block;
-        fill: #888;
-        height: 1rem;
-        margin-left: 0.5rem;
-        width: 1rem;
-    }
-
-        /**
-         * @internal
-         *
-         * Hugo's massive SVG definition seems to have specific dimensions that
-         * don't go well with the rules above
-         */
-        footer.copyright .social svg.hugo {
-            width: 3.5rem;
-        }
-
-.container-fluid {
-    margin: 0 5%;
-}
-
-/** Links */
-
-a, a:link, a:visited {
-    color: #888;
-    text-decoration: none;
-}
-
-a.important, a.important:link, a.important:visited, a.important:hover {
-    color: #31708f !important;
-}
 
 /** Bootstrap's Overwritings */
 
@@ -1165,19 +1154,9 @@ h6 {
 /** Tags directly manipulated */
 
 .quote {
-    margin: 0.5rem auto 1.5rem auto;
+    margin: 0.25rem auto 1.5rem auto;
     width: 80%;
 }
-
-    /**
-     * @internal
-     *
-     * As usual, Location Cards likes to mess and Quotes below Location Cards
-     * must not have top margin
-     */
-    .locations .card-data + .quote {
-        margin-top: 0 !important;
-    }
 
     /**
      * @internal
@@ -1265,7 +1244,7 @@ blockquote {
 
         justify-content: flex-end;
 
-        margin-bottom: -0.5rem;
+        margin: 0.6rem 0 -0.2rem 0;
     }
 
         blockquote cite:before {
@@ -1282,15 +1261,16 @@ blockquote {
             /**
              * @internal
              *
-             * If we have something more besides an Quote Author, like a
+             * If we have something more besides a Quote Author, like a
              * background context for the Quote Text — i.e. Mallash — we must
-             * push the note paragraph so it doesn't get mixed with the main text
+             * give some room for the paragraph or it'll get mixed with
+             * the main text
              *
-             * We do this simply by remove the negative margin applied
+             * We do this simply by removing the negative margin applied
              * to paragraphs above
              */
             blockquote cite + p.note {
-                margin-top: 0.5rem;
+                margin-top: 0.2rem;
             }
 
 abbr {
@@ -1325,7 +1305,7 @@ iframe{
     -webkit-transform: scale( 1.5 );
             transform: scale( 1.5 );
 
-    margin-top: -19vh;
+    margin-top: -15vh;
     width: 100%;
     z-index: 1; /** Below the IFrames */
 }
@@ -1422,7 +1402,7 @@ img.position-left {
  * and thus we have to pull it back
  */
 #TableOfContents > ul {
-    margin-left: -7rem;
+    margin-left: -4rem;
 }
 
   #TableOfContents ul > li {
@@ -1433,7 +1413,7 @@ img.position-left {
   /** Our complements */
 
 .toc {
-    margin: 0 0 1rem 0 !important;
+    margin: 0.5rem 0 1rem 0 !important;
 }
 
     /**
@@ -1494,12 +1474,6 @@ footer.gdpr a {
     font-weight: bold;
 }
 
-/** Terms of Use - Links */
-
-#terms a {
-    color: #31708f !important;
-}
-
 /** Advertisement */
 
 .ads ins {
@@ -1513,6 +1487,40 @@ footer.gdpr a {
     top: 3rem;
 }
 
+/**
+ * @internal
+ *
+ * The new format with a fluid container has some fine tuning regarding
+ * left/right margins but, unfortunately, the same value set for left margin
+ * can't be used globally.
+ *
+ * Listing Pages are a bit stretcher and therefore need to stay closer
+ */
+.listing + .sidebar .ads {
+    margin-left: 1rem !important;
+}
+
+    .listing .in-feed-ads {
+        margin: 0 15px; /** Left/Right Accordingly to Bootstrap's Grid padding */
+        display: block;
+        height: 100%;
+        min-height: 250px;
+        width: 100%;
+    }
+
+/**
+ * @internal
+ *
+ * Google AdSense Blocks don't like Flexbox o.O
+ */
+.cards.ads {
+    margin: 1.45rem 0 1.4rem 0.95rem;
+}
+
+.page .in-article-ads {
+    margin-top: .15rem;
+}
+
 /** Navigation Bar */
 
 .navbar {
@@ -1522,10 +1530,6 @@ footer.gdpr a {
     padding: 0.1rem 1rem !important;
     z-index: 1030;
 }
-
-    .navbar .nav {
-        display: inline;
-    }
 
     .navbar .nav .nav-link:focus,.navbar .nav .nav-link:hover {
         color: #888;
@@ -1584,39 +1588,44 @@ footer.gdpr a {
         font-weight: bold;
     }
 
+#navigation {
+    font-size: 0.9rem;
+    line-height: 2.2rem;
+}
+
+    #navigation .dropdown-toggle::after {
+        margin: 0.2rem 0 0 0.7rem !important;
+    }
+
 /** Language Switcher */
 
 #languages {
-  margin: -4px 0.5rem 0 0;
+    font-size: 0.9rem;
+    position: relative;
+    right: -2.5rem;
 }
 
-  #languages button {
-    background-color: 292b2c;
-    color: #888;
-    font-size: 0.85rem;
-  }
-
-    #languages button:focus, #languages button:hover {
-      -webkit-box-shadow: none;
-              box-shadow: none;
+    #languages .flyout-content li:not(.dropdown-divider) {
+        margin: 0.25rem 1.2rem;
     }
-
-  #languages .dropdown-menu {
-    font-size: 0.85rem;
-    padding-left: 15px;
-  }
-
-    #languages .dropdown-menu li {
-      margin-bottom: 5px;
-    }
-
-      #languages .dropdown-menu li:last-child {
-        margin-bottom: 0;
-      }
 
     #languages .dropdown-toggle::after {
-        display: inline-flex;
-        margin: -0.1rem -0.2rem 0 0.4rem !important;
+        margin: 0.2rem 0 0 0.7rem !important;
+    }
+
+    #languages button {
+        background-color: #292b2c;
+        color: #888;
+        font-size: 0.85rem;
+    }
+
+    #languages button:focus, #languages button:hover {
+        -webkit-box-shadow: none;
+                box-shadow: none;
+    }
+
+    #languages .dropdown-menu {
+        font-size: 0.85rem;
     }
 
     /**
@@ -1637,48 +1646,16 @@ footer.gdpr a {
         color: #292b2c;
     }
 
-#navigation {
-    font-size: 0.9rem;
-    line-height: 2.2rem;
-}
-
-    #navigation .navbar-nav {
-        margin-top: 4px;
-    }
-
-    #navigation .dropdown-toggle::after {
-        display: inline-flex;
-        margin: 1rem 0 0 0.7rem !important;
-    }
-
 /** Social media Icons */
 
 #social {
-    margin: 0 6% 0 -7%;
-    position: relative;
-    z-index: 4; /* Minimum to become above everything including the CSS Ribbons */
+    position: fixed;
+    top: 9rem;
+    width: 4rem;
+    z-index: 99;
 }
 
-    #social a {
-        color: #FFF;
-    }
-
-    #social > div {
-        position: -webkit-sticky;
-        position: sticky;
-        top: 7rem;
-        margin: 6rem 0;
-    }
-
-    /** Removes Bootstrap's Gutters */
-
-    #social ul li div {
-        margin: 0;
-        padding: 0;
-    }
-
 #social ul li {
-
        -webkit-border-top-right-radius: 7px;
     -webkit-border-bottom-right-radius: 7px;
            -moz-border-radius-topright: 7px;
@@ -1688,118 +1665,45 @@ footer.gdpr a {
 
     cursor: pointer;
 
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-
-    height: 60px;
-    padding: 0 10px;
-    position: relative;
-
-    -webkit-transform: translateX( -130px );
-            transform: translateX( -130px );
-
-    -webkit-transition: all .25s;
-            transition: all .25s;
-
-    width: 200px;
+    -webkit-transition: background .2s ease-in-out;
+       -moz-transition: background .2s ease-in-out;
+         -o-transition: background .2s ease-in-out;
+            transition: background .2s ease-in-out;
 }
-
-#social ul li:hover {
-    -webkit-transform: translateX( -15px );
-            transform: translateX( -15px );
-}
-
-    #social ul li.patreon:hover {
-        -webkit-transform: translateX( 5px );
-                transform: translateX( 5px );
-
-        width: 203px;
-    }
-
-#social .label {
-    color: #FFF;
-    font-size: 0.9rem;
-    font-weight: 700;
-    margin: 0 -20px 0 20px;
-    visibility: hidden;
-}
-
-    #social ul li:hover .label {
-        margin: 0 -25px 0 25px;
-        visibility: visible;
-    }
-
-        #social ul li.patreon:hover .label {
-            margin: 0 -10px 0 5px;
-        }
-
-    /**
-     * @internal
-     *
-     * Micro-adjustments to complement Flexbox vertical centring applied to .icon class
-     */
-    #social .icon svg {
-        fill: #FFF;
-        height: 2rem;
-        width: 2rem;
-    }
-
-    /** Social Media Icons - Colouring & Position Adjustments */
 
     #social ul li.facebook {
         background-color: #3c5a96;
     }
 
     #social ul li.twitter {
-      background-color: #1dadeb;
+        background-color: #1dadeb;
     }
 
-    #social ul li.patreon {
-       background-color: #052D49;
+    /*#social ul li.patreon {
+        background-color: #052D49;
+    }*/
+
+    #social li a {
+           -webkit-border-top-right-radius: 7px;
+        -webkit-border-bottom-right-radius: 7px;
+               -moz-border-radius-topright: 7px;
+            -moz-border-radius-bottomright: 7px;
+                   border-top-right-radius: 7px;
+                border-bottom-right-radius: 7px;
+
+        cursor: pointer;
+        display: block;
+        padding: 0.9rem;
     }
 
-        #social ul li.patreon svg {
-            height: 25px;
-            width: 25px;
+        #social ul li:hover a {
+            background: rgba( 0, 0, 0, .1 );
         }
 
-            #social ul li.patreon:hover svg {
-                margin: 0 -5px 0 5px;
-            }
-
-    /**
-     * @internal
-     *
-     * The new format with a fluid container has some fine tuning regarding
-     * left/right margins but, unfortunately, the same value set for left margin
-     * can't be used globally.
-     *
-     * Listings are a bit stretcher and therefore need to stay closer
-     */
-    .listing + .sidebar .ads {
-        margin-left: 1rem !important;
-    }
-
-    /**
-     * @internal
-     *
-     * Google AdSense Blocks don't like Flexbox o.O
-     */
-    .cards.ads {
-        margin: 1.45rem 0 1.4rem 0.95rem;
-    }
-
-.listing .in-feed-ads {
-    margin: 0 15px; /** Left/Right Accordingly to Bootstrap's Grid padding */
-    display: block;
-    height: 100%;
-    min-height: 250px;
-    width: 100%;
-}
-
-.page .in-article-ads {
-    margin-top: .15rem;
+#social .icon svg {
+    fill: #FFF;
+    height: 2rem;
+    width: 2rem;
 }
 
 /**
@@ -1829,7 +1733,7 @@ footer.gdpr a {
 /** Listing Pages */
 
 .listing {
-    margin: 3vh 3vw 10vh -3vw;
+    margin-top: 1rem;
 }
 
     .listing .card-deck {
@@ -1935,8 +1839,12 @@ footer.gdpr a {
 /** Individual Pages */
 
 .page {
-    margin: 3vh 3vw 10vh -3vw;
+    margin-top: 1rem;
 }
+
+    .page.tags {
+        margin-left: 4rem;
+    }
 
     .page h1 a, .page h2 a,
     .page h3 a, .page h4 a,
@@ -1958,27 +1866,10 @@ footer.gdpr a {
     margin-bottom: 0 !important;
 }
 
-/**
- * @internal
- *
- * When a Card has little information to describe it, the right Column with
- * their Data gets shorter than the left column with the Card Picture
- *
- * Because this varies from Card to Card a simple <br /> solves the issue, but
- * the default height gives too much space so let's  fix that.
- *
- * But to not mess with any other possible <br /> let's target only those
- * Hugo processes from the Markdown parsing, which are wrapped by a <p> tag
- */
-.page p > br {
-    content: ' ';
-    display: block;
-}
+/** Individual Pages: Videos */
 
 #servers {
     height:  6vh;
-    margin-top: 5vh;
-    padding-bottom: 6vh;
 }
 
     #servers .nav-link {
@@ -2014,7 +1905,7 @@ footer.gdpr a {
         }*/
 
 #server-selection {
-  margin: 2.5vh 0 -1.5vh 0;
+  margin: 1.5rem 0 -0.9rem 0;
 }
 
 .page .player {
@@ -2042,9 +1933,13 @@ footer.gdpr a {
  * Individual Page: Cards' Articles
  */
 .page .picture {
-
     border-color: transparent;
     position: relative;
+}
+
+    .page .picture._card {
+        margin-bottom: 2rem;
+    }
 
     /**
      * @internal
@@ -2052,44 +1947,23 @@ footer.gdpr a {
      * Compensates the space between the big picture and any possible Quote Text
      * since defining this in `.quote` would affect all of them, including
      * those after Card Images
+     *
+     * Also, gives a tiny bit of space to the right to minimize the visual
+     * impression of being horizontally misaligned
      */
-    margin-bottom: 1.25rem;
-}
-
-    .page.locations .picture:not(.big) {
-
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center;
-
-        margin: 0 0 1.5rem 0;
+    .page .picture.big {
+        margin: 0 0.1rem 1.25rem 0;
     }
 
       .page .picture img {
-          border-radius: 0.4rem;
+          border-radius: 0.65rem;
           height: 100%;
           position: relative;
-          width: 85%;
+          width: 100%;
           z-index: 2;
       }
 
-          .page.locations .picture img {
-              width: 100%;
-          }
-
           .page .picture.big img {
-
-              /**
-               * @internal
-               *
-               * That's somewhat equivalent to 500px
-               */
-              height: 66vh;
-              max-height: 66vh;
 
               -o-object-fit: cover;
                  object-fit: cover;
@@ -2108,53 +1982,15 @@ footer.gdpr a {
                      object-fit: fill;
               }
 
-    /**
-     * @internal
-     *
-     * When using border-radius with box-shadow together, for
-     * some odd reason a thin white border appears in the corner
-     * the shadow makes its curve (here, the right one — see below)
-     *
-     * So we've created an element with to match the colour in the Card
-     * of the problematic corner and stacked it behind the image
-     *
-     * Here goes all the common definitions. Since the colour changes
-     * accordingly to the Card type, it's defined below
-     */
-    .page .picture .white-corner-fix {
-        border-bottom-right-radius: 0.55rem;
-        bottom: 0;
-        height: 15px;
-        position: absolute;
-        right: 2.2rem;
-        width: 15px;
-        z-index: 1;
-    }
-
-        /**
-         * @internal
-         *
-         * For Standalone Cards Pictures — i.e Takinom Shadowknight — the
-         * White Corner Fix needs to be slightly adjusted
-         */
-        .page .picture ._card .white-corner-fix {
-            right: 3.15rem;
-        }
-
-        /**
-         * @internal
-         *
-         * Locations' Cards being horizontally oriented need different rules
-         */
-        .page.locations .picture .white-corner-fix {
-            right: 0.9rem;
-        }
-
     .page .picture .shadow {
-        border-radius: 0.7rem;
+        border-radius: 12px;
         -webkit-box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
                 box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
     }
+
+        .page .picture:not(.big) .shadow {
+            width: 85%;
+        }
 
     .page .picture .caption {
         background-color: rgba( 0, 0, 0, 0.6 );
@@ -2198,33 +2034,15 @@ footer.gdpr a {
          * Left alignment for standalone pictures without an
          * Information Box — i.e. Takinom Shadowknight
          */
-        .page .image-credits.left {
-            left: -0.8rem;
+        .page .picture .image-credits.left {
+            left: -0.6rem;
         }
-
-            /**
-             * @internal
-             *
-             * Left alignment for pictures with an Information Box — Glacier Plains
-             */
-            .page .picture ._card .image-credits.left {
-                left: 0.3rem;
-            }
-
-                /**
-                 * @internal
-                 *
-                 * And once again, differently for Locations Cards
-                 */
-                .page.locations .picture ._card .image-credits.left {
-                    left: -2rem;
-                }
 
         .page .image-credits span {
             display: inline-block;
             white-space: nowrap;
 
-            transform: translate(0,100%) rotate(-90deg);
+            transform: rotate(-90deg);
             transform-origin: 0 0;
         }
 
@@ -2232,26 +2050,27 @@ footer.gdpr a {
                 color: #B2B2B2 !important;
             }
 
+/** Individual Pages: Cards' Data */
+
+.page .card-data {
+    margin: -1rem 0 1.5rem 0;
+}
+
+    .page.locations .card-data {
+        margin: 1.2rem 0 -0.75rem 0 !important;
+    }
+
 .page .data {
     display: flex;
+    font-size: 0.9rem;
 }
 
-.page.creatures .data {
-    font-size: 0.87rem !important;
-    margin: 0.5rem 1rem 0 1rem;
-}
+    .page .data.tv {
+        display: block;
+        font-size: 0.9rem !important;
+    }
 
-.page.locations .data {
-    font-size: 0.9rem !important;
-    margin: -1.5rem 1rem 0 1rem;
-}
-
-.page.creatures .tv-data {
-    font-size: 0.87rem !important;
-    margin-right: -0.9rem;
-}
-
-.page.creatures .header, .page.locations .header {
+.page .data .header {
     color: #FFF;
     padding: 0.5rem;
 }
@@ -2260,9 +2079,9 @@ footer.gdpr a {
      * @internal
      *
      * CSS Sprites for Creatures' Attributes and Tribal Elements are a little
-     * bit too large
+     * bit too large, let's re-scale them
      */
-    .page.creatures .header span, .page.creatures .box span {
+    .page .data .header span, .page .data .box span {
         display: block;
 
         -webkit-transform: scale( 0.7 );
@@ -2276,28 +2095,105 @@ footer.gdpr a {
 /**
  * @internal
  *
- * Removing default styles to proper vertical alignment
+ * Reverting Bootstrap's bottom margin on `<dd>` elements that causes the last
+ * one to be shorter and thus not matching the height of its corresponding `<dt>`
  */
-.page.creatures dl.traits dt, .page.creatures dl.traits dd,
-.page.creatures dl.tv dt, .page.creatures dl.tv dd,
-.page.locations dl.info dt, .page.locations dl.info dd {
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
+.page.creatures dd, .page.locations dd {
+    margin-bottom: 0 !important;
 }
 
 /**
- * Cards Shortcode Box Colors
+ * @internal
  *
- * 'header' and 'a' color *usually* come the rightmost corner of
- * Creature Card Background. *Usually* because, for example, that rule rendered
- * UnderWorld links too dark and unnoticeable
+ * Removing default styles for proper vertical alignment
+ */
+.page.creatures dl dt, .page.creatures dl dd,
+.page.locations dl dt, .page.locations dl dd {
+    padding: 0.5rem 0 !important;
+}
+
+/** Individual Pages: Cards' Search */
+
+#card-search.page {
+    margin-top: 1rem;
+}
+
+    #card-search form {
+        margin-top: 1.5rem;
+    }
+
+    #card-search #messages, #card-search #loading-icon {
+        height: 50vh;
+    }
+
+    #card-search #results {
+        margin-top: 1rem;
+    }
+
+    #card-search #results img.yes , #card-search #results img.no {
+        height: 12px;
+        margin: 0 auto;
+        width: 12px;
+    }
+
+/** Individual Pages: Disclaimer; */
+
+.disclaimer ul li a {
+    color: #31708f !important;
+    font-weight: bold;
+}
+
+/** Individual Pages: Terms of Use */
+
+#terms a {
+    color: #31708f !important;
+}
+
+/** Changelog Page */
+
+#changelog h3, #changelog h4, #changelog h6 {
+    margin: 1rem 0;
+}
+
+#changelog h3 {
+    color: unset;
+    font-size: 1.5rem;
+}
+
+#changelog h4 {
+    font-size: 1.3rem
+}
+
+#changelog h6 {
+    color: #888;
+    font-size: 1.1rem
+}
+
+#changelog small {
+    font-style: italic;
+    left: 1rem;
+    position: relative;
+    top: -1rem;
+}
+
+#changelog .toc {
+    margin-top: -2rem !important;
+}
+
+/**
+ * Cards Shortcode Box Colours
  *
- * .box', 'dl', 'dt' and 'dd' colours is something around +21 of color above on 0to255.com (adjust if needed)
+ * 'header' and 'a' colours *usually* come from the rightmost corner of
+ * Creatures' Card Background. *Usually* because, for example, that rule
+ * rendered UnderWorld links too dark and unnoticeable
+ *
+ * .box', 'dl', 'dt' and 'dd' colours are something around +21 of color
+ * above on 0to255.com (adjust if needed)
  */
 
     /** UnderWorld */
 
-.page.creatures .underworld .picture .white-corner-fix, .page.creatures .underworld .header {
+.page.creatures .underworld .header {
     background-color: #541424;
 }
 
@@ -2342,7 +2238,6 @@ footer.gdpr a {
 
   .page.creatures .underworld dl.traits dd:last-child, .page.creatures .underworld dl.tv dd:last-child {
       border-bottom: 1px solid #f6d7df;
-
   }
 
 .page.creatures .underworld dl.traits, .page.creatures .overworld dl.tv {
@@ -2351,12 +2246,11 @@ footer.gdpr a {
 
   .page.creatures .underworld dl.traits dd:last-child, .page.creatures .underworld dl.tv dd:last-child {
       border-bottom: 1px solid #f6d7df;
-
   }
 
     /** OverWorld */
 
-.page.creatures .overworld .picture .white-corner-fix, .page.creatures .overworld .header {
+.page.creatures .overworld .header {
     background-color: #114f98;
 }
 
@@ -2413,10 +2307,6 @@ footer.gdpr a {
   }
 
     /** Mipedians */
-
-.page.creatures .mipedians .picture .white-corner-fix {
-    background-color: #423b14;
-}
 
 .page.creatures .mipedians .header {
     background-color: #5c521c; /** ab7e1c */
@@ -2476,10 +2366,6 @@ footer.gdpr a {
 
     /** Locations */
 
-.page.locations .picture .white-corner-fix {
-    background-color: #0f371d;
-}
-
 .page.locations .header {
     background-color: #16522b;
     color: #FFF;
@@ -2528,44 +2414,6 @@ footer.gdpr a {
       border-bottom: 1px solid #d8f5e2;
   }
 
-.disclaimer ul li a {
-    color: #31708f !important;
-    font-weight: bold;
-}
-
-/** Cards' Search */
-
-#card-search.page {
-    margin: 3vh 0 10vh -5vw;
-}
-
-    #card-search form {
-        margin-top: 1.5rem;
-    }
-
-    #card-search #messages, #card-search #loading-icon {
-        height: 50vh;
-    }
-
-    #card-search #results {
-        margin-top: 1rem;
-    }
-
-    #card-search #results img.yes , #card-search #results img.no {
-        height: 12px;
-        margin: 0 auto;
-        width: 12px;
-    }
-
-/**
- * @internal
- *
- * Pushing Facebook Comments a bit
- */
-#card-search .comments {
-    margin-top: 3rem !important;
-}
-
 /** Extras */
 
 /**
@@ -2576,7 +2424,7 @@ footer.gdpr a {
 span.hr {
     border-top: 1px solid rgba( 0,0,0,.1);
     display: inline-block;
-    margin-top: 0.5rem;
+    margin: 0.25rem 0 0.75rem 0;
     width: 99%; /** Just enough to match "Big Picture" width */
 }
 
@@ -2600,6 +2448,10 @@ span.lang {
 .btn-xs {
     -webkit-transform: scale(0.7);
             transform: scale(0.7);
+}
+
+.flex-fill {
+    flex: 1 1 auto;
 }
 
 .invisible {
@@ -2631,6 +2483,39 @@ span.lang {
 /**
  * @internal
  *
+ * If Facebook SDK for some reason doesn't find its required markup,
+ * a `<div>` identified by `fb-root` it'll append such element to the `<body>`
+ * While the reasons for that are unclear, the said element comes visible and,
+ * therefore, occupies a small visible area below the `<footer>`
+ *
+ * This fixes that
+ */
+#fb-root {
+    display: none;
+}
+
+/** Fixes */
+
+/**
+ * @internal
+ *
+ * When a Card has little information to describe it, the right Column with
+ * their Data gets shorter than the left column with the Card Picture
+ *
+ * Because this varies from Card to Card a simple <br /> solves the issue, but
+ * the default height gives too much space so let's  fix that.
+ *
+ * But to not mess with any other possible <br /> let's target only those
+ * Hugo processes from the Markdown parsing, which are wrapped by a <p> tag
+ */
+.page p > br {
+    content: ' ';
+    display: block;
+}
+
+/**
+ * @internal
+ *
  * Prevents wrongly generated empty paragraph to mess with CSS definitions
  */
 p:empty {
@@ -2645,87 +2530,48 @@ p:empty {
 /**
  * @internal
  *
- * Devices with 1024px of maximum width, usually Tablets or
- * landscape oriented smartphones
+ * Shrinking Big Pictures on big landscape tablets, laptops, and desktops
  */
-@media (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 1025px) {
 
-    /** Main structure repositioning */
-
-    /**
-     * @internal
-     *
-     * Reducing Bootstrap's default margins of fluid containers 'cause in mobile
-     * it's too large but, instead of zero everything, we keep a little bit on
-     * the right side to compensate the shadows
-     */
-    .container-fluid {
-        margin-right: -2.5% !important;
+    .page .picture.big img {
+        height: 74vh;
+        max-height: 74vh;
     }
-
-    /**
-     * @internal
-     *
-     * Reducing the max-height defined by 50% of the Big Picture to be more
-     * proportional to a smaller screen
-     */
-    .page:not(.locations) .picture.big img {
-        max-height: 40vh;
-    }
-
-    .page.locations .picture.big img {
-        max-height: 33vh;
-    }
-
-    /**
-     * @internal
-     *
-     * The compensation done to this selector doesn't work well on mobile,
-     * so let's reduce it a little
-     */
-    .page .picture.big {
-        margin-bottom: 0.6rem;
-    }
-
-    /**
-     * @internal
-     *
-     * Since on mobile the Card and Card Data don't stay side-by-side,
-     * the white corner fix must be slightly adjusted
-     */
-    .page .picture ._card .white-corner-fix {
-        right: 0.85rem;
-    }
-
-        /**
-         * @internal
-         *
-         * Since on mobile the Card and Card Data don't stay side-by-side,
-         * the white corner fix must be slightly adjusted
-         */
-        .page.locations .picture .white-corner-fix {
-            right: 0.87rem;
-        }
 }
 
 /**
  * @internal
  *
- * Devices with 1024px of minimum width, usually PCs with small monitors
+ * Revoking privileges of inline redimensioning — i.e Kiru — on tablets,
+ * landscape iPad, lo-res laptops and desktops, without the need of a
+ * duplicated element hidden with Bootstrap Responsive Utilities
+ *
+ * Also, we'll micro-adjust the Information Box and ease-out the visual
+ * misalignment of the outer container
  */
-@media (min-width: 1024px) and (max-width: 1200px) {
+@media only screen and (max-width: 1024px) {
 
-    /** Main structure repositioning */
+    .page .picture.big img {
+        height: 100% !important;
+        max-height: 100% !important;
+    }
 
     /**
      * @internal
      *
-     * Reducing Bootstrap's default margins of fluid containers 'cause in mobile
-     * it's too large but, instead of zero everything, we keep a little bit on
-     * the right side to compensate the shadows
+     * Since on mobile the Card Image and the Data Columns stack on top of
+     * each other, no bottom margin must exist.
      */
-    .container-fluid {
-        margin-right: 3.5% !important;
+    .page .card-data {
+        margin: 0 !important;
+    }
+
+    /**
+     * Temporary! Until put the Information Box side-by-side with the Card Image
+     */
+    .page .card-data .data {
+        margin-bottom: 1rem !important;
     }
 }
 
@@ -2736,6 +2582,18 @@ p:empty {
  */
 @media (max-width: 768px) {
 
+    /**
+     * @internal
+     *
+     * The icon use to separate the Page Section in the `<h2>` tag from the
+     * Page Title in the `<h3>` looks out of position on mobile.
+     * Even though even the definitions for high viewport don't align it exactly
+     * to the middle either, it needs some visual aide
+     */
+    .icon.angle-double-right {
+        margin-top: 0.2rem !important;
+    }
+
     /** Main Structure */
 
     /**
@@ -2744,15 +2602,18 @@ p:empty {
      * By reducing a little bit the font-size on small viewports we make sure
      * long lines — like episodes appearances — fit very small screens without
      * break
-     *
-     * And by increasing the the bottom padding we make sure the sticky footer
-     * doesn't overlap content
-     *
-     * @see https://stackoverflow.com/a/29284379/5613506
      */
     body {
         font-size: 0.95rem;
-        padding-bottom: 5.5rem;
+    }
+
+    /**
+     * @internal
+     *
+     * Given the smaller viewport, Main Content's margins can be reduced a little
+     */
+    main {
+        margin: 0 1% !important;
     }
 
     /**
@@ -2764,7 +2625,7 @@ p:empty {
         margin: 0 !important;
     }
 
-        footer.copyright .social {
+        footer.copyright .powered-by {
             margin-right: -0.75rem;
         }
 
@@ -2775,6 +2636,7 @@ p:empty {
      */
     footer.copyright .links li {
         display: flex;
+        padding: 0.25rem 0;
     }
 
         /**
@@ -2799,16 +2661,9 @@ p:empty {
         margin: 0 0.5rem 0.5rem 0;
     }
 
-    /**
-     * @internal
-     *
-     * Reducing Bootstrap's default margins of fluid containers 'cause in mobile
-     * it's too large but, instead of zero everything, we keep a little bit on
-     * the right side to compensate the shadows
-     */
-    /*.container-fluid {
-        margin: 0 2px 0 0 !important;
-    }*/
+    footer p {
+        margin-bottom: 0 !important;
+    }
 
     /** Bootstrap Overwritings */
 
@@ -2821,11 +2676,19 @@ p:empty {
      * all heading tags
      *
      * We also reduce the font-size a little bit to enforce the visual
-     * hierarchical relationship between the <h2> and the <h3>
+     * hierarchical relationship between the <h2> and the <h3> in the same
+     * proportion of the top-margin of double-chevron (.icon.angle-double-right)
+     * added before the markup
      */
     h3 {
         font-size: 1.1rem !important;
-        margin-top: -0.3rem !important;
+
+        /**
+         * @internal
+         *
+         * This is the counterpart of the adjustment made to `.icon.angle-double-right`
+         */
+        margin-top: 0.3rem !important;
     }
 
     /** Tags directly manipulated */
@@ -2838,23 +2701,60 @@ p:empty {
             margin-top: -0.6rem;
         }
 
+    .quote {
+        margin: 0.3rem auto 1.25rem auto;
+        width: 100%;
+    }
+
         /**
          * @internal
          *
-         * Given the smaller viewport on mobile, removing the negative margin
-         * isn't enough to separate both texts so let's add some more
+         * Most of the times, the Quote Text will end close to the left without
+         * touching the Quote text Author (if any). With this, we can reduce
+         * the visual impression of excessive spacing between the `<cite>` and
+         * the ToC Tree heading
+         *
+         * Of course, this isn't a rule and may vary on different languages but
+         * at least it provides a generic smoothness all around
          */
-        blockquote cite + p.note {
-            margin-top: 1rem;
+        .quote blockquote cite {
+            margin-bottom: -0.7rem;
         }
 
-    .quote {
-        margin: 1rem auto;
-        width: 90%;
-    }
+            /**
+             * @internal
+             *
+             * Except when there's a note right after the Quote Author — i.e Mallash
+             * In this case we just revert what has been done above
+             */
+            .quote blockquote cite + p.note {
+                margin-top: 0.7rem;
+            }
 
-        .page .picture + .quote {
-            margin-top: 1.7rem !important;
+        /**
+         * @internal
+         *
+         * Quote Texts below the Big Picture has a custom `<div>` as wrapper
+         * but when in the middle of the Article they come immediately next of
+         * a specific Bootstrap Row `<div>`, so we can compensate the top-margin
+         *
+         * We also take into account cases in which Hugo generates an empty `<p>`
+         * between the Bootstrap Row and the Quote wrapper element while
+         * parsing the Markdown, even though, most of the times, such elements
+         * will be removed by html-minifier
+         */
+        .row + .quote, .row + p:empty + .quote {
+            margin-top: 0.75rem !important;
+        }
+
+        /**
+         * @internal
+         *
+         * With this same principle, we can easily revert the changes made
+         * to the `<cite>` above
+         */
+        .row + .quote blockquote cite {
+            margin-bottom: -0.2rem;
         }
 
         /**
@@ -2864,31 +2764,8 @@ p:empty {
          * changes as well
          */
         .quote + .toc {
-            margin-top: -0.75rem !important;
+            margin-top: -1rem !important;
         }
-
-        /**
-         * @internal
-         *
-         * Since on mobile the Card and Card Data don't stay side-by-side,
-         * it needs some tweaking on their margins and these adjustments
-         * reflects negatively on Quote positioning
-         */
-        .page.locations .card-data + .quote {
-            margin-top: 2.3rem !important;
-        }
-
-    /**
-     * @internal
-     *
-     * On mobile, the rare occasions there's more text ahead of the author of a
-     * Quote Text — e.g: Mallash — the additional formatting of the markup
-     * created next to the `<cite>` needs to go full width to not look warped
-     */
-    blockquote cite + span {
-        margin-left: 0 !important;
-        width: 100% !important;
-    }
 
     /**
      * @internal
@@ -2920,15 +2797,24 @@ p:empty {
         margin-top: -16.5vh;
     }
 
+    /** Language Switcher */
+
     /**
      * @internal
      *
      * Making the Navigation Menu vertically oriented on mobile
      */
-    .navbar .nav {
-        display: flex;
-        flex-direction: column;
+    #navigation.nav, #languages.nav {
+        display: flex !important;
     }
+
+        #navigation.nav {
+            flex-direction: column;
+        }
+
+        #languages {
+            align-items: flex-start;
+        }
 
         .navbar .nav span.hr {
             border-color: #888;
@@ -2949,18 +2835,6 @@ p:empty {
             left: 8%;
             top: 90%;
         }
-
-    /** Language Switcher */
-
-    #languages.hidden-sm-down {
-        display: block !important;
-        margin-top: -15.5vh !important;
-    }
-
-    #navigation .navbar-nav.hidden-sm-down:not( .pull-right ) {
-        display: block !important;
-        margin-top: -4px !important;
-    }
 
     /** Listing Pages */
 
@@ -3021,13 +2895,14 @@ p:empty {
 
     /** Individual Pages */
 
-    .page:not(.tags) {
-        margin: 0 !important;
+    /**
+     * @internal
+     *
+     * Reducing a little bit the top-margin of Pages' Titles
+     */
+    .page .title {
+        margin-top: -1rem;
     }
-
-      .page.tags {
-          margin: 1rem 0 0 0 !important;
-      }
 
     .page h5 {
         font-size: 1.4rem;
@@ -3043,6 +2918,21 @@ p:empty {
         margin-top: -1rem;
     }
 
+    .page.locations .card-data {
+        margin-bottom: 0 !important;
+    }
+
+    /**
+     * @internal
+     *
+     * Since the Card Image and the Information Box stack on top of each other
+     * on mobile, the bottom margin added to all `.picture` elements is too
+     * much, so we'll reduce a bit
+     */
+    .page .card-data .data {
+        margin-top: 0.85rem !important;
+    }
+
     /**
      * @internal
      *
@@ -3052,26 +2942,6 @@ p:empty {
     .page:not(.locations) .picture ._card, .page:not(.locations) .picture img {
         height: 100%;
         width: 100%;
-    }
-
-        /**
-         * @internal
-         *
-         * But Locations Cards needs a little more top/bottom spacing on their
-         * container to not get too close to the texts
-         */
-        .page.locations .picture ._card {
-            padding: 0.75rem 0;
-        }
-
-    /**
-     * @internal
-     *
-     * On mobile, depending on the device resolution, the caption bar may
-     * overlap the bottommost part of the Card, so we'll hide it
-     */
-    .page .picture .caption {
-        display: none;
     }
 
     /**
@@ -3086,13 +2956,31 @@ p:empty {
     /**
      * @internal
      *
-     * Nullifying any Bootstrap bottom margin class utilities used on mobile
+     * Since CSS Media Queries are, well, cascade, let's revert the margin
+     * removal done in the previous one
      */
-    .page .card-data.mb-1, .page.card-data .mb-2,
-    .page .card-data.mb-3, .page.card-data .mb-4,
-    .page .card-data.mb-5 {
-        margin-bottom: 0 !important;
+    .page .card-data {
+        margin-top: 1rem !important;
     }
+
+        /**
+         * @internal
+         *
+         * Let's give add some space between the picture and the information box
+         */
+        .page .card-data .data {
+            margin-top: 1.5rem !important;
+        }
+
+        /**
+         * @internal
+         *
+         * Given the landscape orientation, Location Cards are by definition,
+         * visually smaller, so we don't need to shrink them for mobile
+         */
+        .page.locations .picture:not(.big) .shadow {
+            width: 100%;
+        }
 
     /** Repositioning Images' Copyright */
 
@@ -3100,55 +2988,20 @@ p:empty {
          * @internal
          *
          * The Big Picture doesn't provide much room for the Images Credits
-         * to be placed but to not hide it completely we'll them above the
-         * pictures, horizontally, between the Image itself and the thin grey
-         * line below the title
+         * to be placed but to not hide it completely we'll move them to above
+         * the pictures, horizontally, between the Image itself and the thin
+         * grey line below the title
          */
         .page .picture.big .image-credits {
-            bottom: auto !important;
-            top: -1.35rem;
             right: 1rem;
             text-align: right;
+            top: -1.2rem;
             width: 100%;
         }
 
-        /**
-         * @internal
-         *
-         * On Card Images with an Information Box, however, there's not much
-         * space so, instead, we'll send the Credits Text to the bottom,
-         * between the Image and the Information Box itself, since it's not
-         * going to be side-by-side anyway
-         */
-        .page .picture._card .image-credits, .page .picture._card .image-credits.left {
-            bottom: -1.8rem !important;
-            right: 1rem;
-            text-align: right;
-            width: 100%;
-        }
-
-            /**
-             * @internal
-             *
-             * Since it'll be horizontally aligned, let's revert the rotation
-             */
-            .page .picture.big .image-credits span,
-            .page .picture._card .image-credits span, .page .picture._card .image-credits.left span {
-                transform: none;
+            .page .picture.big .image-credits span {
+                transform: none !important;
             }
-
-        /** Cards on portrait orientation without an Information Box */
-
-    .page .picture:not(.big) .image-credits, .page .picture:not(.big) .image-credits.left {
-        bottom: 0.5rem;
-        left: -1.65rem !important;
-    }
-
-        /** Locations Cards */
-
-        .page.locations .picture:not(.big) .image-credits, .page.locations .picture:not(.big) .image-credits.left {
-            bottom: 1rem;
-        }
 
     /** Creatures' Data (right column) */
 
@@ -3165,16 +3018,6 @@ p:empty {
         .page.locations .data {
             margin: 0.5rem 1rem -0.7rem 1.2rem;
         }
-
-    /**
-     * @internal
-     *
-     * Since on mobile the Card and Card Data don't stay side-by-side,
-     * the white corner fix must be slightly adjusted
-     */
-    .page .picture ._card .white-corner-fix {
-        right:3.1rem;
-    }
 
     /**
      * @internal
@@ -3257,26 +3100,6 @@ p:empty {
      */
     table.footable.all thead th.name, table.footable.all tbody td.name {
         width: 50%;
-    }
-}
-
-/**
- * @internal
- *
- * Devices with less than 768px of maximum width, usually old smartphones
- *
- * Rules defined here overwrite the conditional block before
- */
-@media (max-width: 767px) {
-
-    /**
-     * @internal
-     *
-     * Since on mobile the Card and Card Data don't stay side-by-side,
-     * the white corner fix must be slightly adjusted
-     */
-    .page .picture ._card .white-corner-fix {
-        right: 0.9rem;
     }
 }
 
