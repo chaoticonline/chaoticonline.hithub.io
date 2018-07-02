@@ -2151,11 +2151,11 @@ footer.gdpr a {
 
 /** Changelog Page */
 
-#changelog h3, #changelog h4, #changelog h6 {
+#changelog h3:not(.d-inline-flex), #changelog h4, #changelog h6 {
     margin: 1rem 0;
 }
 
-#changelog h3 {
+#changelog h3:not(.d-inline-flex) {
     color: unset;
     font-size: 1.5rem;
 }

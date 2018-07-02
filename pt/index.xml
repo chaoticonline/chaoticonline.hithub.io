@@ -2146,10 +2146,9 @@ Desconhecido Mipedians   Item  Value       </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/novidades/</guid>
-      <description>Versão Atual Publicado em 01/07/2018 às 18:05:58
-Adições  Publicado Episódio #15, Temporada #01 com áudio em Português Brasileiro  rev. 4c972b7 Committed in 06/27/2018 at 18:05:58
-Adições Estruturais  Adicionados Parâmetros ao FrontMatter para descrever a altura e a largura das imagens da maioria dos Arquivos de Conteúdo
- Adicionado o recém implementado atributo picture ao Shortcode de Cartas com o caminho das imagens usadas. Mesmo que ele sejam os mesmos do Parâmetro de FrontMatter picture.</description>
+      <description>&lt;p&gt;Mudanças de Versão do site Chaotic Online&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
