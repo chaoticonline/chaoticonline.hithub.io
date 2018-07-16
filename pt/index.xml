@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Ataques</title>
+      <link>https://www.chaoticonline.ml/pt/perim/attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/perim/attacks/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Bem-vindo ao Chaotic (Parte 1)</title>
       <link>https://www.chaoticonline.ml/videos/bem-vindo-ao-chaotic-parte-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,10 +76,10 @@
     
     <item>
       <title>Outro Mundo</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/overworld/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/overworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/overworld/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/overworld/</guid>
       <description></description>
     </item>
     
@@ -135,6 +144,15 @@
     </item>
     
     <item>
+      <title>Equipamentos de Batalha</title>
+      <link>https://www.chaoticonline.ml/pt/perim/battlegears/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/perim/battlegears/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Invasão M&#39;arrillian</title>
       <link>https://www.chaoticonline.ml/pt/videos/season-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,10 +214,10 @@
     
     <item>
       <title>Submundo</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/underworld/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/underworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/underworld/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/underworld/</guid>
       <description></description>
     </item>
     
@@ -223,6 +241,15 @@
       <description>&lt;p&gt;A Cidade do Submundo é uma região na parte central do Submundo.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Criaturas</title>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -258,10 +285,10 @@
     
     <item>
       <title>Mipedians</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/mipedians/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/mipedians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/mipedians/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/mipedians/</guid>
       <description></description>
     </item>
     
@@ -324,6 +351,15 @@
     </item>
     
     <item>
+      <title>Curiosidades</title>
+      <link>https://www.chaoticonline.ml/pt/videos/trivias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/videos/trivias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Curiosidades: Robôs da Pesada</title>
       <link>https://www.chaoticonline.ml/curiosidades/robos-da-pesada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -336,10 +372,10 @@
     
     <item>
       <title>Danians</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/danians/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/danians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/danians/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/danians/</guid>
       <description></description>
     </item>
     
@@ -364,6 +400,15 @@
     </item>
     
     <item>
+      <title>Locais</title>
+      <link>https://www.chaoticonline.ml/pt/perim/locations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/perim/locations/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>O Desafio de Hotekk (Parte 1)</title>
       <link>https://www.chaoticonline.ml/videos/o-desafio-de-hotekk-parte-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -385,11 +430,20 @@
     
     <item>
       <title>M&#39;arrillians</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/marrillians/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/marrillians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/marrillians/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/marrillians/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Mugics</title>
+      <link>https://www.chaoticonline.ml/pt/perim/mugics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/perim/mugics/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -493,10 +547,10 @@ Veremos, também, a mais improvável de todas as lutas em Chaotic.</description>
     
     <item>
       <title>Sem Tribo</title>
-      <link>https://www.chaoticonline.ml/pt/creatures/tribeless/</link>
+      <link>https://www.chaoticonline.ml/pt/perim/creatures/tribeless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/pt/creatures/tribeless/</guid>
+      <guid>https://www.chaoticonline.ml/pt/perim/creatures/tribeless/</guid>
       <description></description>
     </item>
     
@@ -1281,7 +1335,9 @@ E que, bom, karma is a bitch ¯\_(ツ)_/¯</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/avisos-legais/</guid>
-      <description>Avisos Legais Nos termos da Seção 107 da Lei de Direitos Autorais de 1976 dos Estados Unidos da América, o &amp;ldquo;uso justo&amp;rdquo; é concedido para fins como críticas, comentários, notícias, ensino, bolsa e pesquisa. O uso justo é uma prática permitida pelo estatuto de direitos autorais que, de outra forma, poderia estar a infringir. O uso sem fins lucrativos, educacionais ou de uso pessoal é o equilíbrio a favor do uso justo.</description>
+      <description>&lt;p&gt;Chaotic Online — Dizeres Legais&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1353,7 +1409,7 @@ E que, bom, karma is a bitch ¯\_(ツ)_/¯</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/cartas/</guid>
-      <description>&lt;p&gt;Conte-nos mais sobre quais Cartas você tem em mente com o formulário abaixo que entraremos de fininho no Castelo do Najarin pra trazer algumas informações pra você. Mas lembre-se: ser muito específico pode nos fazer ficar lá tempo o suficiente para sermos pegos &amp;gt;.&amp;lt;&lt;/p&gt;
+      <description>&lt;p&gt;Chaotic Online — Buscador de Cartas&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -1616,7 +1672,28 @@ E que, bom, karma is a bitch ¯\_(ツ)_/¯</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/dardemus/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#participações&#34;&gt;Participações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1941,7 +2018,28 @@ Desconhecido Mipedians   Item  Value       </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/intress/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#participações&#34;&gt;Participações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2022,7 +2120,28 @@ Desconhecido Mipedians   Item  Value       </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/kughar/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#participações&#34;&gt;Participações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2510,8 +2629,9 @@ Desconhecido Mipedians   Item  Value       </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/termos-de-uso/</guid>
-      <description>Introdução Chaotic Online é um projeto pessoal que visa revitalizar parte do Trading Cards Game “Chaotic” através de (limitadas) remasterizações dos episódios da Animação de mesmo nome lançada nos idos de 2006 e restaurações / recriações das imagens originais anteriormente publicamente disponíveis na rede mundial de computadores, assim como artigos originais sobre o Universo de Chaotic criativamente redigidos após pesquisa e observação do material existente.
-Nós respeitamos a natureza das suas informações pessoais e justamente por isso que elas não são solicitadas para o seu entretenimento.</description>
+      <description>&lt;p&gt;Chaotic Online — Termos de Uso&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -2745,7 +2865,28 @@ Nós respeitamos a natureza das suas informações pessoais e justamente por iss
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/zalic/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;nav&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#participações&#34;&gt;Participações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

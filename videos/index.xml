@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Episodes on Chaotic Online</title>
+    <title>Chaotic Online</title>
     <link>https://www.chaoticonline.ml/videos/</link>
-    <description>Recent content in Episodes on Chaotic Online</description>
+    <description>Recent content on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 27 Jun 2018 18:05:58 -0300</lastBuildDate>
@@ -35,6 +35,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/videos/season-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trivias</title>
+      <link>https://www.chaoticonline.ml/videos/trivias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/videos/trivias/</guid>
       <description></description>
     </item>
     

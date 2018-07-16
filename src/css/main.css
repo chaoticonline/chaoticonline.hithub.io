@@ -1386,7 +1386,7 @@ img.position-left {
 /** Hugo-predefined markup */
 
 #TableOfContents {
-    margin-top: 0.5rem;
+    margin: 0.5rem 0 0 -3rem;
 }
 
 /**
@@ -1402,7 +1402,7 @@ img.position-left {
  * and thus we have to pull it back
  */
 #TableOfContents > ul {
-    margin-left: -4rem;
+    margin-left: -4rem !important;
 }
 
   #TableOfContents ul > li {
@@ -2053,21 +2053,29 @@ footer.gdpr a {
 /** Individual Pages: Cards' Data */
 
 .page .card-data {
-    margin: -1rem 0 1.5rem 0;
+    margin: 1.5rem 0;
 }
 
     .page.locations .card-data {
         margin: 1.2rem 0 -0.75rem 0 !important;
     }
 
+    .page .card-data .list-unstyled {
+        padding-left: 0.75rem !important;
+    }
+
 .page .data {
     display: flex;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
     .page .data.tv {
         display: block;
         font-size: 0.9rem !important;
+    }
+
+    .page .data.tv .note {
+        font-style: italic;
     }
 
 .page .data .header {
@@ -2160,9 +2168,59 @@ footer.gdpr a {
     font-size: 1.5rem;
 }
 
+    #changelog h3[id^='rev-'], #changelog h3[id*=' rev-'] {
+        border-top: 1px solid rgba( 0, 0, 0, .1);
+        padding-top: 1rem !important;
+        width: 95%;
+    }
+
 #changelog h4 {
     font-size: 1.3rem
 }
+
+    #changelog .toc h4 {
+        font-size: 1.5rem;
+    }
+
+    /**
+     * @internal
+     *
+     * Styling Hugo's ToC Tree differently for the Changelog Page because
+     * it's much more complex than those on the other Pages
+     */
+
+    /**
+     * @internal
+     *
+     * For the first level used to list the Revision SHA we have an
+     * anchor inside three nested lists
+     */
+    #changelog #TableOfContents ul > li > ul > li > ul > li > a {
+        color: #292b2c !important;
+        font-weight: bold;
+    }
+
+        /**
+         * @internal
+         *
+         * For the second level used to categorize the Revisions'
+         * Changes (Added, Removed...) we one more nested list
+         */
+        #changelog #TableOfContents ul > li > ul > li > ul > li > ul > li > a {
+            font-style: italic;
+            font-weight: normal;
+        }
+
+            /**
+             * @internal
+             *
+             * Finally for the last level with the subsections of each of the
+             * Revisions' Changes, if any, we have two more nested lists
+             */
+            #changelog #TableOfContents ul > li > ul > li > ul > li > ul > li > ul > li > ul > li > a {
+                color: #888 !important;
+                font-style: normal;
+            }
 
 #changelog h6 {
     color: #888;
@@ -2177,8 +2235,27 @@ footer.gdpr a {
 }
 
 #changelog .toc {
-    margin-top: -2rem !important;
+    margin-top: -1.5rem !important;
 }
+
+    #changelog .toc .show {
+        border-bottom: 1px solid rgba( 0, 0, 0, .1);
+        width: 95%;
+    }
+
+#changelog #TableOfContents {
+    margin-left: 1rem !important;
+}
+
+    /**
+     * @internal
+     *
+     * The last list item of the first list receives a  bottom margin to space
+     * out the line added below the the ToC Tree
+     */
+    #changelog #TableOfContents > ul > li:last-child {
+        margin-bottom: 1rem;
+    }
 
 /**
  * Cards Shortcode Box Colours
@@ -2240,7 +2317,7 @@ footer.gdpr a {
       border-bottom: 1px solid #f6d7df;
   }
 
-.page.creatures .underworld dl.traits, .page.creatures .overworld dl.tv {
+.page.creatures .underworld dl.traits, .page.creatures .underworld dl.tv {
     border-right: 1px solid #f6d7df;
 }
 
@@ -2325,6 +2402,122 @@ footer.gdpr a {
 .page.creatures .mipedians .box {
     background-color: #faf1dd;
 }
+
+    /** Danians */
+
+.page.creatures .danians .header {
+    background-color: #44332e;
+}
+
+.page.creatures .danians a, .page.creatures .danians strong, .page.creatures .danians abbr, .page.creatures .danians em {
+    color: #816158;
+}
+
+.page.creatures .danians p a,
+.page.creatures .danians dl a,
+.page.creatures .danians ul a {
+    border-bottom: 1px dotted #816158;
+}
+
+.page.creatures .danians .box {
+    background-color: #e9e0de;
+}
+
+/**
+ * @internal
+ *
+ * Styling the <abbr> tag for mobile accordingly to the Card Type Schema
+ */
+.page.creatures .danians abbr[title]:focus::after,
+.page.creatures .danians abbr[title]:active::after {
+    border: 1px dotted #44332e;
+    background-color: #e9e0de !important; /** Overrides the default color*/
+}
+
+/**
+ * @internal
+ *
+ * This closes the Creatures Data box on the right side (white)
+ * without touching the left side (blue-ish)
+ */
+.page.creatures .danians dl.traits, .page.creatures .danians dl.tv {
+    border-right: 1px solid #e9e0de;
+}
+
+  .page.creatures .danians dl.traits dd:last-child, .page.creatures .danians dl.tv dd:last-child {
+      border-bottom: 1px solid #e9e0de;
+
+  }
+
+.page.creatures .danians dl.traits, .page.creatures .danians dl.tv {
+    border-right: 1px solid #e9e0de;
+}
+
+    .page.creatures .danians dt {
+        color: #44332e;
+    }
+
+  .page.creatures .danians dl.traits dd:last-child, .page.creatures .danians dl.tv dd:last-child {
+      border-bottom: 1px solid #e9e0de;
+  }
+
+    /** Tribeless */
+
+.page.creatures .tribeless .header {
+    background-color: #414141;/
+}
+
+.page.creatures .tribeless a, .page.creatures .tribeless strong, .page.creatures .tribeless abbr, .page.creatures .tribeless em {
+    color: #6c6c6c;
+}
+
+.page.creatures .tribeless p a,
+.page.creatures .tribeless dl a,
+.page.creatures .tribeless ul a {
+    border-bottom: 1px dotted #6c6c6c;
+}
+
+.page.creatures .tribeless .box {
+    background-color: #f2f2f2;
+}
+
+/**
+ * @internal
+ *
+ * Styling the <abbr> tag for mobile accordingly to the Card Type Schema
+ */
+.page.creatures .tribeless abbr[title]:focus::after,
+.page.creatures .tribeless abbr[title]:active::after {
+    border: 1px dotted #414141;
+    background-color: #f2f2f2 !important; /** Overrides the default color*/
+}
+
+/**
+ * @internal
+ *
+ * This closes the Creatures Data box on the right side (white)
+ * without touching the left side (blue-ish)
+ */
+.page.creatures .tribeless dl.traits, .page.creatures .tribeless dl.tv {
+    border-right: 1px solid #f2f2f2;
+}
+
+  .page.creatures .tribeless dl.traits dd:last-child, .page.creatures .tribeless dl.tv dd:last-child {
+      border-bottom: 1px solid #f2f2f2;
+
+  }
+
+.page.creatures .tribeless dl.traits, .page.creatures .tribeless dl.tv {
+    border-right: 1px solid #f2f2f2;
+}
+
+    .page.creatures .tribeless dt {
+        color: #414141;
+    }
+
+  .page.creatures .tribeless dl.traits dd:last-child, .page.creatures .tribeless dl.tv dd:last-child {
+      border-bottom: 1px solid #f2f2f2;
+  }
 
 /**
  * @internal
@@ -2561,10 +2754,13 @@ p:empty {
      * @internal
      *
      * Since on mobile the Card Image and the Data Columns stack on top of
-     * each other, no bottom margin must exist.
+     * each other, no top/bottom margins must exist but we'll reduce the
+     * left/right margins to give a tiny extra width, hoping to not break
+     * Bootstrap's Grid on very small devices — viewports smaller than the
+     * smallest of the available classes
      */
     .page .card-data {
-        margin: 0 !important;
+        margin: 0 -1rem !important;
     }
 
     /**
