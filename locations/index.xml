@@ -6,6 +6,7 @@
     <description>Recent content in Locations on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2018 08:25:07 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/locations/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/glacier-plains/</guid>
-      <description>&lt;p&gt;Glacier Plains is a region on the north-easternmost part of the OverWorld.&lt;/p&gt;
+      <description>&lt;p&gt;The Glacier Plains is a region on the north-easternmost part of the OverWorld.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -27,7 +28,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/lake-ken-i-po/</guid>
-      <description>&lt;p&gt;Lake Ken-I-Po is a region on the central-south part of the OverWorld.&lt;/p&gt;
+      <description>&lt;p&gt;The Lake Ken-I-Po is a region on the central-south part of the OverWorld.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -49,7 +50,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/crystal-cave/</guid>
-      <description>&lt;p&gt;Crystal Cave is a region on the south-westernmost part of the OverWorld.&lt;/p&gt;
+      <description>&lt;p&gt;The Crystal Cave is a region on the south-westernmost part of the OverWorld.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -61,6 +62,17 @@
       
       <guid>https://www.chaoticonline.ml/riverlands/</guid>
       <description>&lt;p&gt;The Riverlands is a big region on the south-southwest part of the OverWorld.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lava Pond</title>
+      <link>https://www.chaoticonline.ml/lava-pond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/lava-pond/</guid>
+      <description>&lt;p&gt;The Lava Pond is a region on the south-southwest part of the UnderWorld.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -237,15 +249,6 @@
     </item>
     
     <item>
-      <title>Lava Pond</title>
-      <link>https://www.chaoticonline.ml/lava-pond/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chaoticonline.ml/lava-pond/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Mipedim Oasis</title>
       <link>https://www.chaoticonline.ml/mipedim-oasis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -341,6 +344,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/the-passage-underworld/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Pits</title>
+      <link>https://www.chaoticonline.ml/the-pits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/the-pits/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

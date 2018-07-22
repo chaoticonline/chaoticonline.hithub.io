@@ -134,7 +134,7 @@
     <script>
       
 
-      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});var cookie=Cookies.get('gdpr');
+      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});window.GDPR=Cookies.get('GDPRv2')||0;
     </script>
 
     
@@ -152,12 +152,11 @@
 
     (adsbygoogle=window.adsbygoogle||[]);
 
-    if( typeof cookie !== 'undefined' ) {
+    if( ! window.GDPR ) {
 
         
 
         if( cookie == '0' ) {
-
             adsbygoogle.requestNonPersonalizedAds = 1;
         }
 
@@ -189,7 +188,7 @@
       
 
       
-      <link rel="stylesheet" href="/src/css/main.css"/>
+      <link rel="stylesheet" href="/assets/css/chaotic.css"/>
       
 
       <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse"><button class="navbar-toggler navbar-toggler-right" type="button"
@@ -372,7 +371,7 @@
             <span class="flag">
               <span class="icon pt" title="Português">&nbsp;</span>
             </span>
-            Português
+            <span>Português</span>
           </a>
 
           <ul class="flyout-content stacked nav flex-column">
@@ -405,7 +404,7 @@
                   <span class="flag">
                     <span class="icon en" title="Inglês">&nbsp;</span>
                   </span>
-                  Inglês
+                  <span>Inglês</span>
                 </a>
               
 
@@ -543,7 +542,7 @@
         <div class="row">
 
 
-<section 
+<section id="terms"
     class="col-md-12 col-lg-12 col-xl-9 page">
 
   <div class="row">
@@ -558,6 +557,8 @@
 
             
 
+            
+              Chaotic
             
 
           
@@ -585,46 +586,88 @@
 
     
 
-      <p>Chaotic Online — Termos de Uso</p>
+      
 
-<p></p>
+
+<div class="row toc">
+<div class="col-md-12">
+  <div class="row">
+    <h4 data-toggle="collapse" data-target=".toc .panel">Índice</h4>
+  </div>
+  <div class="row panel collapse">
+    <div>
+        <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#introdução">Introdução</a></li>
+<li><a href="#política-de-cookies">Política de Cookies</a>
+<ul>
+<li><a href="#como-essas-informações-são-coletadas">Como essas informações são coletadas?</a></li>
+<li><a href="#sua-vontade-e-o-controle-das-informações-coletadas">Sua vontade e o controle das informações coletadas</a></li>
+</ul></li>
+<li><a href="#compartilhamento-das-informações">Compartilhamento das Informações</a></li>
+<li><a href="#mineração-de-criptomoedas">Mineração de Criptomoedas</a>
+<ul>
+<li><a href="#como-assim">Como assim?</a></li>
+</ul></li>
+<li><a href="#fair-use-copyright">“Fair Use” &amp; Copyright</a></li>
+<li><a href="#emendas-e-alterações-a-estes-termos-de-uso">Emendas e Alterações a estes Termos de Uso</a></li>
+<li><a href="#agradecimentos">Agradecimentos</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+  </div>
+</div>
+</div>
+
 
 <h5 id="introdução">Introdução</h5>
 
-<p>Chaotic Online é um projeto pessoal que visa revitalizar parte do Trading Cards Game “Chaotic” através de (limitadas) remasterizações dos episódios da Animação de mesmo nome lançada nos idos de 2006 e restaurações / recriações das imagens originais anteriormente publicamente disponíveis na rede mundial de computadores, assim como artigos originais sobre o Universo de Chaotic criativamente redigidos após pesquisa e observação do material existente.</p>
+<p>Chaotic Online é um projeto pessoal que visa revitalizar parte do Trading Cards Game <em>Chaotic</em> através de (limitadas) remasterizações dos episódios da Animação de mesmo nome lançada nos idos de 2006, restaurações/recriações das imagens originais publicamente disponíveis na rede mundial de computadores e Artigos originais sobre o Universo de Chaotic criativamente redigidos após pesquisa e observação do material existente.</p>
 
 <p>Nós respeitamos a natureza das suas informações pessoais e justamente por isso que elas não são solicitadas para o seu entretenimento. Porém, para que possamos conhecer vocês melhor e assim aprimorar a experiência de uso ao longo do site, algumas informações são coletadas.</p>
 
-<h5 id="como-as-informações-são-coletadas">Como as informações são coletadas?</h5>
+<h5 id="política-de-cookies">Política de Cookies</h5>
 
-<p>Durante a sua visita, diversas informações, como seu endereço IP, se você está acessando o site por um computador pessoal ou smartphone, dentre outras, são coletadas automaticamente por serviços terceiros, precisando ou não que um ou mais Cookies sejam gravados no seu navegador. Esses dados servem tanto para criação de relatórios detalhados sobre nosso público-alvo como também para conectar você com produtos e serviços oferecidos por nossos anunciantes com base no seu interesse.</p>
+<p>Durante sua visita, diferentes informações, como seu endereço IP, se você está visitando o site de um computador pessoal ou smartphone e muitas outras, são coletadas servindo tanto para criação de relatórios detalhados sobre nosso público-alvo quanto para conectá-lo à produtos e serviços oferecidos por anunciantes baseados no seu interesse.</p>
+
+<h6 id="como-essas-informações-são-coletadas">Como essas informações são coletadas?</h6>
+
+<p>Essas informações são coletadas automaticamente por serviços terceiros e, algumas vezes, isso pode exigir que um ou mais Cookies sejam criados em seu navegador.</p>
+
+<h6 id="sua-vontade-e-o-controle-das-informações-coletadas">Sua vontade e o controle das informações coletadas</h6>
+
+<p>Uma vez que todo o conteúdo do site é estático, ou seja, ações feitas durante a sua visita não são registradas a ponto de oferecer nada muito diferente daquilo que outro visitante veria, existem poucas formas de comunicação entre cada uma das páginas do site. Para que você não precise aceitar ou não esses Termos em cada uma das páginas que visitar numa mesma sessão de navegação, nós criamos um único Cookie, individualmente, em todos os navegadores, de todos os dispositivos que você usar. Esse Cookie possui um simples <code>1</code> (um) ou <code>0</code> (zero), representando, respectivamente, se você concorda ou não.</p>
 
 <blockquote>
-<p>Relatórios permitem que saibamos, por exemplo, quais são as páginas menos acessadas para que investiguemos se existem problemas — lentidão, problemas que as impedem de ser devidamente visualizadas e etc.</p>
+<p>Não esquenta! Se o Cookie não existir porque você mudou de dispositivo ou limpou os dados pessoais do seu navegador a gente pergunta de novo ;)</p>
 </blockquote>
 
-<h5 id="sua-vontade-e-o-controle-das-informações-coletadas">Sua vontade e o controle das informações coletadas</h5>
-
-<p>Uma vez que todo o conteúdo do site é estático, ou seja, ações feitas durante a sua visita não são registradas a ponto de oferecer nada diferente daquilo que outro visitante veria, existem poucas formas de comunicação entre cada uma das páginas do site. Para que você não precise aceitar ou não esses Termos em cada uma das páginas que visitar numa mesma sessão de navegação, nós registramos um único Cookie, individualmente, em cada navegador, de cada dispositivo que você usar para acessar o site, com um simples 1 (um) ou 0 (zero) representando, respectivamente, se você concorda ou não.</p>
-
-<blockquote>
-<p>Não esquenta! Se o Cookie não existir a gente pergunta de novo sempre que você mudar de dispositivo ou limpar os dados do seu navegador ;)</p>
-</blockquote>
-
-<p>Através desse Cookie, você decide se esses dados específicos serão coletados e potencialmente usados ou não, pois nós configuraremos, na medida do possível, os serviços terceiros utilizados de acordo com a sua vontade, seja para desabilitá-los totalmente durante suas visitas ou para que eles operem de formas ainda mais privativas que o normal. Bloquear que nosso Cookie seja criado implica o não consentimento automático, afinal, não vamos impor nada a você.</p>
+<p>Através desse Cookie, você decide se esses dados específicos serão coletados e potencialmente usados ou não, pois nós configuraremos, na medida do possível, os serviços terceiros utilizados de acordo com a sua vontade, seja para desabilitá-los enquanto estiver navegando ou para que eles operem de formas ainda mais privativas que o normal. Bloquear que nosso Cookie seja criado automaticamente implica o não consentimento, afinal, não vamos impor nada só porque você não clicou num botão.</p>
 
 <blockquote>
 <p>Em nosso caso, isso normalmente significa não autorizar o uso de JavaScript em extensões como AdBlock, ScriptBlock (e similares), quando e se elas estiverem habilitadas em seu navegador, ou por desabilitar por completo o uso de Cookies de terceiros diretamente nas configurações do navegador, caso este tenha essa opção</p>
 </blockquote>
 
-<p>Tenha em mente que, apesar de poder escolher não participar da coleta de dados pessoais, Cookies ainda podem ser criados por alguns serviços de terceiros, principal, mas não exclusivamente, os referentes aos anunciantes do site, para controle de limite de frequência, relatórios agregados e combate de fraudes e abusos.</p>
+<p>Tenha em mente que, apesar de poder escolher não participar da coleta de dados pessoais, Cookies ainda <em>podem</em> ser criados por alguns serviços terceiros, principal, mas não exclusivamente, os referentes aos anunciantes do site, para controle de limite de frequência, relatórios agregados e combate de fraudes e abusos.</p>
 
 <h5 id="compartilhamento-das-informações">Compartilhamento das Informações</h5>
 
-<p>Nenhuma das informações coletadas por terceiros as quais nós do Projeto Chaotic Online tenhamos acesso será diretamente compartilhada, transferida ou mesmo vendida para/com outros por nenhum dos envolvidos, exceto legalmente requisitadas, e, mesmo assim, na maioria dos casos, isso não ocorreria sem o seu conhecimento. No entanto, serviços terceiros utilizados, cada qual com suas próprias Políticas de Privacidade e Termos de Uso, quando autorizados a operar, poderão intercambiá-las entre si e/ou com seus próprios parceiros, podendo ou não, a critério próprio, comunicar os usuários de seus serviços.</p>
+<p>Nenhuma das informações coletadas por serviços terceiros usados nesse site das quais nós tenhamos acesso administrativo serão diretamente compartilhadas, transferidas ou mesmo vendidas para/com outros por nenhum dos envolvidos com o Projeto Chaotic Online, exceto se legalmente requisitadas, e, mesmo assim, na maioria dos casos, isso não ocorreria sem o seu conhecimento. No entanto, serviços terceiros utilizados, cada qual com suas próprias Políticas de Privacidade e Termos de Uso, quando autorizados a operar através de nosso Cookie, ainda <em>poderão</em> intercambiá-las entre si e/ou com seus próprios parceiros, podendo ou não comunicar os usuários de seus serviços a critério próprio.</p>
 
 <blockquote>
-<p>Por exemplo: se você concordar com esses Termos, como nós usamos os serviços do Google, todos os outros serviços que o Google oferece podem por usar das informações coletadas aqui</p>
+<p>Por exemplo: se você concordar com esses Termos, como nós usamos os serviços do Google, todos os outros serviços oferecidos pelo Google, mesmo que nós não os usemos, também podem por usar das informações coletadas aqui</p>
 </blockquote>
 
 <p>Abaixo os serviços terceiros que utilizamos:</p>
@@ -654,23 +697,55 @@ Plugin de Comentários<br />
 Repositório de Controle de Versão &amp; Hospedagem<br />
 <a href="https://help.github.com/articles/github-privacy-statement/">https://help.github.com/articles/github-privacy-statement/</a></p>
 
-<h5 id="emendas-e-alterações-a-estes-termos-de-uso">Emendas e Alterações a estes Termos de Uso</h5>
+<p>JSECoin<br />
+Mineração de Criptomoedas pelo Navegador<br />
+<a href="https://jsecoin.com/en/legal/privacyPolicy/">https://jsecoin.com/en/legal/privacyPolicy/</a></p>
 
-<p>Reservamo-nos o direito de alterar, retificar e/ou atualizar periodicamente esses Termos de Uso, notificando você sobre quaisquer alterações significativas.</p>
+<h5 id="mineração-de-criptomoedas">Mineração de Criptomoedas</h5>
+
+<p>Mesmo que em sua essência o Projeto Chaotic Online seja um conceito pessoal feito por fãs, muito esforço, tempo e recursos são investidos porque pelo menos metade do que você encontrar aqui não estará disponível em lugar algum. E já que nós não detemos os direitos sobre a marca &ldquo;Chaotic&rdquo; (ainda?), nós gostaríamos de poder ter algum retorno, nem que seja apenas por reunir tudo isso num só lugar.</p>
+
+<p>Anunciante proveem sim algum tipo de retorno mas, diferentemente de um vídeo online que você não pode optar por não ver a mensagem dos anunciantes da plataforma — mesmo que você as pule assim que possível — as coisas são diferentes para os sites já que, na maioria das vezes, depende de você, visitante, tomar a iniciativa de clicar em algum banner de seu interesse.</p>
+
+<p>Por conta disso, nós implementamos Mineração de Criptomoedas em nosso site que fará as maluquices que as criptomoedas fazem <em>diretamente no seu navegador com o poder de processamento que o seu computador/smartphone não estiver usando</em></p>
+
+<h6 id="como-assim">Como assim?</h6>
+
+<p>A ideia básica por trás de uma criptomoeda é a chamada <a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function">computação de hashes</a>, equações matemáticas usadas para assegurar as transações dos/nos bancos de dados das criptomoedas. O problema é que, hoje em dia, as maiores criptomoedas são dominadas por fazendas de servidores, com grandes companhias com dezenas de dispositivos consumindo enormes quantidades de eletricidade a fim de terem mais poder de processamento para computar mais e mais hashes.</p>
+
+<p>Porém, muitos dos métodos de criptografia usados podem facilmente ser executados por navegadores web comuns em computadores/smartphones normais. E é aí que <strong>JSECoin</strong> entra em jogo! JSECoin é uma criptomoeda comum que computa esses hashes enquanto você está aqui, assistindo a um Episódio, lendo um dos Artigos originais sobre o Universo de Chaotic e até mesmo enquanto lê esses Termos de Uso. Isso pode, quem sabe, até ajudar a gente a comprar mais café — e, rapaz, a gente precisa de MUITO café O_O</p>
+
+<p>Claro, você optar por não nos ajudar, mas se ajudar você não vai sentir nada de diferente porque o minúsculo código usado é mais leve que um player de vídeo.</p>
+
+<blockquote>
+<p>Legal, né? :)</p>
+</blockquote>
 
 <h5 id="fair-use-copyright">“Fair Use” &amp; Copyright</h5>
 
 <p>“Nos termos da Seção 107 da Lei de Direitos Autorais de 1976 dos Estados Unidos da América, o “uso justo” é concedido para fins como: críticas, comentários, notícias, ensino, bolsa e pesquisa. O uso justo é uma prática permitida pelo estatuto de direitos autorais que, de outra forma, poderia estar a infringir. O uso sem fins lucrativos, educacionais ou de uso pessoal é o equilíbrio a favor do uso justo.”</p>
 
 <blockquote>
-<p>Ou seja, nós estamos apenas pesquisando e ensinando sobre o assunto, principal, mas não exclusivamente, através de nossos artigos, e promovendo discussões saudáveis através dos comentários daqui e da(s) rede(s) social(is), suportados pelos episódios da Animação ampla e publicamente disponíveis na Internet, sem quaisquer intenções explícitas de violação de direitos autorais, incluindo, mas não se limitando a, rendas financeiras com a marca de ninguém</p>
+<p>Ou seja, nós estamos apenas pesquisando e ensinando sobre o assunto, principal, mas não exclusivamente, através de nossos Artigos, e promovendo discussões saudáveis através dos comentários daqui e da(s) rede(s) social(is), suportados pelos Episódios da Animação que um dia esteve ampla e publicamente disponíveis na Internet, sem quaisquer intenções explícitas de violação de direitos autorais, incluindo, mas não se limitando a, rendimento financeiro com a <strong>marca</strong> de ninguém</p>
 </blockquote>
 
-<p>Todos os nomes de produtos, logotipos, imagens e marcas são de propriedade de seus respectivos donos. Todas as companhias e nomes de serviço usados neste website, inclusive nestes Termos, têm como fim unicamente a identificação. O uso desses nomes, logotipos e marcas não caracterizam endosso de nossa parte.</p>
+<p>Todos os nomes de produtos, logotipos, imagens e marcas são propriedades de seus respectivos donos. Todas as companhias e nomes de serviço usados neste site, inclusive nestes Termos, têm como fim unicamente a identificação. O uso desses nomes, logotipos e marcas não caracterizam endosso de nossa parte.</p>
 
-<p>Fica reservado aos envolvidos no o Projeto Chaotic Online apenas a propriedade intelectual de reunir todas as informações e materiais encontrados em um único local, bem como o trabalho de restaurar ou reconstruir os recursos originais, criar conteúdos originais baseados na temática e administrar o website e mídia(s) sociais pertinentes.</p>
+<p>Fica reservado aos envolvidos no o Projeto Chaotic Online apenas a propriedade intelectual de reunir todas as informações e materiais encontrados em um único local, bem como o trabalho de restaurar/reconstruir os recursos originais, criar conteúdos originais baseados na temática e administrar o site e mídia(s) sociais pertinentes.</p>
 
-<p>“Chaotic” é propriedade licenciada da <a href="http://www.4licensingcorp.com/properties/chaotic/" class="important" rel="nofollow">4Licensing Corporation</a> — Todos os direitos reservados</p>
+<p>“Chaotic” é uma propriedade licenciada da <a href="http://www.4licensingcorp.com/properties/chaotic/">4Licensing Corporation</a> — Todos os direitos reservados</p>
+
+<h5 id="emendas-e-alterações-a-estes-termos-de-uso">Emendas e Alterações a estes Termos de Uso</h5>
+
+<p>Reservamo-nos o direito de alterar, retificar e/ou atualizar periodicamente esses Termos de Uso, notificando você sobre quaisquer alterações significativas.</p>
+
+<h5 id="agradecimentos">Agradecimentos</h5>
+
+<p>Por fim mas não menos importante, nossos mais sinceros agradecimentos a <a href="https://king-of-craziness.deviantart.com">&ldquo;King-of-Craziness&rdquo;</a> como criador dos Templates Customizáveis das Cartas de Chaotic que nós utilizamos para reconstruir todas as aqui presentes.</p>
+
+<p>Toda a equipe por trás do <a href="https://www.grammarly.com/">Grammarly</a>, uma ferramenta maravilhosa que ajuda imensamente a corrigir e melhorar a versão em Inglês do site.</p>
+
+<p>Toda a equipe por trás do <a href="https://pt-br.libreoffice.org/projetos/vero/">Projeto VERO</a>, extensão do LibreOffice que permite corrigir error gramaticais bastante sutis na versão em Português Brasileiro do site, bem como adequar as redações ao Novo Acordo Ortográfico de 1990.</p>
 
     
 
@@ -741,11 +816,6 @@ Repositório de Controle de Versão &amp; Hospedagem<br />
         <div class="col text-left links">
 
           <ul class="list-inline">
-            <li class="list-inline-item">
-              <a href="/avisos-legais">
-                Avisos Legais
-              </a>
-            </li>
 
             <li class="list-inline-item">
               <a href="/termos-de-uso">
@@ -816,7 +886,9 @@ Repositório de Controle de Versão &amp; Hospedagem<br />
       
 
       
-        <script src="/src/js/chaotic.js"></script>
+        <script>
+          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var a=wLeft+window.innerWidth/2-n/2,i=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+i+", left="+a)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){i();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",a(e))}function a(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function i(){window.GDPR?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",a(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPRv2","1"),i()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPRv2","0"),i()})});
+      </script>
       
 
     

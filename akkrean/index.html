@@ -157,6 +157,10 @@
     },
 
     
+    "datePublished": "2018-07-18T08:25:07-03:00",
+    "dateCreated": "2018-07-18T08:25:07-03:00",
+    "dateModified": "2018-07-18T08:25:07-03:00",
+    
 
     
 
@@ -290,7 +294,7 @@
     <script>
       
 
-      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});var cookie=Cookies.get('gdpr');
+      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});window.GDPR=Cookies.get('GDPRv2')||0;
     </script>
 
     
@@ -304,7 +308,7 @@
 
         
 
-        if( typeof cookie === 'undefined' || cookie == '0' ) {
+        if( ! window.GDPR ) {
             window['ga-disable-UA-82997629-1'] = true;
         }
 
@@ -332,12 +336,11 @@
 
     (adsbygoogle=window.adsbygoogle||[]);
 
-    if( typeof cookie !== 'undefined' ) {
+    if( ! window.GDPR ) {
 
         
 
         if( cookie == '0' ) {
-
             adsbygoogle.requestNonPersonalizedAds = 1;
         }
 
@@ -361,7 +364,7 @@
 
     
 
-    if( typeof cookie !== 'undefined' && cookie == '1' ) {
+    if( window.GDPR ) {
 
         
 
@@ -396,7 +399,7 @@
       
 
       
-      <link rel="stylesheet" href="/src/css/main.css"/>
+      <link rel="stylesheet" href="/assets/css/chaotic.css"/>
       
 
       <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse"><button class="navbar-toggler navbar-toggler-right" type="button"
@@ -579,7 +582,7 @@
             <span class="flag">
               <span class="icon en" title="English">&nbsp;</span>
             </span>
-            English
+            <span>English</span>
           </a>
 
           <ul class="flyout-content stacked nav flex-column">
@@ -612,7 +615,7 @@
                   <span class="flag">
                     <span class="icon pt" title="Portuguese">&nbsp;</span>
                   </span>
-                  Portuguese
+                  <span>Portuguese</span>
                 </a>
               
 
@@ -1178,11 +1181,6 @@
         <div class="col text-left links">
 
           <ul class="list-inline">
-            <li class="list-inline-item">
-              <a href="/disclaimer">
-                Disclaimer
-              </a>
-            </li>
 
             <li class="list-inline-item">
               <a href="/terms">
@@ -1253,7 +1251,9 @@
       
 
       
-        <script src="/src/js/chaotic.js"></script>
+        <script>
+          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var a=wLeft+window.innerWidth/2-n/2,i=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+i+", left="+a)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){i();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",a(e))}function a(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function i(){window.GDPR?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",a(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPRv2","1"),i()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPRv2","0"),i()})});
+      </script>
       
 
     

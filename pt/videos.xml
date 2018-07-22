@@ -607,8 +607,7 @@
 		<video:video>
 			<video:title><![CDATA[Areias da Mudança]]></video:title>
 			<video:description><![CDATA[Nesse episódio Peyton mostra para o Tom que nem todos os Mipedians são os cruéis e impiedosos como os que ele teve contanto ao resgatar o Reggie.]]></video:description>
-			<video:player_loc>https://www.youtube-nocookie.com/embed/ENF_4p_0rdI?rel=0&amp;amp;showinfo=0</video:player_loc>
-			<video:player_loc>https://player.vimeo.com/video/252310737?color=FFFFFF&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0</video:player_loc>
+			<video:player_loc>https://www.youtube-nocookie.com/embed/dqq869AMwi0?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:thumbnail_loc>http://localhost:1313/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1285</video:duration>
 			<video:publication_date>2016-09-13T11:01:00-03:00</video:publication_date>
@@ -651,8 +650,7 @@
 		<video:video>
 			<video:title><![CDATA[Herói Caído]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um golpe traiçoeiro de Lorde Van Bloot contra Maxxor que poderia destruir o Outro Mundo.]]></video:description>
-			<video:player_loc>https://www.youtube-nocookie.com/embed/4ZBwRyXr424?rel=0&amp;amp;showinfo=0</video:player_loc>
-			<video:player_loc>https://player.vimeo.com/video/253584148?color=FFFFFF&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0</video:player_loc>
+			<video:player_loc>https://www.youtube-nocookie.com/embed/EkAREpBt7hI?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:thumbnail_loc>http://localhost:1313/assets/images/videos/season-1.jpg</video:thumbnail_loc>
 			<video:duration>1308</video:duration>
 			<video:publication_date>2016-09-22T07:21:00-03:00</video:publication_date>
@@ -2262,10 +2260,10 @@
 			<video:tag>chaotikween</video:tag>
 			<video:tag>pilar de gelo</video:tag>
 			<video:tag>khybon</video:tag>
+			<video:tag>khybon</video:tag>
+			<video:tag>renegado</video:tag>
 			<video:tag>jiggorex</video:tag>
 			<video:tag>phelphor</video:tag>
-			<video:tag>chaor</video:tag>
-			<video:tag>agitos</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -3070,7 +3068,7 @@
 		<loc>http://localhost:1313/videos/herois-de-ontem/</loc>
 		<video:video>
 			<video:title><![CDATA[Heróis de Ontem]]></video:title>
-			<video:description><![CDATA[Nesse episódio conheceremos Vlar, um ladrão renegado pela Tribo do Outro Mundo da Perim pré-histórica o qual, possivelmente, é o ancestral do Maxxor.]]></video:description>
+			<video:description><![CDATA[Nesse episódio conheceremos Vlar, um ladrão renegado pela Tribo do Outro Mundo da Perim Pré-histórica o qual, possivelmente, é o ancestral do Maxxor.]]></video:description>
 			<video:player_loc>https://www.youtube-nocookie.com/embed/FW8--ZLs0RQ?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:duration>1345</video:duration>
 			<video:publication_date>2017-03-24T13:06:00-03:00</video:publication_date>

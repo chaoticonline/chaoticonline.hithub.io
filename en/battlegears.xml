@@ -20,13 +20,13 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/droskin/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/droskin/" />
+        <loc>https://www.chaoticonline.ml/dractyl-scales/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/escamas-do-dractyl/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/dractyl-scales/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/escamas-do-dractyl/" />
+        <loc>https://www.chaoticonline.ml/droskin/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/droskin/" />
     </url>
 
     <url>
@@ -35,8 +35,8 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/growlitzer/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/growlitzer/" />
+        <loc>https://www.chaoticonline.ml/gauntlets-of-might/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/manoplas-do-poder/" />
     </url>
 
     <url>
@@ -47,6 +47,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/ice-cloak/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/manto-de-gelo/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/indigo-sash/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cinturao-azul/" />
     </url>
 
     <url>

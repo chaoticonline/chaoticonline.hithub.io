@@ -6,6 +6,7 @@
     <description>Recent content in Submundo on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2018 08:25:07 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/submundo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -128,6 +129,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/ghuul/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kaal</title>
+      <link>https://www.chaoticonline.ml/pt/kaal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/kaal/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -302,6 +312,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/zalvar/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zapetur</title>
+      <link>https://www.chaoticonline.ml/pt/zapetur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/zapetur/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

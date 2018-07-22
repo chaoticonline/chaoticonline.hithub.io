@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chaotic Online</title>
+    <title>Videos on Chaotic Online</title>
     <link>https://www.chaoticonline.ml/videos/</link>
-    <description>Recent content on Chaotic Online</description>
+    <description>Recent content in Videos on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Jun 2018 18:05:58 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 11:10:04 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/videos/index.xml" rel="self" type="application/rss+xml" />
     

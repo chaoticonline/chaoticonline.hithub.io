@@ -6,6 +6,7 @@
     <description>Recent content in UnderWorld on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 18 Jul 2018 08:25:07 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/underworld/index.xml" rel="self" type="application/rss+xml" />
     
@@ -108,6 +109,15 @@ Uncommon Rarity  Energy  Mugicians   Unknown 55  1   &amp;nbsp;  &amp;nbsp;  &am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/ghuul/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kaal</title>
+      <link>https://www.chaoticonline.ml/kaal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/kaal/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -282,6 +292,15 @@ Uncommon Rarity  Energy  Mugicians   Unknown 55  1   &amp;nbsp;  &amp;nbsp;  &am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/zalvar/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zapetur</title>
+      <link>https://www.chaoticonline.ml/zapetur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/zapetur/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

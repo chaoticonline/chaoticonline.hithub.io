@@ -65,6 +65,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/eremia/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/eremia/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/ettala/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ettala/" />
     </url>
@@ -265,6 +270,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/kaal/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kaal/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/khybon/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/khybon/" />
     </url>
@@ -360,6 +370,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/zapetur/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/zapetur/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/ario/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ario/" />
     </url>
@@ -410,8 +425,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/vinta/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/vinta/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/zhade/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/zhade/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/bierk/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/bierk/" />
     </url>
 
     <url>
@@ -485,8 +510,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/fallmakin/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/fallmakin/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/millaiin/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/millaiin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/rathtab/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/rathtab/" />
     </url>
 
     <url>

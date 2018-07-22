@@ -20,6 +20,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/lavalanche/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/lavalanche/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/megaroar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/mega-rugido/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/mind-mash/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/esmagamento-mental/" />
     </url>

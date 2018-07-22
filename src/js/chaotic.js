@@ -104,14 +104,14 @@ $( document ).ready( function() {
      */
     $( 'footer.gdpr .accepted' ).on( 'click', function() {
 
-        Cookies.set( 'gdpr', '1' );
+        Cookies.set( 'GDPRv2', '1' );
 
         updateGDPRConsentStatus();
     });
 
     $( 'footer.gdpr .declined' ).on( 'click', function() {
 
-        Cookies.set( 'gdpr', '0' );
+        Cookies.set( 'GDPRv2', '0' );
 
         updateGDPRConsentStatus();
     });
@@ -155,7 +155,7 @@ $( document ).ready( function() {
      */
     function updateGDPRConsentStatus() {
 
-        if( typeof Cookies.get( 'gdpr' ) != 'undefined' ) {
+        if( window.GDPR ) {
             $( 'footer.gdpr' ).addClass( 'hidden' );
         } else {
             $( 'footer.gdpr' ).removeClass( 'hidden' );

@@ -180,6 +180,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/the-pits/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/covas-do-submundo/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/the-twisted-palace/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/palacio-distorcido/" />
     </url>

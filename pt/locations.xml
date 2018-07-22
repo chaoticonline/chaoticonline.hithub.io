@@ -185,6 +185,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/covas-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-pits/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/cidade-do-submundo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/underworld-city/" />
     </url>

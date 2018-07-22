@@ -35,8 +35,8 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/growlitzer/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/growlitzer/" />
+        <loc>https://www.chaoticonline.ml/manoplas-do-poder/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gauntlets-of-might/" />
     </url>
 
     <url>
@@ -47,6 +47,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/manto-de-gelo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ice-cloak/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/cinturao-azul/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/indigo-sash/" />
     </url>
 
     <url>
