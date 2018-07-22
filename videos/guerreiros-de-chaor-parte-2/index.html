@@ -435,19 +435,10 @@ In the continuation of the previous episode we’ll see Chaor’s invasion to th
 
     (adsbygoogle=window.adsbygoogle||[]);
 
-    if( window.GDPR ) {
+    
 
-        
-
-        if( window.GDPR == '0' ) {
-            adsbygoogle.requestNonPersonalizedAds = 1;
-        }
-
-    } else {
-
-        
-
-        adsbygoogle.pauseAdRequests = 1;
+    if( ! window.GDPR ) {
+        adsbygoogle.requestNonPersonalizedAds = 1;
     }
 
 </script>

@@ -489,19 +489,10 @@ We&amp;rsquo;ll also see the most improbable of all fights in Chaotic."
 
     (adsbygoogle=window.adsbygoogle||[]);
 
-    if( window.GDPR ) {
+    
 
-        
-
-        if( window.GDPR == '0' ) {
-            adsbygoogle.requestNonPersonalizedAds = 1;
-        }
-
-    } else {
-
-        
-
-        adsbygoogle.pauseAdRequests = 1;
+    if( ! window.GDPR ) {
+        adsbygoogle.requestNonPersonalizedAds = 1;
     }
 
 </script>
