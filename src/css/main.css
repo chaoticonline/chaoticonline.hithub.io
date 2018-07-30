@@ -1087,6 +1087,7 @@ a:hover {
     #languages ul a,
     .breadcrumb a:hover,
     #social ul li:hover a,
+    .paginator a:hover,
     #servers > li > a:hover,
     .card a:hover,
     .powered-by a:hover {
@@ -1157,8 +1158,8 @@ h3 {
     margin-top: 0.2rem;
 }
 
-h4 {
-    font-size: 1.45rem;
+h5 {
+    font-size: 1.4rem;
 }
 
     /**
@@ -1197,6 +1198,10 @@ h5 {
  */
 h6 {
     font-size: 1.3rem;
+}
+
+sup {
+    font-size: 0.6rem;
 }
 
 /** Tags directly manipulated */
@@ -1957,7 +1962,7 @@ footer.gdpr a {
   margin: 1.5rem 0 -0.9rem 0;
 }
 
-.page .player {
+.page.videos .player {
   margin-top: 2.5vh;
 }
 
@@ -1969,7 +1974,7 @@ footer.gdpr a {
       border-bottom: 1px dotted #B20000 !important;
   }*/
 
-.page .summary {
+.page.videos .summary {
     margin-top: 1rem;
 }
 
@@ -1985,13 +1990,63 @@ footer.gdpr a {
      * so we can handle the spacing needed through top margins of these
      * subsequent blocks
      */
-    .page .summary p:last-child {
+    .page.videos .summary p:last-child {
         margin-bottom: 0;
     }
 
-.page .details, .page .notes {
-    margin-top: 0.5rem;
+.page.videos .cast h6 {
+    color: #555;
+    font-size: 1.1rem;
 }
+
+.page.videos .cast .character p:not(:first-child) {
+    color: #444;
+    font-size: 0.9rem;
+    font-weight: normal;
+    margin: -1rem 0 0.5rem 0;
+}
+
+/**
+ * @internal
+ *
+ * Some Characters' names may be too big for a Bootstrap's Grid Class long
+ * enough to accommodate most of the names so we have to use a larger one.
+ * However the difference between Grid breakpoints is too much so we pull
+ * the Actors' Column a little to left, closer to Characters' names
+ */
+.page.videos .cast .actor {
+    margin-left: -4rem;
+}
+
+    /**
+     * @internal
+     *
+     * Because of the Bootstrap's classes `d-inline-flex align-self-center`
+     * added to the `.actor` element, to proper align Actor Names whose
+     * Character's name may be occupying multiple lines, the superscript "1"
+     * used to indicate a possible uncertainty regarding an identified
+     * Voice Actor became too far from the text.
+     *
+     * We're pulling it closer by removing Bootstrap's `top` value
+     */
+    .page.videos .cast .actor sup {
+        top: 0;
+    }
+
+    /**
+     * @internal
+     *
+     * Because of the Bootstrap's classes `d-inline-flex align-self-center`
+     * added to the `.actor` element, for some reason when hovering the
+     * links — which adds the dotted bottom border — makes all elements
+     * around, even those outside the Definition List, "jump" a little bit.
+     *
+     * To counter-act this unwanted effect, we add a negative bottom margin
+     * with the same size of the border added
+     */
+    .page.videos .cast .actor a:hover {
+        margin-bottom: -1px;
+    }
 
 /**
  * @internal
@@ -2006,9 +2061,13 @@ footer.gdpr a {
  * Both margin values are defined separately because of Bootstrap's Grid System
  * defined left/right margins as gutters
  */
-.page .cast {
+.page.videos .cast {
     margin-bottom: 0.5rem !important;
     margin-top: 0.75rem !important;
+}
+
+.page .details, .page .notes {
+    margin-top: 0.5rem;
 }
 
 .page .notes p {
@@ -3307,6 +3366,17 @@ p:empty {
      */
     .page.creatures .tv-data {
         margin-top: 1rem;
+    }
+
+    /** Individual Pages: Videos ; */
+
+    /**
+     * @internal
+     *
+     * Removing the negative margin added in favour of the Grid System
+     */
+    .page.videos .cast .actor {
+        margin-left: 0;
     }
 
     /** Cards' Search */

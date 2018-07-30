@@ -155,9 +155,7 @@ $( document ).ready( function() {
      */
     function updateGDPRConsentStatus() {
 
-        window.GDPR = ( Cookies.get( 'GDPRv2' ) || 0 );
-
-        if( window.GDPR ) {
+        if( ( Cookies.get( 'GDPRv2' ) || 0 ) ) {
             $( 'footer.gdpr' ).addClass( 'hidden' );
         } else {
             $( 'footer.gdpr' ).removeClass( 'hidden' );

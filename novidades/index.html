@@ -134,7 +134,7 @@
     <script>
       
 
-      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});
+      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});window.GDPR=Cookies.get('GDPRv2')||0;
     </script>
 
     
@@ -471,13 +471,13 @@
 
   
 
+  
+
+    
+
     
 
       
-
-      
-
-        
 
       
 
@@ -600,7 +600,7 @@
 <li>
 <ul>
 <li><a href="#estruturais">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-ao-hugo">Relacionadas ao Hugo</a></li>
 <li><a href="#relacionadas-às-páginas-dos-episódios">Relacionadas às Páginas dos Episódios</a></li>
 <li><a href="#relacionadas-aos-estilos-do-site">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
@@ -610,9 +610,6 @@
 <li>
 <ul>
 <li><a href="#estruturais-1">Estruturais</a></li>
-<li><a href="#relacionadas-ao-hugo">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-aos-estilos-do-site-1">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações">Alterações</a>
@@ -621,8 +618,8 @@
 <ul>
 <li><a href="#estruturais-2">Estruturais</a></li>
 <li><a href="#relacionadas-ao-hugo-1">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-aos-estilos-do-site-2">Relacionadas aos Estilos do Site</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-aos-estilos-do-site-1">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#correções">Correções</a>
@@ -630,24 +627,24 @@
 <li>
 <ul>
 <li><a href="#estruturais-3">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-aos-estilos-do-site-3">Relacionadas aos Estilos do Site</a></li>
+<li><a href="#relacionadas-ao-hugo-2">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#video-pages-related-changes">Video Pages-related changes</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#relacionadas-às-imagens">Relacionadas às Imagens</a></li>
+<li><a href="#relacionadas-as-imagens">Relacionadas as Imagens</a></li>
 <li><a href="#alterações-diversas">Alterações Diversas</a></li>
 </ul></li>
-<li><a href="#rev-7050f3c">rev. 7050f3c</a>
+<li><a href="#rev-90ab401">rev. 90ab401</a>
 <ul>
 <li><a href="#adições-1">Adições</a>
 <ul>
 <li>
 <ul>
 <li><a href="#estruturais-4">Estruturais</a></li>
-<li><a href="#relacionadas-ao-hugo-2">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</a></li>
 <li><a href="#relacionadas-às-páginas-dos-episódios-1">Relacionadas às Páginas dos Episódios</a></li>
-<li><a href="#relacionados-aos-estilos-do-site">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionadas-aos-estilos-do-site-2">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#remoções-1">Remoções</a>
@@ -656,6 +653,8 @@
 <ul>
 <li><a href="#estruturais-5">Estruturais</a></li>
 <li><a href="#relacionadas-ao-hugo-3">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-aos-estilos-do-site-3">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-1">Alterações</a>
@@ -663,8 +662,9 @@
 <li>
 <ul>
 <li><a href="#estruturais-6">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-4">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-aos-estilos-do-site-4">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#correções-1">Correções</a>
@@ -672,101 +672,100 @@
 <li>
 <ul>
 <li><a href="#estruturais-7">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-aos-estilos-do-site-5">Relacionadas aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
+<li><a href="#relacionadas-às-imagens">Relacionadas às Imagens</a></li>
 <li><a href="#alterações-diversas-1">Alterações Diversas</a></li>
 </ul></li>
-<li><a href="#rev-dff4edc">rev. dff4edc</a>
+<li><a href="#rev-7050f3c">rev. 7050f3c</a>
 <ul>
 <li><a href="#adições-2">Adições</a>
 <ul>
 <li>
 <ul>
-<li><a href="#novos-conteúdos">Novos Conteúdos</a></li>
+<li><a href="#estruturais-8">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-5">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionados-aos-estilos-do-site">Relacionados aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#remoções-2">Remoções</a>
 <ul>
 <li>
 <ul>
-<li><a href="#relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#estruturais-9">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-6">Relacionadas ao Hugo</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-2">Alterações</a>
 <ul>
 <li>
 <ul>
-<li><a href="#relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-ao-hugo-4">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionados-aos-estilos-do-site-1">Relacionados aos Estilos do Site</a></li>
+<li><a href="#estruturais-10">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#correções-2">Correções</a>
 <ul>
 <li>
 <ul>
-<li><a href="#relacionadas-ao-hugo-5">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#estruturais-11">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-diversas-2">Alterações Diversas</a></li>
 </ul></li>
-<li><a href="#rev-cc4406c">rev. cc4406c</a>
+<li><a href="#rev-dff4edc">rev. dff4edc</a>
 <ul>
 <li><a href="#adições-3">Adições</a>
 <ul>
 <li>
 <ul>
-<li><a href="#estruturais-8">Estruturais</a></li>
-<li><a href="#relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</a></li>
-<li><a href="#relacionadas-ao-hugo-6">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionados-aos-estilos-do-site-2">Relacionados aos Estilos do Site</a></li>
-<li><a href="#relacionados-ao-conteúdo-geral">Relacionados ao Conteúdo Geral</a></li>
+<li><a href="#novos-conteúdos">Novos Conteúdos</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#remoções-3">Remoções</a>
 <ul>
 <li>
 <ul>
-<li><a href="#estruturais-9">Estruturais</a></li>
-<li><a href="#relacionadas-ao-hugo-7">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionados-aos-estilos-do-site-3">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-3">Alterações</a>
 <ul>
 <li>
 <ul>
-<li><a href="#estruturais-10">Estruturais</a></li>
-<li><a href="#relacionadas-ao-hugo-8">Relacionadas ao Hugo</a></li>
-<li><a href="#relacionados-aos-estilos-do-site-4">Relacionados aos Estilos do Site</a></li>
-<li><a href="#relacionados-ao-conteúdo-geral-1">Relacionados ao Conteúdo Geral</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-10">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-ao-hugo-7">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-1">Relacionados aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#correções-3">Correções</a>
 <ul>
 <li>
 <ul>
-<li><a href="#estruturais-11">Estruturais</a></li>
-<li><a href="#relacionadas-ao-hugo-9">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-ao-hugo-8">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-11">Relacionadas aos Artigos Publicados</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-diversas-3">Alterações Diversas</a></li>
 </ul></li>
-<li><a href="#rev-4c972b7">rev. 4c972b7</a>
+<li><a href="#rev-cc4406c">rev. cc4406c</a>
 <ul>
 <li><a href="#adições-4">Adições</a>
 <ul>
 <li>
 <ul>
 <li><a href="#estruturais-12">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-10">Relacionadas aos Artigos Publicados</a></li>
 <li><a href="#relacionadas-às-páginas-dos-episódios-5">Relacionadas às Páginas dos Episódios</a></li>
-<li><a href="#relacionadas-ao-hugo-10">Relacionadas ao Hugo</a></li>
-<li><a href="#novos-conteúdos-1">Novos Conteúdos</a></li>
-<li><a href="#relacionadas-à-internacionalização-i18n">Relacionadas à Internacionalização (i18n)</a></li>
+<li><a href="#relacionadas-ao-hugo-9">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-2">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionados-ao-conteúdo-geral">Relacionados ao Conteúdo Geral</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#remoções-4">Remoções</a>
@@ -774,9 +773,8 @@
 <li>
 <ul>
 <li><a href="#estruturais-13">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-11">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</a></li>
-<li><a href="#relacionadas-ao-hugo-11">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-ao-hugo-10">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-3">Relacionados aos Estilos do Site</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#alterações-4">Alterações</a>
@@ -784,9 +782,9 @@
 <li>
 <ul>
 <li><a href="#estruturais-14">Estruturais</a></li>
-<li><a href="#relacionadas-aos-artigos-publicados-12">Relacionadas aos Artigos Publicados</a></li>
-<li><a href="#relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</a></li>
-<li><a href="#relacionadas-ao-hugo-12">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionadas-ao-hugo-11">Relacionadas ao Hugo</a></li>
+<li><a href="#relacionados-aos-estilos-do-site-4">Relacionados aos Estilos do Site</a></li>
+<li><a href="#relacionados-ao-conteúdo-geral-1">Relacionados ao Conteúdo Geral</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#correções-4">Correções</a>
@@ -794,8 +792,52 @@
 <li>
 <ul>
 <li><a href="#estruturais-15">Estruturais</a></li>
+<li><a href="#relacionadas-ao-hugo-12">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-diversas-4">Alterações Diversas</a></li>
+</ul></li>
+<li><a href="#rev-4c972b7">rev. 4c972b7</a>
+<ul>
+<li><a href="#adições-5">Adições</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-16">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-12">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-13">Relacionadas ao Hugo</a></li>
+<li><a href="#novos-conteúdos-1">Novos Conteúdos</a></li>
+<li><a href="#relacionadas-à-internacionalização-i18n">Relacionadas à Internacionalização (i18n)</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#remoções-5">Remoções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-17">Estruturais</a></li>
 <li><a href="#relacionadas-aos-artigos-publicados-13">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-14">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#alterações-5">Alterações</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-18">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-14">Relacionadas aos Artigos Publicados</a></li>
 <li><a href="#relacionadas-às-páginas-dos-episódios-8">Relacionadas às Páginas dos Episódios</a></li>
+<li><a href="#relacionadas-ao-hugo-15">Relacionadas ao Hugo</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#correções-5">Correções</a>
+<ul>
+<li>
+<ul>
+<li><a href="#estruturais-19">Estruturais</a></li>
+<li><a href="#relacionadas-aos-artigos-publicados-15">Relacionadas aos Artigos Publicados</a></li>
+<li><a href="#relacionadas-às-páginas-dos-episódios-9">Relacionadas às Páginas dos Episódios</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#relacionadas-às-imagens-1">Relacionadas às Imagens</a>
@@ -807,7 +849,7 @@
 <li><a href="#mais">Mais&hellip;</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#alterações-diversas-4">Alterações Diversas</a></li>
+<li><a href="#alterações-diversas-5">Alterações Diversas</a></li>
 </ul></li>
 </ul></li>
 </ul></li>
@@ -821,11 +863,172 @@
 
 <h3 id="versão-atual">Versão Atual</h3>
 
-<p><small>Publicado em 22/07/2018 às 11:10</small></p>
+<p><small>Publicado em 30/07/2018 às 18:51</small></p>
 
 <h4 id="adições">Adições</h4>
 
 <h6 id="estruturais">Estruturais</h6>
+
+<ul>
+<li><p>Adicionado um recurso de ordenação personalizada dos <em>Personagens</em> listados no <em>Elenco</em> através de uma nova entrada <code>weight</code></p></li>
+
+<li><p>Adicionadas entradas i18n para os dubladores dos seguintes <em>Personagens</em>: Sarah, Klay (por associar ele com o mesmo dublador do <em>Chaor</em>), Krystella, &ldquo;HercuLeon&rdquo;, &ldquo;SlickNick&rdquo;, CodeMaster Crellan, Tiaane (por associar ele com o mesmo de <em>Heptadd</em>), Xaerv (por associar ele com o mesmo dublador do <em>Magmon</em>), Dractyl, Vidav, Agitos, Skithia e duas possíveis Dubladores (embora um deles não tenha sido confirma e, assim, não foi utilizado) para o Owis (apenas em Inglês)</p></li>
+
+<li><p>Adicionadas entradas i18n para os dubladores dos seguintes personagens: Sarah, Peyton, Klay, Krystella, CodeMaster Crellan (real e &ldquo;forma humana&rdquo;), Zalic e Gespedan (por associar eles com o mesmo dublador do <em>Zalic</em>) e Xaerv (apenas Português Brasileiro)</p></li>
+</ul>
+
+<h6 id="relacionadas-ao-hugo">Relacionadas ao Hugo</h6>
+
+<ul>
+<li><p>Adicionada a possibilidade de se ter HTML nos <em>Nomes dos Personagens</em> do Elenco de um Episódio, assim é possível quebrar manualmente um nome que seja muito longo para que a Coluna o suporte — e.g: CodeMaster Crellan (Forma Humana)</p></li>
+
+<li><p>Adicionado um traço longo (—) entre o elemento identificado da <em>Temporada</em> e o <em>Número do Episódio</em></p></li>
+</ul>
+
+<h6 id="relacionadas-às-páginas-dos-episódios">Relacionadas às Páginas dos Episódios</h6>
+
+<ul>
+<li><p>Adicionada palavra-chave ausente pro nome e nickname do <em>Kaz</em> no Episódio #20, Temporada #02</p></li>
+
+<li><p>Adicionadas as seguintes palavras-chave ausentes no Episódio #17, Temporada #01: Tharax, Dardemus, Malvadine, Colina dos Pilares e A Passagem (Submundo)</p></li>
+
+<li><p>Adicionada o Episódio #17, Temporada #01 à lista <em>Participações</em> do <em>Malvadine</em>, uma vez que já existe um Artigo publicado sobre ele</p></li>
+
+<li><p>Adicionado <em>Elenco</em> até o Episódio #17, Temporada #01</p></li>
+
+<li><p>Publicado o Episódio #17, Temporada #01 com áudio em Português Brasileiro</p></li>
+</ul>
+
+<h6 id="relacionadas-aos-estilos-do-site">Relacionadas aos Estilos do Site</h6>
+
+<ul>
+<li><p>Adicionado um complemeto aos seletores das regras das Páginas de Vídeo apenas como consistência às outras regras, já que os elementos estilizados não estão em uso em outras páginas</p></li>
+
+<li><p>Adicionada uma pequena margem superior ao bloco referente aos <em>Detalhes do Vídeo</em> e às <em>Observações Explicativas</em> (caso haja algum número sobrescrito) para que estas ficassem melhores alinhados ao bloco do <em>Elenco</em> (quando presente)</p></li>
+
+<li><p>Incluídos os links da Paginação de Resultados à lista de seletores que <strong>não</strong> receberão a borda pontilhada ao passar o mouse</p></li>
+</ul>
+
+<h4 id="remoções">Remoções</h4>
+
+<h6 id="estruturais-1">Estruturais</h6>
+
+<ul>
+<li>Removidos, por apenas comentar, as URLs das Páginas dos Personagens Humanos listadas nos <em>Elencos</em> no respectivo arquivo i18n para que não sejam produzidos Dados Estruturados apontando para Páginas que não existem (ainda). O funcionamento para as Criaturas permanece o mesmo</li>
+</ul>
+
+<h4 id="alterações">Alterações</h4>
+
+<h6 id="estruturais-2">Estruturais</h6>
+
+<ul>
+<li><p>Substituído o nome <em>Sarah Lawrence</em> por <em>Sarah &ldquo;Beth&rdquo; Cronwell</em> em todas as Páginas, principal, mas não exclusivamente, na forma de palavras-chave pois, após pesquisas recentes, este se provou ser o nome correto da Personagem dela</p></li>
+
+<li><p>Expandidos todas as ocorrências nos Arquivos de Conteúdo das Páginas de Episódios dos nomes do <em>Kaz</em> para <em>Kazdan &ldquo;Kaz&rdquo; Kalinkas</em> e do <em>Peyton</em> para <em>Peyton Touhey</em></p></li>
+
+<li><p>Com a expansão feita no nome do <em>Kaz</em>, aspas duplas passaram a fazer parte das string de nome. Como tais informações são usadas principalmente na formação das META Tags e dos Dados Estruturados JSON+LD, elas agora existem dentro de seus respectivos delimitadores que também são aspas duplas então, todas as ocorrências, em todos os Arquivos de Template que as usam, foram alterados para escapar Entidades HTML</p></li>
+
+<li><p>Alterada a estrutura usada para o <em>Elenco</em> para permitir uma separação melhor entre Personagens Humanos e Criaturas</p></li>
+
+<li><p>Com a alteração acima, o <em>Elenco</em> do Episódio #01, Temporada #01, anteriormente publicado em caráter de teste, teve os nomes dos personagens reordenados, ficando primeiro os Humanos e depois as Criaturas</p></li>
+
+<li><p>Atualizados os comentários com relação ao Parâmetro de FrontMatter <code>cast</code> no Arquivo de Conteúdo do primeiro episódio</p></li>
+
+<li><p>Alterada a redação da entrada i18n referente à disponibilidade de legendas</p></li>
+
+<li><p>Modificada a condição do Cookie da GDPR na rotina que atualiza o status de consentimento com os Termos (por exibir/ocultar o banner) para usar diretamente o valor do Cookie e não a variável global criada no <code>&lt;head&gt;</code>, garantindo assim que o banner feche adequadamente sempre, o que não acontecia na primeira vez em que a página era visitada por algum Usuário que ainda não tivesse concordado/discordado dos Termos. Isso acontecia pois, como a rotina é invocada logo que o documento está apto para manipulação, nessa primeira situação o Cookie ainda não existe e, por isso, o valor da variável global naquele momento ainda seria o zero definido como padrão, fazendo o teste sempre falhar e o banner permanecer aberto não importando quantas vezes os botões fossem clicados</p></li>
+</ul>
+
+<h6 id="relacionadas-ao-hugo-1">Relacionadas ao Hugo</h6>
+
+<ul>
+<li><p>Melhorada a disposição do <em>Elenco</em> em dispositivos móveis por adicionar mais classes do Sistema de Grade do Bootstrap</p></li>
+
+<li><p>Mesmo que o <em>Facebook Analytics</em> não esteja mais em uso, o Arquivo de Template dele ainda existe e a condição do Cookie da GDPR foi simplificada</p></li>
+
+<li><p>Alterados os Títulos de Seção das Páginas de Vídeo para que o <em>Elenco</em> seja de quarto nível (<code>&lt;h4&gt;</code>) e os <em>Detalhes do Vídeo</em> de quinto nível (<code>&lt;h5&gt;</code>), a menos que não exista um <em>Elenco</em>, situação na qual este se mantém como de quarto nível</p></li>
+
+<li><p>Alterado todo o processo usado para construção das Propriedades <code>actor</code> e <code>character</code> dos Dados Estruturados TVEpisode. Agora primeiro nós lemos tudo o que estiver disponível, montamos uma estrutura de dados ´própia e iteramos depois sobre esta que é muito mais limpa na hora de construir as Propriedades. Desta forma nós removemos muitas condições aparetemente desnecessárias e blocos aninhados de difícil compreensão</p></li>
+</ul>
+
+<h6 id="relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li>Atualizada a Página com as Novidades</li>
+</ul>
+
+<h6 id="relacionadas-aos-estilos-do-site-1">Relacionadas aos Estilos do Site</h6>
+
+<ul>
+<li><p>Com a alteração dos níveis dos Títulos de Seção nas Páginas de Vídeo (ver acima), a tag que teve seu tamanho de fonte alterado globalmente em revisões anteriores (<em>h4</em>) foi alterada para <em>h5</em></p></li>
+
+<li><p>Com a possibilidade de se ter HTML nos nomes dos Personagens para melhor disposição de nomes longos, ajustes na marcação HTML do Arquivo de Template de Vídeos tiveram que ser feitos na marcação e isso fez com que o número sobrescrito indicativo de incerteza quanto ao nome do Dublador listado ficasse muito longe do texto. Isso foi ajustado por anular o valor padrão definido pelo Bootstrap</p></li>
+
+<li><p>Pelo mesmo motivo descrito acima, foi necessário fazer um pequeno ajuste na borda inferior adicionada aos links quando passando o mouse por cima para que elementos em torno das âncoras não ficassem &ldquo;pulando&rdquo;</p></li>
+
+<li><p>E já que estávamos atualizando a tag <code>&lt;sup&gt;</code> globalmente, aproveitamos e reduzimos o tamanho da fonte um pouquinho</p></li>
+
+<li><p>Melhorada a disposição do <em>Elenco</em> em dispositivos móveis, como contraparte às adições feitas na marcação HTML</p></li>
+</ul>
+
+<h4 id="correções">Correções</h4>
+
+<h6 id="estruturais-3">Estruturais</h6>
+
+<ul>
+<li><p>Corrigido um problema que impedia a localização das URLs de Perfil dos Dubladores na listagem do <em>Elenco</em> quando uma vogal acentuada estava presente no primeiro caractere de seus nomes/sobrenomes porque estes são normalmente capitalizados e nós substituímos apenas as versões minúsculas deles a fim de simplificar o processo</p></li>
+
+<li><p>Corrigido o motivo de ainda estarem sendo geradas páginas apontando para <code>/videos/season-X</code> quando tais páginas não deveriam mais existir uma vez que com a grande reestruturação feita, algumas revisões atrás a URL de cada Temporada foi alterada cada uma para seus respectivos nomes
+Até antes desta correção as páginas com URLs como a de exemplo acima só não existiam publicamente pois seus respectivos diretórios estavam sendo ignorados durante o <em>commit</em></p></li>
+
+<li><p>Com a correção acima, a solução paliativa que os removiam via <code>.gitignore</code> foi removida</p></li>
+
+<li><p>Durante a reestruturação, a Seção <em>Episódios</em> foi renomeada para <em>Vídeos</em> porém, ao acessar o respectivo link na Trilha de Breadcrumbs, este <strong>não</strong> apontava para a página esperada no mesmo idioma em que se estava visitando. Esse problema, causado por um pequeno erro nos Arquivos i18n contendo a lista de URLs disponíveis para uso nos Templates, foi corrigido (apenas Português Brasileiro)</p></li>
+</ul>
+
+<h6 id="relacionadas-ao-hugo-2">Relacionadas ao Hugo</h6>
+
+<ul>
+<li><p>Corrigida uma falha lógica no Arquivo de Template do <em>Google AdSense</em> que impedia os anúncios de aparecerem. Antes, era testado se o Cookie da GDPR <strong>não</strong> existia e se não existisse verificávamos se o valor dele era zero (?), representando o não consentimento com os Termos de Uso. Como isso obviamente jamais resultaria num teste positivo, a condição sempre falhava fazendo com que o mecanismo do Google AdSense era explicitamente configurado para não exibir nenhum anúncio</p></li>
+
+<li><p>Corrigido um problema que impedia o correto funcionamento dos Links Sociais, abrindo um popup da Rede Social escolhida nas Páginas de Vídeos e de Artigos</p></li>
+</ul>
+
+<h6 id="relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</h6>
+
+<ul>
+<li>Corrigidos caracteres de aspas duplas usados como escape de Entidades HTML que permanceram visíveis nos textos de Créditos de Imagens em várias Páginas ao longo do site porque tais Parâmetros não continham aspas delimitadoras, que é o motvo de se usar um caractere de escape em primeiro lugar (apenas Português Brasileiro)</li>
+</ul>
+
+<h6 id="video-pages-related-changes">Video Pages-related changes</h6>
+
+<ul>
+<li><p>Corrigida a <em>Data de Upload</em> do mirro to YouTube do Episódio #16, Temporada #01 com áudio em Português Brasileiro</p></li>
+
+<li><p>Corrigida mal-formação no Parâmetro de FrontMatter <code>mirror</code> dos Episódios #18, #19, #20, #22, #29, #31, #33, #35 e #38, todos da Temporada #01 (apenas Português Brasileiro)</p></li>
+</ul>
+
+<h4 id="relacionadas-as-imagens">Relacionadas as Imagens</h4>
+
+<ul>
+<li><p>Adicionada uma Imagem Grande do Artigo não publicado sobre o <em>Zapetur</em></p></li>
+
+<li><p>Alterada a Imagem Grande do Artigo não publicado sobre a <em>Quadore</em></p></li>
+</ul>
+
+<h4 id="alterações-diversas">Alterações Diversas</h4>
+
+<ul>
+<li>Atualizados CSS e JS minificados</li>
+</ul>
+
+<h3 id="rev-90ab401">rev. 90ab401</h3>
+
+<p><small>Publicado em 22/07/2018 às 11:10</small></p>
+
+<h4 id="adições-1">Adições</h4>
+
+<h6 id="estruturais-4">Estruturais</h6>
 
 <ul>
 <li><p>Implementado um recurso para cobrir possíveis incertezas com relação aos Dubladores através de outra entrada chamada <code>verified</code> junto com o nome de cada Dublador identificado listado no Parâmetro de FrontMatter <code>cast</code>. Se esta entrada for definida para um determinado Dublador -E- definida como <code>false</code> um pequeno número sobrescrito será adicionado próximo ao nome do mesmo</p></li>
@@ -841,7 +1044,7 @@
 <li><p>Adicionadas entradas i18n (internationalização) para as novas Páginas adicionadas: Bierk, Zapetur, Kaal e Covas do Submundo</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Adicionadas palavras-chave faltantes ao Artigo publicado sobre o <em>Lago Ken-I-Po</em></p></li>
@@ -851,7 +1054,7 @@
 <li><p>Publicado Artigo sobre o Tanque de Lava</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-1">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Adicionada palavras-chave faltantes sobre <em>Sinfonia Escaldante</em> e <em>Fuga Fluida</em> no Episódio #10, Temporada #03</p></li>
@@ -859,33 +1062,33 @@
 <li><p>Adicionada uma palavra-chave sobre <em>Khybon, Renegado</em> no Episódio #13, Temporada #02</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-estilos-do-site">Relacionadas aos Estilos do Site</h6>
+<h6 id="relacionadas-aos-estilos-do-site-2">Relacionadas aos Estilos do Site</h6>
 
 <ul>
 <li>Adicionada uma linha pontilhada ao passar o mouse sobre um dos idiomas disponíveis (não bloqueados) no Alternador de Idiomas</li>
 </ul>
 
-<h4 id="remoções">Remoções</h4>
+<h4 id="remoções-1">Remoções</h4>
 
-<h6 id="estruturais-1">Estruturais</h6>
+<h6 id="estruturais-5">Estruturais</h6>
 
 <ul>
 <li>Com a inclusão do novo Parâmetro de FrontMatter <code>show</code> (ver acima), as entradas <code>season</code> e <code>episode</code> (e suas subentradas) foram removidas do Parâmetro de FrontMatter <code>details</code></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-3">Relacionadas ao Hugo</h6>
 
 <ul>
 <li>Removida uma condição que prevenia o Título de Seção de segundo nível (<code>&lt;h2&gt;</code>) de aparecer na Página de Termos de Uso</li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-1">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Com a revisão da Página de Termos de Uso (ver abaixo), a antiga Página de <em>Dizeres Legais</em>, que já não tinha muito coisa, foi removida, justamente com as entradas i18n e regras CSS pertinentes</li>
 </ul>
 
-<h6 id="relacionadas-aos-estilos-do-site-1">Relacionadas aos Estilos do Site</h6>
+<h6 id="relacionadas-aos-estilos-do-site-3">Relacionadas aos Estilos do Site</h6>
 
 <ul>
 <li><p>Diversas regras referentes às Cores dos Tipos de Cartas foram removidas pois se tornaram obsoletas com os estilos de link revisados</p></li>
@@ -893,9 +1096,9 @@
 <li><p>Com a revisão dos estilos de link ao longo do site (ver abaixo), diversas outras regras desnecessárias também foram removidas</p></li>
 </ul>
 
-<h4 id="alterações">Alterações</h4>
+<h4 id="alterações-1">Alterações</h4>
 
-<h6 id="estruturais-2">Estruturais</h6>
+<h6 id="estruturais-6">Estruturais</h6>
 
 <ul>
 <li><p>Com a inclusão do novo Parâmetro de FrontMatter <code>show</code> (ver acima), o JSON+LD usado como Dados Estruturados de Vídeos foram atualizados para refletir às novas entradas</p></li>
@@ -909,15 +1112,15 @@
 <li><p>Com a remoção da Página de <em>Dizeres Legais</em>, o rodapé foi atualizado para remover o link para ela</p></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-1">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-4">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Por conta da inclusão da entrada <code>verified</code> (ver acima) o número <code>1</code> sobrescrito referente à disponibilidade de legendas foi alterado para <code>2</code>, exceto nos casos em que todos os Dubladores listados foram identificados com certeza, caso no qual não haverá tal número <code>1</code></p></li>
 
-<li><p>A &ldquo;gambiarra&rdquo; usada para abrigar a mensagem de disponibilidade de legendas foi trocada de um <code>&lt;dt&gt;</code> vazio por uma nova Linha do Sistema de Grades do Bootstrap. Não apenas é a abordagem mais correta como também é melhor para estilizar com CSS</p></li>
+<li><p>A solução paliativa usada para abrigar a mensagem de disponibilidade de legendas foi trocada de um <code>&lt;dt&gt;</code> vazio por uma nova Linha do Sistema de Grades do Bootstrap. Não apenas é a abordagem mais correta como também é melhor para estilizar com CSS</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-2">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Adicionados <em>M&rsquo;arrillians</em> como Inimigos no Artigo publicado da Takinom</p></li>
@@ -935,7 +1138,7 @@
 <li><p>Atualizada a Página com as Novidades</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-estilos-do-site-2">Relacionadas aos Estilos do Site</h6>
+<h6 id="relacionadas-aos-estilos-do-site-4">Relacionadas aos Estilos do Site</h6>
 
 <ul>
 <li><p>Balanceadas as margens superiores de todos as tags de Título de Seção, ajustando outras mais quando necessário — ex: a de segundo nível (<code>&lt;h2&gt;</code>) precisou ter a margem inferior diminuída para que a de terceiro nível (<code>&lt;h3&gt;</code>) não ficasse desalinhada</p></li>
@@ -955,9 +1158,9 @@
 <li><p>Movido parte do Esquema de Cores dos <em>Mipedians</em> mais para cima que acabou se misturando ao Esquema de Cores dos <em>Sem Tribo</em> adicionado em revisões anteriores</p></li>
 </ul>
 
-<h4 id="correções">Correções</h4>
+<h4 id="correções-1">Correções</h4>
 
-<h6 id="estruturais-3">Estruturais</h6>
+<h6 id="estruturais-7">Estruturais</h6>
 
 <ul>
 <li><p>Corrigida a entrada <code>text</code> da entrada <code>credits</code> das Imagens de diversos Arquivos de Conteúdo que foram mantidas incorretamente em Inglês na versão em Português Brasileiro do site</p></li>
@@ -965,7 +1168,7 @@
 <li><p>Com a renomeação das entradas i18n referentes aos Personagens como parte da uniformização feita na revisão anterior, uma das entradas no Artigo publicado sobre o <em>H&rsquo;earring</em> se tornou inválida e foi consertado</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-3">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Corrigida uma palavra-chave com o nome do <em>Tanque de Lava</em> no Episódio #37, Temporada #01 que não havia sido traduzida (apenas Português Brasileiro)</p></li>
@@ -983,7 +1186,7 @@
 <li><p>Corrigido o Títulos da Página de Vídeos (<code>/pt/videos</code>) que não estava aparecendo na Barra de Título porque seu Arquivo de Conteúdo não tinha o Parâmetro de FrontMatter <code>Title</code> definido</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-estilos-do-site-3">Relacionadas aos Estilos do Site</h6>
+<h6 id="relacionadas-aos-estilos-do-site-5">Relacionadas aos Estilos do Site</h6>
 
 <ul>
 <li><p>Corrigido o seletor CSS para corrigir tags <code>&lt;p&gt;</code> erroneamente geradas ao interpretar o Markdown</p></li>
@@ -1003,7 +1206,7 @@
 <li><p>Adicionadas Imagens de Carta para <em>Tanque de Lava</em> e <em>Tanque de Lava, Base de Operações de Milla&rsquo;iin&rsquo;s</em> para o Artigo publicado nesta revisão</p></li>
 </ul>
 
-<h4 id="alterações-diversas">Alterações Diversas</h4>
+<h4 id="alterações-diversas-1">Alterações Diversas</h4>
 
 <ul>
 <li>Atualizados todos os arquivos de Sitemap (exceto <em>Mugics</em>) e CSS e JS minificados</li>
@@ -1013,9 +1216,9 @@
 
 <p><small>Publicada em 16/07/2018 às 19:00</small></p>
 
-<h4 id="adições-1">Adições</h4>
+<h4 id="adições-2">Adições</h4>
 
-<h6 id="estruturais-4">Estruturais</h6>
+<h6 id="estruturais-8">Estruturais</h6>
 
 <ul>
 <li><p>Com a reestruturação interna feita (ver abaixo), a fim de fazer a Categoria <em>Perim</em> funcionar uma Página com sua própria URL Personalizada precisou ser adicionada listando todos os tipos de Cartas nela</p></li>
@@ -1027,7 +1230,7 @@
 <li><p>Adicionada uma configuração ao Compilador do Hugo para prevenir a pluralização automática dos Títulos de Seção, impedindo, por exemplo, &ldquo;Perims&rdquo;, mesmo que a entrada i18n correspondente não esteja pluralizada</p></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-2">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-5">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>As adições necessárias ao Template das Páginas de Vídeo para exibir o Elenco do Episódio foi criado, porém, já que o recurso ainda está meio que em estágio BETA, ele foi efetivamente implementado apenas no Episódio #01, Temporada #01</p></li>
@@ -1035,7 +1238,7 @@
 <li><p>Adicionado um texto mais amigável ao passa o mouse sobre os Ícones Sociais à esquerda usando a entrada i18n “Compartilhar no Facebook/Twitter”</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-4">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Adicionada a <em>Data de Publicação</em> ausente para os seguintes Artigos: Tartarek, Ulmar e Riverlands</p></li>
@@ -1052,7 +1255,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionado um parágrafo adicional sob o Título de Seção <em>Na Animação</em> no Artigo publicado sobre a Takinom para que o mesmo parágrafo no Artigo do Nauthilax ficasse mais preciso</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-1">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li>Publicado o Episódio #16, Temporada #01 com áudio em Português Brasileiro</li>
@@ -1066,15 +1269,15 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionada uma linha cinza suave entre as revisões na Página de Novidades permitindo uma certa distinção entre cada uma delas</p></li>
 </ul>
 
-<h4 id="remoções-1">Remoções</h4>
+<h4 id="remoções-2">Remoções</h4>
 
-<h6 id="estruturais-5">Estruturais</h6>
+<h6 id="estruturais-9">Estruturais</h6>
 
 <ul>
 <li>Já que a entrada i18n referente aos Episódios como título não é mais usada (ver abaixo) ela foi removida</li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-3">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-6">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Com a reestruturação interna feita (ver abaixo) não há mais necessidade de um Arquivo de Template específico paras as Curiosidades, já que agora elas compartilham o mesmo dos Episódios normais e, por isso, foi removido</p></li>
@@ -1084,9 +1287,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Removido o Facebook Analytics. Não apenas porque recursos que dependem do Facebook aumentam o tempo de carregamento da página mas também porque as informações fornecidas não são exatamente úteis, ao menos não agora</p></li>
 </ul>
 
-<h4 id="alterações-1">Alterações</h4>
+<h4 id="alterações-2">Alterações</h4>
 
-<h6 id="estruturais-6">Estruturais</h6>
+<h6 id="estruturais-10">Estruturais</h6>
 
 <ul>
 <li><p>Uma reestruturação interna maciça foi feita. Agora em vez de ter todos os Arquivos de Conteúdo das categorias de <em>Perim</em> soltos no diretório raiz <code>/content</code> do Hugo, elas estão agora agrupadas sob <code>/perim</code> como sempre deveria ser. Não apenas isso é mais organizado como também permite que Páginas de Listagem tenham suas próprias URLs Personalizadas em vez de simplesmente um alias</p></li>
@@ -1104,7 +1307,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Atualizada a Página com as Novidades</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-5">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Correção gramatical no Artigo publicado sobre o Tartarek</p></li>
@@ -1116,7 +1319,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Melhorado o parágrafo sob o Título de Seção <em>Participações</em>, sob <em>Na Animação</em>, não apenas para simplificar a escrita mas também para não implicar que a Criatura/Local descrita no Artigo necessariamente aparece &ldquo;em pessoa&rdquo;, afinal, elas podem apenas ser visualmente mencionadas com uma foto, por exemplo, num Quadro de Batalha, sem efetivamente participar de uma luta e Chaotic</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-2">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>O vídeo do Episódio #15, Temporada #01 com áudio em Português Brasileiro teve algumas partes refeitas para melhorar as transições entre o áudio dublado remasterizado e o áudio original reaproveitado (cenas com apenas sons de fundo ou efeitos, por exemplo) e, por isso, a página referente teve de ser atualizada com o novo link</p></li>
@@ -1124,15 +1327,15 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Substituída todas Trilhas de Breadcrumb e seus links de <em>Episódios</em> por <em>Vídeos</em> em todos os Arquivos de Conteúdo, uma vez que a primeira servia unicamente para quando os Episódios e as Curiosidades não podeiam fazer parte do mesmo grupo</p></li>
 </ul>
 
-<h4 id="correções-1">Correções</h4>
+<h4 id="correções-2">Correções</h4>
 
-<h6 id="estruturais-7">Estruturais</h6>
+<h6 id="estruturais-11">Estruturais</h6>
 
 <ul>
 <li>Corrigido um problema com Parâmetros de FrontMatter mal construídos que deveriam gerar um erro em tempo de execução mas que até a reestruturação interna feita nesta revisão eram silenciosamente ignorados &gt;:(</li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-6">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Corrigida a Raridade da Takinom (apenas Português Brasileiro)</p></li>
@@ -1142,7 +1345,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Corrigida Artigo sobre <em>Akkrean</em> que não continha o Termo de Taxnomia <code>rarity</code> (apenas em Inglês)</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-3">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Corrigida a duração do Episódio #15, Temporada #01 da versão com áudio em Português Brasileiro que é ligeiramente diferente da original em Inglês</p></li>
@@ -1150,7 +1353,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Corrigidos os detalhes do Episódio #15, Temporada #01 da versão com áudio em Português Brasileiro pois esta não está em Inglês (óbvio) mas também não tem nenhuma legenda como descrito anteriormente</p></li>
 </ul>
 
-<h4 id="alterações-diversas-1">Alterações Diversas</h4>
+<h4 id="alterações-diversas-2">Alterações Diversas</h4>
 
 <ul>
 <li>Atualizado CSS minificado</li>
@@ -1160,7 +1363,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
 <p><small>Publicada em 07/08/2018 às 19:00</small></p>
 
-<h4 id="adições-2">Adições</h4>
+<h4 id="adições-3">Adições</h4>
 
 <ul>
 <li><p>Adicionada entradas i18n (internacionalização) para os novos Arquivos de Conteúdo (ver abaixo)</p></li>
@@ -1196,9 +1399,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 </ul></li>
 </ul>
 
-<h4 id="remoções-2">Remoções</h4>
+<h4 id="remoções-3">Remoções</h4>
 
-<h6 id="relacionadas-aos-artigos-publicados-7">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Removidas todas as ocorrências de &ldquo;Em Chaotic&hellip;&rdquo; normalmente nas variações da Carta principal de um Artigo em favor de uma versão mais genérica, de redação mais imersa</p></li>
@@ -1206,11 +1409,11 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Removido um hash-link no Artigo sobre as <em>Geleiras</em></p></li>
 </ul>
 
-<h4 id="alterações-2">Alterações</h4>
+<h4 id="alterações-3">Alterações</h4>
 
-<h6 id="relacionadas-aos-artigos-publicados-8">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-10">Relacionadas aos Artigos Publicados</h6>
 
-<h6 id="relacionadas-ao-hugo-4">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-7">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Mesclados os Títulos de Seção <em>Jogo</em> e <em>Combate</em> em um só — <em>Jogo &amp; Combate</em> — em todos os Artigos já publicados</p></li>
@@ -1244,21 +1447,21 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>As margens esquerda/direita da Caixa de Informações das Criaturas foram removidas na versão mobile, espremendo um pouco mais de largura para as colunas, ajudando textos longos a não quebrar para novas linhas</p></li>
 </ul>
 
-<h4 id="correções-2">Correções</h4>
+<h4 id="correções-3">Correções</h4>
 
-<h6 id="relacionadas-ao-hugo-5">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-8">Relacionadas ao Hugo</h6>
 
 <ul>
 <li>Corrigido um problema que gerava erros em tempo de execução quando lendo informações do repositório GIT de arquivos recém-adicionados</li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-9">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-11">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Corrigidas palavras-chave sobre o <em>Tartarek</em> nos últimos três episódios da Temporada #02, apontando para a variante <em>Opressor Psíquico</em></li>
 </ul>
 
-<h4 id="alterações-diversas-2">Alterações Diversas</h4>
+<h4 id="alterações-diversas-3">Alterações Diversas</h4>
 
 <ul>
 <li>Atualizado CSS minificado</li>
@@ -1268,9 +1471,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
 <p><small>Publicada em 02/07/2018 às 10:30:00</small></p>
 
-<h4 id="adições-3">Adições</h4>
+<h4 id="adições-4">Adições</h4>
 
-<h6 id="estruturais-8">Estruturais</h6>
+<h6 id="estruturais-12">Estruturais</h6>
 
 <ul>
 <li><p>Adicionada a Entidade HTML <code>&amp;nbsp;</code> a quase todas as tags vazias para que elas não sejam de fato vazias e, assim, consideradas como possíveis candidatos a remoção por HTML Minifiers</p></li>
@@ -1282,13 +1485,13 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionado Dados Estruturados de <code>SiteNavigationElement</code> apontando para o Menu de Navegação como mais uma melhoria para o SEO (Otimização para Motores de Busca)</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-4">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-5">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li>Publicado Episódio #15, Temporada #01 com áudio dublado em Português Brasileiro</li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-6">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-9">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Adicionado/Ajustados várias classes do Sistema de Grade do Bootstrap nos Arquivos de Template para prover responsividade máxima em diferentes dispositivos e/ou resoluções</p></li>
@@ -1314,9 +1517,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionado essa página com informações para nerds (:p) sobre o que mudou de uma versão pra outra</p></li>
 </ul>
 
-<h4 id="remoções-3">Remoções</h4>
+<h4 id="remoções-4">Remoções</h4>
 
-<h6 id="estruturais-9">Estruturais</h6>
+<h6 id="estruturais-13">Estruturais</h6>
 
 <ul>
 <li><p>Removida entrada i18n (Internacionalização) para o link social do Patreon. Não apenas porque ele já está oculto há algum tempo mas também porque a nova marcação de links sociais (ver abaixo) não usa nenhum texto</p></li>
@@ -1324,7 +1527,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Removidos alguns arquivos/diretórios erroneamente adicionados em <em>commits</em> anteriores por removê-los do cache do GIT</p></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-7">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-10">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Removidas restrições de zoom</p></li>
@@ -1342,15 +1545,15 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Com todos os novos recursos e alterações, VÁRIAS regras não são mais necessárias e foram removidas. Um total de aproximadamente 300 linhas removidas</p></li>
 </ul>
 
-<h4 id="alterações-3">Alterações</h4>
+<h4 id="alterações-4">Alterações</h4>
 
-<h6 id="estruturais-10">Estruturais</h6>
+<h6 id="estruturais-14">Estruturais</h6>
 
 <ul>
 <li>Alteradas algumas URL desnecessariamente Absolutas em favor de Relativas</li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-8">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-11">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Os Dados Estruturados para <strong>Organização</strong> foi movido para o topo, ficando de um jeito mais hierárquico</p></li>
@@ -1365,9 +1568,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
 <li><p>A marcação da Imagem Grande foi modificada a fim de remover a marcação específica para dispositivos móveis</p></li>
 
-<li><p>A marcação dos Links Sociais foi alterada por uma mais simples. Embora não tão atraente, que abre/fecha com o passar do mouse, essa versão não precisa de nenhuma gambiarra apara acomodar textos de diferentes comprimentos — ex: o rótulo do agora oculto Patreon</p></li>
+<li><p>A marcação dos Links Sociais foi alterada por uma mais simples. Embora não tão atraente, que abre/fecha com o passar do mouse, essa versão não precisa de nenhuma solução paliativa apara acomodar textos de diferentes comprimentos — ex: o rótulo do agora oculto Patreon</p></li>
 
-<li><p>A marcação das Imagens das Cartas foi modificada por um melhor alinhamento vertical -E- para finalmente remover a &ldquo;gambiarra&rdquo; usada há muito tempo para lidar com o problema de &ldquo;canto arredondado branco&rdquo; no Google Chrome</p></li>
+<li><p>A marcação das Imagens das Cartas foi modificada por um melhor alinhamento vertical -E- para finalmente remover a solução paliativa usada há muito tempo para lidar com o problema de &ldquo;canto arredondado branco&rdquo; no Google Chrome</p></li>
 
 <li><p>As marcações de Seção e Títulos de Artigos foram atualizadas a fim de remover a marcação específica para dispositivos móveis</p></li>
 
@@ -1400,21 +1603,21 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Aplicadas correções gramaticais à versão em Inglês das Páginas de <em>Dizeres Legais</em> e Termos de Uso</p></li>
 </ul>
 
-<h4 id="correções-3">Correções</h4>
+<h4 id="correções-4">Correções</h4>
 
-<h6 id="estruturais-11">Estruturais</h6>
+<h6 id="estruturais-15">Estruturais</h6>
 
 <ul>
 <li>Corrigido um problema com o Buscador de Cartas que este funcionasse online, especificamente por conta de HTML Minifier que removiam elementos vazios que iriam ser populados dinamicamente</li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-9">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-12">Relacionadas ao Hugo</h6>
 
 <ul>
 <li>Corrigido um problema de longa data quanto ao rodapé cobrir parte do conteúdo principal</li>
 </ul>
 
-<h4 id="alterações-diversas-3">Alterações Diversas</h4>
+<h4 id="alterações-diversas-4">Alterações Diversas</h4>
 
 <ul>
 <li><p>Atualizado o arquivo com os ícones SVG da UI, reordenando algumas definições de uma forma mais significativa</p></li>
@@ -1430,9 +1633,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
 <p><small>Publicada em 06/27/2018 às 18:05:58</small></p>
 
-<h4 id="adições-4">Adições</h4>
+<h4 id="adições-5">Adições</h4>
 
-<h6 id="estruturais-12">Estruturais</h6>
+<h6 id="estruturais-16">Estruturais</h6>
 
 <ul>
 <li><p>Adicionados Parâmetros ao FrontMatter para descrever a <em>altura</em> e a <em>largura</em> das imagens da maioria dos Arquivos de Conteúdo</p></li>
@@ -1442,7 +1645,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionado os recentemente implementados Parâmetros de FrontMatter para desabilitar o Plugin de Comentários do Facebook e/ou prevenir que o Google Analytics seja incluído nos seguintes Arquivos de Conteúdo: Páginas de Categorias (Ataques, Equipamentos de Batalha, Locais, Mugics e Criaturas), Páginas de Subcategoria (Outro Mundo, Submundo, Mipedians, Danians, M&rsquo;arrillians e Sem Tribo) e Página dos <em>Dizeres Legais</em></p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-10">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-12">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Adicionados todos os &ldquo;Flavour Texts&rdquo; disponíveis usando o Shortcode <em>Quote</em></p></li>
@@ -1466,7 +1669,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Parcialmente publicado (por desmarcar como Rascunho) o Artigo sobre o Hune Canin</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-5">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Adicionado o recém-renomeado Parâmetro de FrontMatter <em>section</em> a todas as Páginas de Vídeo</p></li>
@@ -1476,7 +1679,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Adicionadas palavras-chave faltantes para: Episódio #03, Temporada #01; Episódio #27, Temporada #02</p></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-10">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-13">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Implementada a renomeação Parâmetro de FrontMatter <em>section</em> (ou <em>type</em>, no caso de Páginas de Artigo), <em>picture</em> e <em>languages</em></p></li>
@@ -1607,9 +1810,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 </ul></li>
 </ul>
 
-<h4 id="remoções-4">Remoções</h4>
+<h4 id="remoções-5">Remoções</h4>
 
-<h6 id="estruturais-13">Estruturais</h6>
+<h6 id="estruturais-17">Estruturais</h6>
 
 <ul>
 <li><p>Removido os Parâmetros de FrontMatter <em>card</em> e <em>subtext</em>, já que agora eles serão gerenciados pelo Parâmetro <em>picture</em> e pelo Shortcode <em>Quote</em>, respectivamente</p></li>
@@ -1621,19 +1824,19 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Removidas Rotinas em Tempo de Execução do Buscador de Cartas como Parâmetro de FrontMatter já que isso não é mais possível, adicionando-as diretamente no script</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-11">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-13">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Removido o Nome do Artigo principal de suas variantes — ex: em vez de &ldquo;Chaor — Feroz&rdquo; agora apenas &ldquo;Feroz&rdquo; é mostrado — limpando o Índice</li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-6">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li>Removido todos os espelhos do Vimeo dos Episódios dublados em Português Brasileiro</li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-11">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-14">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Com as alterações feitas quanto aos Flavour Texts em forma de Citação (veja abaixo), o Template Parcial de &ldquo;Citação&rdquo; se tornou obsoleto e, assim, foi removido</p></li>
@@ -1643,9 +1846,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Removidos o recurso de Scripts em Tempo de Execução do Template de Rodapé porque apesar de parecer interessante e organizado, na verdade, era difícil de manter e, possivelmente, uma brecha de segurança</p></li>
 </ul>
 
-<h4 id="alterações-4">Alterações</h4>
+<h4 id="alterações-5">Alterações</h4>
 
-<h6 id="estruturais-14">Estruturais</h6>
+<h6 id="estruturais-18">Estruturais</h6>
 
 <ul>
 <li><p>Alterado o Parâmetro de FrontMatter <em>thumbnail</em> por <em>picture</em>, afinal, ele cuida mais da Grande Imagem dos Artigos do que as Miniaturas das Páginas de Listagem</p></li>
@@ -1667,7 +1870,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Renomeado o Arquivo de Conteúdo da <strong>Dranakis Threshold</strong> para combinar com a convenção de nomenclatura de todos os outros. De qualquer jeito, isso significa a remoção e a adição de arquivos</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-12">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-14">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li><p>Revisados todos os Links em Markdown, adicionando uma barra (/) ao final de cada um deles</p></li>
@@ -1683,7 +1886,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Atualizado as descrições dos Parâmetros de FrontMatter&rsquo; na versão em Inglês do Artigo da Takinom</p></li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-7">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-8">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Todos os espelhos no YouTube agora são forçados a usar a versão mais de acordo com a GDPR por alterar o domínio para <code>youtube-nocookie.com</code></p></li>
@@ -1691,7 +1894,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Alterada a <em>Data de Publicação</em> de todos os Episódios dublados em Português do Brasil</p></li>
 </ul>
 
-<h6 id="relacionadas-ao-hugo-12">Relacionadas ao Hugo</h6>
+<h6 id="relacionadas-ao-hugo-15">Relacionadas ao Hugo</h6>
 
 <ul>
 <li><p>Ajustadas diversas classes do Sistema de Grade do Bootstrap e adicionadas algumas CSS Media Queries para melhorar a legibilidade e a disposição do conteúdo em dispositivos móveis</p></li>
@@ -1710,7 +1913,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
 <li><p>A marcação das Grandes Imagens foi modificada para refletir as alterações feitas no CSS para acomodar os Créditos das Imagens</p></li>
 
-<li><p>A &ldquo;gambiarra&rdquo; usada para verificação de existência de arquivos foi substituída pela função <code>fileExists</code> oferecida pelas novas versões do Hugo</p></li>
+<li><p>A solução paliativa usada para verificação de existência de arquivos foi substituída pela função <code>fileExists</code> oferecida pelas novas versões do Hugo</p></li>
 
 <li><p>A coluna com a Biografia das Criaturas foi aumentada para visualização em dispositivos móveis por reduzir um pouco a coluna com os rótulos dando espaço para mais texto</p></li>
 
@@ -1723,9 +1926,9 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Basicamente todo o conteúdo de todos os Templates usados para os Episódios/Curiosidades foram re-indentados</p></li>
 </ul>
 
-<h4 id="correções-4">Correções</h4>
+<h4 id="correções-5">Correções</h4>
 
-<h6 id="estruturais-15">Estruturais</h6>
+<h6 id="estruturais-19">Estruturais</h6>
 
 <ul>
 <li><p>Corrigidos diversos pares de aspas mal formados em alguns Parâmetros de FrontMatter, notavelmente o Parâmetro <em>url</em> que, apesar de o Hugo lidar por si mesmo, removendo-os, estava causando alguns problemas com outros Parâmetros</p></li>
@@ -1735,13 +1938,13 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Corrido o Parâmetro de FrontMatter <em>loyalty</em> que estava om um formato inválido na tradução em Português Brasileiro do Artigo da Takinom</p></li>
 </ul>
 
-<h6 id="relacionadas-aos-artigos-publicados-13">Relacionadas aos Artigos Publicados</h6>
+<h6 id="relacionadas-aos-artigos-publicados-15">Relacionadas aos Artigos Publicados</h6>
 
 <ul>
 <li>Corrigida a <em>Data de Publicação</em> dos Artigos sobre as Geleiras e o Lago Ken-I-Po</li>
 </ul>
 
-<h6 id="relacionadas-às-páginas-dos-episódios-8">Relacionadas às Páginas dos Episódios</h6>
+<h6 id="relacionadas-às-páginas-dos-episódios-9">Relacionadas às Páginas dos Episódios</h6>
 
 <ul>
 <li><p>Corrigidas palavras-chave incorretas no: Episódio #25, Temporada #01, Episódio 01, Temporada #03, Episódio #11, Temporada #03</p></li>
@@ -1848,7 +2051,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 <li><p>Atualizado o arquivo com os ícones SVG da UI para adicionar o atributo faltante <code>viewBox</code> à definição do ícone do Facebook e para incluir definições para os ícones do Github e do HUGO</p></li>
 </ul>
 
-<h4 id="alterações-diversas-4">Alterações Diversas</h4>
+<h4 id="alterações-diversas-5">Alterações Diversas</h4>
 
 <ul>
 <li><p>Alterações maciças no arquivo CSS principal com respeito a: GDPR, Shortcode <em>Quote</em>, Créditos de Imagens, ajustes nas margens dos elementos, &ldquo;correções&rdquo; ao mau comportamento do HUGO e blocos de comentários (vários deles)</p></li>
@@ -1994,7 +2197,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
       
       <script type="text/javascript">
-          !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/72849/chaoticonline.ml/0/0/",s.parentNode.insertBefore(t,s)}();
+        !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/72849/chaoticonline.ml/0/0/",s.parentNode.insertBefore(t,s)}();
       </script>
       
 
@@ -2006,7 +2209,7 @@ Porém, uma vez que nem todo Dublador trabalha com Animes, o IMDB e a Wikipédia
 
       
         <script>
-          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var i=wLeft+window.innerWidth/2-n/2,a=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+a+", left="+i)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){a();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",i(e))}function i(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function a(){window.GDPR=Cookies.get("GDPRv2")||0,window.GDPR?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",i(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPRv2","1"),a()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPRv2","0"),a()})});
+          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var a=wLeft+window.innerWidth/2-n/2,i=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+i+", left="+a)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){i();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",a(e))}function a(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function i(){Cookies.get("GDPRv2")?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",a(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPRv2","1"),i()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPRv2","0"),i()})});
       </script>
       
 
