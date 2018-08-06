@@ -60,6 +60,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/mipedian-cactus/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cacto-mipedian/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/mowercycle/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mowercycle/" />
     </url>

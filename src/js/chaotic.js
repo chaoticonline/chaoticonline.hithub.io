@@ -104,14 +104,14 @@ $( document ).ready( function() {
      */
     $( 'footer.gdpr .accepted' ).on( 'click', function() {
 
-        Cookies.set( 'GDPRv2', '1' );
+        Cookies.set( 'GDPRv2', '1',{ expires: 365 } );
 
         updateGDPRConsentStatus();
     });
 
     $( 'footer.gdpr .declined' ).on( 'click', function() {
 
-        Cookies.set( 'GDPRv2', '0' );
+        Cookies.set( 'GDPRv2', '0', { expires: 365 } );
 
         updateGDPRConsentStatus();
     });

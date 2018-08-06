@@ -1084,7 +1084,7 @@ a:hover {
      */
     .navbar .navbar-brand a:hover, navbar .nav .nav-link:hover,
     #navigation a:hover,
-    #languages ul a,
+    #languages a:hover,
     .breadcrumb a:hover,
     #social ul li:hover a,
     .paginator a:hover,
@@ -2215,6 +2215,10 @@ footer.gdpr a {
     font-size: 0.8rem;
 }
 
+    .page.locations .data {
+        margin-bottom: 1.25rem;
+    }
+
     .page .data.tv {
         display: block;
         font-size: 0.9rem !important;
@@ -2256,13 +2260,11 @@ footer.gdpr a {
     margin-bottom: 0 !important;
 }
 
-/**
- * @internal
- *
- * Removing default styles for proper vertical alignment
- */
 .page.creatures dl dt, .page.creatures dl dd,
 .page.locations dl dt, .page.locations dl dd {
+    align-items: center;
+    display: flex;
+    justify-content: center;
     padding: 0.5rem 0 !important;
 }
 
@@ -2751,6 +2753,12 @@ span.lang {
     display: inline-block;
 }
 
+span.expr {
+    display: inline-block;
+    font-style: italic;
+    font-weight: bold;
+}
+
 /**
  * @internal
  *
@@ -2936,15 +2944,11 @@ p:empty {
     /**
      * @internal
      *
-     * Removing Bootstrap  Grid Row negative margins
+     * Removing a bit more than Bootstrap's Grid Row negative margins
      */
     footer.copyright .row {
-        margin: 0 !important;
+        margin: 0 -0.75rem !important;
     }
-
-        footer.copyright .powered-by {
-            margin-right: -0.75rem;
-        }
 
     /**
      * @internal

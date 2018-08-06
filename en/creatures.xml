@@ -60,6 +60,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/donmar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/donmar/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/dractyl/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/dractyl/" />
     </url>
@@ -415,6 +420,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/taffial/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/taffial/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/tiaane/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/tiaane/" />
     </url>
@@ -492,6 +502,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/skartalas/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/skartalas/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/tharc/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/tharc/" />
     </url>
 
     <url>

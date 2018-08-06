@@ -170,6 +170,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/santuario-das-escrituras/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tablet-sanctuary/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/a-passagem-outro-mundo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-overworld/" />
     </url>

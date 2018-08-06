@@ -35,8 +35,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/grito-de-trovao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/thunder-shout/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/funil-de-turbulencia/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/turbulence-funnel/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/parede-de-chamas/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wall-of-flames/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/lamento-atordoante/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/whirling-wail/" />
     </url>
 
 </urlset>

@@ -2,4 +2,4 @@ User-Agent: *
 Allow: .js
 Allow: .css
 
-Sitemap: http://www.chaoticonline.ml/sitemap.xml
+Sitemap: https://www.chaoticonline.ml/sitemap.xml
