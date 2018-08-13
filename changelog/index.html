@@ -134,7 +134,7 @@
     <script>
       
 
-      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});window.GDPR=Cookies.get('GDPRv2')||0;
+      !function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}return function e(l){function C(e,n,t){if("undefined"!=typeof document){if(1<arguments.length){"number"==typeof(t=g({path:"/"},C.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}for(var c={},f=function(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)},a=document.cookie?document.cookie.split("; "):[],u=0;u<a.length;u++){var s=a[u].split("="),p=s.slice(1).join("=");this.json||'"'!==p.charAt(0)||(p=p.slice(1,-1));try{var d=f(s[0]);if(p=(l.read||l)(p,d)||f(p),this.json)try{p=JSON.parse(p)}catch(e){}if(c[d]=p,e===d)break}catch(e){}}return e?c[e]:c}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(e){return C.call({json:!0},e)},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.defaults={},C.withConverter=e,C}(function(){})});window.GDPR=Cookies.get('GDPR')||0;
     </script>
 
     
@@ -600,162 +600,199 @@
 <li>
 <ul>
 <li><a href="#structure-related-changes">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes">Hugo Templates-related changes</a></li>
 <li><a href="#published-content-related-changes">Published Content-related changes</a></li>
-<li><a href="#css-related-changes">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#removed">Removed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#published-content-related-changes-1">Published Content-related changes</a></li>
+<li><a href="#structure-related-changes-1">Structure-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#changed">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#published-content-related-changes-2">Published Content-related changes</a></li>
-<li><a href="#css-related-changes-1">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-2">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes">Hugo Templates-related changes</a></li>
+<li><a href="#published-content-related-changes-1">Published Content-related changes</a></li>
+<li><a href="#css-related-changes">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed">Fixed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#hugo-templates-related-changes-1">Hugo Templates-related changes</a></li>
-<li><a href="#published-content-related-changes-3">Published Content-related changes</a></li>
-<li><a href="#css-related-changes-2">CSS-related changes</a></li>
+<li><a href="#published-content-related-changes-2">Published Content-related changes</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#image-related-changes">Image-related Changes</a></li>
-<li><a href="#miscellaneous-changes">#### Miscellaneous changes</a></li>
+<li><a href="#image-related-changes">Image-related changes</a></li>
+<li><a href="#miscellaneous-changes">Miscellaneous changes</a></li>
 </ul></li>
-<li><a href="#rev-c228435">rev. c228435</a>
+<li><a href="#rev-33fd090">rev. 33fd090</a>
 <ul>
 <li><a href="#added-1">Added</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-1">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-2">Hugo Templates-related changes</a></li>
-<li><a href="#css-related-changes-3">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-3">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-1">Hugo Templates-related changes</a></li>
+<li><a href="#published-content-related-changes-3">Published Content-related changes</a></li>
+<li><a href="#css-related-changes-1">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#removed-1">Removed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-2">Structure-related changes</a></li>
+<li><a href="#published-content-related-changes-4">Published Content-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#changed-1">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-3">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-3">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-4">CSS-related changes</a></li>
+<li><a href="#published-content-related-changes-5">Published Content-related changes</a></li>
+<li><a href="#css-related-changes-2">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed-1">Fixed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-4">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-4">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-1">Public Content-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-2">Hugo Templates-related changes</a></li>
+<li><a href="#published-content-related-changes-6">Published Content-related changes</a></li>
+<li><a href="#css-related-changes-3">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#image-related-changes-1">Image-related Changes</a></li>
 <li><a href="#miscellaneous-changes-1">Miscellaneous changes</a></li>
 </ul></li>
-<li><a href="#rev-90ab401">rev. 90ab401</a>
+<li><a href="#rev-c228435">rev. c228435</a>
 <ul>
 <li><a href="#added-2">Added</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-5">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-2">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-5">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-4">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-3">Hugo Templates-related changes</a></li>
+<li><a href="#css-related-changes-4">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#removed-2">Removed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-6">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-5">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-3">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-6">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-5">Structure-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#changed-2">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-7">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-6">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-4">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-7">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-6">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-4">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-5">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed-2">Fixed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-8">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-5">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-8">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-7">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-5">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-1">Public Content-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#image-related-changes-2">Image-related Changes</a></li>
 <li><a href="#miscellaneous-changes-2">Miscellaneous changes</a></li>
 </ul></li>
-<li><a href="#rev-7050f3c">rev. 7050f3c</a>
+<li><a href="#rev-90ab401">rev. 90ab401</a>
 <ul>
 <li><a href="#added-3">Added</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-9">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-7">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-6">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-9">CSS-related changes</a></li>
+<li><a href="#structure-related-changes-8">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-2">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-6">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#removed-3">Removed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-10">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-8">Hugo Templates-related changes</a></li>
+<li><a href="#structure-related-changes-9">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-6">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-3">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-7">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#changed-3">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-11">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-7">Public Content-related changes</a></li>
+<li><a href="#structure-related-changes-10">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-7">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-4">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-8">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed-3">Fixed</a>
 <ul>
 <li>
 <ul>
+<li><a href="#structure-related-changes-11">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-5">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-9">CSS-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#image-related-changes-3">Image-related Changes</a></li>
+<li><a href="#miscellaneous-changes-3">Miscellaneous changes</a></li>
+</ul></li>
+<li><a href="#rev-7050f3c">rev. 7050f3c</a>
+<ul>
+<li><a href="#added-4">Added</a>
+<ul>
+<li>
+<ul>
 <li><a href="#structure-related-changes-12">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-8">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-6">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-10">CSS-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#removed-4">Removed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-13">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-9">Hugo Templates-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#changed-4">Changed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-14">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-7">Public Content-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#fixed-4">Fixed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-15">Structure-related changes</a></li>
 <li><a href="#public-content-related-changes-8">Public Content-related changes</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#miscellaneous-changes-3">Miscellaneous changes</a></li>
+<li><a href="#miscellaneous-changes-4">Miscellaneous changes</a></li>
 </ul></li>
 <li><a href="#rev-dff4edc">rev. dff4edc</a>
 <ul>
-<li><a href="#added-4">Added</a>
+<li><a href="#added-5">Added</a>
 <ul>
 <li>
 <ul>
@@ -763,112 +800,112 @@
 <li><a href="#new-content-files">New Content Files</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#removed-4">Removed</a>
+<li><a href="#removed-5">Removed</a>
 <ul>
 <li>
 <ul>
 <li><a href="#public-content-related-changes-9">Public Content-related changes</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#changed-4">Changed</a>
-<ul>
-<li>
-<ul>
-<li><a href="#hugo-templates-related-changes-9">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-10">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-10">CSS-related changes</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#fixed-4">Fixed</a>
-<ul>
-<li>
-<ul>
-<li><a href="#image-related-changes-3">Image-related changes</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#miscellaneous-changes-4">Miscellaneous changes</a></li>
-</ul></li>
-<li><a href="#rev-cc4406c">rev. cc4406c</a>
-<ul>
-<li><a href="#added-5">Added</a>
-<ul>
-<li>
-<ul>
-<li><a href="#structure-related-changes-13">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-10">Hugo Templates-related changes</a></li>
-<li><a href="#published-content-related-changes-4">Published Content related changes</a></li>
-<li><a href="#css-related-changes-11">CSS-related changes</a></li>
-</ul></li>
-</ul></li>
-<li><a href="#removed-5">Removed</a>
-<ul>
-<li>
-<ul>
-<li><a href="#structure-related-changes-14">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-11">Hugo Templates-related changes</a></li>
-<li><a href="#css-related-changes-12">CSS-related changes</a></li>
-</ul></li>
-</ul></li>
 <li><a href="#changed-5">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-15">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-12">Hugo Templates-related changes</a></li>
-<li><a href="#public-content-related-changes-11">Public Content-related changes</a></li>
-<li><a href="#css-related-changes-13">CSS-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-10">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-10">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-11">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed-5">Fixed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-16">Structure-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-13">Hugo Templates-related changes</a></li>
+<li><a href="#image-related-changes-4">Image-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#miscellaneous-changes-5">Miscellaneous changes</a></li>
 </ul></li>
-<li><a href="#rev-4c972b7">rev. 4c972b7</a>
+<li><a href="#rev-cc4406c">rev. cc4406c</a>
 <ul>
 <li><a href="#added-6">Added</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-17">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-12">Public Content-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-14">Hugo Templates-related changes</a></li>
-<li><a href="#new-content-files-1">New Content Files</a></li>
-<li><a href="#i18n-related-changes">i18n-related changes</a></li>
+<li><a href="#structure-related-changes-16">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-11">Hugo Templates-related changes</a></li>
+<li><a href="#published-content-related-changes-7">Published Content related changes</a></li>
+<li><a href="#css-related-changes-12">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#removed-6">Removed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-18">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-13">Public Content-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-15">Hugo Templates-related changes</a></li>
+<li><a href="#structure-related-changes-17">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-12">Hugo Templates-related changes</a></li>
+<li><a href="#css-related-changes-13">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#changed-6">Changed</a>
 <ul>
 <li>
 <ul>
-<li><a href="#structure-related-changes-19">Structure-related changes</a></li>
-<li><a href="#public-content-related-changes-14">Public Content-related changes</a></li>
-<li><a href="#hugo-templates-related-changes-16">Hugo Templates-related changes</a></li>
+<li><a href="#structure-related-changes-18">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-13">Hugo Templates-related changes</a></li>
+<li><a href="#public-content-related-changes-11">Public Content-related changes</a></li>
+<li><a href="#css-related-changes-14">CSS-related changes</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#fixed-6">Fixed</a>
 <ul>
 <li>
 <ul>
+<li><a href="#structure-related-changes-19">Structure-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-14">Hugo Templates-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#miscellaneous-changes-6">Miscellaneous changes</a></li>
+</ul></li>
+<li><a href="#rev-4c972b7">rev. 4c972b7</a>
+<ul>
+<li><a href="#added-7">Added</a>
+<ul>
+<li>
+<ul>
 <li><a href="#structure-related-changes-20">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-12">Public Content-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-15">Hugo Templates-related changes</a></li>
+<li><a href="#new-content-files-1">New Content Files</a></li>
+<li><a href="#i18n-related-changes">i18n-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#removed-7">Removed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-21">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-13">Public Content-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-16">Hugo Templates-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#changed-7">Changed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-22">Structure-related changes</a></li>
+<li><a href="#public-content-related-changes-14">Public Content-related changes</a></li>
+<li><a href="#hugo-templates-related-changes-17">Hugo Templates-related changes</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#fixed-7">Fixed</a>
+<ul>
+<li>
+<ul>
+<li><a href="#structure-related-changes-23">Structure-related changes</a></li>
 <li><a href="#public-content-related-changes-15">Public Content-related changes</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#image-related-changes-4">Image-related changes</a>
+<li><a href="#image-related-changes-5">Image-related changes</a>
 <ul>
 <li>
 <ul>
@@ -877,7 +914,7 @@
 <li><a href="#more">More&hellip;</a></li>
 </ul></li>
 </ul></li>
-<li><a href="#miscellaneous-changes-6">Miscellaneous changes</a></li>
+<li><a href="#miscellaneous-changes-7">Miscellaneous changes</a></li>
 </ul></li>
 </ul></li>
 </ul></li>
@@ -891,47 +928,159 @@
 
 <h3 id="current-version">Current Version</h3>
 
-<p><small>Commited at 08/06/2018 at 12:30</small></p>
+<p><small>Committed at 13/08/2018 at 09:15</small></p>
 
 <h4 id="added">Added</h4>
 
 <h6 id="structure-related-changes">Structure-related changes</h6>
 
 <ul>
-<li>Added new Content Files and i18n entries to the following references made in the Article published in this revision: Mipedian Cactus (Battlegear), Donmar (OverWorlder), Taffial (Mipedian), Tharc (Danian), Tablet Sanctuary (Location) and Thunder Shout, Turbulence Funnel e Whirling Wail (Attacks)</li>
-</ul>
+<li><p>Added a new i18n entry for <em>Drew&rsquo;s</em> (Battleboarder) Voice Actor, a secondary character from Episode <em>Allmageddon</em> (Brazilian Portuguese only)</p></li>
 
-<h6 id="hugo-templates-related-changes">Hugo Templates-related changes</h6>
+<li><p>Added a new i18n entry for <em>Blügon&rsquo;s</em> Voice Actor (Brazilian Portuguese only)</p></li>
 
-<ul>
-<li>Added a new Shortcode Template <em>expr</em> to allow bold expressions used for idiomatic expressions (Shortcode <em>lang</em>) to be distinguished from simple expressions while keeping their own HTML attributes <em>lang</em> and <em>xml:lang</em></li>
+<li><p>Added a new i18n entry for <em>Cerbie&rsquo;s</em> Voice Actor (English only)</p></li>
+
+<li><p>Added new Content Files and i18n entries for the Underworld Creatures <em>Cerbie</em> and <em>Drakness</em>, much to give more context for their recently discovered Brazilian Portuguese Voice Actors</p></li>
 </ul>
 
 <h6 id="published-content-related-changes">Published Content-related changes</h6>
 
 <ul>
-<li>Published Article about <em>Zhade</em></li>
+<li><p>Added <em>Cast</em> to Episodes #18-22, Season #01</p></li>
+
+<li><p>Added list of Episodes in which <em>Barath Beyond</em> appeared and his Brazilian Portuguese Voice Actors</p></li>
+
+<li><p>Added list of Episodes in which <em>Raimusa</em> appeared and both his second and third Brazilian Portuguese Voice Actors (first one still a mystery)</p></li>
+
+<li><p>Added a missing Heading Title in the Articles about <em>Kughar</em> and <em>Dardemus</em> (Brazilian Portuguese only)</p></li>
+
+<li><p>Published the Episode #18, Season #01 with Brazilian Portuguese audio</p></li>
+</ul>
+
+<h4 id="removed">Removed</h4>
+
+<h6 id="structure-related-changes-1">Structure-related changes</h6>
+
+<ul>
+<li><p>Removed the i18n entry for the Brazilian Portuguese Voice Actor <em>Paulo Porto</em>, since it&rsquo;s not in use anymore</p></li>
+
+<li><p>Removed integration with Criptocurrency Mining because, after the trial periodo in which it was active, it didn&rsquo;t result any significant effect</p></li>
+</ul>
+
+<h4 id="changed">Changed</h4>
+
+<h6 id="structure-related-changes-2">Structure-related changes</h6>
+
+<ul>
+<li>With the fix in <em>Blügon&rsquo;s</em> name (see below), its Content File has been renamed too, which, by all means, this represents a file removal and the inclusion of a new one</li>
+</ul>
+
+<h6 id="hugo-templates-related-changes">Hugo Templates-related changes</h6>
+
+<ul>
+<li>Changed the logic of the Template Files for <em>Creatures</em> and <em>Locations</em> to add the <em>hidden</em> CSS control-class to the Bootstrap&rsquo;s Grid Row where the Card Image would go instead of on each element inside. This prevents Hugo from rendering <code>&lt;p&gt;</code> tags with as N blank lines unreachable by the CSS workaround targeting empty/blank elements</li>
+</ul>
+
+<h6 id="published-content-related-changes-1">Published Content-related changes</h6>
+
+<ul>
+<li><p>With the re-encoding of Episode #08, Season #01 with Brazilian Portuguese Audio republished in this revision, the corresponding Video Page has been updated with the new YouTube&rsquo;s Mirror and new Video Length, in all three formats, since the source used was different than the original and, with a partially redone lip-sync, the overall length ended up getting slightly reduced</p></li>
+
+<li><p>Fixed the name of <em>Blügon</em> that used to have two <em>g</em> (Blüggon)</p></li>
+
+<li><p>With the fix in <em>Blügon&rsquo;s</em> name, the following Articles/Pages have been updated to reflect the changes: Glacier Plains, Episode #21, Season #01 and Episodes #05, #08 and #18, Season #02 (keywords)</p></li>
+
+<li><p>Updated the Article about <em>Zalvar</em>, providing information about his <em>Energy</em> from a scene of Episode #17, Season #01 (<em>Scavenger Scan</em>) and, in order to give more context for one of the recently discovered Brazilian Portuguese Voice Actors, a list of the Episodes he appears on</p></li>
+
+<li><p>With the removal of Criptocurrency Mining integration the <em>Terms of Use</em> has been updated and the GDPR Cookie changed once again, enforcing a new acceptance of the Terms</p></li>
+
+<li><p>Re-published the Episode #08, Season #01 with Brazilian Portuguese audio</p></li>
+
+<li><p>Updated Changelog Page</p></li>
 </ul>
 
 <h6 id="css-related-changes">CSS-related changes</h6>
 
 <ul>
+<li>Complemented the CSS workaround <code>p:empty</code> to also consider <code>p:blank</code> for the fix</li>
+</ul>
+
+<h4 id="fixed">Fixed</h4>
+
+<h6 id="published-content-related-changes-2">Published Content-related changes</h6>
+
+<ul>
+<li>Fixed a wrong value for the Taxonomy Term <em>rarity</em> in the Article about <em>Zalvar</em> (Brazilian Portuguese only)</li>
+</ul>
+
+<h4 id="image-related-changes">Image-related changes</h4>
+
+<ul>
+<li><p>Added a Big Picture for the unpublished Article about <em>Drakness</em></p></li>
+
+<li><p>With the fix in <em>Blügon&rsquo;s</em> name (see above), the image file of its Big Picture has been renamed too, which, by all means, this represents a file removal and the inclusion of a new one</p></li>
+</ul>
+
+<h4 id="miscellaneous-changes">Miscellaneous changes</h4>
+
+<ul>
+<li><p>Updated Sitemap files for <em>Creature</em> and the <em>Index</em></p></li>
+
+<li><p>Updated minified CSS and JS</p></li>
+</ul>
+
+<h3 id="rev-33fd090">rev. 33fd090</h3>
+
+<p><small>Committed at 08/06/2018 at 12:30</small></p>
+
+<h4 id="added-1">Added</h4>
+
+<h6 id="structure-related-changes-3">Structure-related changes</h6>
+
+<ul>
+<li>Added new Content Files and i18n entries to the following references made in the Article published in this revision: Mipedian Cactus (Battlegear), Donmar (OverWorlder), Taffial (Mipedian), Tharc (Danian), Tablet Sanctuary (Location) and Thunder Shout, Turbulence Funnel e Whirling Wail (Attacks)</li>
+</ul>
+
+<h6 id="hugo-templates-related-changes-1">Hugo Templates-related changes</h6>
+
+<ul>
+<li>Added a new Shortcode Template <em>expr</em> to allow bold expressions used for idiomatic expressions (Shortcode <em>lang</em>) to be distinguished from simple expressions while keeping their own HTML attributes <em>lang</em> and <em>xml:lang</em></li>
+</ul>
+
+<h6 id="published-content-related-changes-3">Published Content-related changes</h6>
+
+<ul>
+<li><p>Added <em>Cast</em> to Episode #14, Season #01 for the Brazilian Portuguese version. Even though there&rsquo;s not a Video with Brazilian Portuguese Audio, the page deserve a Cast no matter what. Besides, at least half of the appearances have known Voice Actors</p></li>
+
+<li><p>Revised all <em>Casts</em> added so far, removing some names of people/creatures that hasn&rsquo;t actually appeared, reordering and completing others</p></li>
+
+<li><p>Added <em>Cast</em> to Episode #14, Season #01 for the Brazilian Portuguese version. Even though there&rsquo;s not a Video with Brazilian Portuguese Audio, the page deserve a Cast no matter what. Besides, at least half of the appearances have known Voice Actors</p></li>
+
+<li><p>Published Article about <em>Zhade</em></p></li>
+</ul>
+
+<h6 id="css-related-changes-1">CSS-related changes</h6>
+
+<ul>
 <li>Added a new style as counterpart of the new Shortcode Template <em>expr</em></li>
 </ul>
 
-<h4 id="removed">Removed</h4>
+<h4 id="removed-1">Removed</h4>
 
-<h6 id="published-content-related-changes-1">Published Content-related changes</h6>
+<h6 id="published-content-related-changes-4">Published Content-related changes</h6>
 
 <ul>
 <li>Removed the end-line period from the &ldquo;Flavour Texts&rdquo; of the published Articles about <em>Ulmar</em> and <em>Crystal Cave</em></li>
 </ul>
 
-<h4 id="changed">Changed</h4>
+<h4 id="changed-1">Changed</h4>
 
-<h6 id="published-content-related-changes-2">Published Content-related changes</h6>
+<h6 id="published-content-related-changes-5">Published Content-related changes</h6>
 
 <ul>
+<li><p>Revised all <em>Casts</em> added so far, removing some names of people/creatures that hasn&rsquo;t actually appeared, reordering and completing others</p></li>
+
 <li><p>With the addition of the new Shortcode Template <em>expr</em>, the published Articles about <em>Heptadd</em> and about <em>Tartarek</em>, the only ones with identification of their names so far, have been updated, replacing the usual bold Markdown used for these expressions with the new Shortcode definition</p></li>
 
 <li><p>Applied grammar corrections to the Brazilian Portuguese version of the following published Articles/Pages: Maxxor, Najarin and Blazier</p></li>
@@ -939,23 +1088,29 @@
 <li><p>Updated Changelog Page</p></li>
 </ul>
 
-<h6 id="css-related-changes-1">CSS-related changes</h6>
+<h6 id="css-related-changes-2">CSS-related changes</h6>
 
 <ul>
 <li>Changed the styles of each entry in Cards&rsquo; Information Box so everything gets properly vertically aligned</li>
 </ul>
 
-<h4 id="fixed">Fixed</h4>
+<h4 id="fixed-1">Fixed</h4>
 
-<h6 id="hugo-templates-related-changes-1">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-2">Hugo Templates-related changes</h6>
 
 <ul>
 <li>Fixed an issue with the GDPR Cookie routine in which, given the unspecified expiration date, the Cookie was removed every time the browser in which it was created was closed. By all means this represents that all efforts made in previous revisions to keep the Cookie, so in future visits the User wouldn&rsquo;t be asked to agree with the Terms of Use once again, were in vain</li>
 </ul>
 
-<h6 id="published-content-related-changes-3">Published Content-related changes</h6>
+<h6 id="published-content-related-changes-6">Published Content-related changes</h6>
 
 <ul>
+<li><p>Fixed a wrong keyword in Episode #22, Season #01 pointing to <em>Mallash</em> while the right Creature appearing right at the beginning is <em>Valanii Levaan</em></p></li>
+
+<li><p>Fixed a typo in the keyword about <em>The Doonhammer</em> in Episode #04, Season #02 (English only)</p></li>
+
+<li><p>Fixed the Brazilian Portuguese translation link in the English version of Episode #22, Season #01. The way it was before, the Brazilian Portuguese could never be reached, by a human user, at least</p></li>
+
 <li><p>Fixed a URL in the published Article about the <em>Lava Pond</em> so it now properly points to <em>Kiru Village</em> (Brazilian Portuguese only) and two other pointing to the Episodes <em>Over-Under Rent Asunder</em> and <em>Everything&rsquo;s in Flux</em> (both languages)</p></li>
 
 <li><p>Fixed a typo in the keyword about the <em>Ring of Na&rsquo;arin</em> in the published Article about <em>Takinom</em></p></li>
@@ -963,15 +1118,17 @@
 <li><p>Fixed wrong information regarding <em>Audio</em> and <em>Subtitle</em> in Episode #17, Season #01 (Brazilian Portuguese only)</p></li>
 </ul>
 
-<h6 id="css-related-changes-2">CSS-related changes</h6>
+<h6 id="css-related-changes-3">CSS-related changes</h6>
 
 <ul>
+<li><p>Modified the style of the superscript number near a Voice Actor name pointing to an observation regarding the uncertainty of the name listed</p></li>
+
 <li><p>Fixed an issue that was causing the Language Switcher&rsquo;s opened box to &ldquo;jump&rdquo; a few pixels to the top when hovering one of the language links available different of the one currently being displayed</p></li>
 
 <li><p>Fixed a misalignment of the footer&rsquo;s left margin on mobile devices</p></li>
 </ul>
 
-<h4 id="image-related-changes">Image-related Changes</h4>
+<h4 id="image-related-changes-1">Image-related Changes</h4>
 
 <ul>
 <li><p>Added Card Pictures for <em>Zhade</em> and <em>Zhade, Dig site Defender</em> for the Article published in this revision</p>
@@ -983,21 +1140,21 @@
 <li><p>Updated the following Big Pictures with versions of better quality: Allmageddon, Hail Storm, Lavalanche, Megaroar (Attacks), Aquashield, Cyclance, Flux Bauble, Ice Cloak, Liquilizer, Mowercycle, Pyroblaster, Ring of Na&rsquo;arin, Riverland Star, Skeletal Steed and Zhade</p></li>
 </ul>
 
-<h4 id="miscellaneous-changes">#### Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-1">Miscellaneous changes</h4>
 
 <ul>
-<li><p>Updated Sitemap files (except <em>Mugics</em> and <em>Videos</em> ) and minified JS and CSS</p></li>
+<li><p>Updated Sitemap files (except <em>Mugics</em> and <em>Videos</em> )</p></li>
 
 <li><p>Updated minified CSS and JS</p></li>
 </ul>
 
 <h3 id="rev-c228435">rev. c228435</h3>
 
-<p><small>Commited in 30/07/2018 at 18:51</small></p>
+<p><small>Committed in 30/07/2018 at 18:51</small></p>
 
-<h4 id="added-1">Added</h4>
+<h4 id="added-2">Added</h4>
 
-<h6 id="structure-related-changes-1">Structure-related changes</h6>
+<h6 id="structure-related-changes-4">Structure-related changes</h6>
 
 <ul>
 <li><p>Added a custom sorting feature of the <em>Characters</em> listed in Episodes <em>Cast</em> through a new entry <code>weight</code></p></li>
@@ -1007,7 +1164,7 @@
 <li><p>Added new i18n entries with the Voice Actors of the following <em>Characters</em>: Sarah, Peyton, Klay, Krystella, CodeMaster Crellan (real and &ldquo;human form&rdquo;), Zalic and Gespedan (by associating them with <em>Zalic&rsquo;s</em> Voice Actor) and Xaerv (Brazilian Portuguese only)</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-2">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-3">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Added the possibility of having HTML in <em>Characters&rsquo; Name</em> of Episodes Cast, so it&rsquo;s possible to manually break a name that&rsquo;s too long for the Column to hold it — e.g.: CodeMaster Crellan (Human Form)</p></li>
@@ -1025,7 +1182,7 @@
 <li><p>Published the Episode #17, Season #01 with Brazilian Portuguese audio</p></li>
 </ul>
 
-<h6 id="css-related-changes-3">CSS-related changes</h6>
+<h6 id="css-related-changes-4">CSS-related changes</h6>
 
 <ul>
 <li><p>Added a complement to the selectors of the Video Pages&rsquo; rules only as consistency to the other rules, since the elements styled there aren&rsquo;t in use in the other Pages</p></li>
@@ -1035,17 +1192,17 @@
 <li><p>Added Pagination Links to the list of selectors that <strong>won&rsquo;t</strong> receive the dotted border when hovering the mouse</p></li>
 </ul>
 
-<h4 id="removed-1">Removed</h4>
+<h4 id="removed-2">Removed</h4>
 
-<h6 id="structure-related-changes-2">Structure-related changes</h6>
+<h6 id="structure-related-changes-5">Structure-related changes</h6>
 
 <ul>
 <li>Removed, by commenting out, the URLs of the <em>Human Characters</em> in the respective i18n file so entries pointing to Pages that don&rsquo;t exist (yet) won&rsquo;t be added to the Structured Data. The feature remains the same for Creatures.</li>
 </ul>
 
-<h4 id="changed-1">Changed</h4>
+<h4 id="changed-2">Changed</h4>
 
-<h6 id="structure-related-changes-3">Structure-related changes</h6>
+<h6 id="structure-related-changes-6">Structure-related changes</h6>
 
 <ul>
 <li><p>Replaced the name <em>Sarah Lawrence</em> with <em>Sarah &ldquo;Beth&rdquo; Cronwell</em> in all Pages, mainly, but not restricted to, keywords because, after recent researches, this proved to be the correct name of her Character</p></li>
@@ -1065,7 +1222,7 @@
 <li><p>Changed the GDPR Cookie&rsquo;s condition in the routine that updates the consent status (by showing/hiding the banner) to use the Cookie&rsquo;s value directly instead of the global variable created in the <code>&lt;head&gt;</code>, making sure the banner would properly hide, which wasn&rsquo;t happening before, in the first time a visitor who hadn&rsquo;t agree/disagree with the Terms of Use yet. That was happening because the routine is executed as soon as the document is ready for manipulation but the global variable is created before that, so when it was trying to read the updated value of the Cookie, set when any of the buttons was clicked, the global variable had already been created with the default zero value as fallback if the Cookie didn&rsquo;t exist yet. And this caused the GDPR banner to never hide, no matter how many time one of the buttons was clicked</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-3">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-4">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Improved the disposition of the <em>Cast</em> in mobile devices by adding more of the of the Bootstrap Grid Classes</p></li>
@@ -1083,7 +1240,7 @@
 <li>Updated Changelog Page</li>
 </ul>
 
-<h6 id="css-related-changes-4">CSS-related changes</h6>
+<h6 id="css-related-changes-5">CSS-related changes</h6>
 
 <ul>
 <li><p>With the change in Videos Pages Section Title (see above), the tag which had its font size globally updated in previous revisions (<em>h4</em>) has been changed to <em>h5</em></p></li>
@@ -1097,9 +1254,9 @@
 <li><p>Improved the disposition of the <em>Cast</em> in mobile devices, as counterpart of the changes made in the HTML markup</p></li>
 </ul>
 
-<h4 id="fixed-1">Fixed</h4>
+<h4 id="fixed-2">Fixed</h4>
 
-<h6 id="structure-related-changes-4">Structure-related changes</h6>
+<h6 id="structure-related-changes-7">Structure-related changes</h6>
 
 <ul>
 <li><p>Fixed an issue that was preventing Voice Actors&rsquo; Profile URL list in the <em>Cast</em> to be found when an accentuated vowel was present in the first character of their name/surname since those are usually capitalized and we replace only the lowercase versions of them to simplify the process</p></li>
@@ -1112,7 +1269,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>During the restructuring, the <em>Episodes</em> Section was renamed to <em>Videos</em> but, by accessing the respective link from Breadcrumbs Trails, that <strong>did not</strong> point to the expected Page in the same language browsed. This problem, caused by a minor typo i one of the i18n entries with the list of URLs available for template translations, has been fixed (Brazilian Portuguese only)</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-4">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-5">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Fixed a logical issue in <em>Google AdSense&rsquo;s</em> Template File that was preventing all advertising to appear. Prior to this fix, it was tested if the GDPR Cookie <strong>did not</strong> exist and if it didn&rsquo;t exist it was being tested if its value was zero (?), meaning the non-consent with the Terms of Use. Because this obviously would never result in a positive test, the condition always failed and when that happened Google AdSense&rsquo;s mechanism was explicitly configured to not show any advertising</p></li>
@@ -1130,7 +1287,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Fixed a ma-formation with the FrontMatter Parameter <code>mirror</code> in the Episodes #18, #19, #20, #22, #29, #31, #33, #35 and #38, all from Season #01 (Brazilian Portuguese only)</p></li>
 </ul>
 
-<h4 id="image-related-changes-1">Image-related Changes</h4>
+<h4 id="image-related-changes-2">Image-related Changes</h4>
 
 <ul>
 <li><p>Added a Big Picture for the unpublished Article about <em>Zapetur</em></p></li>
@@ -1138,7 +1295,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Changed the Big Picture for the unpublished Article about <em>Quadore</em></p></li>
 </ul>
 
-<h4 id="miscellaneous-changes-1">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-2">Miscellaneous changes</h4>
 
 <ul>
 <li>Updated minified CSS and JS</li>
@@ -1148,9 +1305,9 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 
 <p><small>Committed in 07/22/2018 at 11:10</small></p>
 
-<h4 id="added-2">Added</h4>
+<h4 id="added-3">Added</h4>
 
-<h6 id="structure-related-changes-5">Structure-related changes</h6>
+<h6 id="structure-related-changes-8">Structure-related changes</h6>
 
 <ul>
 <li><p>Implemented something to cover possible uncertainties regarding Voice Actors with another entry named <code>verified</code> along to the name of each Voice Actor identified listed in the <code>cast</code> FrontMatter Parameter. If this entry is defined for that Voice Actor -AND- set as <code>false</code> a little superscript number is added next to the Voice Actor name</p></li>
@@ -1180,21 +1337,21 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Added an additional keyword about <em>Khybon, the Renegade</em> in Episode #13, Season #02</p></li>
 </ul>
 
-<h6 id="css-related-changes-5">CSS-related changes</h6>
+<h6 id="css-related-changes-6">CSS-related changes</h6>
 
 <ul>
 <li>Added a dotted line while hovering one of the (non-blocked) available languages of the Languages Switcher</li>
 </ul>
 
-<h4 id="removed-2">Removed</h4>
+<h4 id="removed-3">Removed</h4>
 
-<h6 id="structure-related-changes-6">Structure-related changes</h6>
+<h6 id="structure-related-changes-9">Structure-related changes</h6>
 
 <ul>
 <li>With the inclusion of the new FrontMatter Parameter <code>show</code> (see above), the entries <code>season</code> and <code>episode</code> (and its sub-entries) have been removed from the FrontMatter Parameter <code>details</code></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-5">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-6">Hugo Templates-related changes</h6>
 
 <ul>
 <li>Removed a condition that was preventing the second level Section Heading (<code>&lt;h2&gt;</code>) to appear in the Terms of Use Page</li>
@@ -1206,7 +1363,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li>With the review of Terms of Use Page (see below), the old <em>Disclaimer</em> Page, which had not much content already, has been removed, along with its related i18n entries and CSS rules</li>
 </ul>
 
-<h6 id="css-related-changes-6">CSS-related changes</h6>
+<h6 id="css-related-changes-7">CSS-related changes</h6>
 
 <ul>
 <li><p>Removed several rules from the Card Types Colours section that were made obsolete with the reviewed link styles</p></li>
@@ -1214,9 +1371,9 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>With the revision of links styles throughout the site (see below), several unnecessary rules have been removed</p></li>
 </ul>
 
-<h4 id="changed-2">Changed</h4>
+<h4 id="changed-3">Changed</h4>
 
-<h6 id="structure-related-changes-7">Structure-related changes</h6>
+<h6 id="structure-related-changes-10">Structure-related changes</h6>
 
 <ul>
 <li><p>With the inclusion of the new FrontMatter Parameter <code>show</code> (see above), the JSON+LD used for Videos&rsquo; Structured Data had to been updated pointing to the new entries</p></li>
@@ -1230,7 +1387,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>With the removal of the <em>Disclaimer</em> Page, the footer has been updated to remove the link to it</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-6">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-7">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Because of the addition of the <code>verified</code> entry (see above) the superscript <code>1</code> referring to the subtitles availability has been changed to <code>2</code>, except when all Voice Actors are identified with certain, case in which no number <code>1</code> will exist</p></li>
@@ -1256,7 +1413,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Updated Changelog Page</p></li>
 </ul>
 
-<h6 id="css-related-changes-7">CSS-related changes</h6>
+<h6 id="css-related-changes-8">CSS-related changes</h6>
 
 <ul>
 <li><p>Balanced the top margin of all Heading Title tags, adjusting others as necessary — e.g. the one of second level (<code>&lt;h2&gt;</code>) had its bottom margin reduced in order to not make the one of third level (<code>&lt;h3&gt;</code>) become misaligned</p></li>
@@ -1276,9 +1433,9 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Moved part of the <em>Mipedians&rsquo;</em> Colour Scheme more to the top because it ended up mixing itself up with the <em>Tribeless&rsquo;</em> Colour Scheme added in previous revisions</p></li>
 </ul>
 
-<h4 id="fixed-2">Fixed</h4>
+<h4 id="fixed-3">Fixed</h4>
 
-<h6 id="structure-related-changes-8">Structure-related changes</h6>
+<h6 id="structure-related-changes-11">Structure-related changes</h6>
 
 <ul>
 <li><p>Fixed the <code>text</code> entry in Pictures&rsquo; <code>credits</code> of several Content Files that wrongly remained in English in the Brazilian Portuguese version of the site</p></li>
@@ -1304,7 +1461,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Fixed the Title of the Videos Page (<code>/videos</code>) that wasn&rsquo;t appearing the Title Bar because its Content File didn&rsquo;t have a <code>Title</code> defined as FrontMatter Parameter</p></li>
 </ul>
 
-<h6 id="css-related-changes-8">CSS-related changes</h6>
+<h6 id="css-related-changes-9">CSS-related changes</h6>
 
 <ul>
 <li><p>Fixed the CSS selector for the wrongly generated empty <code>&lt;p&gt;</code> tags fix while parsing the Markdown</p></li>
@@ -1316,7 +1473,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Fixed through CSS a weird issue, by preventing elements to be clicked, in which when the first row of a Card Search result is clicked some semi-random results were being created within the first line when viewed on mobile devices</p></li>
 </ul>
 
-<h4 id="image-related-changes-2">Image-related Changes</h4>
+<h4 id="image-related-changes-3">Image-related Changes</h4>
 
 <ul>
 <li><p>Enhanced the Big Picture of the Lava Pond</p></li>
@@ -1326,19 +1483,21 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Added Card Images for <em>Lava Pond</em> and <em>Lava Pond, Milla&rsquo;iin&rsquo;s Foothold</em> for the Article published in this review</p></li>
 </ul>
 
-<h4 id="miscellaneous-changes-2">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-3">Miscellaneous changes</h4>
 
 <ul>
-<li>Updated Sitemap files (except <em>Mugics</em>) and minified JS and CSS</li>
+<li><p>Updated Sitemap files (except <em>Mugics</em>)</p></li>
+
+<li><p>Updated minified CSS and JS</p></li>
 </ul>
 
 <h3 id="rev-7050f3c">rev. 7050f3c</h3>
 
 <p><small>Committed in 07/16/2018 at 19:00</small></p>
 
-<h4 id="added-3">Added</h4>
+<h4 id="added-4">Added</h4>
 
-<h6 id="structure-related-changes-9">Structure-related changes</h6>
+<h6 id="structure-related-changes-12">Structure-related changes</h6>
 
 <ul>
 <li><p>With the internal structure change (see below), in order to make the <em>Perim</em> Category to work a Page with its own Custom URL had to be added listing all Card Types on it</p></li>
@@ -1350,7 +1509,7 @@ Until this fix, these Pages weren&rsquo;t publicly available because their files
 <li><p>Added a Hugo&rsquo;s Compiler setting to prevent automatic pluralization of Section Titles, preventing, for example &ldquo;Perims&rdquo;, even though the corresponding i18n entry isn&rsquo;t pluralized</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-7">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-8">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>The necessary additions to the Video Template to display the Episode Cast has been created, however, since this still somewhat in BETA stage, it was only implemented in the Episode #01, Season #01</p></li>
@@ -1377,7 +1536,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Published the Episode #16, Season #01 with Brazilian Portuguese audio</p></li>
 </ul>
 
-<h6 id="css-related-changes-9">CSS-related changes</h6>
+<h6 id="css-related-changes-10">CSS-related changes</h6>
 
 <ul>
 <li><p>Added the Tribal Colours for Danians (brown) and Tribeless (light grey) so the Voice Actor box and the URLs of the episodes in which the Creature appear don&rsquo;t get the default colours and/or without background</p></li>
@@ -1385,15 +1544,15 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Added a subtle grey line between commits in the Changelog Page allowing some sort of distinguishing between them</p></li>
 </ul>
 
-<h4 id="removed-3">Removed</h4>
+<h4 id="removed-4">Removed</h4>
 
-<h6 id="structure-related-changes-10">Structure-related changes</h6>
+<h6 id="structure-related-changes-13">Structure-related changes</h6>
 
 <ul>
 <li>Since the i18n entry referring to <em>Episodes</em> as a Tilte isn&rsquo;t used anymore (see below) it was removed</li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-8">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-9">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>With the internal structure change (see below) there&rsquo;s no need of a Template File just for the Trivias as this subcategory now shares the same used for the regular Episodes and, therefore, it was removed</p></li>
@@ -1403,9 +1562,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed Facebook Analytics. Not only because resources dependable of Facebook slows down the page load but also because the information provided isn&rsquo;t useful, at least not for now</p></li>
 </ul>
 
-<h4 id="changed-3">Changed</h4>
+<h4 id="changed-4">Changed</h4>
 
-<h6 id="structure-related-changes-11">Structure-related changes</h6>
+<h6 id="structure-related-changes-14">Structure-related changes</h6>
 
 <ul>
 <li><p>A heavy change in the internal structure has been made. Now instead of having all <em>Perim&rsquo;s</em> categories of Content Files loose in Hugo&rsquo;s <code>/content</code> root directory, they&rsquo;re now grouped under <code>/perim</code> as it always should be. Not only this is more organized but it also allows Section Pages (a.k.a Listing Pages) to have a Custom URL of their own instead of just an alias</p></li>
@@ -1439,9 +1598,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Updated Changelog Page</p></li>
 </ul>
 
-<h4 id="fixed-3">Fixed</h4>
+<h4 id="fixed-4">Fixed</h4>
 
-<h6 id="structure-related-changes-12">Structure-related changes</h6>
+<h6 id="structure-related-changes-15">Structure-related changes</h6>
 
 <ul>
 <li>Fixed an issue with malformed FrontMatter Parameters that should yield runtime errors but prior to the restructuring made in this revision used to be silently ignored &gt;:(</li>
@@ -1461,7 +1620,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Fixed the details of Episode #15, Season #01 for the version with Brazilian Portuguese audio because this version is not in Englis (obviously) but also doesn&rsquo;t have any subtitle as previously described</p></li>
 </ul>
 
-<h4 id="miscellaneous-changes-3">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-4">Miscellaneous changes</h4>
 
 <ul>
 <li>Updated minified CSS</li>
@@ -1471,7 +1630,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 
 <p><small>Committed in 07/08/2018 at 19:00</small></p>
 
-<h4 id="added-4">Added</h4>
+<h4 id="added-5">Added</h4>
 
 <h6 id="structured-related-changes">Structured-related changes</h6>
 
@@ -1505,7 +1664,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 </ul></li>
 </ul>
 
-<h4 id="removed-4">Removed</h4>
+<h4 id="removed-5">Removed</h4>
 
 <h6 id="public-content-related-changes-9">Public Content-related changes</h6>
 
@@ -1515,9 +1674,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed a hash-link in the Article about <em>Glacier Plains</em></p></li>
 </ul>
 
-<h4 id="changed-4">Changed</h4>
+<h4 id="changed-5">Changed</h4>
 
-<h6 id="hugo-templates-related-changes-9">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-10">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Merged the Heading Titles <em>Game</em> and <em>Combat</em> into one — <em>Game &amp; Combat</em> — in all published Articles</p></li>
@@ -1543,7 +1702,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Updated Changelog Page</p></li>
 </ul>
 
-<h6 id="css-related-changes-10">CSS-related changes</h6>
+<h6 id="css-related-changes-11">CSS-related changes</h6>
 
 <ul>
 <li><p>Dragged the ToC Tree more to the left as it used to be</p></li>
@@ -1553,7 +1712,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed left/right margins of Creatures&rsquo; Information Box on the mobile version, squeezing a little bit more width for them, helping long lines to not break lines</p></li>
 </ul>
 
-<h4 id="fixed-4">Fixed</h4>
+<h4 id="fixed-5">Fixed</h4>
 
 <ul>
 <li><p>Fixed wrong keywords about <em>Tartarek</em> in the last three episodes of Season #02, pointing them to the <em>Psi-Overloader</em> variant</p></li>
@@ -1561,7 +1720,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Fixed an issue that would yield runtime errors when trying to read GIT informations from new files</p></li>
 </ul>
 
-<h6 id="image-related-changes-3">Image-related changes</h6>
+<h6 id="image-related-changes-4">Image-related changes</h6>
 
 <ul>
 <li><p>Added Big Pictures for the new Content Files added (see below), except <em>Indigo Sash</em> and <em>Fal&rsquo;makin</em></p></li>
@@ -1571,7 +1730,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Updated Big Pictures of <em>Pyroblaster</em> and <em>Tartarek</em> for versions with better quality</p></li>
 </ul>
 
-<h4 id="miscellaneous-changes-4">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-5">Miscellaneous changes</h4>
 
 <ul>
 <li>Updated minified CSS</li>
@@ -1579,11 +1738,11 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 
 <h3 id="rev-cc4406c">rev. cc4406c</h3>
 
-<p><small>Commited in 02/07/2018 at 10:30:00</small></p>
+<p><small>Committed in 02/07/2018 at 10:30:00</small></p>
 
-<h4 id="added-5">Added</h4>
+<h4 id="added-6">Added</h4>
 
-<h6 id="structure-related-changes-13">Structure-related changes</h6>
+<h6 id="structure-related-changes-16">Structure-related changes</h6>
 
 <ul>
 <li><p>Added the HTML entity <code>&amp;nbsp;</code> to all almost all empty tags preventing them to be really empty and therefore considered as removal candidates by HTML Minifiers</p></li>
@@ -1597,7 +1756,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Published Episode #15, Season #01 with Brazilian Portuguese audio</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-10">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-11">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Added/Adjusted several of the Bootstrap Grid Classes in all Template Files to provide maximum responsiveness in different devices and/or viewport resolutions</p></li>
@@ -1607,7 +1766,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Added a <code>&lt;wrapper&gt;</code> element to encapsulates the whole content of the site&rsquo;s pages, as part of the fix for the footer covering part of the main content. The technique was borrowed from <a href="https://www.codeply.com/go/tGamlWscIB">this Codeply</a> and, although it works, the presence of the <code>&lt;wrapper&gt;</code> tag in there makes it semantically invalid</p></li>
 </ul>
 
-<h6 id="published-content-related-changes-4">Published Content related changes</h6>
+<h6 id="published-content-related-changes-7">Published Content related changes</h6>
 
 <ul>
 <li><p>Added appreciation to the VERO Team in the <em>Disclaimer</em> Page</p></li>
@@ -1615,7 +1774,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Added this page with information for geeks (:p) with all version changes</p></li>
 </ul>
 
-<h6 id="css-related-changes-11">CSS-related changes</h6>
+<h6 id="css-related-changes-12">CSS-related changes</h6>
 
 <ul>
 <li><p>Added Github and Hugo icons, previously added to the UI&rsquo;s SVG file, to the new footer</p></li>
@@ -1623,9 +1782,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Added more <em>Media Queries</em> to side the better responsiveness created with the Bootstrap&rsquo;s Grid classes changes/additions</p></li>
 </ul>
 
-<h4 id="removed-5">Removed</h4>
+<h4 id="removed-6">Removed</h4>
 
-<h6 id="structure-related-changes-14">Structure-related changes</h6>
+<h6 id="structure-related-changes-17">Structure-related changes</h6>
 
 <ul>
 <li><p>Removed the i18n entry for the Patron social link. Not only because it&rsquo;s long hidden but also because the new social links markup (see below) doesn&rsquo;t use any text</p></li>
@@ -1633,7 +1792,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed some files/folders wrongly added in previous <em>commits</em> by removing them from GIT Cache</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-11">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-12">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Removed zoom-level restrictions</p></li>
@@ -1643,7 +1802,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed unnecessary indentation levels of all Partial Templates, after all, they&rsquo;ll be <em>used</em> in a composite format but edited individually</p></li>
 </ul>
 
-<h6 id="css-related-changes-12">CSS-related changes</h6>
+<h6 id="css-related-changes-13">CSS-related changes</h6>
 
 <ul>
 <li><p>Removed the top-margin used on Flag Icons because the new Navigation Bar has better alignment thanks to the Flexbox used</p></li>
@@ -1651,15 +1810,15 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>With all new features and changes, A LOT of rules aren&rsquo;t needed anymore and around 300 lines have been removed</p></li>
 </ul>
 
-<h4 id="changed-5">Changed</h4>
+<h4 id="changed-6">Changed</h4>
 
-<h6 id="structure-related-changes-15">Structure-related changes</h6>
+<h6 id="structure-related-changes-18">Structure-related changes</h6>
 
 <ul>
 <li>Changed some of the unnecessarily Absolute URL to Relative ones</li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-12">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-13">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Moved the Schema.org Structured Data for <strong>Organization</strong> to the top, in a more hierarchical way</p></li>
@@ -1693,7 +1852,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Applied grammar corrections to the English version of Disclaimer and Terms Pages</p></li>
 </ul>
 
-<h6 id="css-related-changes-13">CSS-related changes</h6>
+<h6 id="css-related-changes-14">CSS-related changes</h6>
 
 <ul>
 <li><p>The new Navigation Menu rendered the <em>Flyout Content</em> — the box that opens on hover — of Languages Menu too small, so top and bottom padding has been added to them</p></li>
@@ -1709,21 +1868,21 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Reordered some classes in a more pseudo-hierarchical format</p></li>
 </ul>
 
-<h4 id="fixed-5">Fixed</h4>
+<h4 id="fixed-6">Fixed</h4>
 
-<h6 id="structure-related-changes-16">Structure-related changes</h6>
+<h6 id="structure-related-changes-19">Structure-related changes</h6>
 
 <ul>
 <li>Fixed an issue with Cards Search that was preventing it to work online, specifically because of HTML Minifiers removing empty elements that would receive content dynamically</li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-13">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-14">Hugo Templates-related changes</h6>
 
 <ul>
 <li>Fixed a long term mobile issue in which the site footer was covering the bottom part of the content</li>
 </ul>
 
-<h4 id="miscellaneous-changes-5">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-6">Miscellaneous changes</h4>
 
 <ul>
 <li><p>Updated the UI&rsquo;s SVG icons file, reordering some definitions in a more meaningful order</p></li>
@@ -1739,9 +1898,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 
 <p><small>Committed in 06/27/2018 at 18:05:58</small></p>
 
-<h4 id="added-6">Added</h4>
+<h4 id="added-7">Added</h4>
 
-<h6 id="structure-related-changes-17">Structure-related changes</h6>
+<h6 id="structure-related-changes-20">Structure-related changes</h6>
 
 <ul>
 <li><p>Added missing FrontMatter Parameters to describe pictures&rsquo; <em>height</em> and <em>width</em> of most Content Files</p></li>
@@ -1781,7 +1940,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Added missing keywords to: Episode #03, Season #01; Episode #27, Season #02</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-14">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-15">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Implemented the renaming of FrontMatter Parameter <em>section</em> (or <em>type</em>, in case of Articles&rsquo; Pages), <em>picture</em> and <em>languages</em></p></li>
@@ -1912,9 +2071,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 </ul></li>
 </ul>
 
-<h4 id="removed-6">Removed</h4>
+<h4 id="removed-7">Removed</h4>
 
-<h6 id="structure-related-changes-18">Structure-related changes</h6>
+<h6 id="structure-related-changes-21">Structure-related changes</h6>
 
 <ul>
 <li><p>Removed the FrontMatter Parameter <em>card</em> and <em>subtext</em>, as they&rsquo;re now handled by the <em>picture</em> Parameter and the &ldquo;Quote&rdquo; Shortcode, respectively</p></li>
@@ -1934,7 +2093,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed all Vimeo mirrors of all Episodes dubbed in Brazilian Portuguese</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-15">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-16">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>With the changes made to the <em>Flavour Texts</em> in the form of Quotes (see below), the &ldquo;Quote&rdquo; Partial Template became obsolete and, therefore, has been removed</p></li>
@@ -1944,9 +2103,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Removed the Runtime Scripts feature from Footer Partial because while it could look interesting and organized, in fact, hard to maintain and, possibly, a security breach</p></li>
 </ul>
 
-<h4 id="changed-6">Changed</h4>
+<h4 id="changed-7">Changed</h4>
 
-<h6 id="structure-related-changes-19">Structure-related changes</h6>
+<h6 id="structure-related-changes-22">Structure-related changes</h6>
 
 <ul>
 <li><p>Changed the FrontMatter Parameter <em>thumbnail</em> to <em>picture</em>, after all, it handles the Big Picture more than the Articles&rsquo; Thumbnails from Listing Pages</p></li>
@@ -1965,7 +2124,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 
 <li><p>With the removal of the &ldquo;Abilities&rdquo; heading title mentioned above, all Cards&rsquo; variations are now one level deeper in the ToC Tree hierarchy, falling under &ldquo;Game&rdquo;</p></li>
 
-<li><p>Renamed Content File of <strong>Dranakis Threshold</strong> to match the naming convention of all the others. By all means this represents a file removal and addition</p></li>
+<li><p>Renamed Content File of <strong>Dranakis Threshold</strong> to match the naming convention of all the others. By all means, this represents a file removal and the inclusion of a new one</p></li>
 </ul>
 
 <h6 id="public-content-related-changes-14">Public Content-related changes</h6>
@@ -1988,16 +2147,16 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Changed the <em>Date Published</em> of all Episodes dubbed in Brazilian Portuguese</p></li>
 </ul>
 
-<h6 id="hugo-templates-related-changes-16">Hugo Templates-related changes</h6>
+<h6 id="hugo-templates-related-changes-17">Hugo Templates-related changes</h6>
 
 <ul>
 <li><p>Adjusted several of Bootstrap&rsquo;s Grid System Classes and added some more CSS Media Queries to improve the readability and content disposition on mobile devices</p></li>
 
-<li><p>Moved the Google AdSense <code>&lt;script&gt;</code> tag from the <em>Header</em> Partial Template to one of his own under the <code>/google</code> subdirectory, along with the renamed <code>google.html</code> to <code>analytics.html</code>, which by all means represent a file removal and inclusion</p></li>
+<li><p>Moved the Google AdSense <code>&lt;script&gt;</code> tag from the <em>Header</em> Partial Template to one of his own under the <code>/google</code> subdirectory, along with the renamed <code>google.html</code> to <code>analytics.html</code>, which, by all means, this represents a file removal and the inclusion of a new one</p></li>
 
-<li><p>Moved the Facebook SDK and Comments Plugins Partial Templates from the <code>/social</code> subdirectory to the root of Partial Templates named as <code>facebook</code>, following the new naming convention used with the Google Family, which, by all means, represent a file removal and inclusion</p></li>
+<li><p>Moved the Facebook SDK and Comments Plugins Partial Templates from the <code>/social</code> subdirectory to the root of Partial Templates named as <code>facebook</code>, following the new naming convention used with the Google Family, which, by all means, this represents a file removal and the inclusion of a new one</p></li>
 
-<li><p>Moved the Social Links Partial Template out of the <code>/social</code> subdirectory to the root of Partial Templates and renaming it to <code>social.html</code>, which by all means represent a file removal and inclusion</p></li>
+<li><p>Moved the Social Links Partial Template out of the <code>/social</code> subdirectory to the root of Partial Templates and renaming it to <code>social.html</code>, which, by all means, this represents a file removal and the inclusion of a new one</p></li>
 
 <li><p>Divided one long and hard to read condition for Sidebar Advertisement into two nested conditions</p></li>
 
@@ -2020,9 +2179,9 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Indented pretty much all the Templates used for Episodes/Trivia Single Page</p></li>
 </ul>
 
-<h4 id="fixed-6">Fixed</h4>
+<h4 id="fixed-7">Fixed</h4>
 
-<h6 id="structure-related-changes-20">Structure-related changes</h6>
+<h6 id="structure-related-changes-23">Structure-related changes</h6>
 
 <ul>
 <li><p>Fixed several malformed quotes in some FrontMatter Parameters, notably in the <em>url</em> Parameter that even though Hugo&rsquo;s was handling it by itself, filtering them out, it was causing some troubles with other Parameters</p></li>
@@ -2042,7 +2201,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Fixed a wrong spelled keyword in Episode #28, Season #01</p></li>
 </ul>
 
-<h4 id="image-related-changes-4">Image-related changes</h4>
+<h4 id="image-related-changes-5">Image-related changes</h4>
 
 <h6 id="pictures-added-replaced">Pictures added/replaced</h6>
 
@@ -2141,7 +2300,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 <li><p>Updated the UI&rsquo;s SVG icons file to add the missing <code>viewBox</code> attribute to Facebook&rsquo;s definition and to include definitions for a Github and HUGO icons</p></li>
 </ul>
 
-<h4 id="miscellaneous-changes-6">Miscellaneous changes</h4>
+<h4 id="miscellaneous-changes-7">Miscellaneous changes</h4>
 
 <ul>
 <li><p>Massive changes to CSS master file regarding: GDPR, &ldquo;Quote&rdquo; Shortcode, Images&rsquo; Credits, adjustments to elements margins, palliative solutions for Hugo&rsquo;s misbehaviours and doc-comments (a lot of &lsquo;em)</p></li>
@@ -2286,12 +2445,6 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
       <script src="/assets/js/chaotic.js"></script>
 
       
-      <script type="text/javascript">
-        !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/72849/chaoticonline.ml/0/0/",s.parentNode.insertBefore(t,s)}();
-      </script>
-      
-
-      
 
       
 
@@ -2299,7 +2452,7 @@ However, since not all Voice Actors work with Animes, IMDB and Wikipedia remains
 
       
         <script>
-          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var i=wLeft+window.innerWidth/2-n/2,a=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+a+", left="+i)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){a();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",i(e))}function i(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function a(){Cookies.get("GDPRv2")?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",i(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPRv2","1",{expires:365}),a()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPRv2","0",{expires:365}),a()})});
+          function popup(e,o,n,t){wLeft=window.screenLeft?window.screenLeft:window.screenX,wTop=window.screenTop?window.screenTop:window.screenY;var i=wLeft+window.innerWidth/2-n/2,a=wTop+window.innerHeight/2-t/2;return window.open(e,o,"toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width="+n+", height="+t+", top="+a+", left="+i)}!function(){"use strict";if(navigator.userAgent.match(/IEMobile\/10\.0/)){var e=document.createElement("style");e.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}")),document.head.appendChild(e)}}(),$(document).ready(function(){a();var e=window.location.hash;e&&$('ul.nav-pills a[href="'+e+'"]').tab("show");var o=$("#server-selection"),n=$(".loading-icon");if(e){o.hide(),n.removeClass("hidden");var t=$(e).find(".player");$("<iframe/>",{src:t.parent().attr("data-url")}).attr({allow:"encrypted-media",allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(t),t.find("iframe").on("load iframeready",i(e))}function i(e){$(e).tab("show"),o.hide(),window.location.hash=e.hash||e,$("html, body").scrollTop(0)}function a(){Cookies.get("GDPR")?$("footer.gdpr").addClass("hidden"):$("footer.gdpr").removeClass("hidden")}$(".nav-pills a").on("click",function(e){$(".loading-icon").removeClass("hidden");var o=$(this.hash).find(".player");0==o.find("iframe").length&&$("<iframe/>",{src:o.parent().attr("data-url")}).attr({allowfullscreen:"",mozallowfullscreen:"",webkitAllowFullScreen:"",scrolling:"no"}).appendTo(o),o.find("iframe").on("load iframeready",i(this))}),$("#social a[data-href]").on("click",function(e){var o=$(this);e.preventDefault(),popup(o.attr("data-href"),o.data("title")||"",o.data("width")||500,o.data("height")||300)}),$("footer.gdpr .accepted").on("click",function(){Cookies.set("GDPR","1",{expires:365}),a()}),$("footer.gdpr .declined").on("click",function(){Cookies.set("GDPR","0",{expires:365}),a()})});
       </script>
       
 

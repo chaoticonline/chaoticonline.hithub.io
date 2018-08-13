@@ -45,8 +45,8 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/bluggon/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/bluggon/" />
+        <loc>https://www.chaoticonline.ml/pt/blugon/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/blugon/" />
     </url>
 
     <url>
@@ -250,6 +250,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/cerbie/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/cerbie/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/chaor/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/chaor/" />
     </url>
@@ -257,6 +262,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/pt/dardemus/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dardemus/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/drakness/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/drakness/" />
     </url>
 
     <url>

@@ -2030,7 +2030,8 @@ footer.gdpr a {
      * We're pulling it closer by removing Bootstrap's `top` value
      */
     .page.videos .cast .actor sup {
-        top: 0;
+        left: 5px;
+        top: 5px;
     }
 
     /**
@@ -2840,7 +2841,7 @@ span.expr {
  *
  * Prevents wrongly generated empty paragraph to mess with CSS definitions
  */
-p:empty {
+p:empty, p:blank {
     background-color: transparent;
     height: 1px;
     margin-bottom: 0 !important;
@@ -3070,7 +3071,7 @@ p:empty {
          * parsing the Markdown, even though, most of the times, such elements
          * will be removed by html-minifier
          */
-        .row + .quote, .row + p:empty + .quote {
+        .row + .quote, .row + p:empty + .quote, p:blank + .quote {
             margin-top: 0.75rem !important;
         }
 
