@@ -15,6 +15,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/adaga-do-bodal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/bodals-dagger/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/cyclance/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/cyclance/" />
     </url>
@@ -80,6 +85,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/orchis-undin/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/orchis-undin/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/anel-de-naarin/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ring-of-naarin/" />
     </url>
@@ -87,6 +97,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/estrela-da-regiao-dos-rios/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/riverland-star/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mortalha-da-tempestade-de-areia/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/sandstorm-shroud/" />
     </url>
 
     <url>

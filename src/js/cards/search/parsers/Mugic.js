@@ -21,13 +21,20 @@ class Mugic extends Core {
         this.url      = options.url;
 
         this.results  = $( '#results' );
-        this.template = $( '#templates .mugics' );
+    }
+
+    /**
+     * Clones the Template markup into the final node, preparing the structure
+     * for all parsed results
+     */
+    build() {
+        $( '#templates .mugics' ).clone().insertAfter( this.results.find( 'h4' ) );
     }
 
     /**
      * Parses received data filling the appropriate Template Fields
      */
-    build() {
+    parse() {
 
         let name   = this.data.find( 'h3' ).first().text().trim();
 
@@ -46,10 +53,6 @@ class Mugic extends Core {
          * like the other text extractions, doesn't work
          */
         let tribe     = this.data.find( '#tribe' ).text().trim();
-
-        if( this.results.find( 'table' ).length == 0 ) {
-            this.template.clone().insertAfter( this.results.find( 'h4' ) );
-        }
 
         $( '<tr/>' ).append(
             $( '<td/>', { 'class': 'name' }).html(

@@ -55,6 +55,12 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/bodal-flamedrill-researcher/</loc>
+        <xhtml:link rel="alternate" hreflang="pt"
+            href="https://www.chaoticonline.ml/bodal-pesquisador-da-broca-flamejante/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/crawsectus/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/crawsectus/" />
     </url>
@@ -132,6 +138,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/najarin/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/najarin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/olkiex/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/olkiex/" />
     </url>
 
     <url>
@@ -362,6 +373,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/takinom/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/takinom/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/takinom-the-shadowknight/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/takinom-amazona-das-sombras/" />
     </url>
 
     <url>

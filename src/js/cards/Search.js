@@ -123,8 +123,8 @@ class Search extends Core {
          * hold 'UnderWorld' resulting in no Cards because Attacks aren't
          * Tribe-specific"
          */
-        if( this.type != 'any' || this.rarity != 'any' ) {
-            this.tribe.val( 'any' );
+        if( this.type != 'All' || this.rarity != 'All' ) {
+            this.tribe.val( 'All' );
         }
 
         switch( option.val() ) {
@@ -135,7 +135,7 @@ class Search extends Core {
              * When selecting the default option, keeps "Generic" hidden and
              * shows "Tribeless", after all, there's more Creatures than Mugics
              */
-            case 'any':
+            case 'All':
                 creatures.removeClass( 'hidden' );
                 mugics.addClass( 'hidden' );
             break;
@@ -218,8 +218,8 @@ class Search extends Core {
             /**
              * @internal
              *
-             * Before anything else, we must reset the UI and the script flow
-             * must wait until that
+             * Before anything else, we must reset the UI and show
+             * the Loading Icon. And the script flow must wait until that
              *
              * @param  Deferred deferred
              *  Deferred Object
@@ -229,23 +229,6 @@ class Search extends Core {
             ( deferred ) => {
 
                 this.reset();
-
-                deferred.resolve();
-            },
-
-            /**
-             * @internal
-             *
-             * Even though the Loading Icon images are pre-loaded in the DOM,
-             * it's nice to have the script to flow to make a micro-pause to
-             * show it
-             *
-             * @param  Deferred deferred
-             *  Deferred Object
-             *
-             * @see http://api.jquery.com/category/deferred-object
-             */
-            ( deferred ) => {
 
                 this.loading.removeClass( 'hidden' );
 
@@ -288,14 +271,11 @@ class Search extends Core {
                         deferred.reject();
                     }
 
-                    // Filtering...
+                    // Filtering accordingly to chosen Criteria
 
                     let filter = new Filter({ 'data': nodes });
-                        filter.filter().intersect().build();
 
-                    // Gathering Informations
-
-                    let entries  = $( '#swap li a' );
+                    let data = filter.getFilteredData();
 
                     /**
                      * @internal
@@ -304,23 +284,19 @@ class Search extends Core {
                      * The deferred Chain is rejected and the script flow goes
                      * to $.whenSync().fail()
                      */
-                    if( entries.length == 0 ) {
+                    if( data.length == 0 ) {
 
                         this.messages.find( 'p.nothing' ).removeClass( 'hidden' );
 
                         deferred.reject();
                     }
 
-                    /**
-                     * @internal
-                     *
-                     * Choosing an HTML Parser base on Card Type dropdown.
-                     * If no Card Type is selected, the default, more generic
-                     * Parser will be used instead
-                     */
-                    let parser = new All;
+                    // Choosing an HTML Parser base on Card Type dropdown.
+
+                    let parser;
 
                     switch( this.type ) {
+                        case 'All':         parser = new All;        break;
                         case 'Attacks':     parser = new Attack;     break;
                         case 'Battlegears': parser = new Battlegear; break;
                         case 'Creatures':   parser = new Creature;   break;
@@ -328,30 +304,23 @@ class Search extends Core {
                         case 'Mugics':      parser = new Mugic;      break;
                     }
 
-                    /**
-                     * @internal
-                     *
-                     * This shouldn't be needed because there are
-                     * NO duplicates in #swap >:(
-                     */
-                    let map = {};
+                    // Building results destination structure
 
-                    $.each( entries, ( offset, current ) => {
+                    parser.build();
 
-                        let url = $( current ).attr( 'href' );
+                    // Gathering Informations and parsing data
 
-                        if( ! map[ url ] ) {
+                    $.each( data, ( offset, current ) => {
 
-                            this.load( url ).done( ( response ) => {
+                        let url = $( current ).find( 'a' ).attr( 'href' );
 
-                                parser.setOptions({
-                                    'data': $( jQuery.parseHTML( response ) ),
-                                    'url': url
-                                }, true ).build();
-                            });
+                        this.load( url ).done( ( response ) => {
 
-                            map[ url ] = true;
-                        }
+                            parser.setOptions({
+                                'data': $( jQuery.parseHTML( response ) ),
+                                'url': url
+                            }, true ).parse();
+                        });
                     });
 
                     deferred.resolve();
@@ -383,7 +352,7 @@ class Search extends Core {
              */
             ( deferred ) => {
 
-                this.results.find( 'table' ).footable();
+                let results = this.results.find( 'table' ).footable();
 
                 /**
                  * @internal
@@ -391,7 +360,7 @@ class Search extends Core {
                  * Preventing an accidental redirection when clicking on the
                  * Card Name cell with the link to its Article on mobile
                  */
-                this.results.find( 'table' ).on( 'click', '.name a', ( event ) => {
+                results.on( 'click', '.name a', ( event ) => {
                     if( this.isMobile() ) event.preventDefault();
                 });
 
@@ -401,7 +370,7 @@ class Search extends Core {
                  * Resolving the Deferred Chain only after everything has been
                  * done, nodes addition and widgets initialization
                  */
-                this.results.find( 'table' ).on( 'ready.ft.table', function( e, instance, rows ) {
+                results.on( 'ready.ft.table', ( e, instance ) => {
                     deferred.resolve();
                 })
             },
@@ -434,11 +403,9 @@ class Search extends Core {
          */
         ).done( () => {
 
-            this.results.addClass( 'hidden' );
+            this.results.addClass( 'hidden' ).removeClass( 'hidden' );
             this.messages.addClass( 'hidden' );
             this.loading.addClass( 'hidden' );
-
-            this.results.removeClass( 'hidden' );
 
             $( '#pagination' ).removeClass( 'hidden' );
 
@@ -462,6 +429,7 @@ class Search extends Core {
     reset() {
 
         this.results.addClass( 'hidden' ).children().not( 'h4, #pagination' ).remove();
+
         this.messages.addClass( 'hidden' );
         this.loading.addClass( 'hidden' );
 

@@ -21,13 +21,20 @@ class All extends Core {
         this.url      = options.url;
 
         this.results  = $( '#results' );
-        this.template = $( '#templates .all' );
+    }
+
+    /**
+     * Clones the Template markup into the final node, preparing the structure
+     * for all parsed results
+     */
+    build() {
+        $( '#templates .all' ).clone().insertAfter( this.results.find( 'h4' ) );
     }
 
     /**
      * Parses received data filling the appropriate Template Fields
      */
-    build() {
+    parse() {
 
         let name      = this.data.find( 'h3' ).first().text().trim();
         let type      = this.data.find( 'h2' ).first().text().trim();
@@ -39,10 +46,6 @@ class All extends Core {
          * from the first one only
          */
         let rarity    = this.data.find( '.rarity' ).first().text().trim();
-
-        if( this.results.find( 'table' ).length == 0 ) {
-            this.template.clone().insertAfter( this.results.find( 'h4' ) );
-        }
 
         $( '<tr/>' ).append(
             $( '<td/>', { 'class': 'name' }).html(

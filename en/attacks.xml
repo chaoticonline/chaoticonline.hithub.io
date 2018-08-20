@@ -25,6 +25,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/lucky-shot/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/golpe-de-sorte/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/megaroar/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/mega-rugido/" />
     </url>
@@ -35,6 +40,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/plasmarrow/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/flechas-de-plasma/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/supercooled-rain/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/tempestade-supercongelante/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/thunder-shout/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/grito-de-trovao/" />
     </url>
@@ -42,6 +57,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/turbulence-funnel/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/funil-de-turbulencia/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/viperlash/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/chicote-de-viboras/" />
     </url>
 
     <url>

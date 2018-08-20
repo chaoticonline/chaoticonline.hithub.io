@@ -85,6 +85,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/gloomuck-swamp/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pantano-gloomuck/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/gothos-tower/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/torre-gothos/" />
     </url>
@@ -102,6 +107,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/kiru-city/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cidade-kiru/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/kiru-city-tunnels/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/tuneis-da-cidade-kiru/" />
     </url>
 
     <url>
@@ -127,6 +137,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/mount-pillar/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar-reservoir/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/" />
     </url>
 
     <url>

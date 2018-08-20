@@ -21,13 +21,20 @@ class Location extends Core {
         this.url      = options.url;
 
         this.results  = $( '#results' );
-        this.template = $( '#templates .locations' );
+    }
+
+    /**
+     * Clones the Template markup into the final node, preparing the structure
+     * for all parsed results
+     */
+    build() {
+        $( '#templates .locations' ).clone().insertAfter( this.results.find( 'h4' ) );
     }
 
     /**
      * Parses received data filling the appropriate Template Fields
      */
-    build() {
+    parse() {
 
         let name          = this.data.find( 'h3' ).first().text().trim();
 
@@ -40,10 +47,6 @@ class Location extends Core {
         let region     = this.data.find( '.region' ).first().text().trim();
         let rarity     = this.data.find( '.rarity' ).first().text().trim();
         let initiative = this.data.find( '.initiative' ).first().text().trim();
-
-        if( this.results.find( 'table' ).length == 0 ) {
-            this.template.clone().insertAfter( this.results.find( 'h4' ) );
-        }
 
         $( '<tr/>' ).append(
             $( '<td/>', { 'class': 'name' }).html(

@@ -71,10 +71,19 @@
 <meta property="og:url" content="https://www.chaoticonline.ml/cards/" />
 <meta property="og:locale" content="en_US">
 
+
+
+  
+
+    
+
 <meta property="og:image" content="https://www.chaoticonline.ml/assets/images/card-search.jpg" />
 <meta property="og:image:url" content="https://www.chaoticonline.ml/assets/images/card-search.jpg" />
-<meta property="og:image:height" content="768" />
-<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:width" content="600" />
+
+  
+
 
 
     
@@ -117,7 +126,7 @@
 
     
 
-    <title>Card Search |  Chaotic Online</title>
+    <title>Card Search | Chaotic Online</title>
 
     <link rel="canonical" href="https://www.chaoticonline.ml/cards/" />
 
@@ -145,11 +154,14 @@
         "https://www.facebook.com/ChaoticOnline",
         "https://www.twitter.com/ChaoticOnline"
       ],
+
+      
+
       "logo": {
         "@type": "ImageObject",
         "url": "https://www.chaoticonline.ml/assets/images/logo.png",
-        "width": "314",
         "height": "278"
+        "width": "314",
       }
     }
     </script>
@@ -636,7 +648,7 @@
             <div class="col-md-12">
               <!-- WATCH OUT! The case must match the i18n entries -->
               <select id="types" name="types" class="form-control form-control-lg custom-select">
-                <option value="any">All Types</option>
+                <option value="All">All Types</option>
                 <option value="Attacks">Attacks</option>
                 <option value="Battlegears">Battlegears</option>
                 <option value="Creatures">Creatures</option>
@@ -655,7 +667,7 @@
             <div class="col-md-12">
               <!-- WATCH OUT! The case must match the i18n entries -->
               <select id="tribes" name="tribes" class="form-control form-control-lg custom-select">
-                <option value="any">Any Tribe</option>
+                <option value="All">All Tribes</option>
                 <option value="OverWorld">OverWorld</option>
                 <option value="UnderWorld">UnderWorld</option>
                 <option value="Mipedians">Mipedians</option>
@@ -675,7 +687,7 @@
             </div>
             <div class="col-md-12">
               <select id="rarities" name="rarities" class="form-control form-control-lg custom-select">
-                <option value="any">Any Rarity</option>
+                <option value="All">All Rarities</option>
                 <!-- WATCH OUT! The case must match the i18n entries -->
                 <option value="Common">Common</option>
                 <option value="Uncommon">Uncommon</option>
@@ -745,7 +757,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="type">Type</th>
               <th class="rarity" data-breakpoints="xs sm">Rarity</th>
               <th data-breakpoints="all" class="link hidden-sm-up">&nbsp;</th>
@@ -758,7 +770,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="rarity">Rarity</th>
               <th data-breakpoints="all" class="link hidden-sm-up">&nbsp;</th>
           </tr>
@@ -770,7 +782,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="rarity">Rarity</th>
               <th class="region" data-breakpoints="xs sm">Region</th>
               <th class="initiative" data-breakpoints="xs sm">Initiative</th>
@@ -784,7 +796,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="rarity" data-breakpoints="xs sm">Rarity</th>
               <th class="tribe">Tribe</th>
               <th data-breakpoints="all" class="link hidden-sm-up">&nbsp;</th>
@@ -797,7 +809,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="rarity">Rarity</th>
               <th data-breakpoints="all" class="link hidden-sm-up">&nbsp;</th>
           </tr>
@@ -809,7 +821,7 @@
     data-sorting="true" data-more-text="Read more">
       <thead>
           <tr>
-              <th class="name">Name</th>
+              <th data-sorted="true" class="name">Name</th>
               <th class="rarity" data-breakpoints="xs sm">Rarity</th>
               <th class="tribe">Tribe</th>
               <th class="energy" data-breakpoints="all">Energy</th>
@@ -855,8 +867,6 @@
       <tbody>&nbsp;</tbody>
   </table>
 </div>
-
-<ul id="swap" class="hidden">&nbsp;</ul>
 
 <div id="caching" class="hidden">
   <img src="/assets/images/ui/sprites.png" alt="Sprites" />
