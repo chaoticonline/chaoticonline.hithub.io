@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/perim/attacks/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -127,7 +127,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/perim/battlegears/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -249,7 +249,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/perim/creatures/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -396,7 +396,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/perim/locations/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -461,7 +461,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/perim/mugics/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -513,6 +513,17 @@
       
       <guid>https://www.chaoticonline.ml/ulmar/</guid>
       <description>&lt;p&gt;Ulmar is an UnderWorld &lt;strong&gt;Conqueror&lt;/strong&gt; and the mad scientist of his Tribe&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bodal</title>
+      <link>https://www.chaoticonline.ml/bodal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/bodal/</guid>
+      <description>&lt;p&gt;Bodal is an OverWorld &lt;strong&gt;Caretaker&lt;/strong&gt; and the head Logistics Manager of his Tribe&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -1219,8 +1230,7 @@ And that, well, karma is a bitch ¯\_(ツ)_/¯</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/agitos/</guid>
-      <description> Under Construction
-Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   65 40 85 35  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography  Preferred Locations    Preferred Battlegear    Enemies         </description>
+      <description> Uncommon Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   65 40 85 35  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography       </description>
     </item>
     
     <item>
@@ -1323,17 +1333,6 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     </item>
     
     <item>
-      <title>Bodal</title>
-      <link>https://www.chaoticonline.ml/bodal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chaoticonline.ml/bodal/</guid>
-      <description>&lt;p&gt;Bodal is an OverWorld &lt;strong&gt;Caretaker&lt;/strong&gt; and the head Logistics Manager of his Tribe&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Bodal&#39;s Arsenal</title>
       <link>https://www.chaoticonline.ml/bodals-arsenal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1353,11 +1352,11 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     
     <item>
       <title>Bodal, Flamedrill Researcher</title>
-      <link>https://www.chaoticonline.ml/bodal-flamedrill-researcher/</link>
+      <link>https://www.chaoticonline.ml/bodal/flamedrill-researcher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/bodal-flamedrill-researcher/</guid>
-      <description>Archive     Rarity  Energy  Mugicians   Super Rare  30  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   50 20 80 30  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography  Gender  MaleHeight  5&amp;#39;2&amp;#34;Weight  125 lbs.Eyes  Dark Rose  Skin  Mountain Meadow Green       In the Animation, during the events of Raznus Returns, right before Raznus and Odu-Bathax accidentally burst into the OverWorld Arsenal with a small army of Mandiblors on their survivability mission to find a new homeland for the Danians — since the M&amp;rsquo;arrillians had poisoned the waters of the Mount Pillar Reservoir — Bodal and his assistant Olkiex were working in an enormous Battlegear capable of breaking the molecular bonds of any solid compound.</description>
+      <guid>https://www.chaoticonline.ml/bodal/flamedrill-researcher/</guid>
+      <description>Rarity  Energy  Mugicians   Super Rare  30  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   50 20 80 30  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography  Gender  MaleHeight  5&amp;#39;2&amp;#34;Weight  125 lbsEyes  Dark Rose  Skin  Mountain Meadow Green       In the Animation, during the events of Raznus Returns, right before Raznus and Odu-Bathax accidentally burst into the OverWorld Arsenal with a small army of Mandiblors on their survivability mission to find a new homeland for the Danians — since the M&amp;rsquo;arrillians had poisoned the waters of the Mount Pillar Reservoir — Bodal and his assistant Olkiex were working in an enormous Battlegear capable of breaking the molecular bonds of any solid compound.</description>
     </item>
     
     <item>
@@ -1478,15 +1477,6 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/cyclance/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Danian Hall</title>
-      <link>https://www.chaoticonline.ml/danian-hall/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chaoticonline.ml/danian-hall/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -1761,6 +1751,26 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     </item>
     
     <item>
+      <title>Glacier Plains, M&#39;arrillian Heat Cannon</title>
+      <link>https://www.chaoticonline.ml/glacier-plains/marrillian-heat-cannon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/glacier-plains/marrillian-heat-cannon/</guid>
+      <description>Google Images     M’arrillian Heat Cannon  Region  OverWorld  Rarity  Super Rare  Initiative  Number of Mugicians        If the ice melts, Perim will die. We must stop it... no matter the sacrifice...
+Tangath Toborn    In the Animation, during the apex of the M&amp;rsquo;arrillian Invasion, the M&amp;rsquo;arrillians succeeds building their heat cannon and start melting the mountains on Glacier Plains.</description>
+    </item>
+    
+    <item>
+      <title>Glacier Plains, M’arrillian Melting Camp</title>
+      <link>https://www.chaoticonline.ml/glacier-plains/marrillian-melting-camp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/glacier-plains/marrillian-melting-camp/</guid>
+      <description>Google Images     M’arrillian Melting Camp  Region  OverWorld  Rarity  Ultra Rare  Initiative  Fluidmorpher       In order to accomplish their goal of flooding all of Perim, making a big ocean out of it, the M&amp;rsquo;arrillians settled down a camp so they could build the heat cannon to melt the ice mountains.
+The Mugical aura of the Glacier Plains feels this disturbance and unless a sacrifice is paid, in the form of Mugicians, the trespassers will be severally penalized by having all of their Attributes cut-off by 50 points each.</description>
+    </item>
+    
+    <item>
       <title>Gloomuck Swamp</title>
       <link>https://www.chaoticonline.ml/gloomuck-swamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1775,15 +1785,6 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/gothos-tower/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Growlitzer</title>
-      <link>https://www.chaoticonline.ml/growlitzer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chaoticonline.ml/growlitzer/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -2010,6 +2011,26 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
       
       <guid>https://www.chaoticonline.ml/laarina/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lake Ken-I-Po, Ritual Site</title>
+      <link>https://www.chaoticonline.ml/lake-ken-i-po/ritual-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/lake-ken-i-po/ritual-site/</guid>
+      <description>Google Images     Lake Ken-I-Po, Ritual Site  Region  OverWorld  Rarity  Rare  Initiative  Number of Elements        As the towers emerged, all wondered what more lay below the surface
+  The Ascension of Kaizeph is more than just the emergence of the City of Elements to the skies of Perim, it&amp;rsquo;s a ritual occurring in Lake Ken-I-Po.</description>
+    </item>
+    
+    <item>
+      <title>Lava Pond, Milla&#39;iin&#39;s Foothold</title>
+      <link>https://www.chaoticonline.ml/lava-pond/millaiins-foothold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/lava-pond/millaiins-foothold/</guid>
+      <description>Google Images     Lava Pond
+Milla&#39;iin&#39;s Foothold  Region  UnderWorld  Rarity  Rare  Initiative  Power       In the Animation, during the M&amp;rsquo;arrillian Invasion, in order to maximize the flooding caused by the melting of the frozen mountains of the Glacier Plains, Perim had to be partially reshaped. Milla&amp;rsquo;iin, a M&amp;rsquo;arrillian Chieftain, established a foothold in the Lava Pond commanding Khybon, the first of the Creatures Phelphor successfully brainwashed, to build enormous pipes on the East walls of the Lava Pond in order to inundate everything with the waters of Everrain.</description>
     </item>
     
     <item>
@@ -2439,6 +2460,26 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     </item>
     
     <item>
+      <title>Riverlands, Abandoned Wastes</title>
+      <link>https://www.chaoticonline.ml/riverlands/abandoned-wastes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/riverlands/abandoned-wastes/</guid>
+      <description>Google Images     Riverlands
+Abandoned Wastes  Region  OverWorld  Rarity  Common  Initiative  Fewest Elements       After the defeat of Aa&amp;rsquo;une, the remaining M&amp;rsquo;arrillians fled to the Doors of the Deepmines leaving all damage caused behind. The Riverlands became an ugly and desolated place&amp;hellip; But in a collective effort, as seen during the events of Elementary, Rellim, the Riverlands&amp;rsquo; Caretaker, Hune Canin, Najarin, Garv, Caretaker of Lake Morn and the Servant of Water, Unda, in an apparent visit to the OverWorld, succeeded in destroying all of M&amp;rsquo;arrillians&amp;rsquo; dams and, the most important, purified the water so life could once again return to the region.</description>
+    </item>
+    
+    <item>
+      <title>Riverlands, Erak&#39;tabb&#39;s Foothold</title>
+      <link>https://www.chaoticonline.ml/riverlands/eraktabbs-foothold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/riverlands/eraktabbs-foothold/</guid>
+      <description>Google Images     Riverlands
+Erak&#39;tabb&#39;s Foothold  Region  OverWorld  Rarity  Rare  Initiative  Wisdom       In the Animation, during the M&amp;rsquo;arrillian Invasion, in order to maximize the flooding caused by the melting of the frozen mountains of the Glacier Plains, Perim had to be partially reshaped and to do so the M&amp;rsquo;arrillians had to build dams in strategic locations.</description>
+    </item>
+    
+    <item>
       <title>Rock River Canyon</title>
       <link>https://www.chaoticonline.ml/rock-river-canyon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2719,11 +2760,11 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     
     <item>
       <title>Takinom, the Shadowknight</title>
-      <link>https://www.chaoticonline.ml/takinom-the-shadowknight/</link>
+      <link>https://www.chaoticonline.ml/takinom/the-shadowknight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.chaoticonline.ml/takinom-the-shadowknight/</guid>
-      <description>warlockss&amp;#39; DeviantArt      Rarity  Energy  Mugicians   Ultra Rare  65  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   50 90 40 70  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography  Gender  FemaleHeight  8&amp;#39;10&amp;#34;Weight  268 lbs.Eyes  Reddish-orange  Hair  Dark Copper-auburn  Skin  Light Golden-yellow Dark Green (markings)  Enemies   M&amp;#39;arrillians        In the Animation, during the M&amp;rsquo;arrillian Invasion, Takinom becomes even more committed to her Tribe and, enraged with the M&amp;rsquo;arrillians&amp;rsquo; ideals, comes into play the unique Shadowknight, a much more powerful, resilient and swifter Creature, despite being slowed down by the heavy weight of the new full-body armour, with a different set skills and abilities.</description>
+      <guid>https://www.chaoticonline.ml/takinom/the-shadowknight/</guid>
+      <description>&amp;#34;warlockss&amp;#39;&amp;#34; DeviantArt      Rarity  Energy  Mugicians   Ultra Rare  65  1   &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   50 90 40 70  Elements  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;   Biography  Gender  FemaleHeight  8&amp;#39;10&amp;#34;Weight  268 lbsEyes  Reddish-orange  Hair  Dark Copper-auburn  Skin  Light Golden-yellow Dark Green (markings)  Enemies   M&amp;#39;arrillians        In the Animation, during the M&amp;rsquo;arrillian Invasion, Takinom becomes even more committed to her Tribe and, enraged with the M&amp;rsquo;arrillians&amp;rsquo; ideals, comes into play the unique Shadowknight, a much more powerful, resilient and swifter Creature, despite being slowed down by the heavy weight of the new full-body armour, with a different set skills and abilities.</description>
     </item>
     
     <item>
@@ -2900,12 +2941,31 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     </item>
     
     <item>
+      <title>Ulmar&#39;s Lab</title>
+      <link>https://www.chaoticonline.ml/ulmars-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/ulmars-lab/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Unda, Servant of Water</title>
       <link>https://www.chaoticonline.ml/unda-servant-of-water/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/unda-servant-of-water/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UnderWorld City, During Van Bloot Ascension</title>
+      <link>https://www.chaoticonline.ml/underworld-city/during-van-bloot-ascension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/underworld-city/during-van-bloot-ascension/</guid>
+      <description>Google Images     Underworld City
+During Van Bloot Ascension  Region  UnderWorld  Rarity  Uncommon  Initiative  Courage       In the Animation, during the M&amp;rsquo;arrillian Invasion, while Chaor and a small group of loyal UnderWorlders were boldly trying to take down the M&amp;rsquo;arrillians by themselves in the Marsh of Murk, during the events of UnderWorld Overthrown, Lord Van Bloot, led an army of M&amp;rsquo;arrillians to the UnderWorld City, taking control of it by force in the name of his new master, Aa&amp;rsquo;une, and, thus, ascending as the new ruler of the UnderWorld.</description>
     </item>
     
     <item>
@@ -3008,7 +3068,7 @@ Uncommon  Rarity  Energy  Mugicians   Uncommon  55  1   &amp;nbsp;  &amp;nbsp;  
     </item>
     
     <item>
-      <title>Whirling wail</title>
+      <title>Whirling Wail</title>
       <link>https://www.chaoticonline.ml/whirling-wail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

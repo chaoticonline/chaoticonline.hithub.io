@@ -1583,18 +1583,22 @@ footer.gdpr a {
     z-index: 1030;
 }
 
-    .navbar .navbar-brand a, .navbar .nav .nav-link:focus,.navbar .nav .nav-link:hover {
-        color: #888 !important;
+    .navbar-nav {
+        margin: -0.25rem 0 0 -0.25rem;
     }
 
-    .navbar-brand {
+    .navbar .navbar-brand {
         font-size: 1.3rem;
         margin: 0.5rem 1rem 0.5rem 0;
         padding: 0 !important;
+        position: relative;
+        width: 200px;
+        transform: scale(0.85)
     }
 
-        .navbar-brand a:hover {
-            color: #026cc7 !important;
+        .navbar .navbar-brand img {
+            height: 100%;
+            width: 100%;
         }
 
     .navbar-toggler {
@@ -1917,7 +1921,7 @@ footer.gdpr a {
  * A middle term between no spacing at all and Headings top/bottom margins
  */
 .page dl, ol, ul {
-    margin-bottom: -0.25rem !important;
+    margin-bottom: -0.3rem !important;
 }
 
 /** Individual Pages: Videos */
@@ -2225,9 +2229,9 @@ footer.gdpr a {
         font-size: 0.9rem !important;
     }
 
-    .page .data.tv .note {
-        font-style: italic;
-    }
+        .page .data.tv .note {
+            font-style: italic;
+        }
 
 .page .data .header {
     color: #FFF;
@@ -3142,6 +3146,15 @@ p:empty, p:blank {
 
         #languages {
             align-items: flex-start;
+        }
+
+        /**
+         * @internal
+         *
+         * Centring Site logo on mobile
+         */
+        .navbar .navbar-brand {
+            margin: 0.5rem auto;
         }
 
         .navbar .nav span.hr {
