@@ -40,6 +40,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/arrthoa/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/arrthoa/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/blazier/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/blazier/" />
     </url>
@@ -231,6 +236,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/voorx/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/voorx/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/xaerv/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/xaerv/" />
     </url>
@@ -308,6 +318,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/kiru/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kiru/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/kopond/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kopond/" />
     </url>
 
     <url>
@@ -411,6 +426,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/dibanni/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/dibanni/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/enre-hep/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/enre-hep/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/headmaster-ankhyja/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/mestre-ankhyja/" />
     </url>
@@ -471,6 +496,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/aszil-the-young-queen/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/aszil-jovem-rainha/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/bierk/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/bierk/" />
     </url>
@@ -496,6 +526,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/illexia-the-danian-queen/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/illexia-rainha-danian/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/junda/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/junda/" />
     </url>
@@ -513,6 +548,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/lhad/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/lhad/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/lore/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/lore/" />
     </url>
 
     <url>

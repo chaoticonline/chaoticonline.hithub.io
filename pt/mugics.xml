@@ -5,8 +5,28 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
+        <loc>https://www.chaoticonline.ml/hino-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/anthem-of-stone/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/cancao-de-batalha-da-restauracao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/battlesong-of-renewal/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/canone-do-desastre/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/canon-of-casualty/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/refrao-de-cothica/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/chorus-of-cothica/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/refrao-da-colmeia/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/chorus-of-the-hive/" />
     </url>
 
     <url>
@@ -25,13 +45,53 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/dissonance-of-distracao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dissonancia-da-distraction/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/dissonancia-da-vontade/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dissonance-of-will/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/folia-da-drenagem/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/draining-dirge/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/fanfarra-euforica/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ecstatic-fanfare/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/fanfarra-dos-guerreiros/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fighters-fanfare/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/fortissimo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fortissimo/" />
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/fuga-liquida/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fluid-fugue/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/floreio-da-terra/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/geo-flourish/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/uivo-dos-ventos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/howl-of-the-wind/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/melodia-entrelacada/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/intertwined-melody/" />
     </url>
 
     <url>
@@ -52,6 +112,16 @@
     <url>
         <loc>https://www.chaoticonline.ml/refrao-da-rejeicao-outro-mundo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/refrain-of-denial-overworld/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/requiem-do-terror/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/requiem-of-fear/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/requiem-das-mentes-perdidas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/requiem-of-lost-minds/" />
     </url>
 
     <url>
@@ -95,8 +165,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/cancao-do-ressurgimento/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/song-of-revival/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/cancao-do-extase/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/song-of-stasis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/cancao-do-desvio/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/song-of-deflection/" />
     </url>
 
     <url>
@@ -110,7 +190,7 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/tom-da-virada/</loc>
+        <loc>https://www.chaoticonline.ml/melodia-da-virada/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tune-around/" />
     </url>
 

@@ -8,64 +8,64 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/videos.xml</loc>
-        <lastmod>2018-07-22T10:55:19-03:00</lastmod>
+        <lastmod>2018-08-28T10:05:27-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/attacks.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/locations.xml</loc>
-        <lastmod>2018-08-22T08:32:48-03:00</lastmod>
+        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/mugics.xml</loc>
-        <lastmod>2018-06-27T17:08:38-03:00</lastmod>
+        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/battlegears.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-08-30T18:37:20-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/creatures.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
     </sitemap>
 
     <!-- Brazilian Portuguese -->
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/videos.xml</loc>
-        <lastmod>2018-07-22T10:55:19-03:00</lastmod>
+        <lastmod>2018-08-28T10:05:27-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/attacks.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/locations.xml</loc>
-        <lastmod>2018-08-22T08:32:48-03:00</lastmod>
+        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/mugics.xml</loc>
-        <lastmod>2018-06-27T17:08:38-03:00</lastmod>
+        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/battlegears.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-08-30T18:37:20-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/creatures.xml</loc>
-        <lastmod>2018-08-20T12:04:07-03:00</lastmod>
+        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
     </sitemap>
 
 </sitemapindex>

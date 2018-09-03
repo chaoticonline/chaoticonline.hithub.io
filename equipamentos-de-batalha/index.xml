@@ -6,7 +6,7 @@
     <description>Recent content in Equipamentos de Batalha on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Aug 2018 15:47:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 16:02:50 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/equipamentos-de-batalha/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,6 +53,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/armadura-de-pedra/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Armadura de Xerium</title>
+      <link>https://www.chaoticonline.ml/armadura-de-xerium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/armadura-de-xerium/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -120,6 +129,15 @@
     </item>
     
     <item>
+      <title>Diapasão do Muge</title>
+      <link>https://www.chaoticonline.ml/diapasao-do-muge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/diapasao-do-muge/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Dinamitador</title>
       <link>https://www.chaoticonline.ml/dinamitador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,6 +188,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/estrela-da-regiao-dos-rios/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flauta dos Baladistas Mipedian</title>
+      <link>https://www.chaoticonline.ml/flauta-dos-baladistas-mipedian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/flauta-dos-baladistas-mipedian/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -278,15 +305,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/visor-espectral/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Xerium Armor</title>
-      <link>https://www.chaoticonline.ml/armadura-xerium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.chaoticonline.ml/armadura-xerium/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

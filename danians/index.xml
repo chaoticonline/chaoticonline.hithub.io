@@ -6,10 +6,19 @@
     <description>Recent content in Danians on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Aug 2018 15:47:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 16:02:50 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/danians/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aszil, the Young Queen</title>
+      <link>https://www.chaoticonline.ml/aszil-the-young-queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/aszil-the-young-queen/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Bierk</title>
@@ -57,6 +66,15 @@
     </item>
     
     <item>
+      <title>Illexia, the Danian Queen</title>
+      <link>https://www.chaoticonline.ml/illexia-the-danian-queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/illexia-the-danian-queen/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Junda</title>
       <link>https://www.chaoticonline.ml/junda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,6 +107,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/lhad/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lore</title>
+      <link>https://www.chaoticonline.ml/lore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/lore/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
@@ -134,6 +161,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/wamma/</guid>
+      <description>&lt;p&gt;Wamma is a Danian &lt;strong&gt;Mandiblor&lt;/strong&gt; and the most iconic Creature of his Tribe&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wamma, Flame Guard</title>
+      <link>https://www.chaoticonline.ml/wamma/flame-guard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/wamma/flame-guard/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wamma, Hive Ordnance</title>
+      <link>https://www.chaoticonline.ml/wamma/hive-ordnance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/wamma/hive-ordnance/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

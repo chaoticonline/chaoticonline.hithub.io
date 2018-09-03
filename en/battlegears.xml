@@ -65,6 +65,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/mipedian-balladeers-flute/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/flauta-dos-baladistas-mipedian/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/mipedian-cactus/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/cacto-mipedian/" />
     </url>
@@ -72,6 +77,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/mowercycle/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mowercycle/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/muges-tuningfork/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/diapasao-do-muge/" />
     </url>
 
     <url>
@@ -156,7 +166,7 @@
 
     <url>
         <loc>https://www.chaoticonline.ml/xerium-armor/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/armadura-xerium/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/armadura-de-xerium/" />
     </url>
 
 </urlset>

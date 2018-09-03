@@ -6,7 +6,7 @@
     <description>Recent content in Mipedians on Chaotic Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Aug 2018 15:47:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 16:02:50 -0300</lastBuildDate>
     
 	<atom:link href="https://www.chaoticonline.ml/pt/mipedians/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.chaoticonline.ml/pt/ario/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dibanni</title>
+      <link>https://www.chaoticonline.ml/pt/dibanni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/dibanni/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enre-hep</title>
+      <link>https://www.chaoticonline.ml/pt/enre-hep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/enre-hep/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

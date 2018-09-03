@@ -91,26 +91,32 @@
 
     .sprite.courage, .sprite.courage > * {
         background-position: -5px -52px;
-        height: 45px;
-        width: 41px;
+        height: 5.4vh;
+        transform: scale( 0.67 );
+        width: 2.9vw;
     }
 
     .sprite.power, .sprite.power > * {
         background-position: -53px -52px;
-        height: 46px;
-        width: 42px;
+        height: 5.4vh;
+        transform: scale( 0.7 );
+        width: 2.7vw;
     }
 
     .sprite.wisdom, .sprite.wisdom > * {
         background-position: -101px -58px;
-        height: 35px;
-        width: 45px;
+        height: 5.4vh;
+        margin: 0.5vh 0 -0.5vh 0;
+        transform: scale( 0.7 );
+        width: 3vw;
     }
 
     .sprite.speed, .sprite.speed > * {
         background-position: -156px -55px;
-        height: 41px;
-        width: 36px;
+        height: 5.4vh;
+        margin: 0.3vh 0 -0.3vh 0;
+        transform: scale( 0.7 );
+        width: 2.4vw;
     }
 
         /** Icon-size (smaller) versions */
@@ -180,309 +186,248 @@
      *
      * @internal
      *
-     * Even repeating the 'height' and 'width' in all declarations the overall
-     * size still smaller than repeating all selectors just to re-use them
+     * Unfortunately, these icons can't be set with VH/VW units easily as that
+     * would need every single `background-position` to be rewritten and that
+     * would/could cause incompatibilities to someone
      */
+     .sprite.fire, .sprite.fire > *,
+     .sprite.fire, .sprite.fire > *,
+     .sprite.fire, .sprite.fire > *,
+     .sprite.fire, .sprite.fire > *,
+     .sprite.fire, .sprite.fire > *,
+     .sprite.fire, .sprite.fire > *,
+
+     .sprite.air, .sprite.air > *,
+     .sprite.air, .sprite.air > *,
+     .sprite.air, .sprite.air > *,
+     .sprite.air, .sprite.air > *,
+     .sprite.air, .sprite.air > *,
+     .sprite.air, .sprite.air > *,
+
+     .sprite.earth, .sprite.earth > *,
+     .sprite.earth, .sprite.earth > *,
+     .sprite.earth, .sprite.earth > *,
+     .sprite.earth, .sprite.earth > *,
+     .sprite.earth, .sprite.earth > *,
+     .sprite.earth, .sprite.earth > *,
+
+     .sprite.water, .sprite.water > *,
+     .sprite.water, .sprite.water > *,
+     .sprite.water, .sprite.water > *,
+     .sprite.water, .sprite.water > *,
+     .sprite.water, .sprite.water > *,
+     .sprite.water, .sprite.water > * {
+        /*height: 5.2vh;*/
+        /*width: 2.6vw;*/
+        height: 39px;
+        margin: -0.5vh;
+        transform: scale( 0.8 );
+        width: 40px;
+     }
 
         /** Fire */
 
     .sprite.fire.overworld.active, .sprite.fire.overworld.active > * {
         background-position: -6px -104px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.overworld.inactive, .sprite.fire.overworld.inactive > * {
         background-position: -56px -103px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.underworld.active, .sprite.fire.underworld.active > * {
         background-position: -6px -153px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.underworld.inactive, .sprite.fire.underworld.inactive > * {
         background-position: -54px -154px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.mipedians.active, .sprite.fire.mipedians.active > * {
         background-position: -5px -202px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.mipedians.inactive, .sprite.fire.mipedians.inactive > * {
         background-position: -55px -203px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.danians.active, .sprite.fire.danians.active > * {
         background-position: -4px -250px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.danians.inactive, .sprite.fire.danians.inactive > * {
         background-position: -55px -251px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.marrillians.active, .sprite.fire.marrillians.active > * {
         background-position: -6px -302px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.fire.marrillians.inactive, .sprite.fire.marrillians.inactive > * {
         background-position: -55px -301px;
-        height: 39px;
-        width: 39px;
     }
 
     /* @TODO */
     /*.sprite.fire.tribeless.active, .sprite.fire.tribeless.active > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }*/
 
     /** @TODO */
     /*.sprite.fire.tribeless.inactive, .sprite.fire.tribeless.inactive > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }*/
 
         /** Air */
 
     .sprite.air.overworld.active, .sprite.air.overworld.active > * {
         background-position: -104px -104px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.overworld.inactive, .sprite.air.overworld.inactive > * {
         background-position: -154px -104px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.underworld.active, .sprite.air.underworld.active > * {
         background-position: -104px -154px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.underworld.inactive, .sprite.air.underworld.inactive > * {
         background-position: -154px -153px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.mipedians.active, .sprite.air.mipedians.active > * {
         background-position: -104px -202px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.mipedians.inactive, .sprite.air.mipedians.inactive > * {
         background-position: -155px -201px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.danians.active, .sprite.air.danians.active > * {
         background-position: -105px -252px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.danians.inactive, .sprite.air.danians.inactive > * {
         background-position: -155px -252px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.marrillians.active, .sprite.air.marrillians.active > * {
         background-position: -105px -301px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.marrillians.inactive, .sprite.air.marrillians.inactive > * {
         background-position: -154px -301px;
-        height: 39px;
-        width: 39px;
     }
 
     /* @TODO */
     /*.sprite.air.tribeless.active, .sprite.air.tribeless.active > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.air.tribeless.inactive, .sprite.air.tribeless.inactive > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }*/
 
         /** Earth */
 
     .sprite.earth.overworld.active, .sprite.earth.overworld.active > * {
         background-position: -204px -105px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.overworld.inactive, .sprite.earth.overworld.inactive > * {
         background-position: -255px -104px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.underworld.active, .sprite.earth.underworld.active > * {
         background-position: -203px -152px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.underworld.inactive, .sprite.earth.underworld.inactive > * {
         background-position: -254px -151px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.mipedians.active, .sprite.earth.mipedians.active > * {
         background-position: -204px -203px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.mipedians.inactive, .sprite.earth.mipedians.inactive > * {
         background-position: -254px -203px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.danians.active, .sprite.earth.danians.active > * {
         background-position: -204px -252px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.danians.inactive, .sprite.earth.danians.inactive > * {
         background-position: -255px -253px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.marrillians.active, .sprite.earth.marrillians.active > * {
         background-position: -206px -300px;
-        height: 39px;
-        width: 39px;
     }
 
     /*.sprite.earth.marrillians.inactive, .sprite.earth.marrillians.inactive > * {
         background-position: -254px -304px;
-        height: 39px;
-        width: 39px;
     }*/
 
     /* @TODO */
     /*.sprite.earth.tribeless.active, .sprite.earth.tribeless.active > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.earth.tribeless.inactive, .sprite.earth.tribeless.inactive > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }*/
 
         /** Water */
 
     .sprite.water.overworld.active, .sprite.water.overworld.active > * {
         background-position: -303px -105px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.overworld.inactive, .sprite.water.overworld.inactive > * {
         background-position: -351px -105px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.underworld.active, .sprite.water.underworld.active > * {
         background-position: -302px -153px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.underworld.inactive, .sprite.water.underworld.inactive > * {
         background-position: -354px -153px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.mipedians.active, .sprite.water.mipedians.active > * {
         background-position: -302px -203px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.mipedians.inactive, .sprite.water.mipedians.inactive > * {
         background-position: -354px -205px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.danians.active, .sprite.water.danians.active > * {
         background-position: -303px -252px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.danians.inactive, .sprite.water.danians.inactive > * {
         background-position: -353px -252px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.marrillians.active, .sprite.water.marrillians.active > * {
         background-position: -303px -302px;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.marrillians.inactive, .sprite.water.marrillians.inactive > * {
         background-position: -354px -302px;
-        height: 39px;
-        width: 39px;
     }
 
     /* @TODO */
     /*.sprite.water.tribeless.active, .sprite.water.tribeless.active > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }
 
     .sprite.water.tribeless.inactive, .sprite.water.tribeless.inactive > * {
         background-position: ;
-        height: 39px;
-        width: 39px;
     }*/
 
         /** Video Logos */
@@ -1025,7 +970,7 @@ table.footable thead th.name, table.footable tbody td.name {
 html, body {
     background: #FFF;
     font-family: "Quicksand", sans-serif;
-    font-size: 1.05rem;
+    font-size: 2.3vh;
 }
 
 body, wrapper {
@@ -1075,18 +1020,20 @@ a:hover {
      *
      * Site Brand
      * Main Menu items
-     * Language Switcher items
-     * Breadcrumbs Trails
+     * Language Switcher items, otherwise the dotted line would appear below the little flags too
+     * Breadcrumbs Trails, as the dotted border appears below the texts -AND- the contents of :before
      * Social Links
+     * Images Credits
      * Video Server Providers Icons
      * Listing Pages' Bootstrap's "Cards"
      * "Powered by" Icons in site Footer
      */
-    .navbar .navbar-brand a:hover, navbar .nav .nav-link:hover,
+    .navbar .navbar-brand a:hover,
     #navigation a:hover,
     #languages a:hover,
     .breadcrumb a:hover,
     #social ul li:hover a,
+    .image-credits a:hover,
     .paginator a:hover,
     #servers > li > a:hover,
     .card a:hover,
@@ -1300,10 +1247,35 @@ blockquote {
         margin: 0.6rem 0 -0.2rem 0;
     }
 
+        /**
+         * @internal
+         *
+         * With Cards variants now using the full Card Information panel like
+         * their main versions the Author of Quote Texts below them (if any)
+         * is too far from the text itself, so we'll adjust
+         *
+         * This only occurs, however, for Cards in portrait format, whose HTML
+         * markups is more complex than Locations', so we'll also filter then out
+         *
+         * And to not affect Quote Authors from messages below the Big Picture
+         * we restrict only to the tag whose parent is a sibling of the
+         * Card Information panel element
+         */
+        .page:not(.locations) .card-data + .quote blockquote cite {
+            margin-top: -0.2rem !important;
+        }
+
         blockquote cite:before {
             content: "\2014 \00A0";
             padding: 0 0.5rem;
         }
+
+            /**
+             * @see `.page.videos .cast .actor a:hover` for further explanations
+             */
+            blockquote cite a:hover {
+                margin-bottom: -1px;
+            }
 
         blockquote cite + p {
             margin: -1.5rem 0 0 15%;
@@ -1608,6 +1580,10 @@ footer.gdpr a {
         .navbar-toggler-icon {
             height: 1em;
             width: 1em;
+        }
+
+        .navbar-nav .nav-link {
+            padding-right: 0.35rem !important;
         }
 
     /**
@@ -2088,60 +2064,14 @@ footer.gdpr a {
     position: relative;
 }
 
-    .page .picture._card {
-        margin-bottom: 2rem;
-    }
-
     /**
      * @internal
      *
-     * Compensates the space between the big picture and any possible Quote Text
-     * since defining this in `.quote` would affect all of them, including
-     * those after Card Images
-     *
-     * Also, gives a tiny bit of space to the right to minimize the visual
-     * impression of being horizontally misaligned
+     * The class name "_card" is just because "card" is already in use by Bootstrap
      */
-    .page .picture.big {
-        margin: 0 0.1rem 1.25rem 0;
+    .page .picture._card {
+        margin-bottom: 2rem;
     }
-
-      .page .picture img {
-          border-radius: 0.65rem;
-          height: 100%;
-          position: relative;
-          width: 100%;
-          z-index: 2;
-      }
-
-          .page .picture.big img {
-
-              -o-object-fit: cover;
-                 object-fit: cover;
-
-              width: 100%;
-          }
-
-              /**
-               * @internal
-               *
-               * Locations' Cards have more details that'll get hidden
-               * with object-fit set as 'cover
-               */
-              .page.locations .picture.big img {
-                  -o-object-fit: fill;
-                     object-fit: fill;
-              }
-
-    .page .picture .shadow {
-        border-radius: 12px;
-        -webkit-box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
-                box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
-    }
-
-        .page .picture:not(.big) .shadow {
-            width: 85%;
-        }
 
     .page .picture .caption {
         background-color: rgba( 0, 0, 0, 0.6 );
@@ -2168,6 +2098,51 @@ footer.gdpr a {
             border-bottom-right-radius: 10px;
         }
 
+    /**
+     * @internal
+     *
+     * Compensates the space between the big picture and any possible Quote Text
+     * since defining this in `.quote` would affect all of them, including
+     * those after Card Images
+     *
+     * Also, gives a tiny bit of space to the right to minimize the visual
+     * impression of being horizontally misaligned
+     */
+    .page .picture.big {
+        margin: 0 0.1rem 1.25rem 0;
+    }
+
+      .page .picture img {
+          border-radius: 0.65rem;
+
+          -webkit-box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
+                box-shadow: 8px 8px 8px -5px rgba( 0, 0, 0, 1 );
+
+          height: auto;
+          position: relative;
+          width: 25vw;
+          z-index: 2;
+      }
+
+          .page .picture.big img {
+
+              -o-object-fit: cover;
+                 object-fit: cover;
+
+              width: 100%;
+          }
+
+              /**
+               * @internal
+               *
+               * Locations' Cards have more details that'll get hidden
+               * with object-fit set as 'cover
+               */
+              .page.locations .picture.big img {
+                  -o-object-fit: fill;
+                     object-fit: fill;
+              }
+
     .page .image-credits {
         bottom: 0;
         display: inline-block;
@@ -2186,7 +2161,7 @@ footer.gdpr a {
          * Information Box — i.e. Takinom Shadowknight
          */
         .page .picture .image-credits.left {
-            left: -0.6rem;
+            left: -2.8rem;
         }
 
         .page .image-credits span {
@@ -2229,27 +2204,22 @@ footer.gdpr a {
         font-size: 0.9rem !important;
     }
 
+        .page .data.tv ul {
+            margin-bottom: 0 !important;
+        }
+
         .page .data.tv .note {
+            color: #444;
+            display: inline-block; /** This breaks the `<span>` to a new line */
+            font-size: 0.75rem;
             font-style: italic;
+            font-weight:400;
         }
 
 .page .data .header {
     color: #FFF;
     padding: 0.5rem;
 }
-
-    /**
-     * @internal
-     *
-     * CSS Sprites for Creatures' Attributes and Tribal Elements are a little
-     * bit too large, let's re-scale them
-     */
-    .page .data .header span, .page .data .box span {
-        display: block;
-
-        -webkit-transform: scale( 0.7 );
-                transform: scale( 0.7 );
-    }
 
 .page.creatures .box, .page.locations .box {
     padding: 0.45rem;
@@ -2592,6 +2562,17 @@ footer.gdpr a {
 .page.creatures .danians a, .page.creatures .danians strong, .page.creatures .danians abbr, .page.creatures .danians em {
     border-color: #816158;
     color: #816158;
+}
+
+/**
+ * @internal
+ *
+ * Quote Authors Links, italic texts and overall links within the main text doesn't look much visible
+ * by using the same color of Box Header as Text Color, so we lighten them up
+ */
+.quote a, .page.creatures .danians p em, .page.creatures .danians p a {
+    border-color: #ab8c83 !important;
+    color: #ab8c83 !important;
 }
 
 .page.creatures .danians .box {
@@ -3034,7 +3015,7 @@ p:empty, p:blank {
         }
 
     .quote {
-        margin: 0.3rem auto 1.25rem auto;
+        margin: 0.6rem auto 1.25rem auto;
         width: 100%;
     }
 
@@ -3052,6 +3033,17 @@ p:empty, p:blank {
         .quote blockquote cite {
             margin-bottom: -0.7rem;
         }
+
+            /**
+             * @internal
+             *
+             * The adjustment made to the Quote Authors tag must be reverted
+             * on smaller viewports otherwise everything will stick together
+             * in an almost undereadable way
+             */
+            .page:not(.locations) .card-data + .quote blockquote cite {
+                margin-top: 0.6rem !important;
+            }
 
             /**
              * @internal
@@ -3325,6 +3317,24 @@ p:empty, p:blank {
 
     /** Repositioning Images' Copyright */
 
+        /** Copyright texts between Cards' Images and Information Boxes */
+
+        .page .picture:not(._card) .image-credits {
+            bottom: -1.45rem;
+            left: unset; /** Nullifies the effects of `.left` added to left-handed credits */
+            right: 6.7rem;
+        }
+
+        /** Copyrights texts after a Card, with, or without a Quote between them */
+
+        .page .picture._card .image-credits {
+            left: unset; /** Nullifies the effects of `.left` added to left-handed credits */
+            right: 0.5rem;
+            text-align: right;
+            top: -0.4rem;
+            width: 100%;
+        }
+
         /**
          * @internal
          *
@@ -3334,13 +3344,13 @@ p:empty, p:blank {
          * grey line below the title
          */
         .page .picture.big .image-credits {
-            right: 1rem;
+            right: 0.5rem;
             text-align: right;
-            top: -1.2rem;
+            top: -1.4rem;
             width: 100%;
         }
 
-            .page .picture.big .image-credits span {
+            .page .picture .image-credits span {
                 transform: none !important;
             }
 

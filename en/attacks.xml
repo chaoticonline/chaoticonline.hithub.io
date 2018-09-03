@@ -15,8 +15,33 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ash-torrent/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/tempestade-de-cinzas/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/flame-breach/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/explosao-de-chamas/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/fluid-flame/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/chamas-volateis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/glacial-balls/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/eferas-glaciais/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/hail-storm/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/chuva-de-pedra/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/heptagon-hail/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/saudacao-dos-heptagonos/" />
     </url>
 
     <url>
@@ -27,6 +52,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/lucky-shot/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/golpe-de-sorte/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/magma-might/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/poder-do-magma/" />
     </url>
 
     <url>
