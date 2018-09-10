@@ -74,101 +74,99 @@
             width: 3.5rem;
         }
 
-    /** CSS Sprites - https://www.toptal.com/developers/css/sprite-generator */
+    /** CSS Sprites - http://draeton.github.io/stitches/ */
 
-    .sprite, .sprite > * {
-        background-image: url( '/assets/images/ui/sprites.png' );
+    .sprite:not(.mirror), .sprite:not(.mirror) > * {
+        background-image: url( '/assets/images/ui/cards.png' );
         background-repeat: no-repeat;
     }
 
     .sprite.mugicians, .sprite.mugicians > * {
-        background-position: -16px -15px;
-        height: 20px;
-        width: 20px;
+        background-position: -5px -5px;
+        height: 19px;
+        width: 19px;
     }
 
-    /** Creatures' Disciplines */
+    /** Disciplines Icons (big) */
 
     .sprite.courage, .sprite.courage > * {
-        background-position: -5px -52px;
+        background-position: -5px -555px;
         height: 5.4vh;
-        transform: scale( 0.67 );
+        transform: scale( 0.7 );
         width: 2.9vw;
     }
 
     .sprite.power, .sprite.power > * {
-        background-position: -53px -52px;
-        height: 5.4vh;
-        transform: scale( 0.7 );
+        background-position: -5px -610px;
+        height: 5.8vh;
+        transform: scale( 0.75 );
         width: 2.7vw;
     }
 
     .sprite.wisdom, .sprite.wisdom > * {
-        background-position: -101px -58px;
-        height: 5.4vh;
-        margin: 0.5vh 0 -0.5vh 0;
-        transform: scale( 0.7 );
-        width: 3vw;
+        background-position: -5px -664px;
+        height: 4.65vh;
+        margin-top: 0.5vh;
+        transform: scale( 0.75 );
+        width: 2.85vw;
     }
 
     .sprite.speed, .sprite.speed > * {
-        background-position: -156px -55px;
-        height: 5.4vh;
-        margin: 0.3vh 0 -0.3vh 0;
-        transform: scale( 0.7 );
-        width: 2.4vw;
+        background-position: -5px -709px;
+        height: 5.3vh;
+        transform: scale( 0.75 );
+        width: 2.35vw;
     }
 
-        /** Icon-size (smaller) versions */
+        /** Disciplines Icons (small) */
 
-        .sprite.courage.small, .sprite.courage.small > *,
-        .sprite.power.small,   .sprite.power.small > *,
-        .sprite.speed.small,   .sprite.speed.small > * {
-            height: 20px;
+        .sprite.courage.small, .sprite.courage.small > * {
+            background-position: -5px -94px;
+            height: 19px;
             width: 18px;
         }
 
-        .sprite.courage.small, .sprite.courage.small > * {
-            background-position: -213px -66px;
-        }
-
         .sprite.power.small, .sprite.power.small > * {
-            background-position: -264px -65px;
+            background-position: -5px -123px;
+            height: 19px;
+            width: 17px;
         }
 
         .sprite.wisdom.small, .sprite.wisdom.small > * {
-            background-position: -311px -66px;
+            background-position: -5px -499px;
             height: 17px;
-            width: 22px;
+            width: 21px;
         }
 
         .sprite.speed.small, .sprite.speed.small > * {
-            background-position: -364px -66px;
+            background-position: -5px -526px;
+            height: 19px;
+            width: 17px;
         }
 
-    /** Element Icons */
+    /** Element Icons (small) */
 
-    .sprite.fire, .sprite.fire > * {
-        background-position: -66px -14px;
+    .sprite.small.fire, .sprite.small.fire > * {
+        background-position: -5px -34px;
         height: 20px;
         width: 16px;
     }
 
-    .sprite.air, .sprite.air > * {
-        background-position: -113px -16px;
+    .sprite.small.air, .sprite.small.air > * {
+        background-position: -5px -64px;
         height: 20px;
         width: 18px;
     }
 
-    .sprite.earth, .sprite.earth > * {
-        background-position: -163px -18px;
+    .sprite.small.earth, .sprite.small.earth > * {
+        background-position: -5px -446px;
         height: 18px;
         width: 25px;
     }
 
-    .sprite.water, .sprite.water > * {
-        background-position: -214px -21px;
-        height: 16px;
+    .sprite.small.water, .sprite.small.water > * {
+        background-position: -5px -474px;
+        height: 15px;
 
         /**
          * @internal
@@ -177,7 +175,7 @@
          * its icon image, even though all dimensions are correctly set.
          * Let's compensate
          */
-        margin-bottom: -1px;
+        /*margin-bottom: -1px;*/
         width: 20px;
     }
 
@@ -190,268 +188,252 @@
      * would need every single `background-position` to be rewritten and that
      * would/could cause incompatibilities to someone
      */
-     .sprite.fire, .sprite.fire > *,
-     .sprite.fire, .sprite.fire > *,
-     .sprite.fire, .sprite.fire > *,
-     .sprite.fire, .sprite.fire > *,
-     .sprite.fire, .sprite.fire > *,
-     .sprite.fire, .sprite.fire > *,
-
-     .sprite.air, .sprite.air > *,
-     .sprite.air, .sprite.air > *,
-     .sprite.air, .sprite.air > *,
-     .sprite.air, .sprite.air > *,
-     .sprite.air, .sprite.air > *,
-     .sprite.air, .sprite.air > *,
-
-     .sprite.earth, .sprite.earth > *,
-     .sprite.earth, .sprite.earth > *,
-     .sprite.earth, .sprite.earth > *,
-     .sprite.earth, .sprite.earth > *,
-     .sprite.earth, .sprite.earth > *,
-     .sprite.earth, .sprite.earth > *,
-
-     .sprite.water, .sprite.water > *,
-     .sprite.water, .sprite.water > *,
-     .sprite.water, .sprite.water > *,
-     .sprite.water, .sprite.water > *,
-     .sprite.water, .sprite.water > *,
-     .sprite.water, .sprite.water > * {
+     .sprite:not(.small).fire, .sprite:not(.small).fire > *,
+     .sprite:not(.small).air, .sprite:not(.small).air > *,
+     .sprite:not(.small).earth, .sprite:not(.small).earth > *,
+     .sprite:not(.small).water, .sprite:not(.small).water > * {
         /*height: 5.2vh;*/
         /*width: 2.6vw;*/
         height: 39px;
-        margin: -0.5vh;
         transform: scale( 0.8 );
-        width: 40px;
+        width: 39px;
      }
 
-        /** Fire */
+     /** Fire - Active */
 
     .sprite.fire.overworld.active, .sprite.fire.overworld.active > * {
-        background-position: -6px -104px;
-    }
-
-    .sprite.fire.overworld.inactive, .sprite.fire.overworld.inactive > * {
-        background-position: -56px -103px;
+        background-position: -5px -152px;
     }
 
     .sprite.fire.underworld.active, .sprite.fire.underworld.active > * {
-        background-position: -6px -153px;
-    }
-
-    .sprite.fire.underworld.inactive, .sprite.fire.underworld.inactive > * {
-        background-position: -54px -154px;
+        background-position: -5px -201px;
     }
 
     .sprite.fire.mipedians.active, .sprite.fire.mipedians.active > * {
-        background-position: -5px -202px;
-    }
-
-    .sprite.fire.mipedians.inactive, .sprite.fire.mipedians.inactive > * {
-        background-position: -55px -203px;
+        background-position: -5px -250px;
     }
 
     .sprite.fire.danians.active, .sprite.fire.danians.active > * {
-        background-position: -4px -250px;
-    }
-
-    .sprite.fire.danians.inactive, .sprite.fire.danians.inactive > * {
-        background-position: -55px -251px;
+        background-position: -5px -299px;
     }
 
     .sprite.fire.marrillians.active, .sprite.fire.marrillians.active > * {
-        background-position: -6px -302px;
+        background-position: -5px -348px;
+    }
+
+    .sprite.fire.tribeless.active, .sprite.fire.tribeless.active > * {
+        background-position: -5px -397px;
+    }
+
+    /** Fire - Inactive */
+
+    .sprite.fire.overworld.inactive, .sprite.fire.overworld.inactive > * {
+        background-position: -5px -759px;
+    }
+
+    .sprite.fire.underworld.inactive, .sprite.fire.underworld.inactive > * {
+        background-position: -5px -808px;
+    }
+
+    .sprite.fire.mipedians.inactive, .sprite.fire.mipedians.inactive > * {
+        background-position: -5px -857px;
+    }
+
+    .sprite.fire.danians.inactive, .sprite.fire.danians.inactive > * {
+        background-position: -5px -906px;
     }
 
     .sprite.fire.marrillians.inactive, .sprite.fire.marrillians.inactive > * {
-        background-position: -55px -301px;
+        background-position: -5px -955px;
     }
 
-    /* @TODO */
-    /*.sprite.fire.tribeless.active, .sprite.fire.tribeless.active > * {
-        background-position: ;
-    }*/
+    .sprite.fire.tribeless.inactive, .sprite.fire.tribeless.inactive > * {
+        background-position: -5px -1004px;
+    }
 
-    /** @TODO */
-    /*.sprite.fire.tribeless.inactive, .sprite.fire.tribeless.inactive > * {
-        background-position: ;
-    }*/
-
-        /** Air */
+    /** Air - Active */
 
     .sprite.air.overworld.active, .sprite.air.overworld.active > * {
-        background-position: -104px -104px;
-    }
-
-    .sprite.air.overworld.inactive, .sprite.air.overworld.inactive > * {
-        background-position: -154px -104px;
+        background-position: -5px -1347px;
     }
 
     .sprite.air.underworld.active, .sprite.air.underworld.active > * {
-        background-position: -104px -154px;
-    }
-
-    .sprite.air.underworld.inactive, .sprite.air.underworld.inactive > * {
-        background-position: -154px -153px;
+        background-position: -5px -1396px;
     }
 
     .sprite.air.mipedians.active, .sprite.air.mipedians.active > * {
-        background-position: -104px -202px;
-    }
-
-    .sprite.air.mipedians.inactive, .sprite.air.mipedians.inactive > * {
-        background-position: -155px -201px;
+        background-position: -5px -1445px;
     }
 
     .sprite.air.danians.active, .sprite.air.danians.active > * {
-        background-position: -105px -252px;
-    }
-
-    .sprite.air.danians.inactive, .sprite.air.danians.inactive > * {
-        background-position: -155px -252px;
+        background-position: -5px -1494px;
     }
 
     .sprite.air.marrillians.active, .sprite.air.marrillians.active > * {
-        background-position: -105px -301px;
+        background-position: -5px -1543px;
+    }
+
+    .sprite.air.tribeless.active, .sprite.air.tribeless.active > * {
+        background-position: -5px -1592px;
+    }
+
+    /** Air - Inactive */
+
+    .sprite.air.overworld.inactive, .sprite.air.overworld.inactive > * {
+        background-position: -5px -1053px;
+    }
+
+    .sprite.air.underworld.inactive, .sprite.air.underworld.inactive > * {
+        background-position: -5px -1102px;
+    }
+
+    .sprite.air.mipedians.inactive, .sprite.air.mipedians.inactive > * {
+        background-position: -5px -1151px;
+    }
+
+    .sprite.air.danians.inactive, .sprite.air.danians.inactive > * {
+        background-position: -5px -1200px;
     }
 
     .sprite.air.marrillians.inactive, .sprite.air.marrillians.inactive > * {
-        background-position: -154px -301px;
-    }
-
-    /* @TODO */
-    /*.sprite.air.tribeless.active, .sprite.air.tribeless.active > * {
-        background-position: ;
+        background-position: -5px -1249px;
     }
 
     .sprite.air.tribeless.inactive, .sprite.air.tribeless.inactive > * {
-        background-position: ;
-    }*/
-
-        /** Earth */
-
-    .sprite.earth.overworld.active, .sprite.earth.overworld.active > * {
-        background-position: -204px -105px;
+        background-position: -5px -1298px;
     }
 
-    .sprite.earth.overworld.inactive, .sprite.earth.overworld.inactive > * {
-        background-position: -255px -104px;
+    /** Earth - Active */
+
+    .sprite.earth.overworld.active, .sprite.earth.overworld.active > * {
+        background-position: -5px -1641px;
     }
 
     .sprite.earth.underworld.active, .sprite.earth.underworld.active > * {
-        background-position: -203px -152px;
-    }
-
-    .sprite.earth.underworld.inactive, .sprite.earth.underworld.inactive > * {
-        background-position: -254px -151px;
+        background-position: -5px -1690px;
     }
 
     .sprite.earth.mipedians.active, .sprite.earth.mipedians.active > * {
-        background-position: -204px -203px;
-    }
-
-    .sprite.earth.mipedians.inactive, .sprite.earth.mipedians.inactive > * {
-        background-position: -254px -203px;
+        background-position: -5px -1739px;
     }
 
     .sprite.earth.danians.active, .sprite.earth.danians.active > * {
-        background-position: -204px -252px;
-    }
-
-    .sprite.earth.danians.inactive, .sprite.earth.danians.inactive > * {
-        background-position: -255px -253px;
+        background-position: -5px -1788px;
     }
 
     .sprite.earth.marrillians.active, .sprite.earth.marrillians.active > * {
-        background-position: -206px -300px;
+        background-position: -5px -1837px;
     }
 
-    /*.sprite.earth.marrillians.inactive, .sprite.earth.marrillians.inactive > * {
-        background-position: -254px -304px;
-    }*/
+    .sprite.earth.tribeless.active, .sprite.earth.tribeless.active > * {
+        background-position: -5px -1886px;
+    }
 
-    /* @TODO */
-    /*.sprite.earth.tribeless.active, .sprite.earth.tribeless.active > * {
-        background-position: ;
+    /** Earth - Inactive */
+
+    .sprite.earth.overworld.inactive, .sprite.earth.overworld.inactive > * {
+        background-position: -5px -2229px;
+    }
+
+    .sprite.earth.underworld.inactive, .sprite.earth.underworld.inactive > * {
+        background-position: -5px -2278px;
+    }
+
+    .sprite.earth.mipedians.inactive, .sprite.earth.mipedians.inactive > * {
+        background-position: -5px -2327px;
+    }
+
+    .sprite.earth.danians.inactive, .sprite.earth.danians.inactive > * {
+        background-position: -5px -2376px;
+    }
+
+    .sprite.earth.marrillians.inactive, .sprite.earth.marrillians.inactive > * {
+        background-position: -5px -2425px;
     }
 
     .sprite.earth.tribeless.inactive, .sprite.earth.tribeless.inactive > * {
-        background-position: ;
-    }*/
-
-        /** Water */
-
-    .sprite.water.overworld.active, .sprite.water.overworld.active > * {
-        background-position: -303px -105px;
+        background-position: -5px -2474px;
     }
 
-    .sprite.water.overworld.inactive, .sprite.water.overworld.inactive > * {
-        background-position: -351px -105px;
+    /** Water - Active */
+
+    .sprite.water.overworld.active, .sprite.water.overworld.active > * {
+        background-position: -5px -1935px;
     }
 
     .sprite.water.underworld.active, .sprite.water.underworld.active > * {
-        background-position: -302px -153px;
-    }
-
-    .sprite.water.underworld.inactive, .sprite.water.underworld.inactive > * {
-        background-position: -354px -153px;
+        background-position: -5px -1984px;
     }
 
     .sprite.water.mipedians.active, .sprite.water.mipedians.active > * {
-        background-position: -302px -203px;
-    }
-
-    .sprite.water.mipedians.inactive, .sprite.water.mipedians.inactive > * {
-        background-position: -354px -205px;
+        background-position: -5px -2033px;
     }
 
     .sprite.water.danians.active, .sprite.water.danians.active > * {
-        background-position: -303px -252px;
-    }
-
-    .sprite.water.danians.inactive, .sprite.water.danians.inactive > * {
-        background-position: -353px -252px;
+        background-position: -5px -2082px;
     }
 
     .sprite.water.marrillians.active, .sprite.water.marrillians.active > * {
-        background-position: -303px -302px;
+        background-position: -5px -2131px;
+    }
+
+    .sprite.water.tribeless.active, .sprite.water.tribeless.active > * {
+        background-position: -5px -2180px;
+    }
+
+    /** Water - Inactive */
+
+    .sprite.water.overworld.inactive, .sprite.water.overworld.inactive > * {
+        background-position: -5px -2523px;
+    }
+
+    .sprite.water.underworld.inactive, .sprite.water.underworld.inactive > * {
+        background-position: -5px -2572px;
+    }
+
+    .sprite.water.mipedians.inactive, .sprite.water.mipedians.inactive > * {
+        background-position: -5px -2621px;
+    }
+
+    .sprite.water.danians.inactive, .sprite.water.danians.inactive > * {
+        background-position: -5px -2670px;
     }
 
     .sprite.water.marrillians.inactive, .sprite.water.marrillians.inactive > * {
-        background-position: -354px -302px;
-    }
-
-    /* @TODO */
-    /*.sprite.water.tribeless.active, .sprite.water.tribeless.active > * {
-        background-position: ;
+        background-position: -5px -2719px;
     }
 
     .sprite.water.tribeless.inactive, .sprite.water.tribeless.inactive > * {
-        background-position: ;
-    }*/
-
-        /** Video Logos */
-
-    /*.sprite.video.openload, .sprite.video.openload > * {
-        background-position: -6px -353px;
-        height: 82px;
-        width: 173px;
+        background-position: -5px -2768px;
     }
 
-    .sprite.video.thevid, .sprite.video.thevid > * {
-        background-position: -8px -455px;
-        height: 175px;
-        width: 169px;
+    /** Video Logos */
+
+    .sprite.mirror, .sprite.mirror > * {
+        background-image: url( '/assets/images/ui/mirrors.png' );
+        background-repeat: no-repeat;
+    }
+
+    /*.sprite.mirror.thevid, .sprite.mirror.thevid > * {
+        background-position: -5px -5px;
+        height: 167px;
+        width: 153px;
+    }
+
+    .sprite.mirror.openload, .sprite.mirror.openload > * {
+        background-position: -5px -182px;
+        height: 82px;
+        width: 173px;
     }*/
 
-    .sprite.video.vimeo, .sprite.video.vimeo > * {
-        background-position: -215px -361px;
+    .sprite.mirror.vimeo, .sprite.mirror.vimeo > * {
+        background-position: -5px -274px;
         height: 120px;
         width: 120px;
     }
 
-    .sprite.video.youtube, .sprite.video.youtube > * {
-        background-position: -211px -515px;
+    .sprite.mirror.youtube, .sprite.mirror.youtube > * {
+        background-position: -5px -404px;
         height: 45px;
         width: 64px;
     }
@@ -979,6 +961,7 @@ body, wrapper {
 
     main {
         margin: 0 5% !important;
+        overflow: hidden;
     }
 
 footer {
@@ -1555,10 +1538,6 @@ footer.gdpr a {
     z-index: 1030;
 }
 
-    .navbar-nav {
-        margin: -0.25rem 0 0 -0.25rem;
-    }
-
     .navbar .navbar-brand {
         font-size: 1.3rem;
         margin: 0.5rem 1rem 0.5rem 0;
@@ -1583,7 +1562,7 @@ footer.gdpr a {
         }
 
         .navbar-nav .nav-link {
-            padding-right: 0.35rem !important;
+            padding-right: 0.7rem !important;
         }
 
     /**
@@ -1891,13 +1870,8 @@ footer.gdpr a {
                 padding: 0 0.35rem 0 0.2rem;
             }
 
-/**
- * @internal
- *
- * A middle term between no spacing at all and Headings top/bottom margins
- */
 .page dl, ol, ul {
-    margin-bottom: -0.3rem !important;
+    margin-bottom: 0 !important;
 }
 
 /** Individual Pages: Videos */
@@ -2082,7 +2056,7 @@ footer.gdpr a {
         padding: 5px 10px 5px 5px;
         position: absolute;
         text-align: right;
-        width: 85%;
+        width: inherit;
         z-index: 3;
     }
 
@@ -2109,7 +2083,7 @@ footer.gdpr a {
      * impression of being horizontally misaligned
      */
     .page .picture.big {
-        margin: 0 0.1rem 1.25rem 0;
+        margin: 0 0 1.25rem 0 !important;
     }
 
       .page .picture img {
@@ -2120,9 +2094,13 @@ footer.gdpr a {
 
           height: auto;
           position: relative;
-          width: 25vw;
+          width: 26vw;
           z-index: 2;
       }
+
+        .page.locations .picture img {
+            width: 33vw;
+        }
 
           .page .picture.big img {
 
@@ -2148,11 +2126,15 @@ footer.gdpr a {
         display: inline-block;
         font-size: 0.86rem;
         font-style: italic;
+        left: 100%;
         position: absolute;
-        text-indent: 1rem;
-        right: -1.2rem;
-        width: 1.5rem;
+        /*text-indent: 1rem;
+        width: 1.5rem;*/
     }
+
+        .page .picture.big .image-credits {
+            text-indent: 0.7rem;
+        }
 
         /**
          * @internal
@@ -2161,7 +2143,7 @@ footer.gdpr a {
          * Information Box — i.e. Takinom Shadowknight
          */
         .page .picture .image-credits.left {
-            left: -2.8rem;
+            left: -2rem; /** -2.8rem */
         }
 
         .page .image-credits span {
@@ -2183,11 +2165,11 @@ footer.gdpr a {
 }
 
     .page.locations .card-data {
-        margin: 1.2rem 0 -0.75rem 0 !important;
+        margin: 1.2rem 0 !important;
     }
 
     .page .card-data .list-unstyled {
-        padding-left: 0.75rem !important;
+        max-width: 75%;
     }
 
 .page .data {
@@ -2200,7 +2182,6 @@ footer.gdpr a {
     }
 
     .page .data.tv {
-        display: block;
         font-size: 0.9rem !important;
     }
 
@@ -2219,6 +2200,12 @@ footer.gdpr a {
 .page .data .header {
     color: #FFF;
     padding: 0.5rem;
+}
+
+.page .data .footer {
+    color: transparent;
+    font-size: 0.5rem;
+    padding: 0;
 }
 
 .page.creatures .box, .page.locations .box {
@@ -2397,7 +2384,7 @@ footer.gdpr a {
 
     /** UnderWorld */
 
-.page.creatures .underworld .header {
+.page.creatures .underworld .header, .page.creatures .underworld .footer {
     background-color: #541424;
 }
 
@@ -2427,7 +2414,7 @@ footer.gdpr a {
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (pink-ish)
  */
-.page.creatures .underworld dl.traits, .page.creatures .underworld dl.tv {
+.page.creatures .underworld dl.traits, .page.creatures .underworld .tv .data dl {
     border-right: 1px solid #f6d7df;
 }
 
@@ -2435,21 +2422,17 @@ footer.gdpr a {
         color: #541424;
     }
 
-  .page.creatures .underworld dl.traits dd:last-child, .page.creatures .underworld dl.tv dd:last-child {
+  /*.page.creatures .underworld dl.traits dd:last-child, */.page.creatures .underworld .tv .data dl dd:last-child {
       border-bottom: 1px solid #f6d7df;
   }
 
-.page.creatures .underworld dl.traits, .page.creatures .underworld dl.tv {
+.page.creatures .underworld dl.traits, .page.creatures .underworld .tv .data dl {
     border-right: 1px solid #f6d7df;
 }
 
-  .page.creatures .underworld dl.traits dd:last-child, .page.creatures .underworld dl.tv dd:last-child {
-      border-bottom: 1px solid #f6d7df;
-  }
-
     /** OverWorld */
 
-.page.creatures .overworld .header {
+.page.creatures .overworld .header, .page.creatures .overworld .footer {
     background-color: #114f98;
 }
 
@@ -2479,16 +2462,16 @@ footer.gdpr a {
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (blue-ish)
  */
-.page.creatures .overworld dl.traits, .page.creatures .overworld dl.tv {
+.page.creatures .overworld dl.traits, .page.creatures .overworld .tv .data dl {
     border-right: 1px solid #eff5fd;
 }
 
-  .page.creatures .overworld dl.traits dd:last-child, .page.creatures .overworld dl.tv dd:last-child {
+  /*.page.creatures .overworld dl.traits dd:last-child, */.page.creatures .overworld .tv .data dl dd:last-child {
       border-bottom: 1px solid #eff5fd;
 
   }
 
-.page.creatures .overworld dl.traits, .page.creatures .overworld dl.tv {
+.page.creatures .overworld dl.traits, .page.creatures .overworld .tv .data dl {
     border-right: 1px solid #eff5fd;
 }
 
@@ -2496,14 +2479,10 @@ footer.gdpr a {
         color: #114f98;
     }
 
-  .page.creatures .overworld dl.traits dd:last-child, .page.creatures .overworld dl.tv dd:last-child {
-      border-bottom: 1px solid #eff5fd;
-  }
-
     /** Mipedians */
 
-.page.creatures .mipedians .header {
-    background-color: #5c521c; /** ab7e1c */
+.page.creatures .mipedians .header, .page.creatures .mipedians .footer {
+    background-color: #5c521c;
 }
 
 .page.creatures .mipedians a, .page.creatures .mipedians strong, .page.creatures .mipedians abbr, .page.creatures .mipedians em {
@@ -2532,16 +2511,15 @@ footer.gdpr a {
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (blue-ish)
  */
-.page.creatures .mipedians dl.traits, .page.creatures .mipedians dl.tv {
+.page.creatures .mipedians dl.traits, .page.creatures .mipedians .tv .data dl {
     border-right: 1px solid #faf1dd;
 }
 
-  .page.creatures .mipedians dl.traits dd:last-child, .page.creatures .mipedians dl.tv dd:last-child {
+  /*.page.creatures .mipedians dl.traits dd:last-child, */.page.creatures .mipedians .tv .data dl dd:last-child {
       border-bottom: 1px solid #faf1dd;
-
   }
 
-.page.creatures .mipedians dl.traits, .page.creatures .mipedians dl.tv {
+.page.creatures .mipedians dl.traits, .page.creatures .mipedians .tv .data dl {
     border-right: 1px solid #faf1dd;
 }
 
@@ -2549,13 +2527,9 @@ footer.gdpr a {
         color: #423b14;
     }
 
-  .page.creatures .mipedians dl.traits dd:last-child, .page.creatures .mipedians dl.tv dd:last-child {
-      border-bottom: 1px solid #faf1dd;
-  }
-
     /** Danians */
 
-.page.creatures .danians .header {
+.page.creatures .danians .header, .page.creatures .danians .footer {
     background-color: #44332e;
 }
 
@@ -2570,7 +2544,7 @@ footer.gdpr a {
  * Quote Authors Links, italic texts and overall links within the main text doesn't look much visible
  * by using the same color of Box Header as Text Color, so we lighten them up
  */
-.quote a, .page.creatures .danians p em, .page.creatures .danians p a {
+.page.creatures .danians .quote a, .page.creatures .danians p em, .page.creatures .danians p a {
     border-color: #ab8c83 !important;
     color: #ab8c83 !important;
 }
@@ -2596,16 +2570,15 @@ footer.gdpr a {
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (blue-ish)
  */
-.page.creatures .danians dl.traits, .page.creatures .danians dl.tv {
+.page.creatures .danians dl.traits, .page.creatures .danians .tv .data dl {
     border-right: 1px solid #e9e0de;
 }
 
-  .page.creatures .danians dl.traits dd:last-child, .page.creatures .danians dl.tv dd:last-child {
+  /*.page.creatures .danians dl.traits dd:last-child, */.page.creatures .danians .tv .data dl dd:last-child {
       border-bottom: 1px solid #e9e0de;
-
   }
 
-.page.creatures .danians dl.traits, .page.creatures .danians dl.tv {
+.page.creatures .danians dl.traits, .page.creatures .danians .tv .data dl {
     border-right: 1px solid #e9e0de;
 }
 
@@ -2613,13 +2586,57 @@ footer.gdpr a {
         color: #44332e;
     }
 
-  .page.creatures .danians dl.traits dd:last-child, .page.creatures .danians dl.tv dd:last-child {
-      border-bottom: 1px solid #e9e0de;
+    /** M'arrillians */
+
+.page.creatures .marrillians .header, .page.creatures .marrillians .footer {
+    background-color: #152631;
+}
+
+.page.creatures .marrillians a, .page.creatures .marrillians strong, .page.creatures .marrillians abbr, .page.creatures .marrillians em {
+    border-color: #152631;
+    color: #152631;
+}
+
+.page.creatures .marrillians .box {
+    background-color: #dfe2ea;
+}
+
+/**
+ * @internal
+ *
+ * Styling the <abbr> tag for mobile accordingly to the Card Type Schema
+ */
+.page.creatures .marrillians abbr[title]:focus::after,
+.page.creatures .marrillians abbr[title]:active::after {
+    border: 1px dotted #5c521c;
+    background-color: #dfe2ea !important; /** Overrides the default color*/
+}
+
+/**
+ * @internal
+ *
+ * This closes the Creatures Data box on the right side (white)
+ * without touching the left side (blue-ish)
+ */
+.page.creatures .marrillians dl.traits, .page.creatures .marrillians .tv .data dl {
+    border-right: 1px solid #dfe2ea;
+}
+
+  /*.page.creatures .marrillians dl.traits dd:last-child, */.page.creatures .marrillians .tv .data dl dd:last-child {
+      border-bottom: 1px solid #dfe2ea;
   }
+
+.page.creatures .marrillians dl.traits, .page.creatures .marrillians .tv .data dl {
+    border-right: 1px solid #dfe2ea;
+}
+
+    .page.creatures .marrillians dt {
+        color: #dfe2ea;
+    }
 
     /** Tribeless */
 
-.page.creatures .tribeless .header {
+.page.creatures .tribeless .header, .page.creatures .tribeless .footer {
     background-color: #414141;/
 }
 
@@ -2649,16 +2666,15 @@ footer.gdpr a {
  * This closes the Creatures Data box on the right side (white)
  * without touching the left side (blue-ish)
  */
-.page.creatures .tribeless dl.traits, .page.creatures .tribeless dl.tv {
+.page.creatures .tribeless dl.traits, .page.creatures .tribeless .tv .data dl {
     border-right: 1px solid #f2f2f2;
 }
 
-  .page.creatures .tribeless dl.traits dd:last-child, .page.creatures .tribeless dl.tv dd:last-child {
+  /*.page.creatures .tribeless dl.traits dd:last-child, */.page.creatures .tribeless .tv .data dl dd:last-child {
       border-bottom: 1px solid #f2f2f2;
-
   }
 
-.page.creatures .tribeless dl.traits, .page.creatures .tribeless dl.tv {
+.page.creatures .tribeless dl.traits, .page.creatures .tribeless .tv .data dl {
     border-right: 1px solid #f2f2f2;
 }
 
@@ -2666,13 +2682,9 @@ footer.gdpr a {
         color: #414141;
     }
 
-  .page.creatures .tribeless dl.traits dd:last-child, .page.creatures .tribeless dl.tv dd:last-child {
-      border-bottom: 1px solid #f2f2f2;
-  }
-
     /** Locations */
 
-.page.locations .header {
+.page.locations .header, .page.locations .footer {
     background-color: #16522b;
     color: #FFF;
 }
@@ -2711,9 +2723,9 @@ footer.gdpr a {
         color: #16522b;
     }
 
-  .page.locations dl.info dd:last-child {
+  /*.page.locations dl.info dd:last-child {
       border-bottom: 1px solid #d8f5e2;
-  }
+  }*/
 
 /** Extras */
 
@@ -2869,21 +2881,18 @@ p:empty, p:blank {
      * @internal
      *
      * Since on mobile the Card Image and the Data Columns stack on top of
-     * each other, no top/bottom margins must exist but we'll reduce the
+     * each other, no bottom margin must exist but we'll also reduce the
      * left/right margins to give a tiny extra width, hoping to not break
-     * Bootstrap's Grid on very small devices — viewports smaller than the
-     * smallest of the available classes
+     * Bootstrap's Grid on super small devices — viewports smaller than the
+     * smallest of the available Grid classes
      */
     .page .card-data {
-        margin: 0 -1rem !important;
+        margin: 1.5rem -1rem 0 -1rem !important;
     }
 
-    /**
-     * Temporary! Until put the Information Box side-by-side with the Card Image
-     */
-    .page .card-data .data {
-        margin-bottom: 1rem !important;
-    }
+        .page .card-data .data {
+            margin-bottom: 1rem !important;
+        }
 }
 
 /**
@@ -2905,6 +2914,32 @@ p:empty, p:blank {
         margin-top: 0.2rem !important;
     }
 
+    /**
+     * @internal
+     *
+     * Given the smaller viewport, using vh/vw units would make the icons barely
+     * visible, as the dimensions would be much smaller than intended
+     */
+    .sprite.courage, .sprite.courage > * {
+        height: 45px;
+        width: 41px;
+    }
+
+    .sprite.power, .sprite.power > * {
+        height: 46px;
+        width: 42px;
+    }
+
+    .sprite.wisdom, .sprite.wisdom > * {
+        height: 35px;
+        width: 45px;
+    }
+
+    .sprite.speed, .sprite.speed > * {
+        height: 41px;
+        width: 36px;
+    }
+
     /** Main Structure */
 
     /**
@@ -2916,24 +2951,6 @@ p:empty, p:blank {
      */
     body {
         font-size: 0.95rem;
-    }
-
-    /**
-     * @internal
-     *
-     * Given the smaller viewport, Main Content's margins can be reduced a little
-     */
-    main {
-        margin: 0 1% !important;
-    }
-
-    /**
-     * @internal
-     *
-     * Removing a bit more than Bootstrap's Grid Row negative margins
-     */
-    footer.copyright .row {
-        margin: 0 -0.75rem !important;
     }
 
     /**
@@ -3263,7 +3280,13 @@ p:empty, p:blank {
      * much, so we'll reduce a bit
      */
     .page .card-data .data {
-        margin-top: 0.85rem !important;
+        margin-top: 2.5rem !important;
+        padding: 0 0 0 30px !important;
+    }
+
+    .page .tv .data {
+        margin-top: 1rem !important;
+        padding: 0 0 0 30px !important;
     }
 
     /**
@@ -3272,38 +3295,10 @@ p:empty, p:blank {
      * On mobile, Card Images used along Card Data — i.e. Creature Cards — can
      * safely stay with its full width
      */
-    .page:not(.locations) .picture ._card, .page:not(.locations) .picture img {
-        height: 100%;
-        width: 100%;
+    .page .picture ._card, .page .picture img {
+        height: 100% !important;
+        width: 100% !important;
     }
-
-    /**
-     * @internal
-     *
-     * ToC Tree Heading default margin needs to be bigger on mobile
-     */
-    .toc {
-        margin-top: 1.3rem !important;
-    }
-
-    /**
-     * @internal
-     *
-     * Since CSS Media Queries are, well, cascade, let's revert the margin
-     * removal done in the previous one
-     */
-    .page .card-data {
-        margin-top: 1rem !important;
-    }
-
-        /**
-         * @internal
-         *
-         * Let's give add some space between the picture and the information box
-         */
-        .page .card-data .data {
-            margin-top: 1.5rem !important;
-        }
 
         /**
          * @internal
@@ -3315,14 +3310,23 @@ p:empty, p:blank {
             width: 100%;
         }
 
+    /**
+     * @internal
+     *
+     * ToC Tree Heading default margin needs to be bigger on mobile
+     */
+    .toc {
+        margin-top: 1.3rem !important;
+    }
+
     /** Repositioning Images' Copyright */
 
         /** Copyright texts between Cards' Images and Information Boxes */
 
         .page .picture:not(._card) .image-credits {
-            bottom: -1.45rem;
+            bottom: -1.95rem;
             left: unset; /** Nullifies the effects of `.left` added to left-handed credits */
-            right: 6.7rem;
+            right: 1rem; /** 7rem */
         }
 
         /** Copyrights texts after a Card, with, or without a Quote between them */
@@ -3333,6 +3337,16 @@ p:empty, p:blank {
             text-align: right;
             top: -0.4rem;
             width: 100%;
+        }
+
+        /**
+         * @internal
+         *
+         * Because Location Cards re in landscape format, the distance is different
+         */
+        .page.locations .picture._card .image-credits {
+            bottom: -1.9rem;
+            top: unset;
         }
 
         /**
@@ -3354,22 +3368,6 @@ p:empty, p:blank {
                 transform: none !important;
             }
 
-    /** Creatures' Data (right column) */
-
-    .page .data:not(.hidden) {
-        display: block !important;
-    }
-
-        .page.creatures .data {
-            margin: 0.8rem 1rem 1rem 1.1rem;
-        }
-
-        /** Locations' Data (right column) */
-
-        .page.locations .data {
-            margin: 0.5rem 1rem -0.7rem 1.2rem;
-        }
-
     /**
      * @internal
      *
@@ -3377,23 +3375,12 @@ p:empty, p:blank {
      * adding '...' in the end
      */
     .page.creatures .appearances li {
-        margin-left: -0.5rem;
         overflow: hidden;
 
            text-overflow: ellipsis;
         -o-text-overflow: ellipsis; /** Opera */
 
         white-space: nowrap;
-    }
-
-    /**
-     * @internal
-     *
-     * Adds a bit of spacing when viewing on small resolutions since
-     * this column will wrap below the previous one
-     */
-    .page.creatures .tv-data {
-        margin-top: 1rem;
     }
 
     /** Individual Pages: Videos ; */
