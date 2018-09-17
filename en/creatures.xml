@@ -177,7 +177,7 @@
 
     <url>
         <loc>https://www.chaoticonline.ml/raznus/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/raznus-embaixador-pelos-danians" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/raznus-embaixador-pelos-danians/" />
     </url>
 
     <url>
@@ -326,6 +326,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/kreaal/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kreaal/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/krekk/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/krekk/" />
     </url>
@@ -343,6 +348,16 @@
     <url>
         <loc>https://www.chaoticonline.ml/magmon/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/magmon/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/magmon/retaliator/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/magmon/vingador/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/magmon/engulfed/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/magmon/incorporado/" />
     </url>
 
     <url>

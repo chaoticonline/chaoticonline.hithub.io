@@ -20,6 +20,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ariete-de-fogo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fireram/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/explosao-de-chamas/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/flame-breach/" />
     </url>

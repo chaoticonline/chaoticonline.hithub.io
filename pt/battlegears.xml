@@ -160,6 +160,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/whepcrack/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/whepcrack/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/andarilho-dos-ventos/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/windstrider/" />
     </url>

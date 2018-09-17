@@ -13,7 +13,7 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/attacks.xml</loc>
-        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
     <sitemap>
@@ -28,12 +28,12 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/battlegears.xml</loc>
-        <lastmod>2018-08-30T18:37:20-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/creatures.xml</loc>
-        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
     <!-- Brazilian Portuguese -->
@@ -45,7 +45,7 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/attacks.xml</loc>
-        <lastmod>2018-09-03T13:09:34-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
     <sitemap>
@@ -60,12 +60,12 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/battlegears.xml</loc>
-        <lastmod>2018-08-30T18:37:20-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/creatures.xml</loc>
-        <lastmod>2018-09-03T09:50:33-03:00</lastmod>
+        <lastmod>2018-09-17T11:21:00-03:00</lastmod>
     </sitemap>
 
 </sitemapindex>

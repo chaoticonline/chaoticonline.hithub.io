@@ -2094,7 +2094,7 @@ footer.gdpr a {
 
           height: auto;
           position: relative;
-          width: 26vw;
+          width: 80%;
           z-index: 2;
       }
 
@@ -2143,8 +2143,12 @@ footer.gdpr a {
          * Information Box — i.e. Takinom Shadowknight
          */
         .page .picture .image-credits.left {
-            left: -2rem; /** -2.8rem */
+            left: 1rem; /** -2.8rem */
         }
+
+            .page.locations .picture .image-credits.left {
+                left: 1.2rem;
+            }
 
         .page .image-credits span {
             display: inline-block;
@@ -3324,8 +3328,8 @@ p:empty, p:blank {
         /** Copyright texts between Cards' Images and Information Boxes */
 
         .page .picture:not(._card) .image-credits {
-            bottom: -1.95rem;
-            left: unset; /** Nullifies the effects of `.left` added to left-handed credits */
+            bottom: -2rem;
+            left: unset !important; /** Nullifies the effects of `.left` added to left-handed credits */
             right: 1rem; /** 7rem */
         }
 
