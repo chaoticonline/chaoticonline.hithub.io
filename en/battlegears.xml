@@ -45,6 +45,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/gigantroper/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/gigantroper/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/heptadds-crown/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/coroa-do-heptadd/" />
     </url>

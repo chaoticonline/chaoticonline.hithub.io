@@ -21,7 +21,7 @@
 
     <url>
         <loc>https://www.chaoticonline.ml/castle-pillar/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/castelo-dos-pilares/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-do-castelo/" />
     </url>
 
     <url>
@@ -95,8 +95,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ice-tower/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-gelo/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/iron-pillar/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-ferro/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/jade-pillar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-jade/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/jagged-pillar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-entalhado/" />
     </url>
 
     <url>
@@ -195,6 +210,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/steam-pillar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-vapor/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/stone-pillar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-pedra/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/tablet-sanctuary/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/santuario-das-escrituras/" />
     </url>
@@ -227,6 +252,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/underworld-colosseum/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/coliseu-do-submundo/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/wooden-pillar/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pilar-de-madeira/" />
     </url>
 
 </urlset>
