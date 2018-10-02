@@ -1,5 +1,5 @@
-User-Agent: *
-Allow: .js
-Allow: .css
+﻿User-Agent: *
+Allow: *.js
+Allow: *.css
 
 Sitemap: https://www.chaoticonline.ml/sitemap.xml
