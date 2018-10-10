@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tribeless on Chaotic Online</title><link>https://www.chaoticonline.ml/tribe/tribeless/</link><description>Recent content in Tribeless on Chaotic Online</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.chaoticonline.ml/tribe/tribeless/index.xml" rel="self" type="application/rss+xml"/><item><title>Cromaxx</title><link>https://www.chaoticonline.ml/cromaxx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/cromaxx/</guid><description>&lt;p&gt;&lt;/p&gt;</description></item><item><title>Ursis</title><link>https://www.chaoticonline.ml/ursis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/ursis/</guid><description>&lt;p&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tribeless on Chaotic Online</title>
+    <link>https://www.chaoticonline.ml/tribe/tribeless/</link>
+    <description>Recent content in Tribeless on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.ml/tribe/tribeless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cromaxx</title>
+      <link>https://www.chaoticonline.ml/cromaxx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/cromaxx/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ursis</title>
+      <link>https://www.chaoticonline.ml/ursis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/ursis/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rarity on Chaotic Online</title><link>https://www.chaoticonline.ml/pt/rarity/</link><description>Recent content in Rarity on Chaotic Online</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.chaoticonline.ml/pt/rarity/index.xml" rel="self" type="application/rss+xml"/><item><title>Common</title><link>https://www.chaoticonline.ml/pt/rarity/common/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/common/</guid><description/></item><item><title>Rare</title><link>https://www.chaoticonline.ml/pt/rarity/rare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/rare/</guid><description/></item><item><title>Super</title><link>https://www.chaoticonline.ml/pt/rarity/super/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/super/</guid><description/></item><item><title>Ultra</title><link>https://www.chaoticonline.ml/pt/rarity/ultra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/ultra/</guid><description/></item><item><title>Uncommon</title><link>https://www.chaoticonline.ml/pt/rarity/uncommon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/uncommon/</guid><description/></item><item><title>Unknown</title><link>https://www.chaoticonline.ml/pt/rarity/unknown/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/pt/rarity/unknown/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rarity on Chaotic Online</title>
+    <link>https://www.chaoticonline.ml/pt/rarity/</link>
+    <description>Recent content in Rarity on Chaotic Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.chaoticonline.ml/pt/rarity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/common/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/common/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/rare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/rare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/super/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/super/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/ultra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/ultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncommon</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/uncommon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/uncommon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unknown</title>
+      <link>https://www.chaoticonline.ml/pt/rarity/unknown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chaoticonline.ml/pt/rarity/unknown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
