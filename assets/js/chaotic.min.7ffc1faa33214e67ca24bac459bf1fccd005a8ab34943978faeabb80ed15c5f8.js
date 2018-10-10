@@ -19,12 +19,7 @@ function init(elementScope,customTapHandler){try{if(!elementScope){elementScope=
 var tapHandler=customTapHandler||defaultOnTapHandler;var elements=elementScope.querySelectorAll('abbr[title]');var touchtapHandler=generateTouchtapHandler(tapHandler);for(var i=0;i<elements.length;i++){if(elements[i].addEventListener){elements[i].addEventListener('touchtap',touchtapHandler,false);}
 else{break;}}}
 catch(err){}}
-return init;})();/*!
-* IE10 viewport hack for Surface/desktop Windows 8 bug
-* Copyright 2014-2017 The Bootstrap Authors
-* Copyright 2014-2017 Twitter, Inc.
-* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-*/(function(){'use strict'
+return init;})();(function(){'use strict'
 if(navigator.userAgent.match(/IEMobile\/10\.0/)){var msViewportStyle=document.createElement('style');msViewportStyle.appendChild(document.createTextNode('@-ms-viewport{width:auto!important}'))
 document.head.appendChild(msViewportStyle)}}());$(document).ready(function(){updateGDPRConsentStatus();var hash=window.location.hash;hash&&$('ul.nav-pills a[href="'+hash+'"]').tab('show');var $serverSelection=$('#server-selection');var $loading=$('.loading-icon');if(hash){$serverSelection.hide();$loading.removeClass('hidden');var $provider=$(hash).find('.player');$('<iframe/>',{'src':$provider.parent().attr('data-url')}).attr({'allow':'encrypted-media','allowfullscreen':'','mozallowfullscreen':'','webkitAllowFullScreen':'','scrolling':'no'}).appendTo($provider);$provider.find('iframe').on('load iframeready',onAfterLoad(hash));}
 $('.nav-pills a').on('click',function(e){$('.loading-icon').removeClass('hidden');var $provider=$(this.hash).find('.player');if($provider.find('iframe').length==0){$('<iframe/>',{'src':$provider.parent().attr('data-url')}).attr({'allowfullscreen':'','mozallowfullscreen':'','webkitAllowFullScreen':'','scrolling':'no'}).appendTo($provider);}
