@@ -27,13 +27,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/escamas-do-dractyl/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dractyl-scales/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/marcha-do-terror/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dread-tread/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/droskin/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/droskin/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/escamas-do-dractyl/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dractyl-scales/" />
+        <loc>https://www.chaoticonline.ml/elixir-de-tenacidade/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/elixir-of-tenacity/" />
     </url>
 
     <url>
@@ -97,12 +107,17 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/aniquiladores/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/obliterators/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/dinamitador/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pyroblaster/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/orchis-undin/</loc>
+        <loc>https://www.chaoticonline.ml/orquide-dagua/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/orchis-undin/" />
     </url>
 

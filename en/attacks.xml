@@ -12,6 +12,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/alacritous-force/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/poder-entusiasmado/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/allmageddon/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/allmageddon/" />
     </url>
@@ -34,6 +39,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/fluid-flame/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/chamas-volateis/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/frost-blight/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/ferrugem-de-gelo/" />
     </url>
 
     <url>
@@ -74,6 +84,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/mind-mash/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/esmagamento-mental/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/power-pulse/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pulsos-de-relampago/" />
     </url>
 
     <url>

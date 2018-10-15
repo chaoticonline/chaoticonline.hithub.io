@@ -32,8 +32,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/dread-tread/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/marcha-do-terror/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/droskin/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/droskin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/elixir-of-tenacity/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/elixir-de-tenacidade/" />
     </url>
 
     <url>
@@ -97,13 +107,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/obliterators/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/aniquiladores/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pyroblaster/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/dinamitador/" />
     </url>
 
     <url>
         <loc>https://www.chaoticonline.ml/orchis-undin/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/orchis-undin/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/orquidea-dagua/" />
     </url>
 
     <url>
