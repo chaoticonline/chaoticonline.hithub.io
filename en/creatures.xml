@@ -52,6 +52,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/blazier/citadel-cartographer/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/blazier/cartografo-da-cidadela/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/blugon/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/blugon/" />
     </url>
@@ -143,6 +148,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/mommark/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mommark/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/najarin/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/najarin/" />
     </url>
@@ -205,6 +215,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/tartarek/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/tartarek/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/tartarek/psi-overloader/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/tartarek/opressor-psiquico/" />
     </url>
 
     <url>
@@ -283,6 +298,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/chaor/the-fierce/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/chaor/feroz/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/dardemus/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/dardemus/" />
     </url>
@@ -303,6 +323,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/hearring/tainted/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/hearring/corrompido/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/kerric/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kerric/" />
     </url>
@@ -320,6 +345,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/kiru/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/kiru/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/klasp/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/klasp/" />
     </url>
 
     <url>
@@ -375,6 +405,16 @@
     <url>
         <loc>https://www.chaoticonline.ml/nauthilax/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nauthilax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/nauthilax/tainted/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nauthilax/corrompido/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/nauthilax/aquatic-spy/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nauthilax/espiao-aquatico/" />
     </url>
 
     <url>

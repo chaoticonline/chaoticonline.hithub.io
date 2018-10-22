@@ -37,6 +37,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/decrescendo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/decrescendo/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/diminuendo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/diminuendo/" />
     </url>
