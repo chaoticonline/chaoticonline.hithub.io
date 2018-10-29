@@ -97,6 +97,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/areias-de-contencao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/slowsand/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/tempestade-supercongelante/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/supercooled-rain/" />
     </url>

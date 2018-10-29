@@ -13,27 +13,27 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/attacks.xml</loc>
-        <lastmod>2018-10-14T18:54:01-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/locations.xml</loc>
-        <lastmod>2018-10-10T13:25:17-03:00</lastmod>
+        <lastmod>2018-10-29T15:38:32-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/mugics.xml</loc>
-        <lastmod>2018-10-18T19:03:57-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/battlegears.xml</loc>
-        <lastmod>2018-10-18T08:31:43-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/en/creatures.xml</loc>
-        <lastmod>2018-10-18T18:44:10-03:00</lastmod>
+        <lastmod>2018-10-29T16:57:12-02:00</lastmod>
     </sitemap>
 
     <!-- Brazilian Portuguese -->
@@ -45,27 +45,27 @@
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/attacks.xml</loc>
-        <lastmod>2018-10-14T18:54:01-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/locations.xml</loc>
-        <lastmod>2018-10-10T13:25:17-03:00</lastmod>
+        <lastmod>2018-10-29T15:38:32-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/mugics.xml</loc>
-        <lastmod>2018-10-18T19:03:57-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/battlegears.xml</loc>
-        <lastmod>2018-10-18T08:31:43-03:00</lastmod>
+        <lastmod>2018-10-28T18:49:27-02:00</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.chaoticonline.ml/pt/creatures.xml</loc>
-        <lastmod>2018-10-18T18:44:10-03:00</lastmod>
+        <lastmod>2018-10-29T16:57:12-02:00</lastmod>
     </sitemap>
 
 </sitemapindex>

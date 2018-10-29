@@ -152,6 +152,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/oasis-de-mipedim/festival-da-aichlyys/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mipedim-oasis/aichlyys-fest/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/colina-dos-pilares/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/" />
     </url>
@@ -171,9 +176,19 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/prexxor-chasm/" />
     </url>
 
+        <url>
+        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/" />
+    </url>
+
     <url>
-        <loc>https://www.chaoticonline.ml/carrilhoes-de-raopa-sahkk/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk-chimegrid/" />
+        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/carrilhoes/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/chimegrid" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/oceano-sem-agua/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/the-ocean-with-no-water/" />
     </url>
 
     <url>

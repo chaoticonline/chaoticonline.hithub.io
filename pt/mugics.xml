@@ -201,4 +201,9 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tune-around/" />
     </url>
 
+    <url>
+        <loc>https://www.chaoticonline.ml/melodia-de-xerium/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tune-of-xerium/" />
+    </url>
+
 </urlset>

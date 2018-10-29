@@ -128,6 +128,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ikkatosh/guardian-of-nature/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ikkatosh/guardiao-da-natureza/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/ikkatosh/the-aich-king/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ikkatosh/rei-dos-aich/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/intress/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/intress/" />
     </url>
@@ -175,6 +185,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/prantix/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/prantix/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/psimion/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/psimion/" />
     </url>
 
     <url>
@@ -478,8 +493,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/abin-wor/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/abin-wor/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/ario/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ario/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/bivike/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/bivike/" />
     </url>
 
     <url>
@@ -493,13 +518,33 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/grantkae-mipedian-general/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/grantkae-general-mipedian/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/headmaster-ankhyja/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/mestre-ankhyja/" />
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/jorre-mipedian-lieutenant/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/jorre-tenente-mipedian/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/malvadine/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/malvadine/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mizkio/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mizkio/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/noaz-mipedian-cavalerist/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/noaz-cavaleiro-mipedian/" />
     </url>
 
     <url>
