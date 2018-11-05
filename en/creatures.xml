@@ -483,6 +483,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ulmar/wavescrambler/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ulmar/embaralhador-cerebral/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/ulmar/perithon-racer/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ulmar/piloto-da-perithon/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/zalvar/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/zalvar/" />
     </url>
@@ -538,6 +548,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/malvadine/the-kings-herald/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/malvadine/arauto-do-rei/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/mizkio/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mizkio/" />
     </url>
@@ -578,6 +593,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/theb-sarr/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/theb-sarr/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/tiaane/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/tiaane/" />
     </url>
@@ -595,6 +615,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/zhade/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/zhade/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/zhade/dig-site-defender/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/zhade/protetor-da-escavacao/" />
     </url>
 
     <url>
