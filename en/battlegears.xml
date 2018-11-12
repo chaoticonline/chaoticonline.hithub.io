@@ -182,6 +182,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/ulmanator/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/ulmanator/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/viledriver/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/viledriver/" />
     </url>
