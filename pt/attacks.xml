@@ -27,6 +27,21 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/devastacao-das-aguas-mortas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/deadwater-devastation/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/enfraquecimento-degenerativo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/degenervate/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/investida-destemida/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fearless-strike/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/ariete-de-fogo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fireram/" />
     </url>
@@ -49,6 +64,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/eferas-glaciais/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/glacial-balls/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/garra-de-aterramento/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/grounding-grapple/" />
     </url>
 
     <url>
@@ -87,13 +107,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/flechas-de-plasma/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/plasmarrow/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pulsos-de-relampago/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/power-pulse/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/flechas-de-plasma/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/plasmarrow/" />
+        <loc>https://www.chaoticonline.ml/esmagamento-primitivo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/primal-smash/" />
     </url>
 
     <url>
@@ -114,6 +139,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/funil-de-turbulencia/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/turbulence-funnel/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/ataque-tribal-unificado/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/unified-tribecharge/" />
     </url>
 
     <url>

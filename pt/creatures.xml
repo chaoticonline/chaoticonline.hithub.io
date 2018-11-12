@@ -167,6 +167,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/nebres/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/nebres/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/olkiex/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/olkiex/" />
     </url>
@@ -227,6 +232,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/targubaj/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/targubaj/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/tartarek/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tartarek/" />
     </url>
@@ -259,6 +269,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/pt/vidav/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/vidav/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/viqtarr/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/viqtarr/" />
     </url>
 
     <url>
@@ -392,6 +407,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/lyssta/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lyssta/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/magmon/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/magmon/" />
     </url>
@@ -423,12 +443,12 @@
 
     <url>
         <loc>https://www.chaoticonline.ml/nauthilax/corrompido/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nauthilax/tainted/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pt/nauthilax/tainted/" />
     </url>
 
     <url>
         <loc>https://www.chaoticonline.ml/nauthilax/espiao-aquatico/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nauthilax/aquatic-spy/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pt/nauthilax/aquatic-spy/" />
     </url>
 
     <url>
@@ -439,6 +459,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/pt/pyrithion/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/pyrithion/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/rothar/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/rothar/" />
     </url>
 
     <url>
@@ -487,6 +512,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/ultadur/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ultadur/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/zalvar/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/zalvar/" />
     </url>
@@ -517,8 +547,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/drimesse/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/drimesse/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/enre-hep/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/enre-hep/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/fivarth/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fivarth/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/ghatup/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ghatup/" />
     </url>
 
     <url>
@@ -572,6 +617,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/savell/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/savell/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/shimmark/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/shimmark/" />
     </url>
@@ -622,6 +672,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/aimukk/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/aimukk/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/bierk/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/bierk/" />
     </url>
@@ -632,8 +687,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/faash/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/faash/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/galin/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/galin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/gorram-general-danian/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gorram-general-danian/" />
     </url>
 
     <url>
@@ -689,6 +754,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/pt/skartalas/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/skartalas/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/tassanil/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tassanil/" />
     </url>
 
     <url>
