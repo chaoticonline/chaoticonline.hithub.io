@@ -161,14 +161,14 @@
 			<video:tag>major tom</video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
 			<video:tag>kidchaor</video:tag>
-			<video:tag>outro mundo</video:tag>
-			<video:tag>submundo</video:tag>
 			<video:tag>maxxor</video:tag>
 			<video:tag>velreth</video:tag>
 			<video:tag>maglax</video:tag>
 			<video:tag>chaor</video:tag>
 			<video:tag>takinom</video:tag>
 			<video:tag>magmon</video:tag>
+			<video:tag>hercu-leon</video:tag>
+			<video:tag>campo de batalha crellan</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -371,6 +371,7 @@
 			<video:tag>submundo</video:tag>
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>floresta da vida</video:tag>
 			<video:tag>dractyl</video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
@@ -383,7 +384,6 @@
 			<video:tag>major tom</video:tag>
 			<video:tag>escamas do dractyl</video:tag>
 			<video:tag>reggieone</video:tag>
-			<video:tag>reginald terrington</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -414,6 +414,7 @@
 			<video:tag>submundo</video:tag>
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
 			<video:tag>kidchaor</video:tag>
 			<video:tag>tom majors</video:tag>
@@ -426,7 +427,6 @@
 			<video:tag>maxxor</video:tag>
 			<video:tag>can&amp;ccedil;&amp;atilde;o da invers&amp;atilde;o</video:tag>
 			<video:tag>zhade</video:tag>
-			<video:tag>invisibilidade</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -991,55 +991,12 @@
 	<url>
 		<loc>https://www.chaoticonline.ml/videos/stelgar-ataca/</loc>
 		<video:video>
-			<video:player_loc>https://www.youtube-nocookie.com/embed/hoarjZsF7Eo?rel=0&amp;amp;showinfo=0</video:player_loc>
+			<video:player_loc>https://www.youtube-nocookie.com/embed/3QfXXJBmLJ8?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Stelgar Ataca | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse espisódio conheceremos o Mommark, um cientista louco do Outro Mundo, e uma de suas criações, Stelgar.]]></video:description>
 			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:duration>1342</video:duration>
-			<video:publication_date>2016-10-25T10:57:00-03:00</video:publication_date>
-			<video:tag>chaotic</video:tag>
-			<video:tag>rumo ao chaotic</video:tag>
-			<video:tag>tv show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-			<video:tag>criatura</video:tag>
-			<video:tag>equipamento de batalha</video:tag>
-			<video:tag>mugic</video:tag>
-			<video:tag>local</video:tag>
-			<video:tag>outro mundo</video:tag>
-			<video:tag>submundo</video:tag>
-			<video:tag>mipedians</video:tag>
-			<video:tag>danians</video:tag>
-			<video:tag>stelgar ataca</video:tag>
-			<video:tag>floresta da chuva eterna</video:tag>
-			<video:tag>klasp</video:tag>
-			<video:tag>ettala</video:tag>
-			<video:tag>peyton touhey</video:tag>
-			<video:tag>peytonicmaster</video:tag>
-			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
-			<video:tag>kidchaor</video:tag>
-			<video:tag>tom majors</video:tag>
-			<video:tag>major tom</video:tag>
-			<video:tag>floresta pouril</video:tag>
-			<video:tag>castelo mommark</video:tag>
-			<video:tag>stelgar</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.ml/videos/stelgar-ataca/</loc>
-		<video:video>
-			<video:player_loc>https://player.vimeo.com/video/259458957?color=FFFFFF&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0</video:player_loc>
-			<video:title><![CDATA[Stelgar Ataca | Chaotic Online]]></video:title>
-			<video:description><![CDATA[Nesse espisódio conheceremos o Mommark, um cientista louco do Outro Mundo, e uma de suas criações, Stelgar.]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:duration>1342</video:duration>
-			<video:publication_date>2018-03-10T09:09:00-03:00</video:publication_date>
+			<video:duration>1337</video:duration>
+			<video:publication_date>2018-10-22T16:57:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
 			<video:tag>rumo ao chaotic</video:tag>
 			<video:tag>tv show</video:tag>
@@ -1077,55 +1034,12 @@
 	<url>
 		<loc>https://www.chaoticonline.ml/videos/as-cronicas-do-codemaster-parte-1/</loc>
 		<video:video>
-			<video:player_loc>https://www.youtube-nocookie.com/embed/DIMtF4bTPA8?rel=0&amp;amp;showinfo=0</video:player_loc>
+			<video:player_loc>https://www.youtube-nocookie.com/embed/UEDN2JKtMs4?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 1) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a primeira parte da mais sensacional de todas as lutas de Chaotic: A Batalha entre Tom Majors e o CodeMaster Crellan!]]></video:description>
 			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:duration>1313</video:duration>
-			<video:publication_date>2016-10-27T11:22:00-03:00</video:publication_date>
-			<video:tag>chaotic</video:tag>
-			<video:tag>rumo ao chaotic</video:tag>
-			<video:tag>tv show</video:tag>
-			<video:tag>2006</video:tag>
-			<video:tag>escolha do editor</video:tag>
-			<video:tag>anima&amp;ccedil;&amp;atilde;o</video:tag>
-			<video:tag>aventura</video:tag>
-			<video:tag>fantasia</video:tag>
-			<video:tag>dublado</video:tag>
-			<video:tag>portugu&amp;ecirc;s brasileiro</video:tag>
-			<video:tag>HD</video:tag>
-			<video:tag>720p</video:tag>
-			<video:tag>criatura</video:tag>
-			<video:tag>equipamento de batalha</video:tag>
-			<video:tag>mugic</video:tag>
-			<video:tag>local</video:tag>
-			<video:tag>outro mundo</video:tag>
-			<video:tag>submundo</video:tag>
-			<video:tag>mipedians</video:tag>
-			<video:tag>danians</video:tag>
-			<video:tag>sem tribo</video:tag>
-			<video:tag>as cr&amp;ocirc;nicas do codemaster (parte 1)</video:tag>
-			<video:tag>barath beyond</video:tag>
-			<video:tag>klay</video:tag>
-			<video:tag>klaybourne</video:tag>
-			<video:tag>sarah beth cornwell</video:tag>
-			<video:tag>chaotikween</video:tag>
-			<video:tag>codemaster imthor</video:tag>
-			<video:tag>peyton touhey</video:tag>
-			<video:tag>peytonicmaster</video:tag>
-			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
-			<video:tag>kidchaor</video:tag>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://www.chaoticonline.ml/videos/as-cronicas-do-codemaster-parte-1/</loc>
-		<video:video>
-			<video:player_loc>https://player.vimeo.com/video/260732972?color=FFFFFF&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0</video:player_loc>
-			<video:title><![CDATA[As Crônicas do CodeMaster (Parte 1) | Chaotic Online]]></video:title>
-			<video:description><![CDATA[Nesse episódio veremos a primeira parte da mais sensacional de todas as lutas de Chaotic: A Batalha entre Tom Majors e o CodeMaster Crellan!]]></video:description>
-			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-1.jpg</video:thumbnail_loc>
-			<video:duration>1313</video:duration>
-			<video:publication_date>2018-03-19T07:23:00-03:00</video:publication_date>
+			<video:duration>1293</video:duration>
+			<video:publication_date>2018-11-05T12:12:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
 			<video:tag>rumo ao chaotic</video:tag>
 			<video:tag>tv show</video:tag>
@@ -1895,6 +1809,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/wLmziFEM8zw?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Um Perigo Raro | Chaotic Online]]></video:title>
 			<video:description><![CDATA[No primeiro episódio da Segunda Temporada veremos o desfecho dos acontecimentos do episódio anterior, com direito a terrorismo e espionagem.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1380</video:duration>
 			<video:publication_date>2017-01-02T12:03:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -1937,6 +1852,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/cp5UWUmiKsA?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Perigos da Diplomacia | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos que é mais fácil pegar formigas com mel do que com vinagre, mas que mel demais pode não ser uma boa idéia também.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1369</video:duration>
 			<video:publication_date>2017-01-06T11:53:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -1961,7 +1877,7 @@
 			<video:tag>sarah beth cornwell</video:tag>
 			<video:tag>chaotikween</video:tag>
 			<video:tag>raznus</video:tag>
-			<video:tag> embaixador danian</video:tag>
+			<video:tag>embaixador danian</video:tag>
 			<video:tag>levitaar</video:tag>
 			<video:tag>krekk</video:tag>
 			<video:tag>illazar</video:tag>
@@ -1970,7 +1886,7 @@
 			<video:tag>can&amp;ccedil;&amp;atilde;o do &amp;ecirc;xtase</video:tag>
 			<video:tag>odu-bathax</video:tag>
 			<video:tag>kolmo</video:tag>
-			<video:tag> assimilado</video:tag>
+			<video:tag>assimilado</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -1979,6 +1895,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/V0dYZte6tww?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Um Pai em Apuros | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pai tagarela e sabichão caindo na real após um desafio qádruplo.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1332</video:duration>
 			<video:publication_date>2017-01-09T12:12:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2021,6 +1938,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/hnyDqno2ymQ?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Confronto no Coliseu | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um pequeno mal-entendido terminar de forma épica no melhor estilo Gigantes de Aço.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1369</video:duration>
 			<video:publication_date>2017-01-13T12:43:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2063,6 +1981,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/eZa9ACMJZKE?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Na Onda de Pedra do Rock | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos um luta entre Peyton e seu ídolo musical, com direito até a uma sutil homenagem à um dos vocalistas do KISS, Gene Simmons.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1368</video:duration>
 			<video:publication_date>2017-01-16T10:51:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2105,6 +2024,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/hg8g9NVgoto?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 1) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse espisódio veremos um esquadrão de elite liderado por Chaor numa ousada invasão à Cidade Kiru rumo ao Arsenal do Outro Mundo.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1417</video:duration>
 			<video:publication_date>2017-01-20T11:07:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2147,6 +2067,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/xHkn5qWQBG0?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Guerreiros de Chaor (Parte 2) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior veremos a invasão de Chaor ao Arsenal do Outro Mundo na Cidade Kiru. In the continuation of the previous episode we’ll see Chaor’s invasion to the Overworld Arsenal in Kiru City.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1362</video:duration>
 			<video:publication_date>2017-01-23T10:25:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2189,6 +2110,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/hk42ENEqX9s?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Mega Disputa | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a competição interna entre Kaz e Peyton para saber quem é o melhor jogador de Chaotic chegar a outro nível… só que agora sobrou pro Tom.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1328</video:duration>
 			<video:publication_date>2017-01-27T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2231,6 +2153,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/JPa5ZWJGJHk?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Tempo Esgotado | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma cinzenta, silenciosa, “Visão do Futuro” com um pequeno e sutil spoiler do ápice da temporada.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1317</video:duration>
 			<video:publication_date>2017-01-30T09:58:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2269,6 +2192,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/z5fWW7LC1KA?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Gigantempopolis | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Gigantempopolis, um lugar deserto, cheio de mistérios, tesouro e, claro, maldições, no melhor estilo de O Senhor dos Anéis.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1363</video:duration>
 			<video:publication_date>2017-02-03T10:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2308,6 +2232,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/qTxBdSV4_58?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Feras da Guerra | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após muito tempo sem aprontar com outros jogadores, Krystella e Klay armam pro Peyton conseguir o scan de um Fera da Guerra, um gigantesco titã Mipedian tão poderoso quando lunático e, aparentemente, incontrolável.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1339</video:duration>
 			<video:publication_date>2017-02-06T10:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2350,6 +2275,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/ZSbvZnb0474?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Das Profundezas (Parte 1) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma misteriosa Criatura de um passado há muito esquecido passado ressurge novamente com revelações surpreendentes e perturbadoras sobre o futuro de Perim.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1346</video:duration>
 			<video:publication_date>2017-02-10T11:38:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2392,6 +2318,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/7fJzq7AC9t0?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Das Profundezas (Parte 2) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Na continuação do episódio anterior, traição, lavagem cerebral, golpe militar e o princípio do fim… Que comece a Invasão!]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1328</video:duration>
 			<video:publication_date>2017-02-13T10:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2423,7 +2350,7 @@
 			<video:tag>pilar de gelo</video:tag>
 			<video:tag>khybon</video:tag>
 			<video:tag>khybon</video:tag>
-			<video:tag> renegado</video:tag>
+			<video:tag>renegado</video:tag>
 			<video:tag>jiggorex</video:tag>
 			<video:tag>phelphor</video:tag>
 		</video:video>
@@ -2434,6 +2361,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/P8CNa3UIXLA?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Um Conto de Dois Toms | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio uma versão mais descolada do nosso protagonista entra em cena e, graças à um empurrãozinho, acaba em briga, no melhor estilo Chaotic.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1331</video:duration>
 			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2476,6 +2404,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/XNFiFaIpczE?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Combate à Praga | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Garv, o Zelador do Outro Mundo responsável pelo Lago Morn, ajudando Tom (e Smildon) a curar o Abismo Prexxor da Praga ao invés de combatê-la na força bruta.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1352</video:duration>
 			<video:publication_date>2017-02-22T09:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2502,7 +2431,7 @@
 			<video:tag>sem tribo</video:tag>
 			<video:tag>combate &amp;agrave; praga</video:tag>
 			<video:tag>abismo prexxor</video:tag>
-			<video:tag> a doen&amp;ccedil;a</video:tag>
+			<video:tag>a doen&amp;ccedil;a</video:tag>
 			<video:tag>tangath toborn</video:tag>
 			<video:tag>gigantrooper</video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
@@ -2518,6 +2447,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/cw0aO7AX3Vc?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Novata | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Shinwan, uma novata obstinada o bastante para ser a primeira em Chaotic a conseguir o scan de um M&amp;rsquo;arrillian.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1366</video:duration>
 			<video:publication_date>2017-02-25T13:27:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2560,6 +2490,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/k_uWUHIstHY?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Colocando o Muge no Mugic | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio teremos uma guerra territorial tão rotineira quanto desnecessária (mesmo!) completa com traição, sabotagem e contra-espionagem entre o Outro Mundo e os Mipedians.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1411</video:duration>
 			<video:publication_date>2017-02-25T13:37:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2602,6 +2533,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/kM9RlGQpB94?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Mister E | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos mais sobre o poder dos M&amp;rsquo;arrillians e o início de um dos possíveis futuros mostrados em &amp;ldquo;Tempo Esgotado”.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1315</video:duration>
 			<video:publication_date>2017-02-26T18:56:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2630,7 +2562,7 @@
 			<video:tag>kidchaor</video:tag>
 			<video:tag>milla&amp;amp;amp;#39;iin</video:tag>
 			<video:tag>h&amp;amp;amp;#39;earring</video:tag>
-			<video:tag> corrompido</video:tag>
+			<video:tag>corrompido</video:tag>
 			<video:tag>peyton touhey</video:tag>
 			<video:tag>peytonicmaster</video:tag>
 			<video:tag>tom majors</video:tag>
@@ -2644,6 +2576,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/13J4JKLryq4?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Quando um CodeMaster Chama... | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Peyton partir numa jornada em território M&amp;rsquo;arrillian em nome do CodeMaster Hotekk para se tornar seu aprendiz… só que não.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1389</video:duration>
 			<video:publication_date>2017-02-27T09:13:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2686,6 +2619,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/hZfkPp7XXsk?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Terra para Kaz | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a paixão por Chaotic de Kaz se tornar um problema para ele quando este precisa provar ao psicólogo de sua escola que Chaotic é um lugar real o.O]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1388</video:duration>
 			<video:publication_date>2017-02-27T09:23:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2718,7 +2652,7 @@
 			<video:tag>can&amp;ccedil;&amp;atilde;o de geonova</video:tag>
 			<video:tag>milla&amp;amp;amp;#39;iin</video:tag>
 			<video:tag>carnaval da confus&amp;atilde;o</video:tag>
-			<video:tag> jogos mentais</video:tag>
+			<video:tag>jogos mentais</video:tag>
 			<video:tag>r&amp;eacute;quiem da nega&amp;ccedil;&amp;atilde;o</video:tag>
 		</video:video>
 	</url>
@@ -2728,6 +2662,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/y46Bk9iGoPs?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Raznus Retorna | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma escavação problemática leva alguns Mandiblors liderados por Odu-Bathax e Raznus, ex-embaixador Danian pelo Outro Mundo agora assimilado, para dentro do Arsenal do Outro Mundo.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1315</video:duration>
 			<video:publication_date>2017-02-27T09:33:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2761,7 +2696,7 @@
 			<video:tag>mandiblors</video:tag>
 			<video:tag>odu-bathax</video:tag>
 			<video:tag>raznus</video:tag>
-			<video:tag> assimilado</video:tag>
+			<video:tag>assimilado</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -2770,6 +2705,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/Flg1qkZ4Q88?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Guerreiros da Eternidade | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Sarah é atacada por um fantasma Mipedian e seus amigos, enquanto procuram por ela, se unem a um grupo de Mipedians que buscam pelo lendário Owayki e seus Guerreiros de Pedra, imunes ao controle mental M&amp;rsquo;arrillian.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1317</video:duration>
 			<video:publication_date>2017-02-27T09:50:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2797,11 +2733,11 @@
 			<video:tag>per&amp;iacute;metro do ca&amp;ccedil;ador</video:tag>
 			<video:tag>vinta</video:tag>
 			<video:tag>dakkamal</video:tag>
-			<video:tag> treinador de combate</video:tag>
+			<video:tag>treinador de combate</video:tag>
 			<video:tag>ario</video:tag>
 			<video:tag>sobtjek</video:tag>
 			<video:tag>skkeral</video:tag>
-			<video:tag> o s&amp;aacute;bio</video:tag>
+			<video:tag>o s&amp;aacute;bio</video:tag>
 			<video:tag>guerreiros de owayki</video:tag>
 			<video:tag>ac&amp;oacute;litos de dakkamal</video:tag>
 		</video:video>
@@ -2812,6 +2748,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/0wiAbiUCEQE?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Submundo Derrotado | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Chaor e seus leais guerreiros executarem um plano de batalha contra os M&amp;rsquo;arrillians no Pântano da Escuridão.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1368</video:duration>
 			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2839,7 +2776,7 @@
 			<video:tag>asadab</video:tag>
 			<video:tag>kraade</video:tag>
 			<video:tag>h&amp;amp;amp;#39;earring</video:tag>
-			<video:tag> corrompido</video:tag>
+			<video:tag>corrompido</video:tag>
 			<video:tag>ooloo</video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
 			<video:tag>kidchaor</video:tag>
@@ -2854,6 +2791,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/DdEnU980nmE?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Ameaça Tripla | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos a Aliança Tribal superando suas diferenças culturais para que unidos possam talvez ter uma chance contra os M&amp;rsquo;arrillians.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1354</video:duration>
 			<video:publication_date>2017-01-02T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2896,6 +2834,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/1j5t3vUbAhU?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Confronto Final (Parte 1) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, o princípio do fim… a batalha por Perim é agora!]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1394</video:duration>
 			<video:publication_date>2017-02-27T10:29:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2938,6 +2877,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/dt0Ys8dIrN0?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Confronto Final (Parte 2) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio a batalha continua em diferentes regiões de Perim ao mesmo tempo… e também na própria Aliança Tribal.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1380</video:duration>
 			<video:publication_date>2017-02-23T10:45:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -2980,6 +2920,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/DpxzRBZiHxA?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Legiões de Aa&#39;une (Season Finale) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, a batalha continua com reviravoltas e algumas transformações… e o fim!]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-2.jpg</video:thumbnail_loc>
 			<video:duration>1386</video:duration>
 			<video:publication_date>2017-02-27T10:54:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3005,7 +2946,7 @@
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
 			<video:tag>legi&amp;otilde;es de aa&amp;amp;amp;#39;une</video:tag>
 			<video:tag>geleiras</video:tag>
-			<video:tag> canh&amp;atilde;o de calor m&amp;amp;amp;#39;arrillian</video:tag>
+			<video:tag>canh&amp;atilde;o de calor m&amp;amp;amp;#39;arrillian</video:tag>
 			<video:tag>tangath toborn</video:tag>
 			<video:tag>sinfonia do &amp;ecirc;xtase</video:tag>
 			<video:tag>nebres</video:tag>
@@ -3022,6 +2963,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/5Sr-r57NbJw?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Perithon! | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após uma intensa batalha e uma vitória gloriosa sobre os M&amp;rsquo;arrillians, as Tribos decidem manter a Aliança Tribal rumo à uma próspera Perim e, para celebrar a paz, fazem uma corrida de carros… mas velhos hábitos nunca mudam…]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1365</video:duration>
 			<video:publication_date>2017-03-13T12:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3064,6 +3006,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/3re9ooPlV9Q?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Mundos Divididos | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Jycella, irmã gêmea da Krystella, e veremos que o mau relacionamento entre as duas, até que comum entre humanos, também acontece em Perim, com as irmãs gêmeas Aivenna e Nivenna.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1317</video:duration>
 			<video:publication_date>2017-03-13T12:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3106,6 +3049,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/XIsE9xYRKZQ?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Robôs da Pesada | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio o Dr. Frankenstein de Perim resolve implantar parte de seu próprio cérebro nos Gigantroopers, tornando-os inteligentes o bastante para uma tentativa de dominação do Submundo resultando numa batalha no melhor estilo Círculo de Fogo.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1322</video:duration>
 			<video:publication_date>2017-03-13T12:30:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3136,7 +3080,7 @@
 			<video:tag>peyton touhey</video:tag>
 			<video:tag>peytonicmaster</video:tag>
 			<video:tag>na-inna</video:tag>
-			<video:tag> rebelde de rao&amp;amp;amp;#39;pa sahkk</video:tag>
+			<video:tag>rebelde de rao&amp;amp;amp;#39;pa sahkk</video:tag>
 			<video:tag>tom majors</video:tag>
 			<video:tag>major tom</video:tag>
 			<video:tag>kazdan &amp;amp;amp;#34;kaz&amp;amp;amp;#34; kalinkas</video:tag>
@@ -3148,6 +3092,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/KAau1qs51L0?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 1) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Tom vence a sétima batalha no Campo Hotekk e, com isso, é desafiado pelo próprio CodeMaster.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1325</video:duration>
 			<video:publication_date>2017-03-22T13:27:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3190,6 +3135,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/PIXXF684R-o?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[O Desafio de Hotekk (Parte 2) | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, após vencer de forma muito inteligente o CodeMaster Hotekk, Tom fica bastante decepcionado com sua recompensa… até ele e seus amigos descobrirem que um Local deserto e não muito interssante na verdade é muito mais do que parece (mesmo!)]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1307</video:duration>
 			<video:publication_date>2017-03-23T12:41:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3223,7 +3169,7 @@
 			<video:tag>chaotikween</video:tag>
 			<video:tag>codemaster hotekk</video:tag>
 			<video:tag>maxxor</video:tag>
-			<video:tag> protetor of perim</video:tag>
+			<video:tag>protetor of perim</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -3232,6 +3178,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/FW8--ZLs0RQ?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Heróis de Ontem | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos Vlar, um ladrão renegado pela Tribo do Outro Mundo da Perim Pré-histórica o qual, possivelmente, é o ancestral do Maxxor.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1345</video:duration>
 			<video:publication_date>2017-03-24T13:06:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3274,6 +3221,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/LJKMQH0fmxc?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Círculo dos Perdedores | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, Kaz está tão empolgado com seus novos scans da Perim pré-histórica que decide desafiar cada um dos jogadores que já o derrotou, achando que ninguém seria páreo pra ele&amp;hellip; até que seu arquiinimigo prova o contrário.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1317</video:duration>
 			<video:publication_date>2017-03-27T22:47:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3316,6 +3264,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/nSl-4rs7DxE?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Uma Missão Gigantesca | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio veremos Vlar guiar Kiru e seus guerreiros pelo Templo da Gigantempopolis pré-histórica, quando os gigantes estavam vivos, na tentativa de dissuadir Kaal a não invadir mais a Cidade Kiru, porém, durante a viagem, o próprio futuro do Outro Mundo foi traçado.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1367</video:duration>
 			<video:publication_date>2017-03-28T10:17:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3358,6 +3307,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/Ymihj_hnOFo?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Fronteira da Destruição | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma vez que o segredo sobre Fronteira Dranakis vazou, vários jogadores viajaram para a Perim pré-histórica, inclusive a “Bonnie e o Clyde” de Chaotic, que não demoraram em conspirar com um velho conhecido, fazendo com que um doloroso acontecido se tornasse, potencialmente, irreversível.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1371</video:duration>
 			<video:publication_date>2017-03-29T17:10:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3400,6 +3350,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/pvT8J6-9D8s?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Uma Aventura do Peytonic | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma aventura bem ao estilo 007 na qual Peyton é desafiado por um falsificador de obras de arte mundialmente famoso para uma partida de Chaotic.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1362</video:duration>
 			<video:publication_date>2017-03-30T12:16:41-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3442,6 +3393,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/6YM5b0rW7Z4?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Elementar | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio conheceremos os quatro Servos Elementais da Cidade Perdida e uma batalha em Chaotic com eles todos ao mesmo tempo.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1417</video:duration>
 			<video:publication_date>2017-03-31T12:18:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3467,15 +3419,15 @@
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
 			<video:tag>elementar</video:tag>
 			<video:tag>kaizeph</video:tag>
-			<video:tag> cidade dos elementos</video:tag>
+			<video:tag>cidade dos elementos</video:tag>
 			<video:tag>nom</video:tag>
-			<video:tag> servo da earth</video:tag>
+			<video:tag>servo da earth</video:tag>
 			<video:tag>silv</video:tag>
-			<video:tag> servo do air</video:tag>
+			<video:tag>servo do air</video:tag>
 			<video:tag>unda</video:tag>
-			<video:tag> serva da water</video:tag>
+			<video:tag>serva da water</video:tag>
 			<video:tag>seeryn</video:tag>
-			<video:tag> servo do fire</video:tag>
+			<video:tag>servo do fire</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -3484,6 +3436,7 @@
 			<video:player_loc>https://www.youtube-nocookie.com/embed/i4_O7J2wBqk?rel=0&amp;amp;showinfo=0</video:player_loc>
 			<video:title><![CDATA[Filho da Terra dos Espíritos | Chaotic Online]]></video:title>
 			<video:description><![CDATA[Nesse episódio, uma Criatura aparentemente indestrutível vinda da Terra dos Espíritos, ameaça destruir Perim a não ser que Tangath Toborn o enfrente.]]></video:description>
+			<video:thumbnail_loc>https://www.chaoticonline.ml/assets/images/videos/season-3.jpg</video:thumbnail_loc>
 			<video:duration>1379</video:duration>
 			<video:publication_date>2017-04-01T15:40:00-03:00</video:publication_date>
 			<video:tag>chaotic</video:tag>
@@ -3509,7 +3462,7 @@
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
 			<video:tag>filho da terra dos esp&amp;iacute;ritos</video:tag>
 			<video:tag>maxxor</video:tag>
-			<video:tag> protetor of perim</video:tag>
+			<video:tag>protetor of perim</video:tag>
 			<video:tag>armadura de xerium</video:tag>
 			<video:tag>heptadd</video:tag>
 			<video:tag>coroa de heptad</video:tag>
@@ -3548,10 +3501,11 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>progress&amp;atilde;o adaptativa</video:tag>
 			<video:tag>akkerbal</video:tag>
 			<video:tag>lore</video:tag>
-			<video:tag> invocador dos ancestrais</video:tag>
+			<video:tag>invocador dos ancestrais</video:tag>
 			<video:tag>torrna</video:tag>
 		</video:video>
 	</url>
@@ -3583,8 +3537,9 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>magmon</video:tag>
-			<video:tag> retaliador</video:tag>
+			<video:tag>retaliador</video:tag>
 			<video:tag>khorror</video:tag>
 			<video:tag>gan&amp;amp;amp;#39;nim</video:tag>
 		</video:video>
@@ -3617,10 +3572,11 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>aivenna</video:tag>
-			<video:tag> tenente do outro mundo</video:tag>
+			<video:tag>tenente do outro mundo</video:tag>
 			<video:tag>nivenna</video:tag>
-			<video:tag> tenente do submundo</video:tag>
+			<video:tag>tenente do submundo</video:tag>
 			<video:tag>cyclance</video:tag>
 			<video:tag>drabe</video:tag>
 		</video:video>
@@ -3653,11 +3609,12 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>guerreiro mipedian</video:tag>
 			<video:tag>fasseph</video:tag>
 			<video:tag>kojjbel</video:tag>
 			<video:tag>gintanai</video:tag>
-			<video:tag> o esquecido</video:tag>
+			<video:tag>o esquecido</video:tag>
 			<video:tag>fera da guerra</video:tag>
 		</video:video>
 	</url>
@@ -3689,12 +3646,13 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>arrthoa</video:tag>
-			<video:tag> capit&amp;atilde;o da ezoa</video:tag>
+			<video:tag>capit&amp;atilde;o da ezoa</video:tag>
 			<video:tag>stelga</video:tag>
-			<video:tag> muta&amp;ccedil;&amp;atilde;o maligna</video:tag>
+			<video:tag>muta&amp;ccedil;&amp;atilde;o maligna</video:tag>
 			<video:tag>tharc</video:tag>
-			<video:tag> tradutor das escrituras</video:tag>
+			<video:tag>tradutor das escrituras</video:tag>
 			<video:tag>batedor</video:tag>
 			<video:tag>muge</video:tag>
 			<video:tag>guerreiro</video:tag>
@@ -3728,11 +3686,12 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>pulso terrestre</video:tag>
 			<video:tag>blazier</video:tag>
-			<video:tag> cart&amp;oacute;grafo da cidadela</video:tag>
+			<video:tag>cart&amp;oacute;grafo da cidadela</video:tag>
 			<video:tag>lomma</video:tag>
-			<video:tag> andarilha do deserto</video:tag>
+			<video:tag>andarilha do deserto</video:tag>
 			<video:tag>eremia</video:tag>
 			<video:tag>elemento terra</video:tag>
 		</video:video>
@@ -3765,13 +3724,14 @@
 			<video:tag>mipedians</video:tag>
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
+			<video:tag></video:tag>
 			<video:tag>orqu&amp;iacute;dea d&amp;amp;amp;#39;&amp;aacute;gua</video:tag>
 			<video:tag>kopond</video:tag>
-			<video:tag> supremo muge das chamas</video:tag>
+			<video:tag>supremo muge das chamas</video:tag>
 			<video:tag>yondaf</video:tag>
-			<video:tag> infectante simbi&amp;oacute;tico</video:tag>
+			<video:tag>infectante simbi&amp;oacute;tico</video:tag>
 			<video:tag>rath&amp;amp;amp;#39;tab</video:tag>
-			<video:tag> leitor de mentes</video:tag>
+			<video:tag>leitor de mentes</video:tag>
 		</video:video>
 	</url>
 	<url>
@@ -3803,18 +3763,18 @@
 			<video:tag>danians</video:tag>
 			<video:tag>m&amp;amp;amp;#39;arrillians</video:tag>
 			<video:tag>tribeless</video:tag>
+			<video:tag></video:tag>
 			<video:tag>ihun&amp;amp;amp;#39;kalin</video:tag>
-			<video:tag> mestre psi&amp;ocirc;nico</video:tag>
+			<video:tag>mestre psi&amp;ocirc;nico</video:tag>
 			<video:tag>cromaxx</video:tag>
 			<video:tag>iparu</video:tag>
-			<video:tag> aliado met&amp;aacute;lico</video:tag>
+			<video:tag>aliado met&amp;aacute;lico</video:tag>
 			<video:tag>proboscar</video:tag>
 			<video:tag>maxxor</video:tag>
-			<video:tag> protetor of perim</video:tag>
+			<video:tag>protetor of perim</video:tag>
 			<video:tag>slufurah</video:tag>
-			<video:tag> tradutor trai&amp;ccedil;oeiro</video:tag>
+			<video:tag>tradutor trai&amp;ccedil;oeiro</video:tag>
 			<video:tag>taffial</video:tag>
-			<video:tag> ca&amp;ccedil;ador da cothica</video:tag>
 		</video:video>
 	</url>
 </urlset>
