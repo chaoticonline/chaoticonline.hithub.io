@@ -83,6 +83,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/drabe/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/drabe/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/dractyl/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/dractyl/" />
     </url>
@@ -125,6 +130,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/hune-marquard/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/hune-marquard/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/hune-paltanin/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/hune-paltanin/" />
     </url>
 
     <url>
@@ -755,6 +765,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/odu-bathax/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/odu-bathax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/raznus-assimilated/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/raznus-assimilado/" />
     </url>
 
     <url>

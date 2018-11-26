@@ -242,6 +242,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/biblioteca-do-outro-mundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-overworld-librray/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/a-passagem-outro-mundo/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-overworld/" />
     </url>
@@ -252,13 +257,18 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/palacio-distorcido/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-twisted-palace/" />
+        <loc>https://www.chaoticonline.ml/covas-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-pits/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/covas-do-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-pits/" />
+        <loc>https://www.chaoticonline.ml/campos-de-treinamento/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-training-grounds/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/palacio-distorcido/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-twisted-palace/" />
     </url>
 
     <url>

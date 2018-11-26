@@ -247,6 +247,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/the-overworld-library/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/biblioteca-outro-mundo/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/the-passage-underworld/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/a-passagem-submundo/" />
     </url>
@@ -254,6 +259,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/the-pits/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/covas-do-submundo/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/the-training-grounds/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/campos-de-treinamento/" />
     </url>
 
     <url>
