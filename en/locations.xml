@@ -137,6 +137,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/lake-blakeer/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/lago-blakeer/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/lake-ken-i-po/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/lago-ken-i-po/" />
     </url>
@@ -167,8 +172,49 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar-reservoir/nethuars-foothold/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/base-de-operacoes-de-nethuar/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar-reservoir/liberated/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/reconquistado/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/overworld-embassy/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/embaixada-do-outro-mundo
+        /" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/queens-gate/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/portao-da-rainha/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/oiponts-lookout/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/mirante-de-oipont/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/infectorium/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/infectorio/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/hive-gallery/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/corredores-da-colonia/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/mount-pillar/lores-chamber-of-recall/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/colina-dos-pilares/camara-de-revogacao-do-lore/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/najarins-castle/</loc>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/castelo-d-najarin/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/castelo-do-najarin/" />
     </url>
 
     <url>

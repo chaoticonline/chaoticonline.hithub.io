@@ -152,6 +152,16 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/iparu/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/iparu/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/kinnianne-embaixadora-aos-mipedians/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kinnianne-ambassador-to-the-mipedians/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/laarina/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/laarina/" />
     </url>
@@ -542,6 +552,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/ajara/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ajara/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/ario/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ario/" />
     </url>
@@ -589,6 +604,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/jorre-tenente-mipedian/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/jorre-mipedian-lieutenant/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/kolmo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kolmo/" />
     </url>
 
     <url>
@@ -707,6 +727,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/ghundac/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ghundac/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/gorram-general-danian/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gorram-general-danian/" />
     </url>
@@ -737,8 +762,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/katharaz/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/katharaz/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/kelvedran/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kelvedran/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/klencka/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/klencka/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/klencka/vingador/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/klencka/avenger/" />
     </url>
 
     <url>
@@ -757,8 +797,23 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/makromil/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/makromil/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/nakal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/nakal/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/pt/odu-bathax/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/odu-bathax/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/odu-bathax/reivindicador-do-reservatorio/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/odu-bathax/reservoir-reclaimer/" />
     </url>
 
     <url>
@@ -777,13 +832,33 @@
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/tharc/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tharc/" />
+        <loc>https://www.chaoticonline.ml/pt/tharc-tradutor-das-escrituras/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tharc-tablet-translator/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/valanii-levaan/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/valanii-levaan/" />
     </url>
 
     <url>
         <loc>https://www.chaoticonline.ml/pt/wamma/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wamma/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/wamma/auxiliar-de-artilharia-da-colonia/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wamma/hive-ordnance/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/wamma/sentinela-das-chamas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wamma/flame-guard/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/yondaf/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/yondaf/" />
     </url>
 
     <url>
@@ -804,6 +879,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/pt/millaiin/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/millaiin/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/pt/nethuar/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/nethuar/" />
     </url>
 
     <url>
