@@ -608,6 +608,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/iflar-the-crown-prince/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/iflar-principe-herdeiro/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/jorre-mipedian-lieutenant/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/jorre-tenente-mipedian/" />
     </url>
@@ -628,8 +633,18 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/marquis-darini/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/marquis-darini/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/mizkio/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/mizkio/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/nainna/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nainna/" />
     </url>
 
     <url>
@@ -640,6 +655,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/prince-mudeenu/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/principe-mudeenu/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/prince-mudeenu/champion-of-the-guard/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/principe-mudeenu/campeao-da-guarda/" />
     </url>
 
     <url>
@@ -660,6 +680,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/shimmark/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/shimmark/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/siado/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/siado/" />
     </url>
 
     <url>

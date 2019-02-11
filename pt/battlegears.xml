@@ -112,6 +112,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/pt/nexus-fuse/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/nexus-fuse/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/aniquiladores/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/obliterators/" />
     </url>

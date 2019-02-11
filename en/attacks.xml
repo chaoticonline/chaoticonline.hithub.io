@@ -122,6 +122,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/rainspears/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/lancas-de-chuva/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/slowsand/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/areias-de-contencao/" />
     </url>

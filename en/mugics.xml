@@ -77,6 +77,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/fanfare-of-the-vanishing/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/fanfarra-do-sumico/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/fortissimo/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/fortissimo/" />
     </url>

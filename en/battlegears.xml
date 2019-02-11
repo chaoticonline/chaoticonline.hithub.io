@@ -112,6 +112,11 @@
     </url>
 
     <url>
+        <loc>https://www.chaoticonline.ml/nexus-fuse/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/pt/nexus-fuse/" />
+    </url>
+
+    <url>
         <loc>https://www.chaoticonline.ml/obliterators/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/aniquiladores/" />
     </url>
@@ -209,6 +214,11 @@
     <url>
         <loc>https://www.chaoticonline.ml/windstrider/</loc>
         <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/andarilho-dos-ventos/" />
+    </url>
+
+    <url>
+        <loc>https://www.chaoticonline.ml/wind-whip/</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.chaoticonline.ml/chicote-dos-ventos/" />
     </url>
 
     <url>
