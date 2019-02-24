@@ -7,329 +7,323 @@
                 xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
     <url>
-        <loc>https://www.chaoticonline.ml/arsenal-do-bodal/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/bodals-arsenal/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/arsenal-do-bodal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/bodals-arsenal/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/carnaval-da-confusao/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/carnival-of-confusion/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/carnaval-da-confusao/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/carnival-of-confusion/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/castelo-bodhran/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/castle-bodhran/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/castelo-bodhran/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/castle-bodhran/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-do-castelo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/castle-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-do-castelo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/castle-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/cidade-de-maar/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/city-of-maar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/cidade-de-marr/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/city-of-marr/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/bacia-profunda-das-cataratas-de-cordac/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/cordac-falls-plungepool/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/bacia-profunda-das-cataratas-de-cordac/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/cordac-falls-plungepool/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/caverna-de-cristal/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/crystal-cave/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/caverna-de-cristal/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/crystal-cave/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/salao-danian/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/danian-hall/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/portas-das-minas-profundas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/doors-of-the-deepmines/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/portas-das-minas-profundas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/doors-of-the-deepmines/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/fronteira-dranakis/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/dranakis-threshold/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/fronteira-dranakis/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/dranakis-threshold/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/floresta-da-chuva-eterna/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/everrain/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/floresta-da-chuva-eterna/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/everrain/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/vale-do-medo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/fear-valley/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/vale-do-medo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/fear-valley/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/floresta-da-vida/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/forest-of-life/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/floresta-da-vida/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/forest-of-life/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/chamas-congeladas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/frozen-fire/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/chamas-congeladas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/frozen-fire/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/gigantempopolis/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/gigantempopolis/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/gigantempopolis/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gigantempopolis/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/geleiras/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/glacier-plains/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/geleiras/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/glacier-plains/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pantano-gloomuck/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/gloomuck-swamp/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pantano-gloomuck/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gloomuck-swamp/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/torre-gothos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/gothos-tower/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/torre-gothos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/gothos-tower/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-gelo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/ice-tower/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-gelo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ice-tower/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-ferro/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/iron-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-ferro/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/iron-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-jade/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/jade-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-jade/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/jade-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-entalhado/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/jagged-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-entalhado/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/jagged-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/kaizeph-cidade-dos-elementos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/kaizeph-city-of-the-elements/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/kaizeph-cidade-dos-elementos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kaizeph-city-of-the-elements/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/cidade-kiru/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/kiru-city/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/cidade-kiru/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kiru-city/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/tuneis-da-cidade-kiru/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/kiru-city-tunnels/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/tuneis-da-cidade-kiru/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kiru-city-tunnels/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/vila-kiru/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/kiru-village/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/vila-kiru/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/kiru-village/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/lago-blakeer/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/lake-blakeer/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/lago-blakeer/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lake-blakeer/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/lago-ken-i-po/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/lake-ken-i-po/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/lago-ken-i-po/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lake-ken-i-po/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/tanque-de-lava/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/lava-pond/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/tanque-de-lava/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/lava-pond/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/oasis-de-mipedim/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mipedim-oasis/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/oasis-de-mipedim/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mipedim-oasis/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/oasis-de-mipedim/festival-da-aichlyys/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mipedim-oasis/aichlyys-fest/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/oasis-de-mipedim/festival-da-aichlyys/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mipedim-oasis/aichlyys-fest/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/reservatorio-da-colina-dos-pilares/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar-reservoir/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar-reservoir/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/reservatorio/base-de-operacoes-de-nethuar/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar-reservoir/nethuars-foothold/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/base-de-operacoes-de-nethuar/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar-reservoir/nethuars-foothold/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/reservatorio/reconquistado/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar-reservoir/liberated/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/reservatorio-da-colina-dos-pilares/reconquistado/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar-reservoir/liberated/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/embaixada-do-outro-mundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/overworld-embassy/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/embaixada-do-outro-mundo
-        /</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/overworld-embassy/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/portao-da-rainha/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/queens-gate/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/portao-da-rainha/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/queens-gate/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/mirante-de-oipont/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/oiponts-lookout/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/mirante-de-oipont/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/oiponts-lookout/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/infectorio/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/infectorium/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/infectorio/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/infectorium/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/corredores-da-colonia/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/hive-gallery/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/corredores-da-colonia/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/hive-gallery/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/colina-dos-pilares/camara-de-revogacao-do-lore/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/mount-pillar/lores-chamber-of-recall/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/colina-dos-pilares/camara-de-revogacao-do-lore/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/mount-pillar/lores-chamber-of-recall/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/castelo-do-najarin/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/najarins-castle/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/castelo-do-najarin/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/najarins-castle/" />
-    </url>
-
-    <url>
-        <loc>https://www.chaoticonline.ml/abismo-prexxor/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/prexxor-chasm/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/abismo-prexxor/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/prexxor-chasm/" />
     </url>
 
         <url>
-        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/raopa-sahkk/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/raopa-sahkk/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/carrilhoes/</loc>
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/raopa-sahkk/carrilhoes/</loc>
         <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/chimegrid" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pt/raopa-sahkk/oceano-sem-agua/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/raopa-sahkk/the-ocean-with-no-water/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/raopa-sahkk/oceano-sem-agua/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/raopa-sahkk/the-ocean-with-no-water/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pico-ravanaugh/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/ravanaugh-ridge/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pico-ravanaugh/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/ravanaugh-ridge/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/regiao-dos-rios/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/riverlands/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/regiao-dos-rios/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/riverlands/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/desfiladeiro-do-rio-de-pedra/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/rock-river-canyon/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/desfiladeiro-do-rio-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/rock-river-canyon/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/bosque-das-runas/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/runic-grove/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/bosque-das-runas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/runic-grove/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/mina-do-silchaw/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/silchaws-mine/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/mina-do-silchaw/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/silchaws-mine/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/fonte-dos-esqueletos/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/skeletal-springs/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/fonte-dos-esqueletos/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/skeletal-springs/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/tunel-da-tempestade/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/storm-tunnel/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/tunel-da-tempestade/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/storm-tunnel/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-vapor/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/steam-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-vapor/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/steam-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-pedra/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/stone-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-pedra/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/stone-pillar/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/santuario-das-escrituras/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/tablet-sanctuary/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/santuario-das-escrituras/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/tablet-sanctuary/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/biblioteca-do-outro-mundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-overworld-librray/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/biblioteca-do-outro-mundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-overworld-librray/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/a-passagem-outro-mundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-overworld/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/a-passagem-outro-mundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-passage-overworld/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/a-passagem-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-passage-underworld/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/a-passagem-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-passage-underworld/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/covas-do-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-pits/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/covas-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-pits/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/campos-de-treinamento/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-training-grounds/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/campos-de-treinamento/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-training-grounds/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/palacio-distorcido/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/the-twisted-palace/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/palacio-distorcido/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/the-twisted-palace/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/cidade-do-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/underworld-city/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/cidade-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/underworld-city/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/coliseu-do-submundo/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/underworld-colosseum/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/coliseu-do-submundo/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/underworld-colosseum/" />
     </url>
 
     <url>
-        <loc>https://www.chaoticonline.ml/pilar-de-madeira/</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/wooden-pillar/" />
+        <loc>https://www.chaoticonline.ml/pt/perim/locais/pilar-de-madeira/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.chaoticonline.ml/en/perim/locations/wooden-pillar/" />
     </url>
 
 </urlset>

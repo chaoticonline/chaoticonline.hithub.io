@@ -1,0 +1,3 @@
+# Ignoring 404 directory because its contents
+# will me renamed and moved on level above
+/404
