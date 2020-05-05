@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>changelog on Chaotic Online</title><link>https://www.chaoticonline.ml/en/type/changelog/</link><description>Recent content in changelog on Chaotic Online</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Sun, 24 Feb 2019 09:39:02 -0300</lastBuildDate><atom:link href="https://www.chaoticonline.ml/en/type/changelog/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelog</title><link>https://www.chaoticonline.ml/en/changelog/</link><pubDate>Sun, 24 Feb 2019 09:39:02 -0300</pubDate><guid>https://www.chaoticonline.ml/en/changelog/</guid><description/></item><item><title>Current Version</title><link>https://www.chaoticonline.ml/en/changelog/current/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/current/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added a missing i18n entry for &lt;em&gt;Tangath Toborn, In Training&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a Content File to ease out the development of a &lt;em&gt;404 Page&lt;/em&gt;, even though, for now, after compiled, the resulting has to be manually renamed and moved one level above&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 0e10d1c</title><link>https://www.chaoticonline.ml/en/changelog/current/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/current/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added an i18n for &lt;strong&gt;Sílvio Giraldi&lt;/strong&gt; as the second Brazilian Portuguese Voice Actor of &lt;strong&gt;Xaerv&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;strong&gt;Faduli Costha&lt;/strong&gt; as the second Brazilian Portuguese Voice Actor of &lt;strong&gt;Siado&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;strong&gt;Sidney Lilla&lt;/strong&gt; as the third Brazilian Portuguese Voice Actor of &lt;strong&gt;Khybon&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;strong&gt;Luiz Antônio Lobue&lt;/strong&gt; as the Brazilian Portuguese Voice Actor of &lt;strong&gt;Valanii Levaan&lt;/strong&gt;, although, at least for now, only for Episode #28, Season #01&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;strong&gt;Mauro Castro&lt;/strong&gt; as Voice Actor of &lt;strong&gt;Prince Mudeenu&lt;/strong&gt; in Episode #18, Season #01 (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;With the recent identification of the second Brazilian Portuguese Voice Actor of &lt;strong&gt;Siado&lt;/strong&gt;, the entry &lt;code&gt;appearances&lt;/code&gt; in his &lt;em&gt;Data File&lt;/em&gt; has been added&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added i18n for the texts &lt;em&gt;Copy&lt;/em&gt; and &lt;em&gt;Copied&lt;/em&gt; as well for the &amp;ldquo;title&amp;rdquo; in the Sharing Menu&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 18ba4b7</title><link>https://www.chaoticonline.ml/en/changelog/18ba4b7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/18ba4b7/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;hugo-templates-related-changes&#34;&gt;Hugo Templates-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added a solid coloured border around the Advertisement Blocks to make them visible while on Development Mode since Google AdSense blocks them to be rendered locally&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;public-content-related-changes&#34;&gt;Public Content-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added a second &amp;ldquo;in-ads&amp;rdquo; advertisement block in the published Article about &lt;em&gt;Najarin&lt;/em&gt; since it is very long and thus comport without forcing too much&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Published the Episode #21, Season #01 with Brazilian Portuguese audio&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 2977172</title><link>https://www.chaoticonline.ml/en/changelog/2977172/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/2977172/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Applied Content File Componentization to the Changelog Page with i18n entries and additional CSS/JS files to hide most of the contents in a collapsible block&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added our Github Account as another value of &lt;code&gt;sameAs&lt;/code&gt; Property for Schema.org&amp;rsquo;s &lt;em&gt;Organization&lt;/em&gt; Entity&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, Data Files and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em&gt;Iron Pillar&lt;/em&gt; published in this revision: Gigantroper (Battlegear) and Ice Pillar, Jade Pillar, Jagged Pillar, Steam Pillar, Stone Pillar and Wooden Pillar (Locations)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added an even better way to display the expanded text of &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt; tags on mobile&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 33fd090</title><link>https://www.chaoticonline.ml/en/changelog/33fd090/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/33fd090/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added new Content Files and i18n entries to the following references made in the Article published in this revision: Mipedian Cactus (Battlegear), Donmar (OverWorlder), Taffial (Mipedian), Tharc (Danian), Tablet Sanctuary (Location) and Thunder Shout, Turbulence Funnel e Whirling Wail (Attacks)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;hugo-templates-related-changes&#34;&gt;Hugo Templates-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added a new Shortcode Template &lt;em&gt;expr&lt;/em&gt; to allow bold expressions used for idiomatic expressions (Shortcode &lt;em&gt;lang&lt;/em&gt;) to be distinguished from simple expressions while keeping their own HTML attributes &lt;em&gt;lang&lt;/em&gt; and &lt;em&gt;xml:lang&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 3cf8783</title><link>https://www.chaoticonline.ml/en/changelog/3cf8783/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/3cf8783/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Applied Content File Componentization to the published Articles about &lt;em&gt;Maxxor&lt;/em&gt; and &lt;em&gt;Najarin&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added componentizable Content File, with their own &lt;em&gt;Data Files&lt;/em&gt; and i18n entries, about the following Creatures&amp;rsquo; variations: Maxxor, Protector of Perim; Najarin, Fluidmorphers&amp;rsquo; Foe; Najarin, High Muge of the Lake; and Najarin, Younger&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the many changes made in the published Article about &lt;em&gt;Najarin&lt;/em&gt;: Flame Breach and Fluid Flame (Attacks), Anthem of Stone, Battlesong of Renewal, Chorus of Cothica, Dissonance of Will, Ecstatic Fanfare, Howl of the Wind, Intertwined Melody and Song of Revival (Mugics) and Muge&amp;rsquo;s Tuningfork (Battlegear)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em&gt;Najarin, Fluidmorphers&amp;rsquo; Foe&lt;/em&gt;: Heptagon Hail (Attack), Rao&amp;rsquo;Pa Sahkk Chimegrid (Location), Dissonance of Distraction, Requiem of Lost Minds and Requiem of Fear (Mugics) and Mipedian Balladeers&amp;rsquo; Flute (Battlegear)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em&gt;Najarin, High Muge of the Lake&lt;/em&gt;: Glacial Balls (Attack), Fluid Fugue (Mugic), Arrthoa, Enre-hep, Kopond and Lore (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em&gt;Najarin, Younger&lt;/em&gt;: Dibanni (Creature), Song of Deflection and Fighters&amp;rsquo; Fanfare (Mugic)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the references made in the Article about &lt;em&gt;Wamma&lt;/em&gt; published in this revision: Ash Torrent and Magma Might (Attacks), Silchaw&amp;rsquo;s Mine (Location), Chorus of the Hive and Draining Dirge (Mugics) and Aszil, the Young Queen; Illexia, the Danian Queen; Wamma, Hive Ordnance; and Wamma, Flame Guard; (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 482384e</title><link>https://www.chaoticonline.ml/en/changelog/482384e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/482384e/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added, as counterparts of the references made in the Article about the &lt;em&gt;Forest of Life&lt;/em&gt; published in this revision, Content Files, Data Files and i18n entries for Slowsand (Attack), Reality Field Generator (Battlegear), Psimion, Abin-wor, Bivike; Grantkae, Mipedian General; Jorre, Mipedian Lieutenant; and Noaz, Mipedian Cavalerist (Creatures); and Tune of Xerium (Mugic)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added componentizable Content Files, with their own &lt;em&gt;Data Files&lt;/em&gt; and i18n entries to the following Pages added as references for the Article about the &lt;em&gt;Forest of Life&lt;/em&gt; published in this revision: Ikkatosh, Guardian of Nature and Ikkatosh, the Aich King (Creatures); and Forest of Life, During Aichlyys, Mipedim Oasis, Aichlyys Festival and Rao&amp;rsquo;Pa Sahkk, the Ocean with no Water (Locations)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a new Page about &lt;em&gt;Rao&amp;rsquo;Pa Sahkk&lt;/em&gt; to concentrate all variants of this Location through multiple componentizable Articles&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 4c972b7</title><link>https://www.chaoticonline.ml/en/changelog/4c972b7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/4c972b7/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added missing FrontMatter Parameters to describe pictures&amp;rsquo; &lt;em&gt;height&lt;/em&gt; and &lt;em&gt;width&lt;/em&gt; of most Content Files&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the newly implemented attribute &lt;em&gt;picture&lt;/em&gt; for the &amp;ldquo;Card&amp;rdquo; Shortcode with the path to the images used. Even though they&amp;rsquo;re the same as the FrontMatter Parameter &lt;em&gt;picture.path&lt;/em&gt; this opens the possibility for a future update to expand the currently used &amp;ldquo;Picture&amp;rdquo; Shortcode for Cards&amp;rsquo; variations with the &amp;ldquo;Card&amp;rdquo; Shortcode, providing more information to be parsed by the Card Search&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the newly implemented FrontMatter Parameters to disable Facebook Comments Plugin and to prevent Google Analytics to be included in the following Content Files: Category Pages (Attacks, Battlegears, Locations, Mugics and Creatures), Sub-categories Pages (OverWorld, UnderWorld, Mipedians, Danians, M&amp;rsquo;arrillians, Tribeless) and Disclaimer Page&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 5888ab9</title><link>https://www.chaoticonline.ml/en/changelog/5888ab9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/5888ab9/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added an external plugin to handle the Clipboard, allowing texts to be copied to it&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Bootstrap Modal Component as part of the new method of Sharing Article/Pages&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files &lt;code&gt;_index.&amp;lt;LANG&amp;gt;.md&lt;/code&gt; under &lt;code&gt;/changelog&lt;/code&gt; in order to enable it as a Hugo Section as part of the new implementation of Changelog Pages (see below)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 6049e99</title><link>https://www.chaoticonline.ml/en/changelog/6049e99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/6049e99/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;After a revision made to the FrontMatter Parameters infrastructure, the Parameters &lt;code&gt;listed&lt;/code&gt; and &lt;code&gt;comentable&lt;/code&gt; which, respectively, prevents an Article to be listed and allows it to be discussed through Facebook Comments Plugin, have been added, both set as &lt;code&gt;false&lt;/code&gt;, in all published componentizable Articles of Locations variants&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;After a revision made to the FrontMatter Parameters infrastructure, all Pages related to a top-level in Navigation Menu (i.e. &lt;em&gt;Perim&lt;/em&gt;) received in their &lt;code&gt;_index.&amp;lt;LANG&amp;gt;.md&lt;/code&gt; files a new Parameter named &lt;code&gt;category&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;After a revision made to the FrontMatter Parameters infrastructure, all Pages related to a sub-level in the Navigation Menu (i.e. &lt;em&gt;Attacks&lt;/em&gt;) received in their &lt;code&gt;/&amp;lt;SUBFOLDER&amp;gt;/_index.&amp;lt;LANG&amp;gt;.md&lt;/code&gt; files a new Parameter named &lt;code&gt;category&lt;/code&gt;, overwriting their parent&amp;rsquo;s -AND- an additional Parameter named &lt;code&gt;subcategory&lt;/code&gt; with the same effect of the now removed &lt;code&gt;group&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 7050f3c</title><link>https://www.chaoticonline.ml/en/changelog/7050f3c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/7050f3c/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;With the internal structure change (see below), in order to make the &lt;em&gt;Perim&lt;/em&gt; Category to work a Page with its own Custom URL had to be added listing all Card Types on it&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;And with the change above, an additional Breadcrumb Trail has been added to all Pages under the &lt;em&gt;Perim&lt;/em&gt; Category pointing to the new Page created&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added i18n (internationalization) entries for the newly added &lt;em&gt;Perim&lt;/em&gt; Listing Page and for the &amp;ldquo;Share on Facebook/Twitter&amp;rdquo; hover title change (see below)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a Hugo&amp;rsquo;s Compiler setting to prevent automatic pluralization of Section Titles, preventing, for example &amp;ldquo;Perims&amp;rdquo;, even though the corresponding i18n entry isn&amp;rsquo;t pluralized&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 7b09115</title><link>https://www.chaoticonline.ml/en/changelog/7b09115/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/7b09115/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added default values for the META Tags &lt;code&gt;description&lt;/code&gt; if a Summary, the text before Hugo&amp;rsquo;s special markup &lt;code&gt;more&lt;/code&gt;, hasn&amp;rsquo;t been defined -AND- if after replacing all HTML line-breaks (&lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt;) with new-lines (&lt;code&gt;\n&lt;/code&gt;) the resulting Summary is an empty string or with only non-printable characters. This way we ensure that all Pages, even those not effectively published yet due lack of real content has a value for the tag&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Bing&amp;rsquo;s Authorization XML file so it can properly crawl the site because, apparently, Microsoft doesn&amp;rsquo;t know understand that, as of today, quotes around the HTML attributes of these tags and/or ending slash for self-closed tags are optional&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;public-content-related-changes&#34;&gt;Public Content-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added missing FrontMatter Parameter &lt;code&gt;publishingDate&lt;/code&gt; to the published Articles about &lt;em&gt;Magmon&lt;/em&gt; (Creature) and &lt;em&gt;Lava Pond&lt;/em&gt; and &lt;em&gt;Iron Pillar&lt;/em&gt; (Locations) and on each one of the componentizable revisions in the Changelog Page, even though such information will not be actually added on them while the revamped SEO implementation is not applied to the Videos&amp;rsquo; Pages because of FrontMatter Parameter conflicts between them&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added missing FrontMatter Parameter &lt;code&gt;group&lt;/code&gt; to the following published componentizable Articles: Bodal, Flamedrill Researcher; Maxxor, Protector of Perim; Najarin, High Muge of the Lake; Najarin, Younger; Takinom, the Shadowknight; Wamma, Flame Guard; and Wamma, Hive Ordnance&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added missing FrontMatter Parameter &lt;code&gt;group&lt;/code&gt; to the published componentizable Article about &lt;em&gt;Najarin, Fluidmorphers&amp;rsquo; Foe&lt;/em&gt; (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added missing FrontMatter Parameters &lt;code&gt;publishingDate&lt;/code&gt; -AND- &lt;code&gt;group&lt;/code&gt; to the following published componentizable Articles: Glacier Plains, M&amp;rsquo;arrillian Melting Camp; Glacier Plains, M&amp;rsquo;arrillian Heat Cannon; Lake Ken-I-Po, Ritual Site; Riverlands, Abandoned Wastes; Riverlands, Erak&amp;rsquo;tabb&amp;rsquo;s Foothold; UnderWorld City, During Van Bloot Ascension; and Lava Pond, Milla&amp;rsquo;iin&amp;rsquo;s Foothold (Locations) and Magmon, Retaliator; and Magmon, Engulfed (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 8f9025f</title><link>https://www.chaoticonline.ml/en/changelog/8f9025f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/8f9025f/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for: Rainspears (Attack); Fanfare of the Vanishing (&lt;em&gt;Mugic&lt;/em&gt;); Nexus Fuse and Wind Whip (Battlegears); Iflar, the Crown Prince; Marquis Darini; Na-inna and Siado (Creatures) as counterparts of the references made in the Article about the &lt;em&gt;Prince Mudeenu&lt;/em&gt; published in this revision&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;With the expansion on &lt;em&gt;Data Files&lt;/em&gt; for Videos model (see below), new JSON files have been added, one for each episode in both languages currently available&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. 90ab401</title><link>https://www.chaoticonline.ml/en/changelog/90ab401/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/90ab401/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Implemented something to cover possible uncertainties regarding Voice Actors with another entry named &lt;code&gt;verified&lt;/code&gt; along to the name of each Voice Actor identified listed in the &lt;code&gt;cast&lt;/code&gt; FrontMatter Parameter. If this entry is defined for that Voice Actor -AND- set as &lt;code&gt;false&lt;/code&gt; a little superscript number is added next to the Voice Actor name&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a default value through a recently added i18n entry for cases in which no Voice Actor has been identified for a listed Character&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the missing FrontMatter Parameters &lt;code&gt;section&lt;/code&gt; and &lt;code&gt;group&lt;/code&gt; in the Terms of Use Content File (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a Hugo&amp;rsquo;s Compiler setting to prevent the so-called &lt;em&gt;Fast Render Mode&lt;/em&gt; to be used by default. Just a little something to speed-up the server initialization while developing&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the FrontMatter Parameter &lt;code&gt;show&lt;/code&gt; with the new format of &lt;em&gt;Season&lt;/em&gt; and &lt;em&gt;Episode&lt;/em&gt; in all applicable Content Files&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added i18n (internationalization) entries for the newly added Pages: Bierk, Zapetur, Kaal and The Pits&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. a20738d</title><link>https://www.chaoticonline.ml/en/changelog/a20738d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/a20738d/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as counterpart of the references made in the Article about &lt;em&gt;Magmon&lt;/em&gt; published in this revision: Fireram (Attack), Whepcrack (Battlegear) and Kreaal; Magmon; Retaliator and Magmon, Engulfed (Creatures);&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;hugo-templates-related-changes&#34;&gt;Hugo Templates-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added an empty element to the bottom of the Card Information Box with the same colour of the Card Type / Tribe, visually closing the box&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a condition to the Card Information Template to -NOT- show the &lt;em&gt;Biography&lt;/em&gt; Header if there&amp;rsquo;s nothing to show under it&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. a42c3fc</title><link>https://www.chaoticonline.ml/en/changelog/a42c3fc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/a42c3fc/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for: Lake Blakeer; The Hive Gallery; The Infectorium; Lore&amp;rsquo;s Chamber of Recall; Oipont&amp;rsquo;s Lookout; OverWorld Embassy at Mount Pillar; Queen&amp;rsquo;s Gate; Mount Pillar Reservoir, Neth&amp;rsquo;uar&amp;rsquo;s Foothold; and Mount Pillar Reservoir, Liberated (Locations); Iparu and Kinnianne (Creatures, OverWorld); Ajara and Kolmo (Creatures, Mipedians); Ghundac; Katharaz; Klencka; Klencka, Avenger; Makromil, Nakal; Odu-Bathax, Reservoir Reclaimer; Valanii Levaan; and Yondaf (Creatures, Danians) as counterparts of the references made in the Article about the &lt;em&gt;Mount Pillar&lt;/em&gt; published in this revision.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;em&gt;A Flux too Far&lt;/em&gt; as one of the Episodes in which the &lt;em&gt;Forest of Life&lt;/em&gt; appeared in the Animation (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. b9c13d9</title><link>https://www.chaoticonline.ml/en/changelog/b9c13d9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/b9c13d9/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added Visual Studio Code Workspace file to the &lt;code&gt;.gitignore&lt;/code&gt; file&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added an attribute &lt;strong&gt;title&lt;/strong&gt; for the dynamically generated &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; used on Videos Pages as suggested by Google Lighthouse&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added all of the required Bootstrap Components individually instead of minifying them all manually&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;hugo-templates-related-changes&#34;&gt;Hugo Templates-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added the META Tag &lt;em&gt;Description&lt;/em&gt; (a.k.a. Summary) for the &lt;em&gt;Listing Pages&lt;/em&gt; in the SEO implementation&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. bb9e032</title><link>https://www.chaoticonline.ml/en/changelog/bb9e032/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/bb9e032/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em&gt;Tangath Toborn&lt;/em&gt; published in this revision: Deadwater Devastation, Degenervate, Fearless Strike, Grounding Grapple, Primal Smash and Unified Tribecharge (Attacks); Burithean Axe (Battlegear); and Aimukk; Faash; Gorram, Danian General; Tassanil; Drimesse; Fivarth; Ghatup; Savell; Nebres; Targubaj; Viqtarr; Lyssta; Rothar and Ultadur (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added missing i18n entry for &lt;em&gt;Tartarek&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. bd1784c</title><link>https://www.chaoticonline.ml/en/changelog/bd1784c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/bd1784c/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added i18n entries to describe &lt;em&gt;Locations&lt;/em&gt; in the &lt;em&gt;OverWorld&lt;/em&gt; and &lt;em&gt;UnderWorld&lt;/em&gt; in order to make it easier for the Templating logics to build i18n keys for them&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;code&gt;Data Files&lt;/code&gt; to all existing Creatures published so far, with their attributes, traits, episodes and voice actors&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;With the Content Files Componentization applied to the published Articles about &lt;em&gt;Locations&lt;/em&gt; (see below), new i18n entries have been added for each one of them&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. c228435</title><link>https://www.chaoticonline.ml/en/changelog/c228435/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/c228435/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added a custom sorting feature of the &lt;em&gt;Characters&lt;/em&gt; listed in Episodes &lt;em&gt;Cast&lt;/em&gt; through a new entry &lt;code&gt;weight&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added new i18n entries with the Voice Actors of the following &lt;em&gt;Characters&lt;/em&gt;: Sarah, Klay (by associating him with &lt;em&gt;Chaor&amp;rsquo;s&lt;/em&gt; Voice Actor), Krystella, &amp;ldquo;HercuLeon&amp;rdquo;, &amp;ldquo;SlickNick&amp;rdquo;, CodeMaster Crellan, Tiaane (by associating him with &lt;em&gt;Heptadd&amp;rsquo;s&lt;/em&gt; Voice Actor), Xaerv (by associating him with &lt;em&gt;Magmon&amp;rsquo;s&lt;/em&gt; Voice Actor), Dractyl, Vidav, Agitos, Skithia and two possible Voice Actors (although one of them hasn&amp;rsquo;t been confirmed and, therefore, not used) to Owis (English only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added new i18n entries with the Voice Actors of the following &lt;em&gt;Characters&lt;/em&gt;: Sarah, Peyton, Klay, Krystella, CodeMaster Crellan (real and &amp;ldquo;human form&amp;rdquo;), Zalic and Gespedan (by associating them with &lt;em&gt;Zalic&amp;rsquo;s&lt;/em&gt; Voice Actor) and Xaerv (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. cc4406c</title><link>https://www.chaoticonline.ml/en/changelog/cc4406c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/cc4406c/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added the HTML entity &lt;code&gt;&amp;amp;nbsp;&lt;/code&gt; to all almost all empty tags preventing them to be really empty and therefore considered as removal candidates by HTML Minifiers&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a different error message to Card Search, allowing one of the two fatal errors that could yield no results while using the Card Search to be better distinguished&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added an entry to the &lt;code&gt;.gitignore&lt;/code&gt; wrongly removed in previous &lt;em&gt;commits&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the &lt;code&gt;SiteNavigationElement&lt;/code&gt; Structured Data pointing to the Navigation Menu as another SEO improvement&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Published Episode #15, Season #01 with Brazilian Portuguese audio&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. d75e5c1</title><link>https://www.chaoticonline.ml/en/changelog/d75e5c1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/d75e5c1/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added componentizable Content File, with their own &lt;em&gt;Data Files&lt;/em&gt; and i18n entries, about the following &lt;em&gt;Creatures’&lt;/em&gt; variations: Blazier, Citadel Cartographer; Tartarek, Psi-Overloader; Chaor, The Fierce; H&amp;rsquo;earring, Tainted; Nauthilax, Tainted; and Nauthilax, Aquatic Spy&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for &lt;em&gt;Reefshard&lt;/em&gt; (Battlegear) as a counterpart of the reference made in the recently componentized Article about &lt;em&gt;Tartarek, Psi-Overloader&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for &lt;em&gt;Decrescendo&lt;/em&gt; (Mugic) because, well, the artwork was too beautiful to pass :p&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added an i18n entry for &lt;em&gt;César Marchetti&lt;/em&gt; as the second Brazilian Portuguese Voice Actor of &lt;em&gt;Staluk&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added &lt;em&gt;Data Files&lt;/em&gt; for the identified voices of &lt;em&gt;Ettala&lt;/em&gt;, &lt;em&gt;Gespedan&lt;/em&gt; &lt;em&gt;Mommark&lt;/em&gt;, &lt;em&gt;Staluk&lt;/em&gt; and &lt;em&gt;Klasp&lt;/em&gt; (Brazilian Portuguese only) and &lt;em&gt;Owis&lt;/em&gt; (all Languages)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;With the recently identified voices, in order to show the &amp;ldquo;On TV&amp;rdquo; box, the following &lt;em&gt;Data Files&lt;/em&gt; under TV Appearance have been added: Ettala, Gespedan, Mommark, Owis, Staluk and Klasp&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for &lt;em&gt;Mommark&lt;/em&gt; and &lt;em&gt;Klasp&lt;/em&gt; as a counterpart of the recently identified Voice Actors&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. dff4edc</title><link>https://www.chaoticonline.ml/en/changelog/dff4edc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/dff4edc/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structured-related-changes&#34;&gt;Structured-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added i18n (internationalization) entries for the new Content Files added (see below)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;new-content-files&#34;&gt;New Content Files&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em&gt;Tartarek&lt;/em&gt;: Lavalanche and Megaroar (Attacks); Gauntlets of Might and Indigo Sash (Battlegears) and Vinta, Rath&amp;rsquo;tab and Fal&amp;rsquo;makin (Creatures)&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. e05de27</title><link>https://www.chaoticonline.ml/en/changelog/e05de27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/e05de27/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added a new i18n entry for &lt;em&gt;Drew&amp;rsquo;s&lt;/em&gt; (Battleboarder) Voice Actor, a secondary character from Episode &lt;em&gt;Allmageddon&lt;/em&gt; (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a new i18n entry for &lt;em&gt;Blügon&amp;rsquo;s&lt;/em&gt; Voice Actor (Brazilian Portuguese only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a new i18n entry for &lt;em&gt;Cerbie&amp;rsquo;s&lt;/em&gt; Voice Actor (English only)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added new Content Files and i18n entries for the Underworld Creatures &lt;em&gt;Cerbie&lt;/em&gt; and &lt;em&gt;Drakness&lt;/em&gt;, much to give more context for their recently discovered Brazilian Portuguese Voice Actors&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. ef7cc2b</title><link>https://www.chaoticonline.ml/en/changelog/ef7cc2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/ef7cc2b/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files, &lt;em&gt;Data Files&lt;/em&gt; and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em&gt;Kiru City&lt;/em&gt; published in this revision: The OverWorld Library and The Training Grounds (Locations); and Drabe, Hune Paltanin and Raznus, Assimilated (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added ESLint&amp;rsquo;s Configuration file&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;public-content-related-changes&#34;&gt;Public Content-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Published Article about &lt;em&gt;Kiru City&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. f7f9cbb</title><link>https://www.chaoticonline.ml/en/changelog/f7f9cbb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/f7f9cbb/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Content Files, Data Files and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em&gt;Dractyl&lt;/em&gt; published in this revision: Alacritous Force, Frost Blight and Power Pulse (Attacks) and Dread Tread, Elixir of Tenacity and Obliterators (Battlegears)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h6 id=&#34;hugo-templates-related-changes&#34;&gt;Hugo Templates-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;When using Hugo&amp;rsquo;s Content Minifier to optimize the output of all HTML files, we realized that all double quotes around the values of HTML attributes were also removed. While browsers understand this as valid, for some reason, this yielded several &amp;ldquo;unsecured domain&amp;rdquo; errors while making the required AJAX calls of the Card&amp;rsquo;s Search Tool, regardless of the fact of both the Requester (Tool&amp;rsquo;s Page) and the requested (each Page fitting the query filter, if any) be in the same domain and under SSL. In order to prevent that to happen, we created a new Shortcode called &lt;em&gt;href&lt;/em&gt; that simply runs Hugo&amp;rsquo;s &lt;code&gt;absURL&lt;/code&gt; function over a given argument. This would make our form action &lt;code&gt;/tags/&lt;/code&gt; to become &lt;code&gt;https://www.chaoticonline.ml/tags/&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added a Partial Template to use Facebook Page Plugin, on hold until further testing&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. f8841d8</title><link>https://www.chaoticonline.ml/en/changelog/f8841d8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/f8841d8/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Applied Content File Componentization to the published Articles about &lt;em&gt;Ulmar&lt;/em&gt;, &lt;em&gt;Malvadine&lt;/em&gt; and &lt;em&gt;Zhade&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added componentizable Content File, with their own &lt;em&gt;Data Files&lt;/em&gt; and i18n entries, about the following Creatures&amp;rsquo; variations: Ulmar, Wavescrambler; Ulmar, Perithon Racer; Malvadine, The King&amp;rsquo;s Herald; and Zhade, Dig Site Defender&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added componentizable Content Files, with its own &lt;em&gt;Data Files&lt;/em&gt; and i18n entry about &lt;em&gt;Ulmanator&lt;/em&gt; as a counterpart of the reference made in the recently componentized Article about &lt;em&gt;Ulmar&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. fcd9167</title><link>https://www.chaoticonline.ml/en/changelog/fcd9167/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/fcd9167/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Implemented Content File Componentization in the published Article about &lt;em&gt;Takinom&lt;/em&gt; and &lt;em&gt;Bodal&lt;/em&gt; as BETA feature using the improved &lt;em&gt;Include&lt;/em&gt; Shortcode, putting the subsection about &lt;em&gt;Takinom, The Shadowknight&lt;/em&gt; and &lt;em&gt;Bodal, Flamedrill Researcher&lt;/em&gt; on its own Page. This way not only main Articles will be shorter after the live testing period but all Cards&amp;rsquo; variations will appear in a Cards Search results because every one of them will have their own URL&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added an optional FrontMatter Parameter &lt;code&gt;listed&lt;/code&gt; through which it&amp;rsquo;s possible to remove an Article/Page from Listings without remove it from the site&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files about &lt;em&gt;Takinom, the Shadowknight&lt;/em&gt; and &lt;em&gt;Plasmarrow&lt;/em&gt;, as counterpart of the many changes made in the published Article about &lt;em&gt;Takinom&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added Content Files and i18n entries for &lt;em&gt;Takinom, the Shadowknight&lt;/em&gt; and &lt;em&gt;Plasmarrow&lt;/em&gt; as, respectively, part of the Content File Componentization and counterpart of one of the changes in Article about &lt;em&gt;Takinom&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added i18n entries for &lt;em&gt;Disciplines&lt;/em&gt;, &lt;em&gt;Elemental Affinities&lt;/em&gt; and some others more specific in order to have matches for Taxonomy Terms&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the following Content Files and i18n entries referenced in the Article about &lt;em&gt;Bodal&lt;/em&gt; published in this revision: Lucky Shot, Supercooled Rain and Viperlash (Attacks), Mount Pillar Reservoir, Gloomuck Swamp and Kiru City Tunnels (Locations), Bodal&amp;rsquo;s Dagger, Orchis Undis and Sandstorm Shroud (Battlegears) and Olkiex and Bodal, Flamedrill Researcher (Creatures)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>rev. fee56ab</title><link>https://www.chaoticonline.ml/en/changelog/fee56ab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/fee56ab/</guid><description>&lt;h4 id=&#34;added&#34;&gt;Added&lt;/h4&gt;
-&lt;h6 id=&#34;structure-related-changes&#34;&gt;Structure-related changes&lt;/h6&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Added an hourglass SVG icon to represent the Temporary Allegiance of some Creatures with the M&amp;rsquo;arrillians&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Added the FrontMatter Parameter &lt;code&gt;isGroup&lt;/code&gt; to the Listing Page-Files &lt;code&gt;/perim/creatures/_index.&amp;lt;LANG&amp;gt;.md&lt;/code&gt; after all they also are a &amp;ldquo;categories&amp;rsquo; category&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>changelog on Chaotic Online</title><link>https://www.chaoticonline.ml/en/type/changelog/</link><description>Recent content in changelog on Chaotic Online</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://www.chaoticonline.ml/en/type/changelog/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelog</title><link>https://www.chaoticonline.ml/en/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/</guid><description/></item><item><title>Current Version</title><link>https://www.chaoticonline.ml/en/changelog/current/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/current/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added a missing i18n entry for &lt;em>Tangath Toborn, In Training&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a Content File to ease out the development of a &lt;em>404 Page&lt;/em>, even though, for now, after compiled, the resulting has to be manually renamed and moved one level above&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 0e10d1c</title><link>https://www.chaoticonline.ml/en/changelog/current/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/current/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added an i18n for &lt;strong>Sílvio Giraldi&lt;/strong> as the second Brazilian Portuguese Voice Actor of &lt;strong>Xaerv&lt;/strong>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;strong>Faduli Costha&lt;/strong> as the second Brazilian Portuguese Voice Actor of &lt;strong>Siado&lt;/strong>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;strong>Sidney Lilla&lt;/strong> as the third Brazilian Portuguese Voice Actor of &lt;strong>Khybon&lt;/strong>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;strong>Luiz Antônio Lobue&lt;/strong> as the Brazilian Portuguese Voice Actor of &lt;strong>Valanii Levaan&lt;/strong>, although, at least for now, only for Episode #28, Season #01&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;strong>Mauro Castro&lt;/strong> as Voice Actor of &lt;strong>Prince Mudeenu&lt;/strong> in Episode #18, Season #01 (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>With the recent identification of the second Brazilian Portuguese Voice Actor of &lt;strong>Siado&lt;/strong>, the entry &lt;code>appearances&lt;/code> in his &lt;em>Data File&lt;/em> has been added&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added i18n for the texts &lt;em>Copy&lt;/em> and &lt;em>Copied&lt;/em> as well for the &amp;ldquo;title&amp;rdquo; in the Sharing Menu&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 18ba4b7</title><link>https://www.chaoticonline.ml/en/changelog/18ba4b7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/18ba4b7/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="hugo-templates-related-changes">Hugo Templates-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added a solid coloured border around the Advertisement Blocks to make them visible while on Development Mode since Google AdSense blocks them to be rendered locally&lt;/li>
+&lt;/ul>
+&lt;h6 id="public-content-related-changes">Public Content-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added a second &amp;ldquo;in-ads&amp;rdquo; advertisement block in the published Article about &lt;em>Najarin&lt;/em> since it is very long and thus comport without forcing too much&lt;/p>&lt;/li>
+&lt;li>&lt;p>Published the Episode #21, Season #01 with Brazilian Portuguese audio&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 2977172</title><link>https://www.chaoticonline.ml/en/changelog/2977172/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/2977172/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Applied Content File Componentization to the Changelog Page with i18n entries and additional CSS/JS files to hide most of the contents in a collapsible block&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added our Github Account as another value of &lt;code>sameAs&lt;/code> Property for Schema.org&amp;rsquo;s &lt;em>Organization&lt;/em> Entity&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, Data Files and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em>Iron Pillar&lt;/em> published in this revision: Gigantroper (Battlegear) and Ice Pillar, Jade Pillar, Jagged Pillar, Steam Pillar, Stone Pillar and Wooden Pillar (Locations)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added an even better way to display the expanded text of &lt;code>&amp;lt;abbr&amp;gt;&lt;/code> tags on mobile&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 33fd090</title><link>https://www.chaoticonline.ml/en/changelog/33fd090/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/33fd090/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added new Content Files and i18n entries to the following references made in the Article published in this revision: Mipedian Cactus (Battlegear), Donmar (OverWorlder), Taffial (Mipedian), Tharc (Danian), Tablet Sanctuary (Location) and Thunder Shout, Turbulence Funnel e Whirling Wail (Attacks)&lt;/li>
+&lt;/ul>
+&lt;h6 id="hugo-templates-related-changes">Hugo Templates-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added a new Shortcode Template &lt;em>expr&lt;/em> to allow bold expressions used for idiomatic expressions (Shortcode &lt;em>lang&lt;/em>) to be distinguished from simple expressions while keeping their own HTML attributes &lt;em>lang&lt;/em> and &lt;em>xml:lang&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 3cf8783</title><link>https://www.chaoticonline.ml/en/changelog/3cf8783/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/3cf8783/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Applied Content File Componentization to the published Articles about &lt;em>Maxxor&lt;/em> and &lt;em>Najarin&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added componentizable Content File, with their own &lt;em>Data Files&lt;/em> and i18n entries, about the following Creatures&amp;rsquo; variations: Maxxor, Protector of Perim; Najarin, Fluidmorphers&amp;rsquo; Foe; Najarin, High Muge of the Lake; and Najarin, Younger&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the many changes made in the published Article about &lt;em>Najarin&lt;/em>: Flame Breach and Fluid Flame (Attacks), Anthem of Stone, Battlesong of Renewal, Chorus of Cothica, Dissonance of Will, Ecstatic Fanfare, Howl of the Wind, Intertwined Melody and Song of Revival (Mugics) and Muge&amp;rsquo;s Tuningfork (Battlegear)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em>Najarin, Fluidmorphers&amp;rsquo; Foe&lt;/em>: Heptagon Hail (Attack), Rao&amp;rsquo;Pa Sahkk Chimegrid (Location), Dissonance of Distraction, Requiem of Lost Minds and Requiem of Fear (Mugics) and Mipedian Balladeers&amp;rsquo; Flute (Battlegear)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em>Najarin, High Muge of the Lake&lt;/em>: Glacial Balls (Attack), Fluid Fugue (Mugic), Arrthoa, Enre-hep, Kopond and Lore (Creatures)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the many changes made in the componentizable Article about &lt;em>Najarin, Younger&lt;/em>: Dibanni (Creature), Song of Deflection and Fighters&amp;rsquo; Fanfare (Mugic)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the references made in the Article about &lt;em>Wamma&lt;/em> published in this revision: Ash Torrent and Magma Might (Attacks), Silchaw&amp;rsquo;s Mine (Location), Chorus of the Hive and Draining Dirge (Mugics) and Aszil, the Young Queen; Illexia, the Danian Queen; Wamma, Hive Ordnance; and Wamma, Flame Guard; (Creatures)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 482384e</title><link>https://www.chaoticonline.ml/en/changelog/482384e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/482384e/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added, as counterparts of the references made in the Article about the &lt;em>Forest of Life&lt;/em> published in this revision, Content Files, Data Files and i18n entries for Slowsand (Attack), Reality Field Generator (Battlegear), Psimion, Abin-wor, Bivike; Grantkae, Mipedian General; Jorre, Mipedian Lieutenant; and Noaz, Mipedian Cavalerist (Creatures); and Tune of Xerium (Mugic)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added componentizable Content Files, with their own &lt;em>Data Files&lt;/em> and i18n entries to the following Pages added as references for the Article about the &lt;em>Forest of Life&lt;/em> published in this revision: Ikkatosh, Guardian of Nature and Ikkatosh, the Aich King (Creatures); and Forest of Life, During Aichlyys, Mipedim Oasis, Aichlyys Festival and Rao&amp;rsquo;Pa Sahkk, the Ocean with no Water (Locations)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a new Page about &lt;em>Rao&amp;rsquo;Pa Sahkk&lt;/em> to concentrate all variants of this Location through multiple componentizable Articles&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 4c972b7</title><link>https://www.chaoticonline.ml/en/changelog/4c972b7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/4c972b7/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added missing FrontMatter Parameters to describe pictures&amp;rsquo; &lt;em>height&lt;/em> and &lt;em>width&lt;/em> of most Content Files&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the newly implemented attribute &lt;em>picture&lt;/em> for the &amp;ldquo;Card&amp;rdquo; Shortcode with the path to the images used. Even though they&amp;rsquo;re the same as the FrontMatter Parameter &lt;em>picture.path&lt;/em> this opens the possibility for a future update to expand the currently used &amp;ldquo;Picture&amp;rdquo; Shortcode for Cards&amp;rsquo; variations with the &amp;ldquo;Card&amp;rdquo; Shortcode, providing more information to be parsed by the Card Search&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the newly implemented FrontMatter Parameters to disable Facebook Comments Plugin and to prevent Google Analytics to be included in the following Content Files: Category Pages (Attacks, Battlegears, Locations, Mugics and Creatures), Sub-categories Pages (OverWorld, UnderWorld, Mipedians, Danians, M&amp;rsquo;arrillians, Tribeless) and Disclaimer Page&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 5888ab9</title><link>https://www.chaoticonline.ml/en/changelog/5888ab9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/5888ab9/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added an external plugin to handle the Clipboard, allowing texts to be copied to it&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Bootstrap Modal Component as part of the new method of Sharing Article/Pages&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files &lt;code>_index.&amp;lt;LANG&amp;gt;.md&lt;/code> under &lt;code>/changelog&lt;/code> in order to enable it as a Hugo Section as part of the new implementation of Changelog Pages (see below)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 6049e99</title><link>https://www.chaoticonline.ml/en/changelog/6049e99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/6049e99/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>After a revision made to the FrontMatter Parameters infrastructure, the Parameters &lt;code>listed&lt;/code> and &lt;code>comentable&lt;/code> which, respectively, prevents an Article to be listed and allows it to be discussed through Facebook Comments Plugin, have been added, both set as &lt;code>false&lt;/code>, in all published componentizable Articles of Locations variants&lt;/p>&lt;/li>
+&lt;li>&lt;p>After a revision made to the FrontMatter Parameters infrastructure, all Pages related to a top-level in Navigation Menu (i.e. &lt;em>Perim&lt;/em>) received in their &lt;code>_index.&amp;lt;LANG&amp;gt;.md&lt;/code> files a new Parameter named &lt;code>category&lt;/code>&lt;/p>&lt;/li>
+&lt;li>&lt;p>After a revision made to the FrontMatter Parameters infrastructure, all Pages related to a sub-level in the Navigation Menu (i.e. &lt;em>Attacks&lt;/em>) received in their &lt;code>/&amp;lt;SUBFOLDER&amp;gt;/_index.&amp;lt;LANG&amp;gt;.md&lt;/code> files a new Parameter named &lt;code>category&lt;/code>, overwriting their parent&amp;rsquo;s -AND- an additional Parameter named &lt;code>subcategory&lt;/code> with the same effect of the now removed &lt;code>group&lt;/code>&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 7050f3c</title><link>https://www.chaoticonline.ml/en/changelog/7050f3c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/7050f3c/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>With the internal structure change (see below), in order to make the &lt;em>Perim&lt;/em> Category to work a Page with its own Custom URL had to be added listing all Card Types on it&lt;/p>&lt;/li>
+&lt;li>&lt;p>And with the change above, an additional Breadcrumb Trail has been added to all Pages under the &lt;em>Perim&lt;/em> Category pointing to the new Page created&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added i18n (internationalization) entries for the newly added &lt;em>Perim&lt;/em> Listing Page and for the &amp;ldquo;Share on Facebook/Twitter&amp;rdquo; hover title change (see below)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a Hugo&amp;rsquo;s Compiler setting to prevent automatic pluralization of Section Titles, preventing, for example &amp;ldquo;Perims&amp;rdquo;, even though the corresponding i18n entry isn&amp;rsquo;t pluralized&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 7b09115</title><link>https://www.chaoticonline.ml/en/changelog/7b09115/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/7b09115/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added default values for the META Tags &lt;code>description&lt;/code> if a Summary, the text before Hugo&amp;rsquo;s special markup &lt;code>more&lt;/code>, hasn&amp;rsquo;t been defined -AND- if after replacing all HTML line-breaks (&lt;code>&amp;lt;br/&amp;gt;&lt;/code>) with new-lines (&lt;code>\n&lt;/code>) the resulting Summary is an empty string or with only non-printable characters. This way we ensure that all Pages, even those not effectively published yet due lack of real content has a value for the tag&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Bing&amp;rsquo;s Authorization XML file so it can properly crawl the site because, apparently, Microsoft doesn&amp;rsquo;t know understand that, as of today, quotes around the HTML attributes of these tags and/or ending slash for self-closed tags are optional&lt;/p>&lt;/li>
+&lt;/ul>
+&lt;h6 id="public-content-related-changes">Public Content-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added missing FrontMatter Parameter &lt;code>publishingDate&lt;/code> to the published Articles about &lt;em>Magmon&lt;/em> (Creature) and &lt;em>Lava Pond&lt;/em> and &lt;em>Iron Pillar&lt;/em> (Locations) and on each one of the componentizable revisions in the Changelog Page, even though such information will not be actually added on them while the revamped SEO implementation is not applied to the Videos&amp;rsquo; Pages because of FrontMatter Parameter conflicts between them&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added missing FrontMatter Parameter &lt;code>group&lt;/code> to the following published componentizable Articles: Bodal, Flamedrill Researcher; Maxxor, Protector of Perim; Najarin, High Muge of the Lake; Najarin, Younger; Takinom, the Shadowknight; Wamma, Flame Guard; and Wamma, Hive Ordnance&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added missing FrontMatter Parameter &lt;code>group&lt;/code> to the published componentizable Article about &lt;em>Najarin, Fluidmorphers&amp;rsquo; Foe&lt;/em> (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added missing FrontMatter Parameters &lt;code>publishingDate&lt;/code> -AND- &lt;code>group&lt;/code> to the following published componentizable Articles: Glacier Plains, M&amp;rsquo;arrillian Melting Camp; Glacier Plains, M&amp;rsquo;arrillian Heat Cannon; Lake Ken-I-Po, Ritual Site; Riverlands, Abandoned Wastes; Riverlands, Erak&amp;rsquo;tabb&amp;rsquo;s Foothold; UnderWorld City, During Van Bloot Ascension; and Lava Pond, Milla&amp;rsquo;iin&amp;rsquo;s Foothold (Locations) and Magmon, Retaliator; and Magmon, Engulfed (Creatures)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 8f9025f</title><link>https://www.chaoticonline.ml/en/changelog/8f9025f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/8f9025f/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for: Rainspears (Attack); Fanfare of the Vanishing (&lt;em>Mugic&lt;/em>); Nexus Fuse and Wind Whip (Battlegears); Iflar, the Crown Prince; Marquis Darini; Na-inna and Siado (Creatures) as counterparts of the references made in the Article about the &lt;em>Prince Mudeenu&lt;/em> published in this revision&lt;/p>&lt;/li>
+&lt;li>&lt;p>With the expansion on &lt;em>Data Files&lt;/em> for Videos model (see below), new JSON files have been added, one for each episode in both languages currently available&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. 90ab401</title><link>https://www.chaoticonline.ml/en/changelog/90ab401/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/90ab401/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Implemented something to cover possible uncertainties regarding Voice Actors with another entry named &lt;code>verified&lt;/code> along to the name of each Voice Actor identified listed in the &lt;code>cast&lt;/code> FrontMatter Parameter. If this entry is defined for that Voice Actor -AND- set as &lt;code>false&lt;/code> a little superscript number is added next to the Voice Actor name&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a default value through a recently added i18n entry for cases in which no Voice Actor has been identified for a listed Character&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the missing FrontMatter Parameters &lt;code>section&lt;/code> and &lt;code>group&lt;/code> in the Terms of Use Content File (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a Hugo&amp;rsquo;s Compiler setting to prevent the so-called &lt;em>Fast Render Mode&lt;/em> to be used by default. Just a little something to speed-up the server initialization while developing&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the FrontMatter Parameter &lt;code>show&lt;/code> with the new format of &lt;em>Season&lt;/em> and &lt;em>Episode&lt;/em> in all applicable Content Files&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added i18n (internationalization) entries for the newly added Pages: Bierk, Zapetur, Kaal and The Pits&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. a20738d</title><link>https://www.chaoticonline.ml/en/changelog/a20738d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/a20738d/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as counterpart of the references made in the Article about &lt;em>Magmon&lt;/em> published in this revision: Fireram (Attack), Whepcrack (Battlegear) and Kreaal; Magmon; Retaliator and Magmon, Engulfed (Creatures);&lt;/li>
+&lt;/ul>
+&lt;h6 id="hugo-templates-related-changes">Hugo Templates-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added an empty element to the bottom of the Card Information Box with the same colour of the Card Type / Tribe, visually closing the box&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a condition to the Card Information Template to -NOT- show the &lt;em>Biography&lt;/em> Header if there&amp;rsquo;s nothing to show under it&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. a42c3fc</title><link>https://www.chaoticonline.ml/en/changelog/a42c3fc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/a42c3fc/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for: Lake Blakeer; The Hive Gallery; The Infectorium; Lore&amp;rsquo;s Chamber of Recall; Oipont&amp;rsquo;s Lookout; OverWorld Embassy at Mount Pillar; Queen&amp;rsquo;s Gate; Mount Pillar Reservoir, Neth&amp;rsquo;uar&amp;rsquo;s Foothold; and Mount Pillar Reservoir, Liberated (Locations); Iparu and Kinnianne (Creatures, OverWorld); Ajara and Kolmo (Creatures, Mipedians); Ghundac; Katharaz; Klencka; Klencka, Avenger; Makromil, Nakal; Odu-Bathax, Reservoir Reclaimer; Valanii Levaan; and Yondaf (Creatures, Danians) as counterparts of the references made in the Article about the &lt;em>Mount Pillar&lt;/em> published in this revision.&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;em>A Flux too Far&lt;/em> as one of the Episodes in which the &lt;em>Forest of Life&lt;/em> appeared in the Animation (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. b9c13d9</title><link>https://www.chaoticonline.ml/en/changelog/b9c13d9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/b9c13d9/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added Visual Studio Code Workspace file to the &lt;code>.gitignore&lt;/code> file&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added an attribute &lt;strong>title&lt;/strong> for the dynamically generated &lt;code>&amp;lt;iframe&amp;gt;&lt;/code> used on Videos Pages as suggested by Google Lighthouse&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added all of the required Bootstrap Components individually instead of minifying them all manually&lt;/p>&lt;/li>
+&lt;/ul>
+&lt;h6 id="hugo-templates-related-changes">Hugo Templates-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added the META Tag &lt;em>Description&lt;/em> (a.k.a. Summary) for the &lt;em>Listing Pages&lt;/em> in the SEO implementation&lt;/li>
+&lt;/ul></description></item><item><title>rev. bb9e032</title><link>https://www.chaoticonline.ml/en/changelog/bb9e032/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/bb9e032/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em>Tangath Toborn&lt;/em> published in this revision: Deadwater Devastation, Degenervate, Fearless Strike, Grounding Grapple, Primal Smash and Unified Tribecharge (Attacks); Burithean Axe (Battlegear); and Aimukk; Faash; Gorram, Danian General; Tassanil; Drimesse; Fivarth; Ghatup; Savell; Nebres; Targubaj; Viqtarr; Lyssta; Rothar and Ultadur (Creatures)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added missing i18n entry for &lt;em>Tartarek&lt;/em>&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. bd1784c</title><link>https://www.chaoticonline.ml/en/changelog/bd1784c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/bd1784c/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added i18n entries to describe &lt;em>Locations&lt;/em> in the &lt;em>OverWorld&lt;/em> and &lt;em>UnderWorld&lt;/em> in order to make it easier for the Templating logics to build i18n keys for them&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;code>Data Files&lt;/code> to all existing Creatures published so far, with their attributes, traits, episodes and voice actors&lt;/p>&lt;/li>
+&lt;li>&lt;p>With the Content Files Componentization applied to the published Articles about &lt;em>Locations&lt;/em> (see below), new i18n entries have been added for each one of them&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. c228435</title><link>https://www.chaoticonline.ml/en/changelog/c228435/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/c228435/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added a custom sorting feature of the &lt;em>Characters&lt;/em> listed in Episodes &lt;em>Cast&lt;/em> through a new entry &lt;code>weight&lt;/code>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added new i18n entries with the Voice Actors of the following &lt;em>Characters&lt;/em>: Sarah, Klay (by associating him with &lt;em>Chaor&amp;rsquo;s&lt;/em> Voice Actor), Krystella, &amp;ldquo;HercuLeon&amp;rdquo;, &amp;ldquo;SlickNick&amp;rdquo;, CodeMaster Crellan, Tiaane (by associating him with &lt;em>Heptadd&amp;rsquo;s&lt;/em> Voice Actor), Xaerv (by associating him with &lt;em>Magmon&amp;rsquo;s&lt;/em> Voice Actor), Dractyl, Vidav, Agitos, Skithia and two possible Voice Actors (although one of them hasn&amp;rsquo;t been confirmed and, therefore, not used) to Owis (English only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added new i18n entries with the Voice Actors of the following &lt;em>Characters&lt;/em>: Sarah, Peyton, Klay, Krystella, CodeMaster Crellan (real and &amp;ldquo;human form&amp;rdquo;), Zalic and Gespedan (by associating them with &lt;em>Zalic&amp;rsquo;s&lt;/em> Voice Actor) and Xaerv (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. cc4406c</title><link>https://www.chaoticonline.ml/en/changelog/cc4406c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/cc4406c/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added the HTML entity &lt;code>&amp;amp;nbsp;&lt;/code> to all almost all empty tags preventing them to be really empty and therefore considered as removal candidates by HTML Minifiers&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a different error message to Card Search, allowing one of the two fatal errors that could yield no results while using the Card Search to be better distinguished&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added an entry to the &lt;code>.gitignore&lt;/code> wrongly removed in previous &lt;em>commits&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the &lt;code>SiteNavigationElement&lt;/code> Structured Data pointing to the Navigation Menu as another SEO improvement&lt;/p>&lt;/li>
+&lt;li>&lt;p>Published Episode #15, Season #01 with Brazilian Portuguese audio&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. d75e5c1</title><link>https://www.chaoticonline.ml/en/changelog/d75e5c1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/d75e5c1/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added componentizable Content File, with their own &lt;em>Data Files&lt;/em> and i18n entries, about the following &lt;em>Creatures’&lt;/em> variations: Blazier, Citadel Cartographer; Tartarek, Psi-Overloader; Chaor, The Fierce; H&amp;rsquo;earring, Tainted; Nauthilax, Tainted; and Nauthilax, Aquatic Spy&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for &lt;em>Reefshard&lt;/em> (Battlegear) as a counterpart of the reference made in the recently componentized Article about &lt;em>Tartarek, Psi-Overloader&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for &lt;em>Decrescendo&lt;/em> (Mugic) because, well, the artwork was too beautiful to pass :p&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added an i18n entry for &lt;em>César Marchetti&lt;/em> as the second Brazilian Portuguese Voice Actor of &lt;em>Staluk&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added &lt;em>Data Files&lt;/em> for the identified voices of &lt;em>Ettala&lt;/em>, &lt;em>Gespedan&lt;/em> &lt;em>Mommark&lt;/em>, &lt;em>Staluk&lt;/em> and &lt;em>Klasp&lt;/em> (Brazilian Portuguese only) and &lt;em>Owis&lt;/em> (all Languages)&lt;/p>&lt;/li>
+&lt;li>&lt;p>With the recently identified voices, in order to show the &amp;ldquo;On TV&amp;rdquo; box, the following &lt;em>Data Files&lt;/em> under TV Appearance have been added: Ettala, Gespedan, Mommark, Owis, Staluk and Klasp&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for &lt;em>Mommark&lt;/em> and &lt;em>Klasp&lt;/em> as a counterpart of the recently identified Voice Actors&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. dff4edc</title><link>https://www.chaoticonline.ml/en/changelog/dff4edc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/dff4edc/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structured-related-changes">Structured-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added i18n (internationalization) entries for the new Content Files added (see below)&lt;/li>
+&lt;/ul>
+&lt;h6 id="new-content-files">New Content Files&lt;/h6>
+&lt;ul>
+&lt;li>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em>Tartarek&lt;/em>: Lavalanche and Megaroar (Attacks); Gauntlets of Might and Indigo Sash (Battlegears) and Vinta, Rath&amp;rsquo;tab and Fal&amp;rsquo;makin (Creatures)&lt;/li>
+&lt;/ul></description></item><item><title>rev. e05de27</title><link>https://www.chaoticonline.ml/en/changelog/e05de27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/e05de27/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added a new i18n entry for &lt;em>Drew&amp;rsquo;s&lt;/em> (Battleboarder) Voice Actor, a secondary character from Episode &lt;em>Allmageddon&lt;/em> (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a new i18n entry for &lt;em>Blügon&amp;rsquo;s&lt;/em> Voice Actor (Brazilian Portuguese only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a new i18n entry for &lt;em>Cerbie&amp;rsquo;s&lt;/em> Voice Actor (English only)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added new Content Files and i18n entries for the Underworld Creatures &lt;em>Cerbie&lt;/em> and &lt;em>Drakness&lt;/em>, much to give more context for their recently discovered Brazilian Portuguese Voice Actors&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. ef7cc2b</title><link>https://www.chaoticonline.ml/en/changelog/ef7cc2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/ef7cc2b/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added Content Files, &lt;em>Data Files&lt;/em> and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em>Kiru City&lt;/em> published in this revision: The OverWorld Library and The Training Grounds (Locations); and Drabe, Hune Paltanin and Raznus, Assimilated (Creatures)&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added ESLint&amp;rsquo;s Configuration file&lt;/p>&lt;/li>
+&lt;/ul>
+&lt;h6 id="public-content-related-changes">Public Content-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Published Article about &lt;em>Kiru City&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>rev. f7f9cbb</title><link>https://www.chaoticonline.ml/en/changelog/f7f9cbb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/f7f9cbb/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>Added Content Files, Data Files and i18n entries for the following Pages as a counterpart of the references made in the Article about &lt;em>Dractyl&lt;/em> published in this revision: Alacritous Force, Frost Blight and Power Pulse (Attacks) and Dread Tread, Elixir of Tenacity and Obliterators (Battlegears)&lt;/li>
+&lt;/ul>
+&lt;h6 id="hugo-templates-related-changes">Hugo Templates-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>When using Hugo&amp;rsquo;s Content Minifier to optimize the output of all HTML files, we realized that all double quotes around the values of HTML attributes were also removed. While browsers understand this as valid, for some reason, this yielded several &amp;ldquo;unsecured domain&amp;rdquo; errors while making the required AJAX calls of the Card&amp;rsquo;s Search Tool, regardless of the fact of both the Requester (Tool&amp;rsquo;s Page) and the requested (each Page fitting the query filter, if any) be in the same domain and under SSL. In order to prevent that to happen, we created a new Shortcode called &lt;em>href&lt;/em> that simply runs Hugo&amp;rsquo;s &lt;code>absURL&lt;/code> function over a given argument. This would make our form action &lt;code>/tags/&lt;/code> to become &lt;code>https://www.chaoticonline.ml/tags/&lt;/code>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added a Partial Template to use Facebook Page Plugin, on hold until further testing&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. f8841d8</title><link>https://www.chaoticonline.ml/en/changelog/f8841d8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/f8841d8/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Applied Content File Componentization to the published Articles about &lt;em>Ulmar&lt;/em>, &lt;em>Malvadine&lt;/em> and &lt;em>Zhade&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added componentizable Content File, with their own &lt;em>Data Files&lt;/em> and i18n entries, about the following Creatures&amp;rsquo; variations: Ulmar, Wavescrambler; Ulmar, Perithon Racer; Malvadine, The King&amp;rsquo;s Herald; and Zhade, Dig Site Defender&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added componentizable Content Files, with its own &lt;em>Data Files&lt;/em> and i18n entry about &lt;em>Ulmanator&lt;/em> as a counterpart of the reference made in the recently componentized Article about &lt;em>Ulmar&lt;/em>&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. fcd9167</title><link>https://www.chaoticonline.ml/en/changelog/fcd9167/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/fcd9167/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Implemented Content File Componentization in the published Article about &lt;em>Takinom&lt;/em> and &lt;em>Bodal&lt;/em> as BETA feature using the improved &lt;em>Include&lt;/em> Shortcode, putting the subsection about &lt;em>Takinom, The Shadowknight&lt;/em> and &lt;em>Bodal, Flamedrill Researcher&lt;/em> on its own Page. This way not only main Articles will be shorter after the live testing period but all Cards&amp;rsquo; variations will appear in a Cards Search results because every one of them will have their own URL&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added an optional FrontMatter Parameter &lt;code>listed&lt;/code> through which it&amp;rsquo;s possible to remove an Article/Page from Listings without remove it from the site&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files about &lt;em>Takinom, the Shadowknight&lt;/em> and &lt;em>Plasmarrow&lt;/em>, as counterpart of the many changes made in the published Article about &lt;em>Takinom&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added Content Files and i18n entries for &lt;em>Takinom, the Shadowknight&lt;/em> and &lt;em>Plasmarrow&lt;/em> as, respectively, part of the Content File Componentization and counterpart of one of the changes in Article about &lt;em>Takinom&lt;/em>&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added i18n entries for &lt;em>Disciplines&lt;/em>, &lt;em>Elemental Affinities&lt;/em> and some others more specific in order to have matches for Taxonomy Terms&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the following Content Files and i18n entries referenced in the Article about &lt;em>Bodal&lt;/em> published in this revision: Lucky Shot, Supercooled Rain and Viperlash (Attacks), Mount Pillar Reservoir, Gloomuck Swamp and Kiru City Tunnels (Locations), Bodal&amp;rsquo;s Dagger, Orchis Undis and Sandstorm Shroud (Battlegears) and Olkiex and Bodal, Flamedrill Researcher (Creatures)&lt;/p>&lt;/li>
+&lt;/ul></description></item><item><title>rev. fee56ab</title><link>https://www.chaoticonline.ml/en/changelog/fee56ab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.chaoticonline.ml/en/changelog/fee56ab/</guid><description>&lt;h4 id="added">Added&lt;/h4>
+&lt;h6 id="structure-related-changes">Structure-related changes&lt;/h6>
+&lt;ul>
+&lt;li>&lt;p>Added an hourglass SVG icon to represent the Temporary Allegiance of some Creatures with the M&amp;rsquo;arrillians&lt;/p>&lt;/li>
+&lt;li>&lt;p>Added the FrontMatter Parameter &lt;code>isGroup&lt;/code> to the Listing Page-Files &lt;code>/perim/creatures/_index.&amp;lt;LANG&amp;gt;.md&lt;/code> after all they also are a &amp;ldquo;categories&amp;rsquo; category&amp;rdquo;&lt;/p>&lt;/li>
+&lt;/ul></description></item></channel></rss>
